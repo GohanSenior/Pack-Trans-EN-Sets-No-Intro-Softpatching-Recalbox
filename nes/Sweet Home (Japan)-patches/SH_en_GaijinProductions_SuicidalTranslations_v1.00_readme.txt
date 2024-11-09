@@ -1,0 +1,112 @@
+Sweet Home [English Translation v1.00]   6-14-00
+---------------------------------------------------
+
+from 
+Gaijin Productions (Musashi)
+& 
+Suicidal Translations (Ataru)
+
+
+
+Thanks
+------
+-The MadHacker: Offered his expertise in figuring out the naming 
+   screen and default name setup early on.
+-Ataru: Provided a fantastic script translation.
+-InVerse: For finding me fantastic translation support (Ataru).
+-Celes, necrosaro, & Varkon: Thanks for those spot translations 
+   fellas!
+-Spinner 8: Alpha testing
+-Ballz, Jair, (wraith), Jonny Geddes, Ghideon Zhi, & Reginsei: 
+   My beta testing storm troopers, much appreciated!
+-CTC: For giving me a kick start.
+-Capcom: For the original famicom game.
+
+
+Version 1.00
+-----------------
+Progress:
+-100% Script translated
+-100% Game text romhacked
+-100% Enemies translated & romhacked
+-100% Weapons & items translated  & romhacked
+-100% Menus translated & romhacked
+-100% Title screen
+-100% Play-tested
+
+
+
+About the Game
+--------------
+Sweet Home is a Famicom game released by Capcom in 1989.  The game is an 
+RPG that incorporates "survival horror" elements.  The game stars five 
+members of an investigation team, equipped with... well, your standard 
+investigation equipment (Cigarette Lighter, Medicine Box, Camera, Vacuum, 
+and a Key).  The team enters the abandoned Mamiya Mansion to investigate 
+and document the painter Mamiya Ichirou's famous frescoes.  However, as 
+soon as they enter they find themselves trapped within the manor and 
+terrorized at every turn.  You must guide the five characters through 
+various puzzles and battles to escape the mansion.
+
+The original Japanese names romanized into English are as follows:
+	Kazuo
+	Akiko
+	Taguchi
+	Asuka
+	Emi
+However the game only allows a maximum of six letters for each name.  
+"Taguchi" obviously exceeds the length limitation by one.  In addition, 
+the game only allows the default names to be five letters long.  "Taguchi" 
+has been replaced with the name "Taro".  Also to clarify Kazuo and Taguchi
+are male while the other three are female.  So be mindful if you choose
+to rename them.
+
+This game fits in well with the rest of the Resident Evil series.  While 
+the game is not an official prequel, it is often cited as the inspiration
+for the Resident Evil/Biohazard series that began on the PSX.  Sweet Home
+can safely be classified as a puzzle-RPG with "Survival Horror" elements.
+For a Famicom game it is extraordinarily graphic at times.
+
+
+
+About the Project
+-----------------
+I began this project back in 1999 (I'm fairly sure).  A script was dumped 
+and light translation and romhacking work was done by myself.  By May 23rd 
+of 1999 I received exciting news from The MadHacker.  He had done what I had 
+failed to do, he had figured out the naming screen.  Apparently, two 
+characters are hard coded on the said screen.  Then Demi/strength contacted 
+me with a title screen design for Sweet Home.  Preliminary attempts at 
+inserting the screen were difficult (mostly, as I discovered, because I 
+can't cut and paste my way out of a cardboard box) and as a result that 
+aspect was left for last.  Then, InVerse of Suicidal Translations offered 
+the assistance of Ataru, a translator at ST who just finished the Monster 
+Maker script.  Gladly accepting the offer, the script was returned 
+completely translated a short while later.  Things were moving positively 
+and rapidly. Then I gave it up...  I was busy with other things so the 
+project just sat there until May of 2000.  On the twenty-third of May I 
+finally figured out the pointers for the monsters (not really pointers) 
+after many, many ours of searching.  It's not as difficult to figure if 
+you're looking for the right thing (it was not your traditional pointer 
+setup).  Then began the manual romhacking of text, which concluded quickly 
+on June 1st.  All romhacking done by hand.  Yup, handmade, no insertors.  I 
+can't program.  It's slow as hell but that's how I do things, but this 
+should serve as an example that you don't have to be tech head to do this.
+
+The only thing that bugs me is that the game displays a six letter name 
+every time one is mentioned in the text.  So you will see extra spaces after 
+a name if your characters have names of five letters or less.  This cannot 
+be resolved at this time and I doubt it will be in the future. 
+
+
+
+Visit Gaijin Productions at:
+http://gaijin.romhacking.com/
+
+Visit Suicidal Translations at:
+http://www.pigtails.net/st/
+
+Also visit the Confederated Translation Company, of which Gaijin Productions 
+is a member:
+http://CTC.weyland-yutani.net/
+

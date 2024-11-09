@@ -1,0 +1,231 @@
+********************************************************************************
+*                                 Ripple Island                                *
+*                           English Translation Patch                          *
+*                              v1.00 (22 Aug 2018)                             *
+*                                                                              *
+*                              Supper -- Hacking                               *
+*                       TheMajinZenki -- Translation                           *
+*                              cccmar -- Editing and Testing                   *
+*                                                                              *
+********************************************************************************
+
+The tiny isle of Ripple Island was once a peaceful and abundant land. But since 
+the evil Groaker appeared, kidnapped Princess Nasarell, and proclaimed himself 
+the Emperor of Darkness, black magic has begun to destroy the island's natural 
+environment. Seeking to end this conflict and claim the reward promised by the 
+good King Dotella, a young boy sets out on a journey to Groaker's stronghold 
+north of the island...
+
+Ripple Island is a 1988 Famicom adventure game developed by Tokai Engineering 
+and published by Sunsoft. It's a significant departure from the murder mystery 
+and detective adventure games that dominated the Japanese market at the time, 
+instead focusing on gentle themes, colorful graphics, and a fairy tale 
+storyline.
+
+This patch fully translates the game into English.
+
+                    ****************************************
+                    *          Table of Contents           *
+                    ****************************************
+
+  I.   Patching Instructions
+  II.  Authors' Comments
+  III. Localization Notes
+  IV.  About Area 2
+
+                    ****************************************
+                    *       I. Patching Instructions       *
+                    ****************************************
+
+You'll first need a headered ROM image of Ripple Island. Historically, the game 
+has been labeled "Lipple Island" in ROM set databases; the standard name 
+recognized by No-Intro is "Lipple Island (Japan).nes". Its MD5 sum should be 
+1c4434d47e58a41ed3752fd2bd4fc916.
+
+Before trying to apply the patch, make sure the ROM image has an iNES header. If 
+your ROM's filesize is 131,088 bytes, it's headered. If the filesize is 131,072 
+bytes, it's unheadered (and will not work with this patch!).
+
+This patch is a standard IPS patch. Use a tool such as Lunar IPS to apply the 
+IPS file to the ROM. The patch will expand the ROM to 256 KB, so don't use any 
+ancient patching utilities that don't support that.
+
+                    ****************************************
+                    *        II. Authors' Comments         *
+                    ****************************************
+
+  ------------
+  -- Supper --
+  ------------
+  
+This is another project I ultimately owe to Game Center CX. Ripple Island was 
+featured in a bumper segment of an episode I watched some time back; it seemed 
+interesting, but when I looked it up, I discovered there was no translation 
+available for it. Fast forward a few years, and it turns out that (a.) there's 
+still no translation and (b.) I'm now in a position to do something about it. So 
+I started in on the hacking, brought it up with cccmar and TheMajinZenki, and -- 
+skipping a few hacking headaches in between -- here we are.
+
+This is a really nice little game, and one I'm very surprised wasn't already 
+done at some point in the twenty-odd years the game translation community's been 
+around. It's got good graphics for 1988, excellent music, and even multiple 
+endings; the only big strike against it in my book is some really awful puzzle 
+design in Area 2 (which is bad enough that I've devoted a section to it below). 
+Nonetheless, it's quite a charming game and well worth a playthrough.
+
+As far as hacking goes, this game wasn't too tough. The big thing is that it 
+originally used a nice 8x16 font, which I ended up reluctantly converting to 8x8 
+for the translation. I hated doing it, but anything else would have required 
+reprogramming most of the game (not happening) or drastically shortening the 
+dialogue (really not happening). Hope no one's too disappointed, but I think the 
+replacement font gets the job done. At least the original font is still used for 
+the credits.
+
+Since I don't have anywhere better to put it, I'll mention here that this game 
+has a cheat code: to view the true ending, enter "ATSUSHISAKAI" as the first 
+part of a password (the remaining letters don't matter).
+
+Enjoy the game!
+
+  -------------------
+  -- TheMajinZenki --
+  -------------------
+  
+This is the first game of this genre I've ever translated, so this was a 
+somewhat different experience as far as translating goes, as this game has less 
+direct dialogue and more "reaction" text for actions. At any rate, it's a 
+charming, cute adventure, and I hope you will enjoy it as much as I did 
+translating it.
+
+  ------------
+  -- cccmar --
+  ------------
+
+When I contacted Supper regarding Kishin Douji Zenki, he was looking for someone 
+to translate Ripple Island, a text adventure game by Sunsoft -- one of the few 
+text adventure es Sunsoft has ever done. I decided to ask the translator I knew 
+best about it, TheMajinZenki, and he agreed to give the script a go. It didn’t 
+take him long to complete it. Afterwards I did some proofreading of the script, 
+so as to present a more complete version of it to Supper. Interestingly, some 
+characters in the game speak using dialects (like Groaker) or with exaggerated 
+accents (like the Armadillo, who is possibly a Chinese Pangolin -- hence the 
+Chinese accent). Overall, this is a pretty simple, heartwarming tale, very 
+similar to old fairytales in structure, but with some twists and turns on the 
+way. Hopefully you will enjoy it, because I most certainly did!
+
+                    ****************************************
+                    *       III. Localization Notes        *
+                    ****************************************
+
+Mild spoilers follow.
+
+This game had a few bits that didn't translate very well to English, so we 
+localized them as best we could. Anyone familiar with my (Supper's) project 
+history knows I have a bit of a thing about accuracy in translations, so I'm 
+including notes here on what we changed, plus explanations of some jokes that 
+didn't make it in. Hopefully this will placate others like me.
+
+  Groaker: The only name we actually changed. Originally "Gerogeeru" (from 
+"gerogero", onomatopoeia for a frog's ribbit). Groaker has what TheMajinZenki 
+thinks might be a Nagoya accent; I ended up going with a sort of mobster dialect 
+for him. I hope no Nagoyans are offended.
+  
+  Dotella: From the Japanese name, "doteera" (a pun on "dotera", a type of 
+padded kimono worn for warmth; he wears one).
+  
+  Nasarell: From the Japanese name, "nasareru" (a verb meaning "to do").
+
+  JUSTINBAILEY: Originally "TOMOYONODAIPINPON", which can be understood as 
+something like "Tomoyo likes this a lot" -- literally "Tomoyo's *BA-DING*", in 
+the sense of a "that's right!" sound effect. This was the tagline to a 
+contemporary Japanese commercial for the Toyota Corolla II Windy starring idol 
+Tomoyo Harada, which as of this writing can be viewed here: 
+https://www.youtube.com/watch?v=ilSzBp7FtCY Obviously, none of this makes any 
+sense in English, so I went for something more recognizable (and spent a 
+thousand times longer debating this dumb throwaway gag than the game designers 
+ever did).
+
+  Tanuki: The drunken tanuki uses Edo dialect on top of being drunk. We 
+basically just went with drunk-speak.
+
+  Armadillo: The nameless armadillo speaks in a stereotypical Chinese accent, 
+which the translation hopefully conveys well enough. We have no idea why he has 
+a sign reading "fitness"/"health". Apparently he's just a proponent of a healthy 
+lifestyle.
+  
+  ATSUSHISAKAI: The cheat to view the true ending. Atsushi Sakai is, presumably, 
+some staff member's name. The Japanese version uses hiragana and Japanese name 
+order ("Sakai Atsushi").
+
+                    ****************************************
+                    *          IV. About Area 2            *
+                    ****************************************
+
+While most of this game's puzzles can be solved with appropriate application of 
+logic, there are some very, very unfortunate design issues in Area 2 that make 
+it far more of a pain than it needs to be. The rest of the game is fine, but 
+Area 2 is bad enough that I've decided to include some critical information here 
+to try to make it more tolerable. If you find yourself stuck in that area, I 
+suggest you check the information below, because even if you manage to find the 
+solution on your own you probably aren't going to feel terribly rewarded.
+
+
+
+
+
+
+
+
+
+*** PUZZLE SPOILERS FOLLOW ****
+
+
+
+
+
+
+
+
+
+Three required items in Area 2 can be acquired only through a blind hunt. Here's 
+how to get them:
+
+  1. From the start of the area, go North, West, West, North to enter the foxes' 
+cave. Choose the PICK UP action, and click on the stalks growing out of the 
+leaves in the bottom-left corner of the screen (don't click on the leaves 
+themselves!). The female fox will then give you the White Flower. Don't do 
+anything else while in the cave; angering the male fox will cause him to 
+permanently kick you out, rendering the game unwinnable if you don't already 
+have the White Flower (note that this is the only unwinnable scenario in the 
+game).
+     
+  2. From the start of the area, go North, North, West. LOOK at the bush on the 
+left side of the screen to reveal a Red Fruit. Note that if you pick up and 
+subsequently lose the Red Fruit, you can come back here and repeat the process 
+to get another one.
+  
+  3. From the start of the area, go North, North, East, East, North, North. PUSH 
+the tree on the right side of the screen and an acorn will fall from it. As with 
+the Red Fruit, this can be collected multiple times if needed.
+
+The rest of the area, and the game, should be perfectly doable without further 
+help.
+
+
+
+
+
+
+
+
+
+*** END OF SPOILERS ****
+
+
+
+
+
+
+
+
+

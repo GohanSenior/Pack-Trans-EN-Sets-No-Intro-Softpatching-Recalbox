@@ -1,0 +1,178 @@
+           $$$$$                                          $                $   
+         $$$$   $           $$               $$          $$               $$   
+       $$$$$                 $                $          $$               $$   
+      $$$$$                                              $$               $$   
+       $$$$$     $        $ $     $$$$$$$    $     $$$$$$$$    $$$$$$$$   $$   
+         $$$$$   $$      $$ $$   $$      $$  $$   $$    $$$   $$     $$   $$   
+           $$$$  $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+         $$$$$   $$      $$ $$ $$$           $$ $$        $ $$$      $$   $$   
+   $   $$$$$     $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+    $$$$$         $$    $$  $$   $$      $$  $$   $$    $$$   $$     $$$  $$   
+                   $$$$$$   $$    $$$$$$$    $$    $$$$$$$$    $$$$$$  $  $$   
+  $$$$$$                                                                       
+$$$$$$$$$$                            $            $   $$                      
+$   $$   $                            $$          $$    $                      
+    $$    $$$$$   $$$    $$$$   $$$$$ $$  $$$   $$$$$$      $$$   $$$$   $$$$$ 
+    $$   $$    $ $   $  $    $ $      $$ $   $    $$   $   $   $ $    $ $      
+    $$   $$    $ $   $  $    $  $$$$  $$ $   $    $$   $$  $   $ $    $  $$$$  
+    $$   $$      $   $  $    $      $ $$ $   $    $$   $$  $   $ $    $      $ 
+   $$$$  $$       $$$ $ $    $ $$$$$  $$  $$$ $   $$   $$   $$$  $    $ $$$$$  
+
+                                 Shi Kin Jou
+                               (Forbidden City)
+                             English to Japanese 
+                                 Translation
+                                   v. 1.00
+
+-------------------------- DEDICATION & INSPIRATION ---------------------------
+
+This translation is dedicated to Bongo' even though he kept "forgetting" to
+actually attempt to decompress the font. I figure he's done enough other things
+for "the scene" to warrent it anywayz, so there you go. Now if he'd just get up
+off his lazy ass and learn a worthwhile programming language, he might be able
+to do something useful.
+
+I'd say that I was listening to Tori Amos' covers album Strange Little Girls as
+I was hacking this game but since that album hasn't come out at the time of this
+release, that would be admitting to pirating it, which is wrong. So we'll just
+pretend like I was listening to the 3 track demo that was sent to radio stations,
+even though the Depeche Mode cover I'm quoting isn't actually on said demo.
+
+		All I ever wanted / All I ever needed
+		is here, in my arms / Words are very
+		unnecessary / they can only do harm.
+       
+               - Tori Amos "Enjoy The Silence"
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+    I. Dedication & Inspiration
+   II. Table of Contents
+  III. Introduction
+   IV. Version History
+    V. Distribution Notes
+   VI. Technical Notes
+  VII. Staff
+ VIII. Tools
+   IX. Patching Instructions (** READ THIS BEFORE ASKING QUESTIONS!! **)
+    X. Contact Information
+   XI. Closing
+
+--------------------------------- INTRODUCTION --------------------------------
+
+Shi Kin Jou is an interesting puzzle game where you can play as a Hopping
+Chinese Vampire, a Cavalier Knight or a Shadowy Ninja in an attempt to escape
+from the Forbidden City. You do this by matching tiles so that you can open a
+route to the door and escape to the next level. There are amusing cut scenes
+interspersed every so often to ease your frustration.
+	This is just a menu patch, as there is no in-game text, but it was far from
+an easy hack do to the compressed font. See the Technical Notes section for
+details.
+
+-------------------------------- VERSION HISTORY -------------------------------
+
+v. 1.00 - September 03, 2001
+
+What's Complete
+ - all text translated
+
+What's Incomplete
+ - Nothing that I'm aware of...
+
+----------------------------- DISTRIBUTION NOTES ------------------------------
+
+This Shi Kin Jou translation should be distributed in a file named skjv100.zip
+and should contain the following files:
+
+	   skjv100.ips - the translation patch
+	 shikinjou.txt - this readme file
+	   skj-man.txt - a manual for the game
+
+All three files are (C)opyright 2001 by Suicidal Translations. All rights
+reserved. You may distribute this translation in any manner you desire as long
+as the original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Shi Kin Jou is (C)opyright 1991 by TOEI Animation.
+	
+
+------------------------------- TECHNICAL NOTES -------------------------------
+
+The translation is pretty much 100% accurate to the original meaning. The only
+minor exception is that there wasn't room for Chinese Hopping Vampire so I just
+stuck with the shorter & simpler Vampire.
+
+The font in this game is oddly compressed. It shows up clearly in Nesticle but
+there's no VRAM so I couldn't hack it that way. When you look at it in a tile
+editor, the font is hopelessly scrambled in NES mode and in 1Bpp mode there are
+duplicates of each tile. I also tried viewing the font in 2Bpp on someone's
+suggestion but it was still scrambled.
+	What I eventually figured out was that by moving the alignment around in
+Tile Layer, I could isolate individual characters and then edit the character
+as long as the new tile didn't use anymore color 1 "dots" than the original
+tile did. Also, for some odd reason, the font would become corrupt if I
+inserted any tiles that had exactly 5 "dots" on both the right and left sides.
+More or less on either side and it was fine but 5 on each caused a problem.
+     Well, as you can see, I eventually got all of the tiles I needed inserted.
+This was possibly the most frustrating hack I've ever done but I'm proud to say
+that I managed to do it on my own and you can see the results for yourself.
+
+Recommended Emulator: Shi Kin Jou works just fine in Nesticle which is my 
+emulator of choice due to the fact that I'm on an extremely slow computer. It 
+will presumably work fine in just about any emulator.
+
+------------------------------------ STAFF ------------------------------------
+
+    Hacking - InVerse - http://www.pigtails.net/ST
+
+Translating - Tomato - http://www.starmen.net/tomato
+              
+------------------------------------ TOOLS ------------------------------------
+
+The following tools were used during this translation:
+
+     Hexposure: hex editing
+Tile Layer Pro: font hacking
+      Nesticle: beta testing
+   Patch Maker: IPS patch creation
+
+Most of these tools, as well as ROM hacking tutorials can be downloaded from
+RHDO (http://www.romhacking.org) or Zophar's Domain (http://www.zophar.net).
+
+----------------------------- PATCHING INSTRUCTIONS ---------------------------
+
+Patching a ROM is extremely simple. You need three things. A ROM, the patch and
+a patching program. To patch with ips.exe, you simply type:
+
+	ips <ROM name> <patch name>
+
+So if your ROM was named shikinjou.nes and the patch was named skjv100.ips you would
+type:
+
+	ips shikinjou.nes skjv100.ips
+
+Make sure you have the ROM, the patch and IPS in the same directory.	
+	
+To patch with SNES Tool, simply select USE IPS, choose the patch and then 
+select the ROM to which you wish to apply the patch. It's self explanatory. If 
+you can't figure it out, the game is probably too hard for you anywayz.
+
+To patch with IPSWin, you simply select the ROM you want to patch, the patch
+you wish to apply and then click Patch. Once again, if you can't figure it out,
+the game is probably too hard for you.
+
+------------------------------ CONTACT INFORMATION ----------------------------
+
+ The official Shi Kin Jou home page is currently located at 
+ http://www.pigtails.net/ST
+
+ E-Mail addresses concerning the project can be located on the official page.
+
+ Do NOT, under ANY circumstances, ask for ROMs. You will not only be denied,
+ you will have your request for illegal files forwarded to your ISP.
+ 
+------------------------------------ CLOSING ----------------------------------
+
+ So there you have it. Have fun and remember, it's just a game.
+
+ -InVerse

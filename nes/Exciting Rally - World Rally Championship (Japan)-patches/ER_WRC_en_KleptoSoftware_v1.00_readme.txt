@@ -1,0 +1,58 @@
+********************************************************************
+*                                                                  *
+*               ************************************               *
+*               *                                  *               *
+*               *         Klepto Software          *               *
+*               *                                  *               *
+*               ************************************               *
+*               *      http://klepto.s5.com        *               *
+*               ************************************               *
+*                            PRESENTS                              *
+*                                                                  *
+*                  World Rally Championship v1.00                  *
+*                                                                  *
+*                                                                  *
+* By:  SirYoink (revdpimp@yahoo.com)                               *
+*                                                                  *
+* 100% complete                                                     *
+*                                                                  *
+*  _What the patch does_                                           *
+* An english title screen has been hacked into the game.  An       *
+* english lowercase font was also added, and the player naming     *
+* screen is now in english.  The password screen is also now in    *
+* english, thus making it usable.  Fixed several "engrish"         *
+* mistakes.  Edited the driver roster.                             *   
+*                                                                  *
+*  _Applying a patch_                                              *
+* For instructions on using this patch, read my FAQ online at:     *
+* http://klepto.s5.com/ips/ipsfaq.html                             *
+*                                                                  *
+*  _About this translation_                                        *
+* This translation was completed over a period of 48 hours from    *
+* 10/7/03 to 10/8/03.  I was online searching for Impreza WRC      *
+* pictures when I happened across a NES game I had never heard of  *
+* before.  Apparently, HAL labs had developed, but never           *
+* published, a World Rally game for the NES.  This translation is  *
+* based on the games scheduled release date of 1992, with english  *
+* localizations based on the WRC roster from that year, which      *
+* likely would have been included had the game seen a stateside    *
+* release.                                                         *
+*                                                                  *
+*  ______________________________________________________________  *
+* | 1992 World Rally Championship In-Game Roster                 | *
+* |______________________________________________________________| *
+* | Driver         | Co-Driver       | Vehicle                   | *
+* |______________________________________________________________| *
+* | Didier Auriol  | Bernard Occelli | Lancia Delta HF Integrale | *
+* | Carlos Sainz   | Luis Moya       | Toyota Celica Turbo 4WD   | *
+* | Timo Salonen   | Voitto Silander | Mitsubishi Galant VR-4E   | *
+* | Miki Biasion   | Tiziano Siviero | Ford Sierra Cosworth 4x4  | *
+* | Tommi Makinen  | Seppo Harjanne  | Nissan Pulsar GTI-R       | *
+* | Juha Kankkunen | Juha Piironen   | Lancia Delta HF Integrale | *
+* | Markku Alen    | Ilkka Kivimaki  | Toyota Celica Turbo 4WD   | *
+* | Colin McRae    | Derek Ringer    | Subaru Legacy 4WD Turbo   | *
+* | Kenneth Erikson| Stafan Parmander| Mitsubishi Galant VR-4E   | *
+* |______________________________________________________________| *
+*                                                                  *
+*                                                                  *
+********************************************************************

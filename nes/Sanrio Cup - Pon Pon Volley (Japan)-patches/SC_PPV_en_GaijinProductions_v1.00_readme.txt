@@ -1,0 +1,42 @@
+Sanrio Cup Pon Pon Volley 
+-------------------------
+English Translation version 1.00
+--------------------------------
+from Gaijin Productions (of CTC) and Spinner 8
+
+by Translator/Romhacker: Musashi
+   Romhacker: Spinner 8
+   Title Screen Artist: Braxton
+
+Version 1.00
+------------
+-Thanks to Spinner 8 the game is now 100% complete.  Enjoy folks.
+
+Version 0.85
+------------
+-90% of the located game text translated, I transalted 100% 0f what I found in the script dump.  There are errors present and I don't care. 
+-Title Screen Translated by Braxton, I (Musashi) did some minor touch-ups
+
+About the Game
+--------------
+In this volleyball/four square type game you can play as one of 4 Sanrio characters.  Those fun guys are: Hello Kitty, Kerropi, Tabo, and Pochacco.  The game has a 1 on 1 singles mode, doubles play, and 1 on 3 four squares mode.  
+
+
+About the Project
+-----------------
+I started this project sometime in the Fall of 1998.  I was making good progress and having fun until I came across translating the graphic signposts and scroeboards between games.  Because of these I dropped the project until Winter.  On this second attempt to finish it dumped the script (I think all of it) and translated what I could.  But several factors lead to my frustration and disgust on working on this english patch any further.  I finished what I could and released what was done.  Well along comes good ol' Spinner 8 and saves the project.
+Thanks to him all the graphic signposts and scoreboards are now done.
+
+Thanks
+------
+-Spinner 8 for finishing this off!
+-Everyone at CTC for their support
+-Inverse for inspiring me to start a Sanrio translation
+-Faraday, who helped point out an error in the early days of the translation
+-My tools: Script Extractor (by Jair), Hex Workshop, and Nesticles
+
+Visit Gaijin Productions at:
+http://gaijin.romhacking.com
+
+Also visit the Confederated Translation Company, of which Gaijin Productions is a member:
+http://ctc.weyland-yutani.net/

@@ -1,0 +1,145 @@
+Mobile Suit Gundam F91: Formula Wars 0122
+English Patch
+Version 1.00
+Initial Release: Jul. 19, 2011
+by Twilight Translations
+--------------------------------------
+
+1. Introduction
+2. Development
+3. Notes
+4. Patch History
+5. Credits
+6. Acknowledgements
+
+--------------------------------------
+
+1. Introduction
+
+--------------------------------------
+
+Mobile Suit Gundam F91: Formula Wars 0122 (F91) was released in Japan on July 6, 1991
+for the Super Famicom. This game tells the story of what happened after the end of the
+manga Mobile Suit Gundam F90 and the beginning of the anime film Mobile Suit Gundam F91.
+There was also a manga released that chronicles the same story, although I'm unsure at
+present if the manga was released before, after or alongside the game; my Japanese is
+really rusty.
+
+The game itself is billed as a Real Time Strategy game, but don't go into the game
+expecting something similar to an RTS from the early 90s or you'll probably be sorely
+disappointed. Sure, there's a map and you move the Gundam around like an RTS, but once
+you enter combat with an enemy unit everything RTS-like goes out the window.
+
+I've yet to see another game that has a battle system that's like F91's, which attempts
+to simulate the feeling of actually being in the cockpit of the Gundam you're piloting.
+Whether it truly recreates the feeling of controlling a 15 meter high death machine or
+not (it doesn't, spoiler alert), it is a noble attempt, which I have to give Bandai
+credit for.
+
+Overall it's a great game for a Gundam fan. We've tried to maintain consistency with
+the established canon where possible while making the story fun to read. Hope it shows.
+
+--------------------------------------
+
+2. Development
+
+--------------------------------------
+
+If you can't tell by my online handle, I'm a huge Gundam fan, especially the Universal
+Century stuff. So naturally I was interested in hacking the Gundam games like V Gundam
+and F91 that are set in that universe. I first looked into F91 back when I got into hacking
+and didn't make any progress on it because the font is compressed. So I focused on other
+things.
+
+Eventually I had sharpened my skills enough to tackle the game and figured out a way to
+crack the compression, so I decided to officially announce the project way back in April
+of 2006. I was a senior in high school when I announced it and my 5 year class reunion
+should be sometime this year. I feel old. Heh.
+
+Once I announced the project, it just sort of stalled for a few years while I waited for
+a translator to show up. Finally in January 2009, SteveMartin approached me about the game
+and translated the script in a matter of days. Then I sat on my hands for probably another
+year while I was distracted with other things in my life before finally sitting down to
+add a VWF and a few other hacks in 2010.
+
+Then there was a lot of time spent fixing bugs, formatting the script, working too much or
+just being lazy and unmotivated. Finally after a lot of headaches everything came together
+and what you have is a patch that contains some of my best hacking work to date. The VWF
+code itself went through at least two complete rewrites and several optimizations. The end
+result is 100% bug-free code that runs quickly and smoothly. I'm extremely proud and
+happy with how everything in this project turned out.
+
+--------------------------------------
+
+3. Notes
+
+--------------------------------------
+
+The antagonist of F91 is named (in romanized Japanese) "sharuru", which we've rendered as
+Charles in the translation. The reason for this (other than it's the commonly listed
+translation on the few English sites that cover this game) is because the pronunciation of
+the Japanese is almost identical to the French pronunciation of the name Charles. It's sort
+of like how Char Aznable's name is written as "shaa" in Japanese and rendered as Char in
+English. French class in high school wasn't a complete waste of time afterall. Go figure.
+
+Before the credits roll, information about each mobile suit that appears in the game is
+displayed. I've taken the liberty of fixing the few incorrect armament listings for some
+of the mobile suits to match the weapon names used in-game. All names have also been changed
+so that they are consistent with the accepted English canon (DENAN-ZON became DEN'AN ZON, etc).
+
+Lastly, all Engrish in the game that I know of has been located and rendered into (hopefully)
+coherent English.
+
+If you find any bugs please contact me (RedComet) via email at rpgcredcomet AT gmail DOT com
+or via PM on Romhacking.net. Alternatively, check the site for the most up-to-date contact
+information.
+
+--------------------------------------
+
+4. Patch History
+
+--------------------------------------
+
+-Version 1.00
+
+ All the text in the game has been translated. A VWF has been implemented for the story
+ mode and a pseudo-VWF has been used for all of the weapon names that appear in battle.
+ Additionally, all graphics were translated as needed.
+
+ Included files:
+
+ *gundamf91_100.ips - The English translation.
+
+ There are currently no known bugs in the patch. Please see the notes section above for more
+ information reporting bugs.
+
+ NOTE: This game should be played with bsnes or SNES9x. It is not compatible with ZSNES due
+ to (presumably) emulation bugs in ZSNES itself.
+ 
+--------------------------------------
+
+5. Credits
+
+--------------------------------------
+
+Mobile Suit Gundam F91: Formula Wars 0122
+Translation Team:
+
+RedComet - Programmer (me)
+SteveMartin - Translator
+
+Testing and QA Team:
+
+MegamanX
+Pennywise
+
+--------------------------------------
+
+6. Acknowledgements
+
+--------------------------------------
+
+With a project that's gone on this long, there have inevitably been people who have aided in
+one way or another whom I've forgotten to mention. For those people and anyone interested
+in this patch or Twilight Translations, I offer a heartfelt THANK YOU for your continued
+interest and support.

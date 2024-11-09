@@ -1,0 +1,61 @@
+Rockman EXE WS English Translation v1.0
+
+______________
+Introduction
+______________
+
+Rockman EXE WS is a sidecrolling platformer for the WonderSwan Color.
+The game doesn't have much story, but it's loosely based on the
+Anime. Some significant characters are missing. Regardless it's a
+fun, short little game.
+Translated, we called the game: MegaMan Battle Network WonderSwan.
+
+______________
+What's Done
+______________
+
+Menus are translated.
+Story is translated.
+Credits are translated.
+Title screen is translated.
+
+______________
+Patching
+______________
+
+The patch is distributed in .ips format. Download LunarIPS and
+use it to open the .ips file and patch your .wsc WonderSwan Color file.
+For emulating the game, I suggest mednafen as it is a powerful,
+multi-platform emulator which supports WonderSwan.
+
+______________
+Contact
+______________
+
+You can send questions/concerns via email:
+megarockexe@inbox.com
+
+To follow the project for further updates or to report bugs:
+http://forums.therockmanexezone.com/topic/8832591/
+
+______________
+Credits/Legal
+______________
+
+Programming
+ Greiga Master
+
+Translation
+ boco
+
+Graphics
+ megarockexe
+
+Editing/Proofreading/QA
+ Midnite, boco, megarockexe
+
+Extra Bug Testin
+Prof. 9
+
+This is a fan-translation and is not intended to challenge
+any copyrights or trademarks. Please do not sell it.

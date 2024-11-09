@@ -1,0 +1,42 @@
+****************************************************************
+           Mitsume Ga Tooru - The Three-Eyed One
+****************  v1.1   © 2019 Arrogant **********************
+
+
+Genre: Platformer
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Arrogant
+
+**********************************************************************************************************
+                 Mitsume Ga Tooru - The Three-Eyed One
+**********************************************************************************************************
+A great old game based on the manga and anime by Osamu Tezuka Mitsume Ga Tooru about an 
+ancient race of three-eyed people.
+
+A completely new and more authentic English translation of this great game, released, unfortunately, 
+only in Japan.
+**********************************************************************************************************
+Apply the patch to clean copy of the Japanese ROM:
+
+Mitsume ga Tooru (J).nes from GoodNES3.14
+**********************************************************************************************************
+Make the change:
+
+1) Full adaptation to what is happening in manga and anime.
+
+2) Expansion of text lines of cutscenes, at the expense of unused text in ROM.
+
+3) The expansion of abbreviated inscriptions in the debug menu.
+
+4) Fixed the output of the beautiful sprite inscription "The Three-Eyed One" on the title screen, by 
+    fixing the patch Intro screen hack from by WryGames.
+
+5) Fixed the output of the final credits.
+**********************************************************************************************************
+If you have any questions, you can write to the email: Arrogant2@yandex.ru
+
+Enjoy the game! ;)

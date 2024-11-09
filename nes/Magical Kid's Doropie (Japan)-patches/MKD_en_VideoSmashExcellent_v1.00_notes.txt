@@ -1,0 +1,122 @@
+Notes and Musings on the Hacking and Translation of Magical Doropie
+
+by Shih Tzu
+
+
+
+
+
+Note: This document assumes you have already played through the
+translation, and as such it contains SPOILERS.
+
+
+
+
+
+
+
+
+
+
+
+
+No, I'm serious.  SPOILERS.  For like, the game's plot.  Which I went
+to all the trouble to put back in.
+
+
+
+
+
+
+
+
+So, don't read any further unless you already know the story or just
+don't care.  You know, 'cause like, SPOILERS.
+
+
+
+
+
+
+Eh, whatever.  I tried.
+
+
+
+I consider the translation a decent success despite my having to
+accept some rather obnoxious limits.  Gideon Zhi tells me some had
+thought Magical Doropie's script to be compressed, but nah, it's just
+stored slightly unconventionally.  12=ka, 13=ga, 14=ki, 15=gi, 16=ku,
+etc.  A bigger problem surfaced once I found the script, though: every
+line is hardcoded in, and there's no way to add new ones.  I could use
+pointers to adjust the length of each line, and that's it.  And even
+if I could add lines, there was hardly any extra space to do so.  I
+ended up using all but ten or so available bytes as it is.
+
+Thus, the translation had to be a bit...streamlined.  I did my best to
+capture the salient points of each line and eliminate redundancy and
+yet avoid crammed writing that had a bunch of characters breathlessly
+shouting information at each other.  The result is a translation that
+necessarily had to take the occasional liberty with the original.
+Still, while it's not ideal, I still think it's pretty good.  If you
+couldn't tell that there were hideous limitations on the final
+product, I'd call it a success.
+
+Another problem was that I couldn't even save space by using pointers
+to reuse similar lines, because the damn game already does that!
+"Uwahh!" and "Kagemaru!" and so on only show up once in the script.
+There was a particular problem with one short line that was used three
+times in two different contexts.  "Ha!" in Japanese was used in one
+place to mean "Yes, Your Highness." and two others as sharp intakes of
+breath by Doropie.  Fortunately, the scenes all flowed perfectly with
+the line simply cut.
+
+One thing that had to be left implied was that the Empress had been
+"stirring up storms" (or something) in the spirit world, which is why
+Doropie banished her and sealed her in the human world.
+
+Speaking of the Empress, her full Japanese name and title is "Gokuraku
+Kijintei," or, roughly, "Machine-God(or Soul)-Empress Paradise."
+
+Kagemaru's name in Japanese sort of means "Shadow-Circle."  The shadow
+part also has implications of assistance or backing, which I think
+fits.
+
+Akudama actually means "villain" or "bad guy," as in "I played the
+villain in 'The Matrix.'"  I honestly was going to translate "Akudama
+Teikoku" as the "Badguy Empire," and yes, I had corroboration on this
+nuance from three native Japanese speakers, one of whom laughed right
+away when I said it.  But as I played along I saw all the "A"s in the
+background art and decided to leave it, though I suppose I could've
+changed those to "B"s if I'd cared.  I notice Vic Tokai didn't pick up
+on this for The Krion Conquest, leaving a bunch of random "A"s
+floating around.
+
+The Japanese version did the cutscenes using quotation marks, but to
+save space I went with little subtitle marks instead.  I hope they
+don't suck.  Believe me, this change freed up at least a hundred bytes
+for script.
+
+I don't know why Kagemaru is surprised magicians exist before Round 1
+and then goes on about magicians being sealed by the Empire after
+Round 1.  I might have interpreted the line slightly wrong; I
+considered that he might instead be surprised that there really was a
+magician sealed in the Rod he made off with, but either way there's
+some kind of discrepancy.  My theory is that he hadn't REALLY believed
+all this magician crap he'd heard rumors about, but once Doropie
+appeared he had no choice but to conclude all he'd heard was true.
+For those who want to take me to task, the original line in romaji is
+"Odoroita na. Masaka hontou ni mahou-tsukai ga iru nante."
+
+The problematic line I mentioned in the readme is the last line,
+Doropie's "Roger!"  The Japanese was "un!", a casual affirmative along
+the lines of "Yeah!" or "Okay!"  It sounds sort of like "uh," or "mm"
+if you have your mouth closed as she does.
+
+No, I don't know what the hell is up with the "MESSAGE FOR YOU FROM
+YOUR FRIENDS" bit.  It was like that in the original.
+
+I like to think this game was made by hippies, what with the pagan
+imagery, the feminist gender-reversal on the Ninja Gaiden plot, and
+the sudden environmental twist at the end.  Except I don't think there
+are hippies in Japan.  Hey, maybe the friends are the hippies.  I
+should change it to "MESSAGE FOR YOU FROM THE HIPPIES".  There's space.

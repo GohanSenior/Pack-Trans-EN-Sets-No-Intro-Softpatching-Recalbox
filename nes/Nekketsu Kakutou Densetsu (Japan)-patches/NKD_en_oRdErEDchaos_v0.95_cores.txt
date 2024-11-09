@@ -1,0 +1,5 @@
+This patch need to be run on:
+
+	- Libretro FCEUmm
+	- Libretro QuickNES
+	- Libretro Mesen

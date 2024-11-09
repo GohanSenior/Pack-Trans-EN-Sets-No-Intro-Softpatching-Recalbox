@@ -1,0 +1,73 @@
+Sukenban Deka II (Sega Master System)
+English Translation by enigmaopoeia
+Hacking by Stephen Seehorn
+_______________________________________________________________________________
+
+-From Stephen-
+This is a strange hybrid of a digital comic (complete with requisite 3D maze
+segment) and a rudimentary brawler.  It's all based on some terrible looking
+Japanese series of movies about a girl who fights crime with a yo-yo
+(supposedly what Quentin Tarantino based some character in Kill Bill on) along
+with her 2 friends.  While I wouldn't be caught dead watching the movies, the
+game has a bit of charm if for no other reason than its novelty factor.  How
+many other brawler/digital comics can you think of?  The actual game mechanics
+prove to be diluted in both respects (only one move for fighting and very easy
+and limited puzzles in the digital comic sections), but together they make for
+an entertaining way to spend an afternoon.
+
+-Hacking Notes-
+Hacking involved expanding the rom to make room for the text, changing the
+routine to use the new space, decompressing & recompressing the title screen,
+and adding some ASM that gives you triple the amount of health.  Originally the
+game was incredibly frustrating because you would die in seconds on some
+bosses, but with 3x the health I believe they still present somewhat of a
+challenge without making the player feel invincible. Also, despite this being
+enigmaopoeia's first translation job, I feel she did some amazing work.  She
+literally turned a completed and edited script in to me 5 days after I sent it
+to her, that has to be some kind of record in the romhacking community!
+_______________________________________________________________________________
+
+-From enigmaopoeia-
+This was quite an experience for me being this is my first translation work for
+a rom and this project could not have come at a better time.  Before meeting
+Stephen, I was writing a walkthrough for Loretta's Portrait -Sherlock Holmes- a
+game only released in Japan, for the SEGA Master System to be posted at
+GameFAQs.  As I've finished up this walkthrough, I was interesting in taking a
+jab at Sukeban Deka II next, but I was already exhausted from the Japanese I
+had to translate.  No more than 18 days later after showing interest in Sukeban
+Deka II, I come across a help wanted ad for this game at Romhacking.net.  It
+was a blessing in disguise, it gave me the motivation to not only finish my
+walkthrough for this game, but to also provide an English translation for
+others to enjoy!
+
+In Sukeban Deka II, you play the role of Yoko Godai, a schoolgirl who was given
+the codename "Saki Asamiya".  The government took her in and forced her to
+fight crime to redeem herself with her only weapon being a metal yo-yo.  What
+you can expect from this game is that it combines a lot of genres to give the
+player an unique experience such as interfaces associated with graphical text
+adventures, beat 'em ups, and dungeon crawlers.  Although this game was made
+mainly to cater toward fans of the live action version of Sukeban Deka II,
+gamers unfamiliar with this series may enjoy the art style and cheesiness that
+this game has to offer.  This game features a lot of cameos from SEGA games
+such as Alex Kidd, Ashura, Teddy Boy Blues, and Fantasy Zone.  It also makes
+reference to pop culture stuff like a bromide of Yoko Minamino, the actress who
+plays as the 2nd Saki Asamiya; and the mangas of Pygmalio and Sukeban Deka by
+Shinji Wada, the creator of Sukeban Deka.  In order to fully enjoy this game,
+make sure to always abuse the "Examine" and "Hit" commands!
+
+-Translation Notes-
+I'd done some research on the Sukeban Deka series before translating this
+game, I tried to not present the game as being too Japanese, but I wanted to stay
+true to the heart of the series.  This game gave distinct personalities for the
+characters and I tried to show that through their dialogue such as Okyo being
+assertive, Yukino being polite, and Kyoshirou being stoic to name a few.  Also
+some cultural things to note that is a fukusa is a silk cloth often used in tea
+ceremonies, a bromide is a commercial photograph of a celebrity, and a sakazuki
+is a flat saucer-like cup usually used to pour sake into.
+_______________________________________________________________________________
+
+-Patching Instructions-
+Your rom should be exactly 131,072 bytes (128k).  I haven't come across any
+dumps that weren't that size, but if you have patching issues check that first
+and try a different version of the rom.  Simply apply the patch with any .ips
+patcher.

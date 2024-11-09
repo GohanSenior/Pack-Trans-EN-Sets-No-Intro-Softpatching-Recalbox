@@ -1,0 +1,104 @@
+Translation
+ Ajora Fravashi
+
+Original Design
+ WiZ
+ Akihiro Yokoi
+
+Game Design
+ Eiji Utsu
+
+Character Design
+ Kenji Watanabe
+
+Lead Planner
+ Makoto Kitagawara
+ Naosuke Takahashi
+
+Lead Artist
+ Kenji Ishizaki
+
+Package Design
+ Mitsuru Kato
+ Kensaku Kusunoki
+
+Debugging
+ Daisuke Yanachi
+ Kensaku Kusunoki
+
+Development
+ SIMS
+
+Planner
+ Nobuo Matsushima
+
+Programming
+ Masaaki Akine
+ Shinichi Kawamoto
+ Masatoshi Sato
+ Yoshio Takenaka
+
+Graphic Design
+ Tetsuya Takei
+ Kouji Ootsuka
+ Masahiro Kanno
+ Naoko Takeshi
+ Mikiko Kikuta
+ Jiyunni Nagashima
+ Hiroshi Yoshimura
+
+Sound
+ Makoto Iida
+
+Bandai Marketing
+ Masashi Umeda
+ Mikio Kanbayashi
+ Hiroshi Shimada
+ Tsuyoshi Sato
+ Takahiro Sasanoi
+ Naomi Aiko
+ Taiki Yasuko
+ Mina Inoue
+
+QA Testing
+ Studio Stat
+
+Special Thanks
+ Toei Animation
+ Hiromi Seki
+ Hiroyuki Sakurada
+ Katsuhiro Takagi
+ Atsushi Hashida
+
+Special Thanks
+ Bandai
+ Takeshi Shimizu
+ Toshihiro Suzuki
+ Masashi Harada
+ Yusuke Sasaki
+ Kazuya Maruyama
+ Sanae Honma
+
+Partners
+ Kensuke Oota
+
+Produced by
+ Bandai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

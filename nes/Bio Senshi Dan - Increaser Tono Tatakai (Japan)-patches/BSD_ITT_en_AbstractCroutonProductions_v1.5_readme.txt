@@ -1,0 +1,74 @@
+=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@
+
+    o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+
+         ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
+
+                        b i o - w a r r i o r  d a n :
+
+                     t h e  i n k l i e z a r  b a t t l e  
+
+                      e n g l i s h  v e r s i o n  1 . 5
+
+         ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
+
+    o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+
+=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@
+
+
+                brought to you by *abstract crouton productions*
+
+                 translation and gfx hacks by *occluded hairdo*
+
+
+=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@
+
+this file is a patch, not an actual playable game image. to use it, you need
+the original japanese rom and an ips patching program.
+
+this game is called "bio senshi dan: inkuriza to no tatakai" in japanese. an
+official translated version exists as a prototype. the proto has been known to
+exist for quite some time now, but no dump has been made. i like the game, so
+i decided to translate it. it'll be interesting to see, if a dump is ever
+made, how my translation compares to the official one. that translation is
+titled "bashi bazook." i think that title sucks. so maybe the original one is
+stupid too...
+
+as there are at least three different versions of the rom out there, version
+1.5 of this patch attempts to patch your copy to a working version. if it
+won't function after you apply the patch, you are probably using a rom that
+was hacked to use a different mapper (#34). this patch unfortunately won't
+work with that rom. text has also been cleaned up very slightly.
+
+things changed in translation:
+
+* all japanese text translated into english (duh)
+
+* title screen graphics changed. i like the idea of subtitled title screens,
+  but no one else seems to.
+
+* some small changes made to the various status displays, which were sloppily
+  put together in the japanese version and look better now.
+
+* the kanji in the wrestling game were NOT deleted. a screenshot from a
+  magazine advertisement exists showing these kanji in the translated version
+  of the game. besides, it's kind of impossible to translate the word in
+  question, which is a martial arts term for "go" or "yes sir" or something.
+  yeah, i'm concerned with minutiae...
+
+enjoy!
+
+=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@
+
+tools used: a bunch, but most of them were crap so i don't feel like crediting
+them. why is it there are no good hex editors for windows? why is it that i
+can't run dos programs in xp? microsoft and crappy rom-hacking programming
+authors can kiss my ass. no, seriously... at least the latter is doing what
+they do for free, so i guess they don't have to kiss my ass. anyway, i've
+found tile layer pro and repointerer to be pretty decent tools. i also used
+the spoony bard font pack.
+
+web address: http://www.freewebs.com/abstractcrouton/
+
+email: occluded_hairdo@REMOVETHISTEXTNONSPAMMER.myrealbox.com

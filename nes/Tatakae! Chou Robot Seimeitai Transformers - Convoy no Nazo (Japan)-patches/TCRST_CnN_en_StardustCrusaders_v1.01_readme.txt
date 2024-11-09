@@ -1,0 +1,51 @@
+Transformers: Mystery of Comvoy
+English Translation V 1.01
+Copyright 2009 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Transformers
+2.Patch History
+3.Patch Credits
+4.Known Issues
+
+---------------------------
+1.About Transformers
+---------------------------
+This game is possibly the worst game of the NES era. It's just god awful, but I've translated it for you so you can enjoy it in english. It was supposedly translated before, but the endings were never translated. So I took care of that and got a new title screen as well. I did some ASM hacks for the Mystery of Comvoy graphic as well. I must also point out that I only got 1 of the 3 endings possible and one of them could be a little wacky, but hopefully not.
+---------------
+2.Patch History
+---------------
+What's done:
+
+-Everything
+
+---------------
+3.Patch Credits
+---------------
+
+Me- Hacking
+
+DarthNemesis- Translation
+
+FlashPV- English Title Screen Design
+
+DvD- Title Screen Fix
+
+
+--------------
+4.Known Issues
+--------------
+One of the endings may be a little odd.
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or at my site
+
+yojimbo.eludevisibility.org

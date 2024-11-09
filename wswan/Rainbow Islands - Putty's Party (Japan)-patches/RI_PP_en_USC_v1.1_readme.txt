@@ -1,0 +1,63 @@
+Rainbow Islands: Patty's Party
+Version 1.1
+28 NOVEMBER 2023
+-USC
+
+==================================================
+|Description
+=================================================
+
+The best monochromatic game about colorful rainbows is now available in English!
+
+This semi-sequel, semi-remake of Rainbow Islands begins with a new disaster befalling the eponymous archipelago. Bubby and Bobby rush to the rescue, leaving Patty behind. When Notti the Fairy comes looking for help to break an evil curse, Patty jumps at the chance to prove herself as a Rainbow Master.
+
+Join Patty and Notti as they travel through *at least* four different islands, using the power of Rainbow Magic(tm) to purify enemies and turn them into items. Each level has multiple endings, so make sure to explore (and jump through the magic door at the end)! 
+
+Will you save the islands, earn your heroes' respect, and (most importantly) find some tasty cake to eat? 
+
+-Additional Information-
+Unlockables: https://gamefaqs.gamespot.com/wonderswan/578021-rainbow-islands-puttys-party/cheats
+WonderGate Bonus Content: https://tcrf.net/Rainbow_Islands:_Putty%27s_Party
+
+==================================================
+|Changelog
+=================================================
+
+v1.0: 22 NOVEMBER 2021
+ -> Initial Release
+
+v1.1: 28 NOVEMBER 2023
+ -> Translate WonderGate messages
+   
+==================================================
+|Future Updates
+=================================================
+
+-> Fix any typos, unclear/untranslated text, or graphical issues
+
+==================================================
+|How to Patch
+=================================================
+
+Get a copy of the "Rainbow Islands: Putty's Party (Japan)" ROM and an IPS patching program (Lunar IPS seems to be the standard).
+
+Note: Make sure to use a *clean* ROM - do not try to patch over a prior version of this patch, as it will likely cause glitches due to pointers shifting around. However, your save file should transfer over to the new game.
+
+Run the program, click 'Apply patch', and viola! Enjoy.
+
+==================================================
+|Special Thanks
+=================================================
+
+*LazerMutt4
+-> For creating the graphics for the menu options. It really helped finish the translation, so thanks again!
+
+*And You!
+-> For playing this translation, and for reading this far. A winner is you!
+
+==================================================
+|Feedback
+=================================================
+
+Questions? Suggestions? Glitches?
+WonderswanTranslations@gmail.com

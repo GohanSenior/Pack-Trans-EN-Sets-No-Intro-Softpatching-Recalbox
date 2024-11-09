@@ -1,0 +1,113 @@
+===============Sylvanian Melodies===============
+=========Version 1.0 Patch (IPS Release)========
+======Copyright 2015 Watercrown Productions=====
+==========http://theryusui.tumblr.com===========
+
+
+
+==CONTENTS==
+
+1.0: Introduction
+
+2.0: Contents Of This ZIP File
+
+3.0: Requirements
+
+4.0: Controls
+
+5.0: Gameplay
+
+6.0: Et Cetera
+
+
+
+==1.0: INTRODUCTION==
+
+
+"In all your journeys, have you seen
+the land beyond the mountains green?"
+
+Sylvanian Melodies is a rhythm-action game in the vein of Dance Dance Revolution, Elite Beat Agents, and Guitar Hero. The Fairies of the Misty Forest have accidentally sprinkled Sylvania with Cloud Seeds, and it's up to Willow Cottontail to gather them up and save the land from overcast skies.
+
+The game is based on a toy line which I wasn't even aware still existed until I learned about the Sylvanian Families video games. I've done research to try and keep the material presented in the game as close to the official English-language material as possible: all the character names have been verified as accurate, but some locations and concepts may be somewhat different. If you have any corrections you wish to notify me of, please contact me using the method given below.
+
+
+
+==2.0: CONTENTS OF THIS ZIP FILE==
+
+
+This ZIP file contains the following:
+
+-Readme.txt (this file)
+-sme.ips (the translation patch in IPS format)
+
+
+
+==3.0: REQUIREMENTS==
+
+
+First and foremost, you must have a copy of the game ROM. If you have the actual cartridge, you can (with some technical expertise) dump the ROM yourself; otherwise, you can find the game on the Internet through Google or other search engines. The game is common on ROM sites under the (incorrect) title of "Sylvania Melody - Mori no Nakama to Odori Mashi!"; searching for that title in conjunction with the word "ROM" or "ROMs" should help you find a copy in little time. DO NOT ASK ME FOR A COPY OF THE ROM. You will also require a IPS patch program, such as Lunar IPS, to apply the translation patch to the ROM.
+
+Sylvanian Melodies can be played on any system that has a GBC emulator. In fact, if you have a flash cart, you can play the game on an actual system. DO NOT ASK ME WHERE TO FIND FLASH CARTS. (Because I don't know, either.)
+
+
+
+==4.0: CONTROLS==
+
+
+-Basic Controls-
+
+Directional Pad: Scroll through menues, move Willow around the world map and strike left notes.
+
+B Button: Cancel selections, exit menues and strike center notes.
+
+A Button: Confirm selections and strike right notes.
+
+Select Button: Not used.
+
+Start Button: Bring up the menu on the title screen.
+
+
+-Title Screen-
+
+Story: Begin a new game on Normal or Easy difficulty mode. Stages you clear in this mode become available in Free Play mode.
+
+Free Play: Play tracks you unlock in Story mode freestyle and save "videos" of your performances.
+
+Videos: Watch "videos" of your performances in Free Play mode.
+
+
+
+==5.0: GAMEPLAY==
+
+
+-Note icons rise up from the bottom of the screen towards the three characters at the top.
+
+-The three characters will try to strike the notes when you press their corresponding button. The A button controls the character on the right, the B button controls the character in the center and down on the Directional Pad controls the character on the left.
+
+-Time your button presses to the beat of the music. With practice and a good sense of rhythm, the characters will strike the notes as they approach.
+
+-You start each stage at level 3. If you perform well, your level will increase and the music quality will improve; do poorly and your level will decrease, and the music will become tinnier.
+
+-At the end of each stage, your average performance level will be calculated. Once you clear a stage, you will unlock all level variations for that stage's music up to the level you cleared the stage at.
+
+-You need a hit ratio of at least 30% to clear each stage. Good luck!
+
+
+
+==6.0: ET CETERA==
+
+
+First of all, I owe everyone an apology. I announced this patch back at the end of 2006, and considered it "near-finished" a couple of months later. Then it got put on the back burner and ignored until I felt like finishing it up a few days ago. So, to everyone who was wondering "where the heck did Sylvanian Melodies go?", I'm sorry to have kept you waiting.
+
+Since I don't actually have the manual for the game, I don't really know what the star-shaped notes do. For that matter, the fact that your performance level affects the music was an eleventh-hour discovery for me. So if anyone CAN figure out what the star-shaped notes do, tell me and I'll release an updated readme file.
+
+Sylvanian Melodies uses compression for the lion's share of its graphics, and with the help of bgb (the same emulator that revealed how horribly broken my VWF for Sylvanian Families was) I was able to reverse-engineer it and code an app for batch-processing all the game's graphic files. The name I chose for it was Meguriai, which is a really, really, REALLY bad pun: "meguriai" is "Encounters" (as in the song from the third Gundam movie), but I also meant it as a play on "Meguro", as in Shoji Meguro, the composer of Atlus' Shin Megami Tensei and Trauma Center series. What can I say? I like his music, and this IS a music game...
+
+The sharp-eyed (or supremely bored) will notice one inconsistency with my translation for Sylvanian Families. "Otogi no Kuni" is no longer "Fairyland", but instead "Misty Forest". Yes, it's not a forest, and it's certainly not misty, but as I've discovered in the months since release, "Otogi no Kuni" is indeed called "Misty Forest" outside of Japan. Any future release of the patch will fix this error, not to mention the subtitle (presently "The Fairyland Pendant").
+
+If you have any questions to ask, bugs or typos to report, or inconsistencies to note, feel free to contact me via an Ask or PM on my Tumblr at http://theryusui.tumblr.com.
+
+Sylvanian Melodies - Mori no Nakama to Odorimasho! is copyright 2000 Epoch/Natsume. The English translation patch, version 1.0, was completed on April 5, 2008. Readme updated on September 5, 2015 with the release of the more widely-accessible IPS version of the patch.
+
+This patch is not to be distributed without this readme attached; otherwise, distribute it however you like. Enjoy.

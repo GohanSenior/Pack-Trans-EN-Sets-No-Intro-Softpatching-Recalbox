@@ -1,0 +1,172 @@
+                  _   ___     _      _   _ _ _    _      _____ 
+                 | | / (_)   | |    | \ | (_) |  (_)    |____ |
+                 | |/ / _  __| |    |  \| |_| | ___         / /
+                 |    \| |/ _` |    | . ` | | |/ / |        \ \
+                 | |\  \ | (_| |    | |\  | |   <| |    .___/ /
+                 \_| \_/_|\__,_|    \_| \_/_|_|\_\_|    \____/
+                                        
+                                   Kid Niki 3
+                 (Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen)
+                               Instruction Manual
+                                     v1.00
+                                    
+-------------------------------- INTRODUCTION ---------------------------------
+
+Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen is an action game released by IREM
+for the Famicom game system in 1993. It was never officially translated into
+English but was translated by Suicidal Translations and released under the name
+Kid Niki 3 on February 28th, 2003.
+
+This file serves as an instruction manual for the translated game. It is not a
+translation of the original instruction manual but is an original work based on
+my experiences playing the game.
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+  I. Introduction
+ II. Table of Contents
+III. The Story
+ IV. Gameplay
+  V. Distribution Notes
+ VI. Conclusion
+
+---------------------------------- THE STORY ----------------------------------
+
+You play as Kid Niki, ninja extraordinaire, who must rescue Princess Kurumi
+from the evil Stone Wizard. Niki must battle through 6 levels of hell in order
+to face his mortal enemy in a final showdown for the princess' very soul.
+
+---------------------------------- GAMEPLAY -----------------------------------
+
+This is a basic NES action game, so gameplay isn't exceptionally difficult.
+There are no options, you just press start from the title screen and are thrown
+into the fray.
+
+General play control is as such:
+
+Left/Right: move left/right
+      Down: squat
+        Up: stab your staff up
+         B: swing your staff / swim / row
+         A: jump
+     Start: pause
+  A + Down: power slide
+  B + Down: bounce on staff
+
+Additionally. holding down A will cause you to blink. If you're standing still
+when you release A, you will spin around on your staff, hitting enemies from
+all directions. If you're walking when you release A, you'll jump higher and
+farther than you normally do. 
+
+Stabbing your staff into a wall and releasing the B button while pushing toward
+the wall will allow you to springboard in the other direction.
+
+
+LEVELS
+------
+
+Level One: Much like the original, Niki's adventure begins in a lush, green
+valley. He must fight his way through enemies such as gas mask wearing ninjas in
+stocking caps, gas mask wearing robots without stocking caps and walking
+shuriken. At the end of the valley is a massive fortress containing fire spewing
+wells. The boss of this level is a fire demon dressed like MC Hammer.
+
+Level Two: Next, Niki's great quest takes him to the sea side which is populated
+by the most disturbing statues ever seen in an NES game. They're so disturbing
+that I can't even think of another adjective to  apply to them, nor will I
+relive the horrid nightmares caused by them by attempting to describe them. In
+this level, Niki alternates between hopping from island to island and swimming
+underwater, while battling the aforementioned statues, rabid sharks,
+non-exploding mines and a duck that pukes fish at you. Ruling this bizarre stage
+is what can best be described as an Aquaman fanboy who's into hip hop fashion.
+
+Level 3: Onward Niki journies, this time to the mountains where he must first
+scale a waterfall and then the mountain itself. If you thought the earier
+enemies were strange, wait until you get a load of dogs made out of ink bottles
+and match sticks, gun toting flowers and leg shaped turnips. In charge of this
+level is a living tree who seems to prefer gladiator-wear over the previous hip
+hop clothing.
+
+Level 4: Next, our hero travels across an arid desert and into the sky itself
+where he's thwarted by the fans that make wind! Opposing Niki are bats, bees
+and gun toting armadillos. Hop from cloud in search of the boss, a ninja wit a
+bell... and he rings it at you! Evil incarnate, I tell you!
+
+Level 5: Niki's trek through the clouds has brought him to the moon, which is
+frozen solid. The moon base is guarded by ninjas on ice skates (which explains
+the stocking caps from the first level), missile ice cream cones, mice in 
+refrigerators and what appears to be a pissed off tea kettle but I don't intend
+to pause it long enough to make sure. The leader of the moonbase is a hot chick
+in ice skates. She's even dressed appropriately.. at least if you consider that
+it's deemed appropriate for women to wear skimpy skirts while ice skating.
+
+Level 6: You know you're getting close to the end when you hit the robot
+factory! Niki must battle hordes of evil robots in the largest level yet. In one
+bizarre scenario, Niki questions his sexuality as he battles a pink clad clone
+of himself. (Perhaps this is brought on by beating up the girl in the last
+level?) This level's boss is the hooded bastard who helped the Stone Wizard
+capture Princess Kurumi! (He might be the main boss from Kid Niki 2, I don't
+remember.)
+
+Level 7: Here it is, the Zaiketsu! Zouringen. Er.. I mean, the showdown with
+the Stone Wizard. Dodge the Wizard's Niki-seeking sperm (what's with the sudden
+homosexual overtones?) and whack him with your staff, grabbing hearts when you
+can and avoiding the spikes at all costs. Once you've depleted Stone Wizard's
+energy, he'll run away, only to return for the final battle....
+
+
+ITEMS
+-----
+
+Pita Bread - Gather 20 of these each level to play the bonus game.
+
+Key -  Unlock a door.
+
+Scroll - Temporary invulnerability.
+
+Heart - Partial life refill.
+
+Princess' Head - Oh my God! Stone Wizard decapitated Princess Kurumi! Oh, wait.
+                 It's just a full life refill! Whew!
+
+
+BONUS GAME
+----- ----
+
+If you gather 20 pitas in a single level, you'll have a chance to win a bonus
+item for the next level. Pop 3 balloons. If all 3 match, you win! If they don't,
+you get points as a consolation prize. 3 Niki heads will give you a power boost
+for the next level, 3 Kurumi heads will give you a defensive boost.
+
+
+----------------------------- DISTRIBUTION NOTES ------------------------------
+
+This Kid Niki 3 translation should be distributed in a file named kn3e100.zip
+and should contain the following files:
+
+	  kn3ev100.ips - the translation patch
+ 	  kn3ev100.txt - this readme file
+	   kn3-man.txt - a manual for the game
+	 kn3-fixed.ips - a patch that corrects the Mapper 19 hack.
+
+These files are (C)opyright 2003 by Suicidal Translations. All rights reserved.
+You may distribute this translation in any manner you desire as long as the
+original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen is (C)opyright 1993 by Irem
+
+---------------------------------- CONCLUSION ---------------------------------
+
+So there you have it. Not the most complex game of all time but I rather enjoy
+it. It won't take you hours on end to defeat like some other games but it's
+well worth playing when you're just out to have a little fun.
+
+If you have any questions, feel free to ask. The official site of the 
+Kid Niki 3 translation is at http://www.pigtails.net/ST and you can find
+the most current contact information there as well.
+
+-InVerse
+
+-------------------------------------------------------------------------------
+Kid Niki 3        -         (C)opyright 2003 InVerse         -         02/28/03

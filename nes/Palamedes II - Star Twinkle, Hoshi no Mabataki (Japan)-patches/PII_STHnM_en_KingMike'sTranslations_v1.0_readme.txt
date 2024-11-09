@@ -1,0 +1,98 @@
+KingMike's Translation
+
+kingmike2001 AT hotmail DOT com
+
+Palamedes II: Star Twinkles
+Patch v1.0
+Release date: 06/07/2013
+*********************************************
+Original Language: Japanese
+*********************************************
+
+Contents of package.
+pala2e10.ips: Finished English translation, IPS format
+pala2e10.bps: Finished English translation, BEAT format
+pala2e10.txt: This document.
+*********************************************
+Emulation Status:
+ Most emulators should play this fine.
+*********************************************
+
+What's done:
+ - The tutorial screen.
+
+What's left:
+ - I haven't played through but the only Japanese fonts I even see in the ROM
+   are the tutorial screens.
+*********************************************
+How to patch:
+
+PROPER ROM:
+ -Japanese original.
+ -64KB in Windows Explorer.
+
+
+
+ - Download this zip file.
+ - Download the game ROM. (I won't provide this. You find it.)
+
+To apply IPS:
+ - Download Lunar IPS. http://fusoya.cggames.net
+ - Open Lunar IPS. Click Apply patch. Pick the ROM and the patch.
+    -If that is too difficult, open Lunar IPS, then close it.
+     Do this to associate IPS files with Lunar IPS.
+    -Now just double-click the IPS file, and double click the ROM.
+
+To apply the BEAT format patch:
+ - Or use beat (byuu.org) to apply the BPS version patch. 
+*********************************************
+How to play:
+
+Palamedes II is a puzzle game where you throw dice from a stack at the bottom of the screen,
+towards a lone die at the top. You must throw a die that is the same number or sequential
+(one higher or lower).
+Each time you match the die, it will be added to your "hand" (similar to a poker hand)
+at the top of the screen.
+When you have made a matching hand, you can use it to clear one or more lines from the stack,
+depending on the combination.
+The game contains two major game "modes" with variations. In one more, you need to survive,
+while in the other you must compete against another player or the CPU to clear your stack first.
+
+Control Pad:
+ Left/Right: Move player
+ Up: Raise stack
+ Down: When you have a matching hand, press Down to use it.
+ Select: None
+ Start: Pause
+ B Button: Press to rotate the column underneath the player (in Mode 1)
+ A Button: Press to throw the die under the player at the block.
+
+Mode 1 : Survival
+ Solo : Endless single-player game
+ Match : Two-player competition to defeat the other player
+ Quest : Single player vs. a series of computer opponents. Choose three difficulties.
+Mode 2 : Clear all tiles. In this mode you cannot rotate the stack.
+When both players are unable to make a valid move, the game will pause the match to
+generate a new target die.
+ Match : For two players
+ Quest : Compete against a series of computer opponents.
+
+Winning combinations:
+
+DUST           1 Line       Any four?
+SEVEN TIMES    1 Line       A total of seven on dice?
+DOUBLE         2 Lines      Two pairs of matching dice
+THREE STRAIGHT 2 Lines      Three consecutive numbers
+THREE FLUSH    2 Lines      Three of a kind
+FOUR STRAIGHT  3 Lines      Four consecutive (descending?)
+FOUR FLUSH     3 Lines      Four of a kind
+ROYAL FLUSH    4 Lines      Four consecutive (ascending?)
+*******************************************
+Palamedes II: Star Twinkles
+	(c) 1991 Hot-B
+
+English Translation:
+	(c) 2013 KingMike
+
+No distributing the patch with ROM, either pre-patched, or in one zip.
+That's wrong.

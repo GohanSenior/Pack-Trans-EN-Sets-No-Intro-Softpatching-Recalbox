@@ -1,0 +1,161 @@
+
+
+                (insert elite ascii graphic here plz)
+
+               SD Splatterhouse 2.00 (7 January 2000)
+                        Official Readme File!
+						
+--------------------------------------------------------------------------
+
+I. Introduction
+II. Project
+IIa. Project Members
+IIb. Tools
+IIc. History
+III. End-User Information
+IV. Thx
+V. Legal stuff that would never hold up in court
+
+--------------------------------------------------------------------------
+
+                             Introduction
+
+SD Splatterhouse may well be the coolest side-scroller game ever. Of
+course you might not think that if you had to play through it over and
+over again to test out stuff. But hey, it's good for a quick diversion.
+You're a guy who came back from the dead, and you've got a hockey mask,
+and your girlfriend got kidnapped by some demon. As you can tell it's an
+amazing plot that will quickly draw you in, but basically you swing an axe
+around and kill various things, and you get a shotgun in some places,
+which packs quite the punch. And yes, it recoils. How's THAT for realism?
+Kids these days.. No one bitched about an Italian plumber eating
+mushrooms and doubling in height.. Now anything that isn't 3D sucks! Bah!
+
+--------------------------------------------------------------------------
+
+                               Project
+
+This translation can now be officially called "complete." Before, only the
+ending was translated. Now, everything is 100% english, including a killer
+title screen by Ballz. I don't think I'll mess with this again, since
+there's really nothing left to do.. But don't hesitate to email me if I've
+missed anything.
+
+
+Members!
+--------
+Spinner 8 (spinner_8@softhome.net)
+ - text hacking, graphic replacement
+Xeur (xeur@ihug.com.au)
+ - screenshot translation :)
+Ballz (ballzathon@cs.com)
+ - title screen redesign/insertion
+
+
+Tools used!
+-----------
+NESticle x.xx by Bloodlust Software
+  (http://bloodlust.zophar.net)
+NJStar Communicator 2.1 by NJStar Software Corp.
+  (http://www.njstar.com)
+Tile Layer 0.50b by Snowbro
+  (http://home.sol.no/~kenhanse/)
+Thingy 0.98 by necrosaro
+  (http://members.aol.com/sabindude/)
+Snes-Tool 1.2 by the M.C.A and Elite
+  (?)
+  
+Tools used by Ballz for the title screen!
+-----------------------------------------
+Paint Shop Pro by Jasc Software
+  (http://www.jasc.com)
+Graphics Inserter/Extractor by Jair
+  (http://www.resnet.trinity.edu/gknodle/)
+Hex Workshop by BreakPoint Software
+  (http://www.bpsoft.com)
+Tile Layer by Snowbro
+  (http://home.sol.no/~kenhanse/)
+NESticle by Bloodlust Software
+  (http://bloodlust.zophar.net)
+Yay!
+
+
+Patch history!
+--------------
+Version 2.00 - New title screen, some stuff I missed.. completely 100%
+               now!
+Version 1.00 - Everything should be done! I might fix the title screen,
+               but other than that it's great.
+
+
+--------------------------------------------------------------------------
+
+                               End-User
+
+Not much you need to know here... This game will run just fine on any
+emulator that claims to support Mapper 19. Actually, there isn't one
+that fully supports it, but Famtasia comes closest. Anyway enough of my
+bitching about Megami Tensei 2. Ahem.
+
+Patching is simple.. You can use the easy way with SNES-Tool, or you can
+be a man like me and use IPS.EXE. Get the unpatched rom and the ips file,
+and then at the DOS command prompt type:
+
+IPS SPLATTER.NES SPLATTR2.IPS
+
+In case you're a complete idiot, you should substitute SPLATTER.NES for
+whatever the name of your rom is. Just be aware that IPS.EXE doesn't
+support long filenames. Anyway, now you're all set to play. Hopefully
+something as easy as this needs no explanation. BioNES makes a
+SPLATTER.NMC file when you run it, but I'll be damned if I know what it
+does, since the game uses passwords.
+
+
+--------------------------------------------------------------------------
+
+                               Thanks!
+
+Big thanks to Xeur, who took the time out of his study schedule to
+   translate this stuff! And look, I actually finished it!
+
+Thanks to Sardius. This translation is entirely dedicated to him and his
+   niftiness. I forgot to mention that in the last readme. Sorry.
+   
+Thanks to Ballz, who made the title screen, and even inserted it himself!
+   And hey, it even looks good!
+
+Huge huge thanks to Sardu for coding NESticle! I never would have found
+  the text in the rom if it weren't for that lubly F2 key.
+
+Thanks to Amber, for hosting my sites!! Er, I mean site.
+
+Thanks to Snowbro for making Tile Layer, which was a real life-saver in
+   this case.
+
+Of course, thanks to Skrybe who fixed this rom for all to enjoy. There,
+  how's that?
+
+And thanks to everyone else I forgot. I doubt I forgot anyone though.
+
+
+--------------------------------------------------------------------------
+
+                         Legal Made-Up Stuff
+
+What are you doing with the SD Splatterhouse rom if you don't own the
+cart?! Shame on you! Don't you know that Nintendo of America is going to
+hunt you down and get a search warrant to be able to legally search your
+computer for copies of games that were never released outside of Japan and
+which can't be legally sold to anyone since the sale of used games is
+prohibited and Famicom games went out of production years ago? And even if
+you DO own the cart, and (naturally) dumped the rom yourself, don't even
+THINK about applying this IPS patch to it, since that's a violation of
+copyright. Why the hell did you download this thing anyway? I'm afraid I'm
+going to have to take you downtown sir. Yes, that's right! I'm actually an
+IDSA operative, and I've planted a beacon in this zip file! Whenever you
+open this zip, the beacon will send me your name, address, telephone
+number, PIN number, and all that pr0n you have! Oh, you do have a lot of
+it, don't you? Oh my god, some of that stuff is really sick! Do people
+actually DO that kind of stuff? I'm afraid I'll have to, um, examine this
+evidence a little bit longer. Just, umm, keep downloading pr0n and open
+this zip every so often. I'll get around to arresting you eventually.

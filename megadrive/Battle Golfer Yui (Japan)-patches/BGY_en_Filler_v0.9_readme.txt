@@ -1,0 +1,182 @@
+﻿Battle Golfer Yui for the Sega Mega Drive English Language Translation Patch Readme
+Released December 28th, 2017
+Version 0.9 (Public Beta)
+
+Programming/Art/Tools: Supper
+Initial Work/Translation: Filler
+Initial Tools/Special Thanks: Guest
+
+The patch included in this archive is to be applied to a ROM dump of the Sega Mega Drive game "Battle Golfer Yui" using an appropriate patching program. The patch translates the game's text to English, fixes some bugs, and adds a splash screen. Details follow in this document.
+
+As this is a beta release, there may still be bugs, or issues with the script translation. A play-through of the game has been completed by Supper, but no other testing has been done. We urge you to report any issues to us via RHDN's forum, or to filler@mattsmessyroom.com.
+
+--------------------------------------------------------------------------------
+
+Licensing
+
+This patch contains NO portion of the original game. It is to be distributed as a patch, in an archive with this readme and any other materials originally provided in the archive.
+
+This patch is NOT to be distributed with the original ROM image, either pre-patched, or separately. The contents of this patch are NOT TO BE SOLD in any way, including as a ROM image applied to the original ROM, or as a physical cartridge using the patch applied to the original ROM image.
+
+As the work contained in this patch is derivative, our rights regarding it are limited. However, we're releasing materials related to the translation project ONLY, including the English language script, under CC BY-NC (Creative Commons Attribution-NonCommercial, https://creativecommons.org/licenses/).
+
+For additional materials and information please see the project page: http://projects.mattsmessyroom.com/battlegolferyui/
+
+--------------------------------------------------------------------------------
+
+Game Description
+
+Battle Golfer Yui is an Adventure/RPG/Golf game hybrid about an evil organization making cyborg "battle golfers" in order to take over the world. Their latest targets are high school buddies Yui Mizuhara and Ran Ryuzaki. As the main character Yui, you must pit your golf skills against members "Hazzard" to discover what's happened to your friend Ran.
+
+According to a post by a certain Goati on the Sega-16 boards (http://www.sega-16.com/forum/showthread.php?32865-SPOILERS-(w-Translations)-Battle-Golfer-Yui-is-the-best-game-ever-and-here-is-why), several of the golfers you face are parodies from popular media. I cannot vouch for the accuracy, but below is quoted from their post:
+
+"Hagata is a parody from a popular baseball manga called Shinyaku "Kyojin no Hoshi": Hanagata (Hagata - Hanagata). He even calls Yui "Hoshi".
+
+Kitako is a wonderful female version parody of the immensely popular manga protagonist Kitaro (from Gegege no Kitarou). (Kitako-Kitaro). She even has his covered eye, and... an eyeball for a parent!
+Kitaro in the manga has his own eyeball as his father. Hard to explain.
+Kitako has her eyeball as her mother. Plain awesome.
+She even has tombstones in her golf field, and ghost-themed special moves.
+
+Dibot is a parody of Zubat, from a japanese 1977 superhero series called Kaiketsu Zubat.
+I figured this one out watching Game Center CX play the game."
+
+--------------------------------------------------------------------------------
+
+Cheats
+
+There are a few cheats you can enter on the password screen to unlock special features. In this patch, they're as follows:
+
+  TheRavenNevermore   --   Plays the credits.
+  OneLessTraveledBy   --   Starts the game with 999 SP and all skills unlocked.
+  GimmeStrokeSkills   --   Allows skills to be used in Stroke Play mode.
+
+Naturally, these are different from the cheats in the original game, since its password system uses Japanese characters. For the curious, the original cheats are:
+
+  ふるいけや　かはすとひこむ　みすのおと   --   A famous haiku by Matsuo Basho:
+                                    古池や蛙飛びこむ水の音
+                                    "Ah! The ancient pond, as a frog takes
+                                     the plunge, sound of the water"
+  
+  なつくさや　ゆわものともか　ゆめのあと   --   Another well-known haiku by the same author:
+                                    夏草や兵どもが夢の跡
+                                    "Mounds of summer grass - the place where
+                                     noble soldiers one time dreamed a dream"
+
+  すとろおく　わさかあったら　かんたんた   --   An original haiku:
+                                    すとろおく
+                                    わざがあったら
+                                    かんたんだ
+                                    "Stroke
+                                     Since there are skills
+                                     It is easy"
+
+--------------------------------------------------------------------------------
+
+Technical Notes
+
+This patch fixes a few errors in the original game, mostly because if we didn't, everyone'd assume they were things we screwed up:
+
+  * The text speed in the intro was originally very uneven, with some lines flying by unreadably fast and others hanging around far longer than needed to read them. The patch adjusts the timing to make things more readable. A small glitch caused by not clearing the text box between scenes was also fixed.
+  
+  * The original title screen had a blatant tiling error on the tip of the lowest prong of the "E" in "BATTLE" -- who knows how the developers missed this one.
+
+  * During a conversation toward the end of the game, trying to "Check" a certain character played what was very obviously the wrong set of dialogue, apparently due to a typo. This now uses the dialogue that was (probably) intended.
+
+--------------------------------------------------------------------------------
+
+Translation Notes
+
+This is a translation, not a localization. I fear that a lot of parody references are lost to time and place. I've tried to translate as literally as I can, as opposed to changing lines to something more familiar in order to preserve the word if not the spirit of the original.
+
+I originally translated Dibot's name as "Divot" as the D/V sound are used interchangeably in Japanese, and it keeps with the golf theme. However, there is an instance of the character's name being written in English characters in the original game and it's written "DIBOT". Whether "Divot" was the original intention or not, I chose to go with the official romanization scheme.
+
+--------------------------------------------------------------------------------
+
+Supper's Notes
+
+I originally got involved with this project as my half of a trade to get the script for the Mega Drive Sailor Moon game translated. It turned out to be an interesting game in a lot of different ways -- seriously, what the hell is up with that ending? -- so props to Filler for giving me the chance to work on it.
+
+Very technically, this project has been over a decade in the making. Some initial research and hacking was done by Guest around 2007, producing a script dumper/inserter and documentation of the compression formats. Presumably for lack of a translator, the project then lay fallow in the "Abandoned Projects" section of ROMhacking.net for ten years, and not even the star power of Game Center CX could revive it -- I blame Kotaku for this -- until, independently of the earlier effort, Filler translated the script and solicited me to do the hacking. Discovering Guest's work kick-started the project, and meant I just had to finish things up.
+
+Inevitably, "finishing things up" turned out to entail quite a bit: writing new tools to automate graphics dumping and insertion, finding and adding to the script the menus and other missing text, resizing and reformatting windows to allow for longer English strings, fixing idiosyncracies in Atlas that were making editing more difficult, reworking the password system to use English, updating the cheats to not be mojibake, fixing bugs in the original game, playtesting, and lots of other miscellaneous stuff you can find in the changelog. I also wound up doing the handful of art edits, so you know who to blame for that.
+
+Anyway, it's been a fun ride, even though I only got on at the end. Hope you enjoy this game's bizarre '90s OVA sensibilities as much as I do. Thanks to Guest for laying the groundwork, and again to Filler for having me along.
+
+--------------------------------------------------------------------------------
+
+Filler's Notes
+
+I took a look at this due to a post on MariusB's "The Genesis translation list" thread on Dynamic Designs' board (http://www.dynamic-designs.us/d-dforum/viewtopic.php?f=29&t=886) around the 21st of October 2017. It turned out to be pretty easy to make a table file and dump the dialog script. After that I kept picking away at the script despite having other projects to work on since I had it open in my editor and it was relatively interesting to translate.
+
+Around November 28th 2017, I noticed Supper posted a screenshot of a very nice looking title screen for the Sailor Moon game on Mega Drive for which they needed translation support. I decided to take a chance, and asked them if they'd be willing to help me with Battle Golfer Yui in exchange for assistance translating Sailor Moon.
+
+I originally messed around with Guest's insertion tools and got some test dialog inserting. With Supper on board, I finalized the script to the best of my ability, including a proofread/spellcheck, and formatted it to fit the text routine.
+
+--------------------------------------------------------------------------------
+
+Here's a mostly-complete log of changes made to the game. Contains some spoilers, if you care about those.
+
+v0.9 -- public beta
+
+    * Edited Japanese graphics to be in English:
+        * Title screen
+        * Adventure mode logo
+        * わざ on golfing menu
+            * "Skill" fits, but requires tighter character spacing than the other options. For consistency, the spacing of the other options has been reduced to match it.
+        * Icons for Psycho Holder and Black Fire skills (replaced kanji with icons -- it'd be hard to fit text in the allotted space)
+    * Changed the cheat passwords:
+        * Credits: ふるいけやかはすとひこむみすのおと -> TheRavenNevermore
+        * Max level: なつくさやゆわものともかゆめのあと -> OneLessTraveledBy
+        * Use skills in stroke mode: すとろおくわさかあったらかんたんた -> GimmeStrokeSkills
+    * On the message speed menu, changed "Message" to "Messages" and "Middle" to "Medium".
+    * Edited the golfing mode font to look more consistent:
+        * Shifted the upper case letters and numbers up and to the left a pixel to match the lower case font.
+        * Made the lower case letters bold to match the upper case ones.
+    * Changed the green's score display to use an actual period for the decimal point instead of a handakuten.
+    * Widened skill menu so all skill names will fit on one line.
+    * Tweaked level up box to display two-digit level numbers correctly.
+    * Changed Stoke Play menu options from "1PLAY/2PLAY START" to "1/2 PLAYER START".
+    * Added period after "VS" in Match Play menu.
+    * Changed list of CPU opponents on Match Play menu from all caps to mixed case, to match the in-game display (and distinguish Yui from YUI).
+    * In the scorebox displayed during golf matches, changed "PLAYER1/PLAYER2" to "PLY. 1/2" (since there's not room for a space, and this abbreviation is already used elsewhere).
+    * Changed all instances of score being shown as "[X]UP" and "[X]DOWN" to "[X] UP" and "[X] DOWN".
+    * Changed abbreviation for course numbers on some screens from "NO" and "NO." to "#", mostly to free up space.
+    * Made sure there's a space between yard count and "YDS" or "Y" label, and between "PAR" and the corresponding number.
+    * Reformatted ending text to match original layout (centering, double-spacing, etc.)
+    * Reverted references to "D Puppet" to "D Marionette" -- this was changed to better fit the name in the skill menu, but since that's been expanded, space is no longer an issue.
+    * Tweaked formatting of caddie messages a bit so the quotes look neater.
+    * In the original game, the second half of the caddie message will be blank if if the ball lands on a terrain type the game doesn't have a message for (such as the rocks that make up the sides of cliffs). This results in the message not having a closing quote. To try to make this look a bit less awkward, the blanks have been replaced with some filler, "...", to allow the quote to be closed.
+    * De-abbreviated several menu options, since there's more space now:
+        * Hairbnd -> Hairband
+        * DateHim -> Date Him
+        * ZealKey -> Zeal Key
+        * No.1Key -> No.1 Key
+    * Added the dialogue option for "G", which was missing from the script.
+    * There are a few events where the game shows an animation while printing dialogue, such as Dibot's "Tch, tch, tch" and Professor G's death sequence. If the text is interrupted by a line break, the game pauses the animation until the player pushes a button, which looks awkward. These messages have been reformatted to always appear on one line.
+    * The original game gives an incorrect message for using "Check" on Doctor T right after he reveals that Professor G is his brother. The dialogue shown is from the conversation with Professor G later on: "What are you trying to accomplish with this tournament?! ..." This appears to be due to a typo in the script; the game starts the dialogue at message $22F, but was probably meant to start at message $21F ("I have to hear what Doctor T has to say").
+    * Proofread the script. Linebreak errors have been fixed, and capitalization and punctuation to be more consistent/correct (e.g. consistent use of "my Mistress" instead of "my mistress", having exclaimed questions end in an interrobang instead of just an exclamation point). Wording has only been changed in a few places, mostly where context had obviously been an issue.
+    * Added splash screen shown on hard reset.
+
+"version 0" -- first round of changes, not a real release
+
+    * Expanded and rearranged menus to accommodate longer English strings:
+        * Golfing action menu
+        * Inter-match results screen
+        * Match play opponent select menu
+    * Modified skill menu to allow two lines per skill name.
+    * Moved dynamically inserted numbers to their correct positions in the new English strings:
+        * Caddie messages
+        * Level up message
+    * Fixed password screens to use English for input/output.
+    * Expanded "incorrect password" tilemap so the message would fit on one line.
+    * Shifted cutscene text down a line so it's not flush against the graphics.
+    * Fixed intro bugs/weird timing.
+    * Fiddled with formatting of intro character profiles.
+    * A few lines in the intro are shown in "two parts": the game prints the first part of line, then prints another message that's identical except with more text. The formatting of the English text has been edited to recreate this effect.
+    * Moved a couple of characters to different positions in the font:
+        * The character that was previously being used for the English period gets overwritten with a black space in golf mode for some reason, so it had to be moved.
+        * The game displays "・" next to skills that can't be used because you don't have enough SP. That character had been replaced with the colon, so I restored the ・ and moved the colon to another position.
+    * Adjusted water hazard message to use two lines instead of abbreviating.
+    * Fixed opponents' names getting truncated in the scoreboxes displayed during and between matches.
+    * Fixed error on "Green" screen: "THE OTHES" -> "OTHERS"
+    * Fixed title screen tiling error ("E" in "BATTLE").

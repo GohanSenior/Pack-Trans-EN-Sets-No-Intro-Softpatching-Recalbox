@@ -1,0 +1,116 @@
+=======================Yu Yu Hakusho======================
+===================Dark Tournament Rumble=================
+===========================V 1.01=========================
+Genre: fighting
+
+Source language: Japanese
+
+Platform: famicom
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: antoniusblocko@protonmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Yu Yu Hakusho Dark Tournament Rumble
+======================================================
+Project History:
+
+This project was started around 2014 when I asked Bongo'
+if he could code some graphic compression tools for the
+compressed graphics in the game. He graciously helped me
+and then the project went on the back burner as other
+things took priority.
+
+It wasn't until early 2019 that TheMajinZenki translated
+the script for me and then early 2020 that I finally
+hacked everything in.
+
+Normally I expand NES ROMs to fit a complete translation
+in, but this is a Datach game that technically can't
+be expanded. Luckily, the game had plenty of free space
+for whatever I needed. I really didn't have to make any
+sacrifices in getting a translation in, so names like
+Shishiwakamaru and Sword of the Darkness Flame fit like
+a glove.
+
+As for the game itself, you'd think a fighter on the NES
+is a bad idea, but the game isn't exactly terrible. Despite
+the obvious limitations, the game isn't half-bad.
+
+The patch should also be compatible with a hack that removes
+the Datach features from the game. Just apply that patch
+over the translation.
+
+======================================================
+Patch History
+======================================================
+1.0 - Initial release
+1.01 - Removed my hack to access debug and added information
+on how to access debug mode in-game (CaH4E3)
+
+======================================================
+Game Hints
+======================================================
+*Press Start + Select at the title screen to access the
+Datach Backup Check.
+
+*At Koenma's Judgment, enter this barcode 3 times:
+
+4902425388465
+
+Now, by pressing/holding Start, press Select anywhere in
+the game to access the debug mode.
+======================================================
+Patching Instructions
+======================================================
+The patch is in IPS, BPS and Xdelta format.
+You can apply it with a frontend such as:
+
+http://www.romhacking.net/utilities/893/
+http://www.romhacking.net/utilities/598/
+
+Apply the patch to the Japanese ROM:
+
+Datach - Yuu Yuu Hakusho - Bakutou Ankoku Bujutsukai (Japan).nes
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking, text editing
+
+TheMajinZenki - translation
+
+Ryusui - misc translation help
+
+bongo' - graphic decompression tools
+
+Graphicus - title screen design, misc graphic design
+
+cccmar - text editing, testing
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. August 2020

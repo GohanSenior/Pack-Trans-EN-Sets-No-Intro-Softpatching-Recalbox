@@ -1,0 +1,62 @@
+Magic John
+v1.0
+Februrary 3, 2011
+KingMike Translations (http://kingmike.emxuxhaven.net)
+
+***********
+INTROUCTION
+***********
+Around 2005, Shih Tzu wrote an article comparing Magic John to the official US release, Totally Rad.
+This was called The Rad Project, and you should like... totally read it or something if you haven't.
+http://www.flammie.net/vse/
+
+So, with his permission, I just put his translation back into the Magic John ROM.
+
+****
+TEAM
+****
+ KingMike - tools, assembly
+ Shih Tzu - translation
+
+***********
+WHAT'S DONE
+***********
+ Should be complete.
+
+************
+WHAT'S BUGGY
+************
+ None I'm aware.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+ Either apply the IPS version of the patch to a Magic John ROM,
+ or use a program such as upset (from byuu.org) to apply the UPS version.
+ Do not apply the translation to a Totally Rad ROM. I haven't tried it, but I think the patch will just break it.
+
+****************
+EMULATION ISSUES
+****************
+ This game uses mapper 18. Most recent emulators should support it.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+ Simple instructions:
+ D-Pad to move.
+ A to jump.
+ B to shoot.
+ Hold B to charge.
+ Push Start to pause and choose a magic spell.
+ Press Up + B to cast a spell.
+
+ Push Start to skip cutscenes.
+
+*********
+COPYRIGHT
+*********
+Original game (c)1990 by Jaleco
+English translation (c)2005 Shih Tzu, code 2011 by KingMike
+I am not affiliated with Jaleco.
+Do not distribute the game image ("ROM") and the patch.

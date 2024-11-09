@@ -1,0 +1,46 @@
+Taiyou no Tenshi Marlowe - Ohanabatake wa Dai Panic!
+English Translation Patch
+v. 1.0
+Author: Silenthal
+Completion Date: 2/1/11
+
+[Contents]
+1. About
+2. Gameplay
+3. Instructions
+4. Thanks
+5. Extra
+
+[About]
+Release date: May 27, 1994
+Region: Japan
+Developer: Technos Japan
+
+TNT is a game where you and Philip, a tiny Sun (huh) make flowers grow. Yep.
+
+[Gameplay]
+The basic idea is to press A when you are on a line with Philip (who roams
+around the perimeter of he map), with a flower bud in between you, to send out
+a ray of sunshine to make a flower bloom. Or, if there's something else
+in between Philip and you, the ray knocks out the offender temporarily.
+The little ray of sunshine that Philip sends out has a length
+determined by the heart meter at the bottom of the screen. You are also on a
+timer, which is shown on the bottom right.
+
+[Instructions]
+1. Use your favorite IPS patcher to apply tnt-patch.ips to a copy of TnT.
+2. Play.
+
+[Thanks]
+Evolutions, for the use of their font.
+
+[Extra]
+Checksums:
+Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-Panic (J)
+MD5: 022fd2b0cbaac8c7551a7db1cc861f5b
+SHA1: 3b9f13100a797623d1700ccfeff0b31da52f5dc3
+Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-Panic (J) [T+Eng0.50_Evolutions]
+MD5: 6027cbb6fcfbf60c97011730e09b401b
+SHA1: 9e671bbcf9f4b7012a80f66208e47a8f8bb9f158
+
+The filenames are given in GoodGBx, so you can use that to verify also.

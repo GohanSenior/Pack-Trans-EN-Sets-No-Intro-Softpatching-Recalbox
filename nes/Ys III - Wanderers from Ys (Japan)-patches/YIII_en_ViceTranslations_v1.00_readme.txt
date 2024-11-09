@@ -1,0 +1,110 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Ys III - Wanderers From Ys 
+  English Translation Patch
+  Version 1.00
+
+  Created by Vice Translations
+             http://vice.parodius.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CONTENTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1 - Version History
+
+2 - People who worked in this project
+
+3 - Notes
+
+4 - Standard Disclaimer Text
+
+5 - Trademarks
+
+--------------------------------------------------------------------------------
+1 - Version History:
+--------------------------------------------------------------------------------
+Version 1.00 [Size: 23199 bytes / CRC32: 5ec689e9
+             MD5: 384f3661843e428e76bd7a530003ad83 /
+             SHA1: 3c1ad1e226845e6a84557485bec50227bec97837]
+             (January 7, 2005)
+ -Script fixed and edited, all item, equipment and location names are translated.
+  So the game is finally done.
+
+Version 0.80 [17691 bytes / CRC e9715017
+             MD5 8c96e054523a2b73df0b6e01c9587eea /
+             SHA1 da35a47428b2fc654f48d4ee34f4865834476c57]
+             (December 19, 2004)
+ -Script finally fucking inserted. Took me FOUR YEARS, ONE MONTH, SEVENTEEN DAYS!
+  But I did it. Now go betatest it, dammit!
+
+
+Version 0.05 [1129 bytes]
+             (March 11, 2000)
+ -English Font Added 
+ -Game Menus translated
+   ~Load ~ Save ~ Status ~ Equip ~ Items
+   -Game loading and saving screens translated
+
+--------------------------------------------------------------------------------
+2 - People who worked in this project
+--------------------------------------------------------------------------------
+ Kitsune Sniper -
+  Game hacking, font insertion and preliminary translation.
+  Homepage: http://vice.parodius.com/
+  Email: kitsune.sniper[AT]Gmail[DOT]com
+
+ Deuce -
+  Main script translation.
+  Homepage: http://www.classicgaming.com/ninjagaiden/
+
+ Gideon Zhi -
+  Credits translation.
+
+ KingMike -
+  Technical assistance and suggestions0
+
+ Haeleth -
+  Ending translation.
+
+--------------------------------------------------------------------------------
+3 - Notes
+--------------------------------------------------------------------------------
+  The patch should be fully finished by now. So there should be no issues. If
+  you find any problems, shoot me an email and I'll fix it.
+
+--------------------------------------------------------------------------------
+4 - Standard Disclaimer Text
+--------------------------------------------------------------------------------
+  There is no videogame company or any other company associated with
+  Vice Translations [be it current or former members]. In no event shall
+  Vice Translations be liable or responsible for any damages that may
+  occur from direct, indirect or consequential results of the ability or 
+  disability to use or misuse any material it provides.
+  
+  In other words, you'd better own the cart for the rom that you're patching
+  [insert hysterical laugh here], and if something goes wrong, don't blame me!  
+
+  Also, this patch must never be distributed with the rom. The zip file must not
+  be modified in any way, including [but not limiting to] archive renaming,
+  adding a file to the original zip [like a file that indicates where you got
+  the zip file], and the like. And for Christ's sake, DO NOT DISTRIBUTE THE
+  FUCKING PATCHED ROM.
+
+  DO YOU HEAR ME, COWERING?!
+
+  If you post this file, or news pertaining to the file in your website [be it
+  an emulation news site, or a fan site] please notify me so that I may give
+  your site a visit! ^^
+
+
+--------------------------------------------------------------------------------
+5 - Trademarks
+--------------------------------------------------------------------------------
+
+ Ys III: Wanderers From Ys, all related names, indicia and characters are 
+ trademarks of Nihon Falcom. Copyright 1990 Nihon Falcom. NES Adaptation
+ Copyright 1991 Victor. All other names and programs mentioned in this 
+ document are trademarks of their respective owners.
+
+ Patch © Kitsune Sniper. Patch not for sale or rental.

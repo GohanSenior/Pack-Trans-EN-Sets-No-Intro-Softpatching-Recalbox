@@ -1,0 +1,59 @@
+ARGOS NO JUUJIKEN (SMS)
+Translation by Psyklax
+v1.0 (20171206)
+
+CONTENTS
+1. Intro
+2. ROM Information
+3. Final Thoughts
+
+INTRO
+This patch replaces the title screen of Argos no Juujiken on
+the Sega Master System with the title from the arcade game
+Rygar, on which this port is based. The colours have been
+reduced to match the Master System's palette, but the title
+itself is a pixel-perfect representation. The patch expands
+the ROM to fit the extra graphics in, and the logo takes
+slightly longer to appear on-screen due to the extra
+graphics tiles required.
+
+ROM INFORMATION
+GoodSMS name: Argos no Juujiken (J) [!].sms
+CRC32: BAE75805
+
+FINAL THOUGHTS
+This is my first SMS hack, and obviously title screen hacks
+are among the easier hacks around. This was even easier in
+that I didn't even need to design a new title: I just copied
+the one from the Rygar arcade game. I was surprised at how
+easy it was to expand the ROM on the SMS, so I decided to do
+it since there appear to be no ill effects. The only minor
+problem is that, due to the game loading more graphics tiles
+into memory, the music has to wait a little longer during
+the loading, so it sounds a little odd. Admittedly, the
+original game has a slight pause too, but now the pause is
+longer. But I think it's a small price to pay for a nice
+logo!
+
+To convert the colours, I made a new palette in GIMP which
+matched the SMS palette - that is, two bits for red, green
+and blue components, for a total of 64 colours. You can
+display quite a few on-screen at a time of those, but GIMP
+calculated which colours would be necessary for an
+approximation of the colours of the logo, and I made a new
+in-game palette with those colours and stuck the graphics
+in. I was rather pleased with the results: it's a lot easier
+than the kinds of graphical tricks necessary to get good
+colour on the NES.
+
+I'm sure I'll manage some SMS translations in future, but
+this was a good bit of practice nonetheless. Enjoy!
+
+Tools I used for this translation:
+MEKA (the best Master System emulator for debugging)
+HxD (general hex editing)
+Tile Molester (graphics)
+GIMP (for converting the title colours)
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

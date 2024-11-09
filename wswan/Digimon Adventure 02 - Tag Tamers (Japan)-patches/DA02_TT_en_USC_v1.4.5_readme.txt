@@ -1,0 +1,180 @@
+Digimon Adventure 02: Tag Tamers
+Version 1.4.5
+22 MAY 2021
+-Nikc
+
+==================================================
+|Description
+=================================================
+
+In the second season of Digimon, we see a brief flashback of how Ken Ichijouji became the cruel Digimon Emperor.
+Like several other parts of Season 2, they didn't elaborate any further on it. Fortunately, a series of games
+were released that gave the full story, in ways that are both confirmed and contradicted by the show itself.
+
+*Unfortunately* these games came out on the WonderSwan, which never left the islands of Japan, so English speaking fans
+missed out on the adventures of Ken and and the game's hero Ryo Akiyama... until now!
+
+Years in the making, this is my largest project to date. In addition to the translation itself, screen layouts and the game's code 
+have been altered to better accommodate the longer English names. Several visual glitches from the original game have also been fixed to improve the experience.
+
+Get ready to purify evil Digimon, fuse your Digimon partners together for more power (seriously, you'll be doing that a lot), and save TWO Digital Worlds!
+Now you have the opportunity to ponder the question that has stumped fans for over 20 years:
+How does the timeline between the games, the anime, and the movie even work!?
+
+==================================================
+|Changelog
+=================================================
+
+v1.4.5
+ -> Fixes issue with some battle sprites crashing the game
+ -> Adds method to earn Gold BITs in battle (which normally require multiplayer connections)
+
+v1.4.0
+ -> Translates a message about low battery (only visible on real hardware)
+ -> Provides an additional patch to use D-1 Tamer's battle sprite for Diaboromon
+
+v1.3.5
+ -> Translates (and retranslates) four battle attack effects
+ -> Fixes a line in battle that overflows due to changes in version 1.3.1
+ -> Edits an attack description to clarify meaning
+
+v1.3.1
+ -> Digimon names are no longer cut-off in battle messages!
+ -> Translated message at the Trader Outpost, before you're allowed to trade Digimon
+ -> Aligned and centered submenu graphics at the Trader Outpost
+ -> Fixed an issue with missing tiles in the Trader Outpost
+ -> Fixed an issue with a tile in House B
+ -> Fixed a letter in the Upgrader Shop submenu
+ -> Fixed a few inconsistencies with the attack descriptions
+ 
+v1.1.2
+ -> Translated message when you try to remove a DigiEgg with a full inventory
+ -> Translated message when all attacks are deleted (e.g. via Diaboromon's WebWrecker attack)
+ -> Fixed tilemap issues with Battle Menu and Tactics Submenu
+    ("e" and "a" should look correct now)
+ -> Fixed several types in Digimon Bios
+
+v1.1:
+ -> Fixed over-write issue in Playstation/Wonder Wave screen.
+    The layout's still not perfect, but it's the best I can do given
+    the screen size limitations.
+
+v1: 
+ -> Initial Release
+
+==================================================
+|Frequently Asked Questions
+=================================================
+
+Q. How do I buy items at the Geckomon/Otamamon Shop?
+-> A. By earning Gold BITs, of course!
+
+Q. ...Okay, how do I earn Gold BITs?
+-> A. By battling other players using the link feature on your Wonderswan!
+      ...since this is extremely unlikely for most people playing this, I've added code that gives you one Gold BIT per battle. I may tweak this a little in future updates.
+
+      (You can also edit the value using a debugger or in a save state)
+       -Mednafen: Open the debug tool, go to 1436C - 1436F in memory, then write your hex value in reverse order
+               (So, if you wanted 6160 Gold BITs, you'd convert to 0x1801 then write 01 18)
+
+       -Oswan: Open the save state in a hex editor, go to 143B6 - 143B9, and write your 
+               hex value in reverse order
+               (So, if you wanted 6160 Gold BITs, you'd convert to 0x1801 then write 01 18)
+
+Q. What are those symbols that appear when I walk over tiles in the DigiCaves?
+-> A. That is the English version of DigiCode/Digimoji. I've included a translation guide in the patch's zip file.
+
+Q. You used the names from the Dub? WHY!?
+-> A. Because I am history's greatest monster.
+      Also, the dub names are what I'm familiar with - it's how I was introduced to Digimon, so it's what came to mind
+      when I was writing the dialogue. 
+
+Q. Are you going to release a version using the original Japanese names?
+-> A. Probably not any time soon. My current program was built haphazardly, so making that big
+      of a change would take a lot of effort.
+      My plan is to create a new translation toolkit that will let me edit all the Wonderswan games
+      more easily than I can right now, but that will take time.
+
+      That said, if you *really* want a sub version of the patch sooner, I'd be happy to give you the scripts.
+      You can fix all the names, send it back to me, and I'll import it into my (eventual) new translation
+      program to create a second version of the patch.
+
+Q. Can you make the game in color? What about a Variable Width Font?
+-> A. Both of those things are way beyond my current skill-set. 
+      If I ever learn how (or if someone wants to teach me), then maybe!
+
+   
+==================================================
+|Future Updates
+=================================================
+
+-> Fix any typos or unclear/untranslated text
+
+==================================================
+|How to Patch
+=================================================
+Get a copy of the "Digimon Adventure 02 - Tag Tamers (Japan)" ROM and an IPS patching program (Lunar IPS seems to be the standard).
+Choose a patch to use, then run the program, click 'Apply patch', and viola! Enjoy.
+
+
+==================================================
+|Special Thanks
+=================================================
+A lot of people have contributed to this project over the years, and I want to give credit where it's due:
+
+*Ajora Fravashi
+-> The original English translator of the Ryo series. I wouldn't have known these games exists without their website.
+   I hope this patch does right by their work.
+
+*LaserMutt4
+-> For making multiple title screens to replace my subpar ones! I had some issues compressing it for this release, 
+   but I'll try to get it fixed for the next one.
+
+*TheMilleniumRacer
+-> For recording several multiplayer scenes so I could see how they worked. Thanks!
+
+*ChibiAliens
+-> For making your awesome WonderSwan ASM guide: https://www.chibialiens.com/8086/
+   I wouldn't have been able to understand the debugger without it!
+
+*XdanielZD
+-> For assistance with the Name Entry tile maps on the RHDN forums
+
+*Romsstar, Spikeman, KingMike, Disch, Zoinkity, mz, up-n-atom, and Trap15
+-> For all your help and advice on the forums whenever I've posted questions.
+   I usually wasn't smart enough to apply your feedback at the time, but eventually I got it
+
+*NH579, Iredc, julayla, Zdagger67, Stories8106, stratoform, mikeprado30, storall, Masaru, and Pennywise
+-> For your feedback, comments, and encouragement on the RHDN forum topic. I hope you enjoy the game!
+
+*Fiona Hinman
+-> For proofreading my work and creating a sub version of the dialogue. 
+   Hopefully I'll be able to create that alternate patch in the near-ish future!
+
+*Connor BloodRS (@Fajitamancer) 
+-> For finding some untranslated messages in version 1.1. - thanks! 
+
+*Karn EX (@Karn_EX) 
+-> For finding some untranslated messages in version 1.1.2. - thanks! 
+
+*Rodrigo (@rodrigosieghart) 
+-> For finding some untranslated messages and bugs in version 1.3.1. - thanks! 
+
+*Stadium ARTs (@stry8993)
+-> For finding an untranslated hardware message in version 1.3.5. - thanks! 
+
+*@BoWisneski
+-> For catching a patching issue with version 1.4.0 - thanks!
+
+*@Vitopinga
+-> For noting an issue with battle sprites in version 1.4.0 - thanks!
+
+*And You!
+-> For playing this translation, and for reading this far. A winner is you!
+
+==================================================
+|Feedback
+=================================================
+
+Questions? Suggestions? Glitches?
+WonderswanTranslations@gmail.com

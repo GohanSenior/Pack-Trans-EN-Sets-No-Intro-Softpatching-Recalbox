@@ -1,0 +1,184 @@
+Bare Knuckle 3
+English Patch
+Version 1.00
+Initial Release: Feb. 15, 2009
+by Twilight Translations
+--------------------------------------
+
+1. Introduction
+2. Development
+3. Notes
+4. Patch History
+5. Credits
+6. Acknowledgements
+
+--------------------------------------
+
+1. Introduction
+
+--------------------------------------
+
+Released on March 3, 1994, Bare Knuckle 3 (or Streets of Rage 3 as it came to be known
+outside Japan) is the third and final entry in the classic beat'em up Mega Drive series
+Bare Knuckle.
+
+When BK3 was translated and released as Streets of Rage 3, Sega -- for whatever
+reason -- significantly altered the content of the game. The most obvious change was
+the story, or lack thereof. The entire introduction sequence was removed along with
+other scenes in the game. In addition to this, the difficulty in SoR3 was ramped up to
+insane levels, making SoR3's hard mode comparable to BK3's Very Hard mode. However, the
+most perplexing change was the characters' palettes. Instead of wearing his usual
+white T-shirt and blue jeans, Axel was sporting jet black pants and a yellow shirt,
+reminiscent of Adam's attire. The other characters suffered similar "improvements."
+
+The full list of changes made is well-documented and can be easily found online,
+so I won't dwell on the negative any further. What we have instead is a game that is
+a deserving successor to the Bare Knuckle/Streets of Rage legacy. This is hands down one
+of the greatest beat'em ups released during the era.
+
+--------------------------------------
+
+2. Development
+
+--------------------------------------
+
+I'll be honest. Streets of Rage 2 is probably my hands-down favorite game of all time.
+I can't tell you how many hours of my youth were spent playing that game. So my interest
+in BK3 probably stems from there.
+
+The exact date I began working on BK3 with the intention to translate it isn't very clear,
+but the oldest file and emails related to this date back to early May 2006. Yeah, this
+project's been going on for a long time. I remember vaguely how it began, though. A group
+of hackers by the name of g8z_et_al (AKA z80_gaiden AKA Guest) had posted on RHDN concerning
+a Mega Drive game. Once I expressed my interest in BK3, they sent me a build of their modded
+version of Gens and the location of the Japanese font.
+
+So, I spent a few days (or weeks; I'm not sure) studying the code to make sure that I was
+even capable of hacking a Mega Drive game. All of my experience up to this point had been on
+the NES and SNES and the MD was entirely different beast. In retrospect, I'm actually kind
+of surprised that I didn't give up on the game. Anyway, I wrote a custom dumper and
+extracted the script. Then I contacted Anton Berglin, who had written a translation of
+BK3's text for Streets of Rage Online. He worked on it for a few months and finally sent
+me the script back around late November 2006. That's where the long period of uncertainty
+began.
+
+I'd like to think I produce only quality translations. To me, that typically means using a
+Variable Width-Font (VWF) where necessary and ensuring the script looks and sounds good in
+English. Both of these were necessary for BK3, but the former would prove much more
+difficult to implement than the latter. You see, I had no ASM experience with the MD or any
+68000-based system, nor was there a suitable 68k assembler available. No, if I wanted the
+game to have a VWF I would have to make the assembler myself. Enter SEKAS.
+
+SEKAS (short for Sixty Eight K ASsembler) is a modified version of byuu's excellent xkas
+with support added for the 68k processor (obviously). Creating SEKAS and testing it took
+easily a year of my life. I restarted the project twice that I know of, but I'm almost
+certain the current build is the result of a third reboot. The first versions were the
+results of my attempting to write an assembler from scratch, on my own. The final version
+was a result of working directly with xkas's source code. There are still a few bugs in
+SEKAS, which I discovered while working a demo of my own. Once these are fixed, I intend
+to release SEKAS.
+
+That puts us at late 2007 (work on SEKAS began in early December 2006) when work on BK3
+could finally resume. Due to lack of time and debugging Live-A-Live (another patch that
+I am extremely proud of) for Aeon Genesis, I don't think I started working on the VWF for
+BK3 until about February 2008. Once work finally began, it only took a month or so to get
+the VWF up and running perfectly. That left only the script editing.
+
+A fellow by the name of Valkyrie_Ace (AKA Roy_Fokker) volunteered to edit the script in
+early March 2008. Unfortunately, real life got in the way and it took VA until early
+November to get the first draft of the script back to me. I hooked back up with Anton
+to look over the script and let him voice any of his concerns...and that's the last I heard
+from either of them. I'm not sure what happened. Alas. Hoping they would resurface to finish
+the script, I let the first draft sit on my harddrive until early January 2009 when I
+decided I would finish the editing myself. And that brings us to today.
+
+Beta testing is in progress as I type this. Sliver X has run through the game and has only
+found two typos. Christuserloser is running through the game with his flashcart to ensure
+there are no problems with the various platforms he has access to. I ran through the game
+earlier on my model 2 Genesis with no problems.
+
+In closing, I'd just like to say that I hope you all enjoy this patch. This project in some
+form or another has been a huge part of my life for the past 3 years, and I'm almost sad to
+see it come to an end. Fortunately my happiness overshadows my sadness. Grab a buddy and
+enjoy some old school beat'em up action on me.
+
+--------------------------------------
+
+3. Notes
+
+--------------------------------------
+
+If you've followed along with this project, you'll know that I've contemplated releasing two
+patches: one using the original Bare Knuckle 3 names and another using the Streets of Rage 3
+names (Skate instead of Sammy, Roo, not Victy, etc) and title screen. In the end I decided
+against this for two reason. First, importing the title screen is a significant amount of work
+that I don't want to do. Second, where do I draw the line on the names? Only player characters
+or do I change the enemy names too to be consistent with SoR1 and SoR2? I couldn't come up with
+an answer, so I've chosen to release only one patch. Besides, now when the pirates sell RARE L@@K
+copies of ENGLISH BARE KNUCKLE 3 on eBay, I'll know exactly how much money someone has made off of my work.
+
+--------------------------------------
+
+4. Patch History
+
+--------------------------------------
+
+-Version 1.00
+
+ All the text in the game has been translated. This includes both dialogue in the story mode
+ and the win/lose quotes in the Battle mode, and the Engrish in the battle mode has been fixed.
+ The patch has been thoroughly tested and works on the hardware. If you find a platform it
+ doesn't work on, let me know.
+
+ Included files:
+
+ *bk3_100.ips - The English translation.
+
+ Overall, I'm extremely happy with the quality of the patch. This is probably the cleanest
+ code I've ever hacked into a game. Everything about this patch was fun to do, and hopefully
+ that shows.
+ 
+ There are currently no known bugs. Please note, however, that the patch has only been tested
+ on an American Sega Genesis Model 2. The code has been written in such a way that it should
+ work on all models, though.
+ 
+--------------------------------------
+
+5. Credits
+
+--------------------------------------
+
+Bare Knuckle 3
+Translation Team:
+
+RedComet - Programmer (me)
+Anton Berglin - Translator
+Sheex - Translator
+Valkyrie_Ace - Editor
+
+Testing and QA Team:
+
+Sliver X
+Christuserloser
+
+--------------------------------------
+
+6. Acknowledgements
+
+--------------------------------------
+
+In addition to the people listed in the Credits section, a few people deserve a special
+mention, without whom, this project would never have been completed:
+
+* g8z_et_al	- You guys have helped me so much. Without you I probably wouldn't be the hacker
+		  I am today. I hope you know how much I appreciate it!
+
+* Suzaku	- A partner in crime and more importantly a friend, who's helped out with on
+		  the spot translations and editing advice.
+
+* The fans	- The encouragement from members of various online communities (Sega-16, Streets
+		  of Rage Remake, Streets of Rage Online, and more) has been overwhelmingly
+		  positive even in the project's darkest hours. The praise and doubt kept me
+		  going. Thanks guys.
+		  
+And lastly all the people whose names I've forgotten. Thank you very much.

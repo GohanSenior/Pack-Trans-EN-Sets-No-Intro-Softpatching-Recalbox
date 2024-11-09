@@ -1,0 +1,71 @@
+=====================================
+              Rockman X
+ 
+   English version by Saki - 2019
+=====================================
+
+Bug report/contact: hersakiarc@gmail.com
+
+======================
+Description:
+======================
+I decided to remake my old
+patch of Rockman X with the
+stuff I learned. The script
+has been replaced in favor of
+a more accurate one. It took
+me about 3 weeks to build the
+VWF engine from zero. The patch
+has been tested in:
+Snes9X v1.55
+Bsnes+ version 04
+Bsnes 110.5
+SD2SNES Pro
+Snes9X GX (for Wii)
+
+IMPORTANT: If while playing you
+find problems that resemble the
+ones described in this link:
+https://tcrf.net/Mega_Man_X#Copy_Protection
+please apply Special_1.0.ips to
+fix it, or Special_1.1 if you're
+using the 1.1 version. If that still
+doesn't solve the issue, don't hesitate
+to contact Saki using the mail above.
+
+======================
+Side notes:
+======================
+In the Hadouken capsule,
+Dr. Light tells X about
+Ryu's body being forged
+in the bakufu (waterfall),
+which X mistakes for the
+Edo bakufu (a Japanese
+historical period). Yes,
+that's the pun.
+
+======================
+Patching:
+======================
+Open Lunar IPS and patch it
+to a headerless Japanese rom!
+
+======================
+Changelog:
+======================
+1.0 First release
+1.1 Typos
+1.2 More typos
+1.3 Complete rewrite and VWF
+1.4 Fixed reset bug
+1.5 Added support for 1.1 version
+
+======================
+Thanks to:
+======================
+DarkSamus993
+Ghaleonh41
+supersonicjc
+alex_tenjo
+Justin3009

@@ -1,0 +1,61 @@
+Tone:
+DO, DI, RE, RI, MI, FA, FI, SO, SI, LA, LI, TI
+(C, C#, D, D#, E, F, F#, G, G#, A, A#, B)
+
+1, 2, 3, 4, 5, 6, 7, 8
+Octave
+
+00, 0, 1, 2, 4, 8, 16, 32, Dot || 00., 0., 1., 2., 4., 8., 16., No Dot
+??, ?, Whole note, half note, quarter note, eighth note, sixteenth note, thirty-second note
+??, ?, dotted whole note, dotted half note, dotted quarter note, dotted eighth note, dotted sixteenth note
+
+
+
+Rest:
+00, 0, 1, 2, 4, 8, 16, 32, Dot || 00., 0., 1., 2., 4., 8., 16., No Dot
+??, ?, Whole reste, half rest, quarter rest, eighth rest, sixteenth rest, thirty-second rest
+??, ?, dotted whole rest, dotted half rest, dotted quarter rest, dotted eighth rest, dotted sixteenth rest
+
+
+End:
+Indicate end of "page". (Each page is its own instrument. Contains 100 bytes to play with.)
+
+
+
+Repeat 1:
+Repeat 2:
+Repeat 1 indicates number of times to repeat... Repeat 2 gives an address that... does something?
+
+
+Reflect:
+Reverb? Didn't toy with it.
+
+
+Speed:
+1-25. 1 = Very fast. 25 = Very slow.
+
+
+Timbre:
+Instrument/patch. Each value is a different instrument.
+1-55
+
+Offset:
+Not sure.
+
+White:
+Not sure.
+1-7
+
+
+Volume1:
+Rhythm2:
+Not sure.
+
+
+Key Change:
+(Can just be Key)
+Offsets "Do" and the rest of the scale.
+1-55
+
+Fade:
+Not sure. I assume it fades in or out.

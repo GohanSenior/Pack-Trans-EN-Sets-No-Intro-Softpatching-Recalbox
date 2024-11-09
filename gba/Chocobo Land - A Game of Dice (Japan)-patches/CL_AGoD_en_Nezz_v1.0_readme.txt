@@ -1,0 +1,29 @@
+*** Chocobo Land: A Game of Dice ***
+*** English Translation by Nezz  ***
+
+Chocobo Land is a board game in the Final Fantasy / Chocobo franchise with mechanical similarities to Monopoly and Culdcept. It was originally released on the PS1 in 1999 as "Dice DE Chocobo" and ported to the GBA in 2002.
+
+*** How to patch ***
+Apply the included patch file (either BPS or IPS) to this ROM image:
+
+Name: Chocobo Land - Game de Dice (J) [hIR]
+CRC32: D4F8152E
+
+*** Version History ***
+v1.0:
+Initial release
+
+*** Known Issues ***
+Not translated:
+- Player names in attract mode demo 
+- Credits
+Not tested:
+- Some postgame content
+- Link Cable functionality
+
+*** Contact ***
+Please report any bugs, problems or suggestions on the project's GitHub page:
+https://github.com/HoratioVex/Chocobo-Land-Translation
+
+- Nezz
+27th of September 2023

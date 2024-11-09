@@ -1,0 +1,101 @@
+=========================Go for it!=======================
+==========================Goemon 2========================
+===========================V 2.00=========================
+Genre: Platformer
+
+Source language: Japanese
+
+Platform: NES
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: antoniusblocko@protonmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Goemon 2
+======================================================
+Project History:
+
+Ah, this project was one of my first ever translation
+projects and also one of those so-called "dream" projects
+that I hoped to do at the time. I'm really fortunate that
+SteveMartin offered to translate the script for me because
+the reality was that I had no business hacking games at the
+time. I was beginning to understand assembly at the time and
+while I was able to complete the project, lots of compromises
+were made to finish the thing. Compromises that I wouldn't make
+now, but the whole thing was a learning experience.
+
+I did one of my first notable ASM hacks on this project, which
+was a DTE text compression routine that a fellow called kartes
+aka g8z et al helped me with on M.I.J.E.T.'s super obscure
+message board.
+
+Anyhow, fast forward 10 years later and Tom et al have
+released their translations for the entire SNES Goemon
+series, which inspired me to finally redo my old Goemon 2
+translation and give it the proper hacking it so rightfully
+deserved.
+
+The ROM has been expanded so that the script is no longer
+truncated and Tom has basically done his own translation
+of the game.
+
+The text has been made single-spaced to fit more text on-screen.
+It makes a huge difference in the shop with those tiny text boxes.
+
+Tom has translated all the location signs in the game, I converted
+them all to be horizontal and FlashPV designed all the graphics for
+them. 
+
+Anyhow, everything looks great and is now as it should truly be.
+
+======================================================
+Patching Instructions
+======================================================
+
+https://www.romhacking.net/patch/
+
+Apply the patch to the Japanese ROM:
+
+Ganbare Goemon 2 (Japan).nes
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking
+
+Tom - translation
+
+SteveMartin - old translation
+
+FlashPV - graphic design and hacking
+
+g8z et al - hacking help
+
+cccmar - testing
+
+All those who contributed into this process.
+
+======================================================
+
+Compiled by Pennywise. April 2022

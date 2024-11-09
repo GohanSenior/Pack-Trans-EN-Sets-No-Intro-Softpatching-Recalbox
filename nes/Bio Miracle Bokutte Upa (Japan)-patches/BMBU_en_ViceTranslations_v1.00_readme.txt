@@ -1,0 +1,79 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Bio Miracle - Boku-tte Upa!! [NES Version]
+  Bio Miracle Baby Upa!!
+  English Translation Patch
+  Version 1.00
+
+  Created by Vice Translations
+   part of   Kitsune's Den
+             http://vice.parodius.com/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CREDITS
+-----------------
+ Kitsune Sniper
+  Title screen design and hacking.
+  Email: kitsune [at] parodius [dot] com
+
+Project History:
+-----------------
+
+May 14, 2003
+  First and only release, this only translates the title screen. :p The game
+  has English text, and while it's a bit rough, it was good enough for 
+  me. It's understandable, if a bit Engrishy. I started this today, and
+  ended it today. La.
+
+  This is NOT to be used on the FDS version of the game. I wanted to hack
+  that one first but the audio on that thing is crappy. FDS has superior
+  hardware? My tails it has...
+
+Version History:
+-----------------
+ Version 1.00, May 14, 2003 [1,836 bytes]
+  Title screen hacked.
+
+What's left
+-----------------
+  Nothing... or so it would seem.
+
+
+Game Notes:
+-----------------
+  In case you're wondering, Upa [our hero!] also appears in a few of the Parodius
+  games, as well as Wai Wai World 2. He's a baby! And... he's got a rattle! And...
+  he kicks ass! Well, he crawls, hits you with the rattle, and then kicks your ass.
+
+
+Game Controls:
+-----------------
+  Left     - Makes your character move to the left.
+  Right    - Makes your character move to the right.
+  Up       - Not used.
+  Down     - Not used.
+  Select   - Not used.
+  Start    - Pauses the game.
+  A Button - Makes you jump. Depending on the time held, you jump higher/farther.
+  B Button - Makes Upa shake the rattle.
+             When you hit an enemy with the rattle, you fill him up with hot air, 
+             and you can either jump on him to be able to reach higher areas, or hit
+             him with your body to use him as a projectile. That's it.
+
+Copyrights
+-----------------
+ Bio Miracle - Boku-tte Upa!, and all related names
+ and characters are trademarks of Konami. 
+
+ Nintendo Entertainment System, Famicom, and all other related names
+ and indicia are Copyrighted to Nintendo.
+
+
+Disclaimer
+-----------------
+  There is no videogame company or any other company associated with
+  Kitsune Sniper. In no event shall Kitsune be liable or responsible for
+  any damages that may occur from direct, indirect or consequential results
+  of the ability or disability to use or misuse any material it provides.
+
+  In other words, you'd better own the cart for the rom that you're patching,
+  and if something goes wrong, don't blame me!

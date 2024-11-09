@@ -1,0 +1,76 @@
+DETECTIVE CONAN 1 (The Mechanical Temple Murder Case)
+Translation by Psyklax
+v1.0 (20140217)
+
+Hi everyone! This is my first ever proper hack, but it's a big one!
+
+If you're playing this, it probably means you already know about Detective
+Conan, but just in case you don't, here's a brief synopsis:
+
+Shinichi Kudo, a great high-school detective, is drugged and turned into an
+8-year-old boy. He assumes the name Conan Edogawa and is taken in by his
+girlfriend Ran Mouri (who doesn't know his true identity), living with her
+and her dad, useless detective Kogoro Mouri. Since he looks like a boy,
+Conan needs Kogoro to help solve crimes - he does this by knocking him
+unconscious with a poison dart, then using a device to change his voice to
+Kogoro's. Thus, everyone thinks Kogoro is a great detective (including
+himself) while Conan remains a mere innocent young boy...
+
+It's handy to know all this before playing, and there are a couple more
+characters to know about, since you'll see them in the game.
+
+Heiji Hattori is Kudo's rival from Osaka, and Ai Habara is another victim of
+the shrinking drug. Both of them know Conan's true identity, so you'll see
+Heiji referring to 'Kudo' in the game. The only other recurring character is
+Inspector Megure, who often has to deal with Kogoro on murder cases.
+
+You're all set to play, but I might as well tell you one or two more tips.
+
+First, change the text speed to 'Hi' in the menu ASAP: it's so slow
+otherwise! And in case it's not obvious, when you talk to certain
+characters, a little bubble saying 'SWAP' appears. Press SELECT to swap
+characters. This isn't essential to finishing the game (Conan can solve it
+all on his own), but it's much more fun to see the other characters'
+reactions to the case - and sometimes it can be a tad easier to use the
+older characters for various reasons.
+
+Not much else to say, other than I hope you enjoy my months of hard work!
+I hope to see you again for the second game!
+
+Psyklax
+17th February 2014
+
+**********
+PROGRESS
+
+Graphics:
+2EC80 - Misc text (Clear Time, Chara Change, Misc Kanji): DONE
+30000 - In-game menu: DONE
+32E70 - 'Profile' (little text): NOT DONE (not needed)
+32F70 - 'Name' (little text): DONE
+33070 - 'PROFILES' (title): DONE
+34000 - Title screen: DONE
+35E50 - Start menu: DONE
+38000 - Alphabet: DONE
+39F00 - 'KEYWORDS' (title): DONE
+3ABF0 - Password Alphabet: NOT DONE (not needed)
+3B6F0 - 'PASSWORD' (title): DONE (not needed)
+44000 - 'Change' (sprite): DONE
+908C0 - Travel Magazine: DONE
+D4CF0 - 'Yoneda Bookshop': DONE
+
+Text: 100% COMPLETE
+6787-67EF (Keywords): DONE
+76D8-79D9 (Profiles): DONE
+9C7C-9C8A (Speed types): DONE
+B3AE-B5AB (End credits): DONE
+B6B8-B6EF (Save positions - clear file): DONE
+B7F2-BCB4 (Save positions): DONE
+168F6-17EE2 (Dialogue): DONE
+18000-1AEAD (Dialogue): DONE
+20000-23F35 (Dialogue): DONE
+24000-2779F (Dialogue): DONE
+28000-2BB76 (Dialogue): DONE
+40000-43C76 (Dialogue): DONE
+4D5C1-4EE33 (Dialogue): NOT DONE (not needed)
+F8000-FA6C7 (Dialogue): DONE

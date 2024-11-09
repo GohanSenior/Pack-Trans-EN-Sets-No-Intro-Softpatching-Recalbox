@@ -1,0 +1,94 @@
+                                               -x      > .. <                    
+                                         `MMM$MM$MXXk.    ? ~                    
+                                        x*##"``"MRB$$MHX.X/XM                    
+                        x             :Mf        ^$$$$M$$M$M$                    
+                          "           ~!           *$$R$$MB$M               .    
+                                     .^             ^MRBB$RBB              '     
+                                    .!                X$$M$$$                    
+                                    X>                `R$$B$$>                   
+                                   <R                  `R$RRR                    
+                                  .$                    3M$88L                   
+                                   M                    :$M$$n             :>x   
+                                  `f                     !R$$M                   
+                                  Xf                     '$BB(                   
+                                  xX                      4$$k                   
+                                  M!                      ?$$R              `    
+                        `         ?M     :   :            !RRMr                  
+                                   M     ~   X             $B8!                  
+                                   #M                      <$$X                  
+                                   'R                      ~$$f                  
+                                 .X! !WMRH.                9$B$                  
+                                XM\ .W:~ `?k:              $!?Mk                 
+                               'M  'M"     ~ML            !5!>.tX                
+                               !>  X\`    ``'?r           ??T~ `"TMn             
+                               MM.U!      '.X!'.       ..MM'.   . 'M.            
+                               '9*         -`X!  !ttHHM!M! ~        &            
+                               M"~          !?""  ~~"/\"fX"~        #            
+                             .H`           !!!!   ``~! ..           X            
+                            nM!             ``<    <   !h    :  :: !!            
+                          JM**!           ~~        ~  ~XX ~~~.!!~.~             
+                     .xh?^  `             )(            ?MMM((.X:^               
+                  X/M:      .                           .Mf:@M                   
+              <!!`  ~-       -                 -       !M!~!$%                   
+             :"     `    `            `               .$~  ~$>                   
+           .M                                      .  X..  !8>                   
+           Wh   :    :            :  :    :           XK:  W$                    
+          'X                               ~         '!5   $$ JMMPX              
+          `E                                          <B.  BBM`   M              
+          '$k           .                  .   .    .  $>  $$:X  x!              
+           $H            -       >                    ~$>  $$$X !*               
+   ^    r  `Mr                            ``  ``      4R  !RRF :M                
+   .X    ! 'BX     .                 .    .   ..  . . X&LXMM~  X                 
+  x    :`  '$X      :                              : 'M$$?Xf   ^                 
+     `" !  'M!      ``  ~   ~        ~             ~`MR!!!X"  !                  
+  :Mf :~XM '9X   <                                 .9$!!.!M   X                  
+  :  /:X$> '@X      .    .      X:         .       d$!!!!XM   X                  
+   ~'X"" ~"'M. ~ '    ' ~    ~ '4"        ~~'   '.!R!!!!!!R   M  ~               
+    `h` f:`'$                                   'X$!!!!!!!h  `!    :  /    `     
+   . .'.X!..M"                   .         .  ..MR!!!!!!!XP  ."    ./.  /   !/~  
+      'HM~ !R.                   >         -  X$$X!!!!!!!X> :$M  <M~< .`  !M~'!: 
+ :" 'X"\/  '$MM~                 ~          :X" ?R$!!!!!!MkM$$M>  :  "  X""'"%" :
+   <X(`     `!R88Hh.                     :XHf    `?$XXXX9$R$$B$    !  .``..(  .!!
+   !"^ x`:r :   ^?M$MbMMenn> :   :::neeMF""        '$$M$$M$$$$M>  ` xx":fd>`xdh)n
+  ' 'X" !  "  .      MMM$$MB$M$MB$$M~'             'M$R$$MB$$$M   .\  X/~ /MM%!/*
+    `  ^  "  f  f   `$Mh?fM")f"X?"                  ?M$RR$R$$RM     :fX x?fMh)f" 
+   .  . "  '  /:   :MM"      .                     '@$M$$M$$$$M    f/  %xXk%f : f
+  >  >   >  !M~    H*                               9$R$$$B$$$R   :~ !))~  `.!!  
+   ~      ?"      X"                                MM$$$$R$$$!   ' ?fM'  ~/ "~  
+       .%! .    .X                                  3$M$BM$88B" .  X/L"  J>      
+ f :n>  ` / :X  :!                                  tMM$$$M$$M  <nMfX ::f        
+     
+
+                                 ___.--.__ _.--._
+                                /   \  ___)\  ___)
+                         ._____/  -  \ ) -  \ (____ ____.
+                         |-----\_____/_|____/______)----|
+                         '___________-{Opus}-___________'
+
+
+Wizardry- Proving Grounds of the Mad Overlord, Knights of Diamonds, and the Legacy
+of Llylgamyn Translation Project.
+
+
+Apply each of the following .IPS files to their respective Gameboy Color rom using
+HebeGb9x or Snestool.
+Please note, that at the onset of the game on the title screen you must choose the
+"Select Switch" option.  From here you will be given a language menu, all you need
+to do is change the first 4 topics to English mode.  Sorry about having you change
+the settings this way but it will only have to be done once, and once only.  :o)
+
+What's included in the patches are the following:
+This changes the Wizardry (Limited Edition Special Pack) Gameboy color roms into a
+fully playable English version with an extra comprehensive spell description list. 
+The only thing that is still unresolved is the password system.  During an attempt
+to either see a character's password or during transmigration, the player needs to
+key in letters from the Japanese alphabet.  Unfortunately, I have not been able to
+change the text display for this feature.  If their is anyone out there that might
+be able to fix this situation I would be very thankful.  :o)
+
+*For those who use Dgbmax and wish to flash all three of these games on your flash
+cartridge, there is a share feature which allows each game using this option to be
+using the same collective SRAM data.  Since each game was somewhat intended to use
+this feature by the three save slots inside the game it's a little more convenient
+this way by having all three games using only one 256k SRAM bank.
+

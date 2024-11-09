@@ -1,0 +1,60 @@
+Ninja Jajamaru: Galactic Battle
+English Translation Patch - version 1.00 11/19/02
+By HTI  http://hti.rpgclassics.com
+
+
+What You'll Need:
+-----------------
+1. This patch you just downloaded
+2. A Ninja Jajamaru: Ginga Dai Sakusen ROM for the NES/Famicom
+3. SNESTool
+
+
+What You'll Need To Do:
+-----------------------
+After you've downloaded the ROM, this patch, and SNESTool, put them all into
+the same directory.  Backup the ROM if you wish, then run SNESTool, select
+"Use IPS", then select "jaja100.ips", then your ROM.  The ROM is now patched,
+so run it in your favorite emulator.
+
+
+Boring Patch History:
+---------------------
+I wanted to find a nice, simple, yet fun game to ease my way into ROMhacking.
+I found this game, and began working on it.  I went to J2E's Message Board, and
+got Leo Lindgren to help me with the translation.  He got it all done, with the exception
+of a couple phrases.  I also ran into a slight problem finding some text, so
+I lost interest for a while.  I found that certain areas of the game needed a new
+table, since the font was mapped to different values, so I pursued another
+translator to finish the last couple of lines.  Finally, Cidolfas convinced me
+to e-mail his friend Nora, which I did, and she was able to translate it.
+
+Then I got the rest done fairly quickly, pieced together a title screen, and was
+done.
+
+
+Gameplay Notes:
+---------------
+There are a lot of large pits you'll have to jump across, and the two main
+characters aren't particularly great jumpers unless they're running.  Press
+and hold "B" to gain momentum, the release to dash, allowing you to jump farther.
+
+If you keep holding "B", you'll start rolling.  This can be used to defeat
+enemies.
+
+To enter the targets that are found at the end of levels, hold "B", press Up,
+and jump, to jump straight up in the air, then hold "Up" to enter the target.
+
+
+Credits:
+--------
+Hacking: Hiryuu
+
+Translating: Leo Lindgren
+
+Additional Translating: Nora
+
+And thanks to Kagon for testing the translated ROM.
+
+
+

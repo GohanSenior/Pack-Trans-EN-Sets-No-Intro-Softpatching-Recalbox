@@ -1,0 +1,53 @@
+Wizardry Empire - Staff of Resurrection
+Version 1.16
+3/6/2017
+
+Credits
+MrRichard999 - Hacking & Project Lead
+Rainponcho - Hacking/ASM Work/Re-Working & polishing of project (Fixed a lot of stuff and made it all 100%)
+Helly - Lead on Translations
+AgentOrange - Translations
+Mark Patraw - Spell/Item/Enemy Translations
+GamerHenky - Script Revision/Extensive Testing and Bug Finding
+Demilich - Script Revisions & Testing
+Pacnsacdave - Title Screen Graphics "The Staff of Resurrection"
+
+This bps patch includes:
+- Full English translation
+- Re-naming of magic to traditional Wizardry naming
+- ASM fixes to windows and dialogues
+- Japan bug fixes
+- Ghoul uncensored graphic from 1st Wizardry Empire
+
+1. First download a beat (bps) patcher tool.
+
+http://www.romhacking.net/utilities/893/
+https://byuu.org/tool/beat/
+
+This tool prevents gamers from making patching mistakes.
+
+And it ensures the creation process worked correctly.
+
+2. Run the beat program and apply the included bps file.
+
+  Japan game: "Wizardry Empire - Fukkatsu no Tsue (Japan).gbc"
+
+  !! It should be an original, unpatched rom !!
+
+  If you get an error message, then your Japan rom is incorrect.
+  Or you should re-run the beat patcher again.
+
+  Original Japan MD5: FA8360094CAE37A838FABCFD333AE300.
+
+3. If all goes well, you will get a successful patching message.
+
+   Enjoy the game in an emulator or real handheld device.  
+
+4. Caution: applying other people's hacks and addendums may
+   create errors in your game. Doing so will void your complaints
+   and bug reports.
+
+5. To Wizardry fans, enthusiasts - please enjoy this group effort
+   by the romhacking community.
+
+   Be sure to check out our other Wizardry projects.

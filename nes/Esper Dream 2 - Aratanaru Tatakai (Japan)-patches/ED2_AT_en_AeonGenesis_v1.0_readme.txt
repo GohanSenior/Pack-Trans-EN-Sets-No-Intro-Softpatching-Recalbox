@@ -1,0 +1,95 @@
+ESPER DREAM 2
+ENGLISH TRANSLATION V1.00
+Copyright 2006 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.  About Esper Dream 2
+2.  Patch History
+3.  Patch Credits and Contributors
+4.  Known issues
+5.  Application Instructions
+
+---------------------
+1.About Esper Dream 2
+---------------------
+Esper Dream 2 is a fairly simplistic Action/RPG by Konami. The
+game has our protagonist chasing the missing Rings of the Book
+Worlds through a number of novels-come-to-life. Enemies in this
+are symbolized by walking pawprints; should the character come
+into contact with the prints, the scene switches to a battle
+arena in which the player, an ally (if one is present), and the
+enemies duke it out in similar fashion to a Zelda game.
+
+A few (extremely minor) changes were made to accomodate screen-
+space restrictions; since the name variable is four letters
+long, the main character's default name in the Japanese version
+("Mamoru") was changed to "Matt." Similarly, the esper powers
+mostly underwent cosmetic changes:
+
+Esper Beam -> ESP Beam
+Esper Light -> Light
+Esper Stop -> ESP Stop
+Power Repair -> ESP Heal
+Teleport == Teleport
+Flash == Flash
+Foe Call == Foe Call
+Esper Barrier -> Barrier
+
+Everything else retained its original name.
+
+---------------
+2.Patch History
+---------------
+
+Esper Dream 2 is a game I'd wanted to work on for a very long
+time, but was not able to do until recently. A few months ago
+I received some initial help from g8z et al. on shrinking the
+16x16 font to an 8x16 font; their hack worked, but I was still
+stuck with the original number of characters onscreen at the
+same time, and there were other routines that needed changing
+(although they shared the actual print code with the main
+routine.) When DDS stepped up to the plate to translate, I
+fixed the font stuff, and when he finished the script in a
+week's time, I quickly got the rest of the game up and running.
+
+As a slightly humorous aside, shortly after launching the beta,
+my testers started to complain that the first boss was
+unbeatable. This couldn't be right, I thought, as I'd already
+played through the game in its entirety on my own. Sure enough,
+though, the boss's HP was set to 65535 if its health ever
+went negative. Turns out there was a checksum implemented to
+prevent the editing of the title screen... I removed the check
+and it worked fine, but still. Classic Konami, title checksums.
+
+September 12, 2006 - Initial version 1.0 release.
+
+---------------
+3.Patch Credits
+---------------
+THE ESPER DREAM 2 TEAM
+Main Team:
+Gideon Zhi - Project leader, Romhacker, Translator
+DDS - Japanese Translator
+g8z et al - Initial font routine work
+Kitsune Sniper - Title screen
+
+--------------
+5.Known Issues
+--------------
+-There are no known issues! Hooray!
+
+If you find anything wrong, please say so on The Pantheon
+(http://donut.parodius.com/agtp).
+Screenshots and savestates (FCE Ultra format only, please!) are
+preferred.
+
+--------------------------
+6.Application Instructions
+--------------------------
+Quick ROM Info:
+384KB (3mbit NES; 2mbit PRG/1mbit CHR)
+
+Simply apply the patch with a patching program of your choice.
+I personally recommend Lunar IPS (http://fusoya.cg-games.net)

@@ -1,0 +1,94 @@
+=====================TwinBee 3========================
+=================The Terror Trunk=====================
+=======================V1.02==========================
+Genre: Shooter
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail:	  yojimbogarrett@gmail.com		 
+		 
+Web-site: yojimbo.eludevisibility.org
+ 
+ 
+======================================================
+TwinBee 3 The Terror Trunk
+======================================================
+This was one of my first translations I did as well.
+Recently I was contacted by M-Tee telling me that he
+had redid the title screen and it looked much better
+than what I had originally. So the patch was updated.
+
+Not much to say about the game, it's your standard
+wacky Konami Shooter.
+
+I've revisited this project a decade later to fix
+some long-standing issues I created by translating
+the end credits, which are sprites and successfully
+fixed it all up while also renaming the title a bit.
+======================================================
+Game Tips
+=====================================================
+*If you beat the game on Hell difficulty, you'll get
+a different credits sequence.
+======================================================
+PATCH HISTORY
+======================================================
+1.0  - Initial Release
+1.01 - Title screen improvement
+1.02 - End credits fix
+======================================================
+PATCHING INSTRUCTIONS
+======================================================
+I've included two patch formats, IPS and BPS. For BPS,
+you need to download byuu's patcher beat.
+
+These are some of the links where you can download it.
+The patching process is the same as IPS.
+
+http://byuu.org/programming/
+http://www.romhacking.net/utilities/893/
+http://www.smwcentral.net/?p=section&a=details&id=5917
+
+Apparently beat has issues working on XP, but I've been
+told the third link works on XP.
+
+Apply the patch to the original Japanese version of the
+ROM:
+
+TwinBee 3 - Poko Poko Daimaou (J).nes
+======================================================
+SPECIAL NOTICE
+======================================================
+There may be some slight misspellings in the game but
+otherwise it was immensily tested. Another token of my
+gratitude to all those who helped me with this one.
+
+I'd very grateful, if you send me reports about bugs
+or glitches found during gameplay, but please, do not
+forget to add some descriptions, savestates and names
+of emulators you use. (screenshots would be useful
+as well).
+=====================================================
+
+Credits go to:
+
+Pennywise - Hacking
+
+Demi - Previous work
+
+M-Tee - Title screen hacking and design
+
+Ryusui - Misc translation
+
+FlashPV - Additional title work
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. February 2024.

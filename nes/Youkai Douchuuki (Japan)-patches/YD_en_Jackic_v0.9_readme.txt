@@ -1,0 +1,31 @@
+English Translation Patch por "Youkai Douuchuki" on the famicom.
+
+What is this?
+
+This is an ips patch to localize the text on the game into english.
+
+What has been translated?
+
+Most the text in the game, including graphics.
+
+Bugs y statistics.
+
+About 10 hours of work were needed to translate the game from spanish to english. 
+
+There's a bug still to be ironed in this version, when Tarosuke buys the turtle from the water demons, they are supposed to disappear, well, they don't, nothing major as you can just ignore them.
+
+What rom do I need?
+
+This patch can only be applied succesfully to "Youkai Douchuuki (J) [!]" ROM CRC32    390210b2
+
+What do I need to install it?
+
+The rom in question, this patch and an IPS Patcher.
+
+How do I apply it?
+
+Use an IPS Patcher to apply the patch to the rom and you are all set.
+
+Thanks for using this translation.
+
+Jackic 2019.

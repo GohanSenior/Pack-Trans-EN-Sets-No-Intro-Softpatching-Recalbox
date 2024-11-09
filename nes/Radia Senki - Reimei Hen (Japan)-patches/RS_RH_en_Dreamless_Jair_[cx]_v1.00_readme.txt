@@ -1,0 +1,45 @@
+Chronicle of the Radia War
+English Translation 1.00
+9/11/99
+
+dreamless..................translation
+                           substring program
+Jair.......................ASM modifications
+                           graphics
+[cx] (project founder).....graphics
+                           initial text and ROM work
+
+Special thanks to
+    Taskforce.....help with initial ROM work
+    Spinner 8.....beta testing
+    John Hough....beta testing
+
+
+------------------------------
+What It Is
+------------------------------
+
+Radia Senki, or Chronicle of the Radia War, is a Famicom game released by Tecmo, Ltd. in 1991.  This is an unofficial, noncommercial translation into English.  All text is translated and there are no known bugs.
+
+
+------------------------------
+What You Need
+------------------------------
+
+A Radia ROM
+The patch (radia100.ips)
+A patching program (Snes-Tool recommended)
+An emulator or console copier (loopyNES 06/26/99 recommended)
+
+Obtaining a ROM is up to you; do not ask us for one.  If you have trouble, you might try asking at the ROM Request Boards (http://members.tripod.com/~DooMStalk/).  The loopyNES home page is located at http://loopy.retrogaming.net/  The game is playable in Nesticle, but some graphics will be missing or garbled.
+
+To apply the patch using Snes-Tool, start Snes-Tool and choose "Use IPS".  Choose "radia100.ips".  Choose your Radia ROM.  (You may want to make a backup copy first.)
+
+
+------------------------------
+How to Play
+------------------------------
+
+The gameplay is pretty self-explanatory.  Most enemies will drop items instead of money.  If you find yourself short on cash, sell off some of the Tusks, Bones, and Meat that you've collected.  And watch your HP, because if your main character falls, the game is over.  Be brave and have fun!
+
+Home page: http://www.resnet.trinity.edu/gknodle/radia/radia.html

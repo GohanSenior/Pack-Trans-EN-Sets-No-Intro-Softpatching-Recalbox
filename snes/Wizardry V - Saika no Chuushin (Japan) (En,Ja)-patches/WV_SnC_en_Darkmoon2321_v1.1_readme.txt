@@ -1,0 +1,100 @@
+-----------------------------------------------------------------------------
+Wizardry V: Uncensored English Edition ReadMe
+-----------------------------------------------------------------------------
+
+While a fully English release of Wizardry V was published in North America, 
+that version contained a great deal of censorship.  All references to nudity,
+alcohol, blood, violence, and religion were replaced.  This hack makes it
+easier for English players to experience this game as it was originally
+intended.
+
+This hack translates the switch/options screen in the Japanese version of
+Wizardry V: Heart of the Maelstrom into English.  It also changes the default
+character names, the default language, and the default character set to use
+when naming your characters.  The Japanese version of Wizardry V already had
+the ability to display text in either English or Japanese, but English
+players had to navigate the untranslated switch menu, which had five
+different switches for changing different parts of the text from one language
+to another.  This hack combines those into a single switch that controls all
+of the in-game text.  Additionally, several grammatical errors in the game's
+text were corrected.
+
+-----------------------------------------------------------------------------
+Patching Information
+-----------------------------------------------------------------------------
+
+This ips patch is intended for a headerless, Japanese version of 
+Wizardry V: Heart of the Maelstrom for the Super Famicom.  You can easily
+tell if your file has a header by checking the file size.  The headerless ROM
+will have a size of 1,048,576 bytes, while a ROM with a header will be
+1,049,088 bytes.  It's always a good idea to back up your file prior to
+patching in case there is a mismatch, or if you've applied multiple patches
+that turn out to be incompatible.
+
+-----------------------------------------------------------------------------
+Important Notes
+-----------------------------------------------------------------------------
+
+If you played the game previously, a save game will already exist, and the
+existing options will not be reset.  In this case, it is recommended to visit
+the switch screen and toggle the "TEXT" switch at least once while setting
+the language to your preference (USA for English or JPN for Japanese).  This
+will ensure that all the game's text is properly translated.  Aside from
+this, saves from the original version should be compatible with this hack.
+
+If any of the default characters with Japanese names are present before the
+hack is installed, they will remain unless you delete them manually from the
+Training Grounds menu, delete/move your .srm file, or reset backup data.  To
+reset backup data, delete all characters from the training grounds, and then
+attempt to delete again.  You will be presented with the option to reset
+backup data, which will delete all character data, all mapping progress, all
+NPC encounters, Boltac's trading post, and memos.  Once you restart the game,
+the default characters will automatically be created with their English
+names.
+
+-----------------------------------------------------------------------------
+Version History
+-----------------------------------------------------------------------------
+
+Version 1.0 (1/14/17)
+
+-Tileset for the switch/options menu was modified to be similar to the North
+American release of Wizardry V, while retaining the ability to switch
+languages.  All text is now controlled with a single switch instead of five.
+
+-Default character set when naming characters was changed to be English or
+Japanese, depending on which language you selected in the switch menu.  The
+original game remembered which character set you used last, and would display
+it first, even if it was Japanese and all other text was in English.
+
+-The default language when you first create a save game is now set to English
+instead of Japanese.
+
+-Names of the default characters were set to their English translations.  If
+an existing save was present prior to applying the patch, already existing
+characters will keep their names and information.
+
+-Several grammar errors were corrected in the English text.  Some instances
+of the "stoned" status effect were changed to "petrify", "ashe" was changed
+to "ashes".
+
+
+Version 1.1 (9/04/17)
+
+-When dropping an equipped item, fixed a typo: "equiped" is now "equipped".
+
+-Corrected the "I didn't know you were still there!" text when an NPC has
+nothing else to say to you.  Previously it was "I did'nt know you are still
+there!"
+
+-Fixed an error in the text before the final battle: "Within a nexus a roaring
+flames" => "Within a nexus of roaring flames".
+
+-Near the timeless room on level 3, fixed a glitch that prevented one of the
+lines of text from showing up.  Text now correctly reads "A quiet silence echoes
+in a room with walls lined in White Curtains".  This glitch was also in the
+official North American release.
+
+
+Enjoy!
+-darkmoon2321

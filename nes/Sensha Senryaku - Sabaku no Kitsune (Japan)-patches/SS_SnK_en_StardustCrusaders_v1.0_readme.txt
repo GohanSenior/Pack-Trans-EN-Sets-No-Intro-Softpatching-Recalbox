@@ -1,0 +1,96 @@
+=======================Tank Commander=====================
+=========================Desert Fox=======================
+===========================V 1.00=========================
+Genre: strategy
+
+Source language: Japanese
+
+Platform: famicom
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: antoniusblocko@protonmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About
+======================================================
+Project History:
+
+This translation probably seems pretty random and out
+of the blue, but it was a project that I had looked
+into when I first started doing translations. For whatever
+reason it never got off the ground, but I still had a folder
+for the project for about a decade. Recently, I decided to
+get serious about the project and finish it.
+
+For full disclosure, this game is probably the most politcally
+incorrect game I've probably translated so far. Because
+you control the forces of Nazi Germany under the command
+of Erwin Rommel during the North African conflict in WWII.
+When the game was released in the US as Desert Commander,
+they stripped all that away and as a result, you had a bit
+blander game. The original game did feature swastikas, but
+I decided to remove them from the game, not from a censorship
+standpoint, but from a localization one. I removed the swastika
+from the battle simulation screen because I needed the space for
+text. I also removed the swastika icon from the battlefield
+because Rommel was not a Nazi, he was the general of the
+Wehrmacht. I felt the Iron Cross was more appropriate.
+However, Hitler makes an appearance in the post-battle,
+so if you're easily offended, this isn't the game for you.
+
+That all said, it's not a bad strategy game and what you
+get here is a solid translation for an obscure and politically
+incorrect Famicom game.
+
+
+======================================================
+Patching Instructions
+======================================================
+Due to limitations in the IPS format and the changes I
+made to the ROM, the patch is in the BPS or xdelta format.
+You can download the appropriate program here:
+
+http://www.romhacking.net/utilities/598/
+http://www.romhacking.net/utilities/893/
+
+Apply the patch to the Japanese ROM:
+
+Sensha Senryaku - Sabaku no Kitsune (Japan).nes
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking, text editing
+
+TheMajinZenki - spot translations
+
+FlashPV - title screen design and misc graphics
+
+cccmar - testing
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. September 2019

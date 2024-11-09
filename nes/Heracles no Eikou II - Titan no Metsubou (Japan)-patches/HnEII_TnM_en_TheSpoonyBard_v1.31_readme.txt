@@ -1,0 +1,121 @@
+The Glory of Heracles 2: Titans' Downfall
+        by toma and friends
+
+!-*Completed patch version 1.31*-!
+
+What this time?! You couldn't warp to Loran, and now you
+can. Nothing big, but it was an inconvenience for sure.
+I noticed this playing through the game again in PocketNES
+and figured it was worth fixing. I also fixed a couple of
+translation goofs here and there, nothing big. Enjoy!
+
+Game Info:
+
+The game rocks. That's all there is to it. That's
+why I started my first attempt, and that's why the
+second attempt worked. Yeah. The game is very DQish,
+and it's sort of a cross between DQ2 and 3, so all
+you DQ fans can either jizz your pants or dis DECO
+for ripping off the DQ game system for a game. But hey,
+it's done. It's the first "big" project (RPG) I've ever
+actually finished translating, so I'm really proud of
+myself. I've been working on it for over two years,
+so all I can say is that you had all better like it!
+
+So here's the kind of instruction manual-esque stuff.
+I didn't try to get all the descriptions and stuff, because
+to tell the truth, I don't even know what everything in
+this game does. Maybe if I had a japanese manual I could
+translate it too, but I don't. The game is fully playable
+and beatable and stuff, so that should be good enough for
+anyone, just think of it as an old game you picked up at
+a yard sale and you'll be fine... ^_^
+
+Walkthrough:
+
+This isn't realy a walkthrough, it'll just get ya started
+on the right track and help you through the first town,
+which people seem to have a problem with. First off, you
+can't name your main character (or any other character for
+that matter) "Herac". This is because your main character
+IS NOT Heracles, and the name is reserved for later on.
+Now, on getting through that town. First thing of all, after
+you talk to the blue haired girl, you have to talk to the
+guy walking around way off to the left of her in order to
+give her a name. Then go to the house in the south-east
+corner of town and look under the bed upstairs. It's pretty
+much self-explanatory after that, and even that isn't all
+too hard to figure out on your own. So anyway, spoilers are
+bad, so play the game and have fun!
+
+Items:
+
+Medical Herb (MedHerb): Recovers HP.
+Antidote Herb (AntHerb): Cures Poison.
+Carrot: Cures Numbness.
+Torrent: Cures Stone.
+Mast Ball: Unleashes an attack on an enemy.
+Life Pip: This seed can heal almost anything.
+Night Curtain (NtCurtn): When you're in a town during the day,
+                         use this item to make it night.
+Letter: You'll need this to get into the castle of Nana.
+Pallos's Flute (PallosFl): This flute will be important later
+                           on in your quest.
+Cutting Tool (CutTool): Useful for removing statues from the
+                        ground.
+Ares's Bone (AresBon): This item has some connection to flight.
+Rusty Sword and Shield: These are ancient weapons passed down
+                        from your grandfather.
+Tunic: A basic piece of clothing.
+
+Spells:
+
+Pow: Restores HP.
+Powra: Restores more HP.
+Powtes (Powte): Restores even more HP.
+Kunomisu (KMisu): Cures Poison.
+Kunopara (KPara): Cures Numbness.
+Kunostone (KSton): Cures Stone.
+Dakep: Teleports you out of a dungeon.
+Noarun (Noarn): Teleports you from town to town.
+Exis: Destroys the undead.
+Trello: Causes Confusion.
+
+Ailments:
+
+Dead (Skull): You're dead, you can't do anything.
+Sleep (Z's): You can't move during the battle until you wake up.
+Stone (Stone): You can't do anything in or out of a battle.
+Numb (Lightning Bolts): You can't do anything in or out of a battle.
+Confused (Question Marks): You may or may not attack your allies/yourself.
+Poison (Bottle): You lose 2 HP for every step you walk.
+
+Credits:
+
+Program Editor
+ toma
+
+Translators
+ Maht
+ Zackman
+ toma
+ Ryuukishi
+ Chess Piece Face
+ Robyn
+
+Special Thanks
+ prez
+ AWJ
+ blah
+ InVerse
+ UnaFarmer
+ Sheex
+
+Disclaimer:
+
+Heracles no Eikou 2: Titan no Metsubou is a trademark
+of Data East Corp. It was not created by The Spoony Bard,
+CTC, or any other unofficial translation group for that
+matter. The above groups are not responsible for any
+misuse of the patch or translation of the game, and will
+not be held liable for any damages.

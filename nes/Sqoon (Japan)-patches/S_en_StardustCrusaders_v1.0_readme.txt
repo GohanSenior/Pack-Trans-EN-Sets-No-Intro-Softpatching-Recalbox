@@ -1,0 +1,49 @@
+
+English Translation V 1.0
+Copyright 2010 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Sqoon 
+2.Patch History
+3.Patch Credits
+4.Known Issues
+5.Application Instructions
+6.Contact
+------------------------------
+1.About Sqoon
+------------------------------
+Sqoon is a very repetitive shooter released early on for the NES.
+---------------
+2.Patch History
+---------------
+
+Everything's done
+---------------
+3.Patch Credits
+---------------
+Me- Hacking
+Eien ni Hen- Translator
+DarknessSavior- Translator
+
+--------------
+4.Known Issues
+--------------
+None
+
+---------------------------
+5. Application Instructions
+---------------------------
+Apply this patch to the Japanese version of the game.
+
+--------------
+6.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or check out my site at
+
+yojimbo.eludevisibility.org

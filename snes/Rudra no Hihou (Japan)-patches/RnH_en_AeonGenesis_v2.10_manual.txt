@@ -1,0 +1,1218 @@
+Rudra no Hihou/Rudra's Secret Treasure Manual Translation
+[Gid Zhi's notes will be in brackets.]
+["Treasure of the Rudras"]
+
+Page 3
+
+CONTENTS
+
+The World of Rudra's Secret Treasure  -  4
+Character Introduction  -  6
+How to Start the Game  -  8
+Controller Operations  -  10
+Common Actions  -  12
+Travel, Transportation, Gathering Information  -  12
+About Treasure Chests  -  14
+Other Devices in the Fields  -  15
+Shop Guide  -  16
+About the Menu Screen  -  18
+Menu Commands  -  19
+Word Essences and Elements  -  23 ["Mantras" and Elements]
+Drawing Up Word Essences  -  24 ["Mantras"]
+Basic Word Essence List  -  25 ["Mantras"]
+About Elements  -  26
+Elements in Word Essences, Weapons, Armor  -  27 ["Mantras"]
+Battle  -  28
+Battle Commands  -  29
+Changing Battle Order, Status Abnormalities  -  31
+Weapon, Armor, Accessory List  -  32
+A Mini-Encyclopedia of Rudra's Secret Treasure  -  38
+
+
+Page 4
+
+
+THE WORLD OF RUDRA'S SECRET TREASURE
+
+Long ago...
+In the days when the earth still dwelled in chaos...
+It is told that heaven ordered earth's chaos, 
+that heaven bestowed its great power to earth, 
+and that heaven brought prosperity to earth. 
+Life on earth was born.
+
+Those who were the keepers of arcane lore, 
+the Danan mystics.
+Those who held the power to wander
+the ocean, the water denizens.
+Those of high hopes and lofty spirits,
+the reptilians.
+Those whose bodies withstood 
+all environments, the giants.  
+However...
+Heaven's favor
+was not with them.
+As time flowed on, 
+they vanished
+from the earth.
+And...
+Heaven once again 
+gave birth to life on earth  - 
+And, it is told, brought a long time of prosperity 
+to the earth...
+
+
+Page 5
+
+A Simultaneously-Advancing, Mutually-Influencing, Dramatic RPG!
+
+At the end of every 4,000 year period, when the prosperous
+race is destroyed, a new race is born. Staged against this
+world's cycle of birth and ruin, a group of heroes will
+fight to save the human race from downfall.
+
+This story will divide into three simultaneous scenarios.
+They will intertwine and influence each other in their
+advancement to dramatically develop for your enjoyment.  
+
+Picture Captions:
+In each scenario, the events transpiring...
+...will be experienced from different viewpoints according
+to the different scenario.
+
+Create Your Own Magic: The Word Essence System [Mantra system]
+
+This game's biggest feature is the player's ability to
+create their own magic, "word essence".  As every word
+hides some magic power, the player proceeds on the
+adventure with word essences of their own design.  If you
+can discover some fundamental principles, you can greatly
+increase your magic power.  Begin creating your own word
+essences!
+
+Picture Captions:
+If you learn word essences right from the start...
+...you'll soon be creating them completely on your own. 
+
+
+Pages 6-7
+
+
+CHARACTER INTRODUCTION
+
+The three heroes who will play the greatest parts in the
+three scenarios, their parties, and a mysterious fourth
+hero  -  let's meet them all.
+
+Sion
+A brave but slightly reckless soldier in the service of
+the King of Kreunew.  He is about to take "The Challenge ["Tower of the Braves"]
+of the Warrior's", the trial to become the head of the   [May later be changed]
+knights of Kreunew. 
+[Note: most English-language webpages spell
+the knight's name as "Cion" (culled from
+Square.net/RPGamer, which in turn culled it
+from a Squaresoft webpage).  "Cion" is incorrect;
+the Rudra manual, OSV, and piano book all spell
+his name as "Sion" in roman letters.]  
+
+Foxy
+The daughter of the wealthy Eremias, who live on ["Eremia"]
+the eastern continent over the sea from Kreunew.
+
+Ture
+One of the last surviving giants.  He was freed
+from captivity by Sion.
+
+Ramyleth 
+King of the legendary Danan mystics.  He will
+help his friend Ture on Sion's journey.
+
+Dune 
+With his partner, he is known the world over as
+a notorious thief.  He himself insists on calling
+himself a treasure hunter.  He's quite skilled,
+but he's a bit of a con artist.
+
+Surlent
+A master of word essence who is always pursuing the
+truth.  He is a pupil of the wise man Solon, but,
+right now, he is assisting Professor Myunhi with [Professor "Muench"]
+his studies.
+
+Legin
+Son of Professor Castagia, he works at an item shop.
+He also works as an assistant to professor Myunhi.
+
+Lolo
+A child carried off by the mysterious Order of ["Rudra Cult"]
+Rudra.  Good with word essences.
+
+Sork
+A friend of Surlent's, skilled with the sword.
+A pupil of the wise man Solon.
+
+Riza
+This always-cheerful, spirited girl's heart calls
+out to the wind, the earth, the sea, and all
+living things.  She was born with a "Jade" stone
+in her forehead.  She's the granddaughter of the
+priest Zeku of the town of Karn.
+
+Garlyle
+Leader of the rebel army of Babel, the only town
+left on earth with clean air.  Good with a gun.
+
+Pipin
+Prince of the reptilians.  He was rescued by Riza
+when he was attacked by monsters.  
+
+Marina
+Priestess of the water denizens.  She is searching
+for the clean waters created by the guardian
+spirit of the water denizens.  
+
+
+Pages 8-9
+
+
+HOW TO START THE GAME
+
+Well, it's the beginning of the adventure.
+It can be started from any one of the three
+scenarios, or it is also possible to advance
+the three simultaneously.
+
+Set the cassette correctly in the Super
+Famicom unit and turn on the power.  At the
+opening screen, push the A or Start button,
+and the name registry screen will appear.
+
+Scenario Selection
+
+When name registry is finished, the scenario
+select screen will appear.  You can choose
+any one of the three scenarios, or also
+advance them a little at a time.
+
+Name Registry
+
+Select "New Game", and you'll be take to a
+screen where you'll enter names for the
+four heroes.  You can move the cursor with
+the directional button, enter characters
+with the A button, and delete characters
+with the B button.  Choose "Confirm" to
+confirm your name choice, or "Go Back"
+to go one screen back.
+
+Saving the Game
+
+You can save your game through the menu
+screen anywhere on the world map.  It's
+also possible to save at inns and at
+certain other places.
+
+Attention!
+
+In this game, one save will save your position
+in all three scenarios at once.  Erase the save
+data, and the data for all three scenarios will
+disappear.  Please pay attention to the fact
+that if you save in even just one of the
+scenarios, you will not be able to start over
+in any of the others.
+
+Continue 
+
+At the file screen, select the data with which
+you wish to continue play and press the A
+button.  The game will start from the last
+saved point.
+* Select "New Game", and you'll start from
+the very beginning.
+
+Game Over 
+
+When the hero's entire party becomes unable
+to fight, the game is over.  When the game
+is over, the game returns to the file screen.
+
+
+Pages 10-11
+
+
+CONTROLLER OPERATIONS
+
+Here is an explanation of the basic
+use of the controller.  
+
+Control Pad
+
+Normally: Moves the character.
+On the Save File screen, in battle, and
+in the menu screen: Moves the cursor.
+When choosing items or word essences,
+toggles the page left and right.
+
+Start Button
+
+Name Registry: Confirms the name.
+In battle: Returns battle order to the
+default formation.    
+Menu screen: In creating word essences,
+confirms a word essence.
+
+*The Select button is not used.
+
+L Button
+
+Normally: Used to talk with others and
+to open chests and other items.
+In battle: Confirms battle commands,
+word essences, and spell targets.
+Menu screen: Switches between the equip
+and status screens.  In creating word
+essences, moves the cursor to the left.
+
+R Button
+
+Menu Screen: Switches between the equip
+and status screens.  In creating word
+essences, moves the cursor to the right. 
+
+X Button
+
+Normally: Opens the menu screen.
+In battle: Used to go back to the previous
+battle mode.
+Menu screen: Cancels the creation of a
+word essence.
+
+A Button
+
+Normally: Makes conversation, opens
+treasure chests, advances the message
+screen.
+In battle: Confirms battle commands,
+word essences, and spell targets.
+Menu Screen: Confirms choices.  In
+creating word essences, confirms a
+character.
+
+Y Button
+
+In battle: Moves a character from the
+front row to the back and vice versa.  
+Menu Screen: Moves a character from the
+front row to the back and vice versa.
+In creating word essences, erases the
+current character.
+
+B Button 
+
+Normally: When held down with the control
+pad, makes the character dash.
+In battle and the menu screen: Cancels a
+decision.  In Name Registry and creating
+word essences, moves the cursor back one
+space. 
+
+
+Pages 12-15
+
+
+COMMON ACTIONS
+
+All of these general commands will apply
+anywhere, except for special, automatic
+modes or in the middle of battle.  Here,
+we'll explain the basics.
+
+Travel
+
+The control pad will let your character
+move in town and dungeon screens and on
+the overworld map screen.  Pressing the
+control pad while pressing the B button
+will make him or her dash.  When your
+character touches a town or dungeon on
+the map, they will enter that field.
+
+Picture Captions:
+A field where one can search for and collect information.
+The map screen.  Travel to caves, ruins, and other destinations.
+
+About Transportation
+
+Several vehicles will appear in this story,
+but, except in certain cases, the player
+cannot use those vehicles freely.  When you
+board these vehicles, you will automatically
+be taken to a prescribed destination.
+
+The Ark
+A ship that sails the skies, said to have
+been created by the Danan mystics long ago.
+
+Heg
+The water denizens' guardian spirit.
+You can travel the seas inside his body.
+
+Fasci ["Faxi"]
+A flying train you will board in the
+course of the adventure.  The location
+of its conductor is a mystery.
+ 
+Gathering Information
+
+When you stand facing a person and press
+the A button, that person will make
+conversation.  Pressing the A button
+repeatedly will advance the message.
+
+Reading Signs
+
+You can read signs, labels, and so forth if
+you stand in front of them and press the A
+button.  They might hold valuable information.
+
+Reading Books
+
+Books on bookshelves, books in shelves, and
+the like can all be read.  Stand in front of
+them and press the A button.
+
+About Treasure Chests
+
+There are treasure chests all about the fields
+containing items, money, and other things.
+If you press the A button in front of a
+treasure chest, you can obtain its contents.
+
+Kinds of Treasure Chests
+Besides common chests that hold items and
+money, there are also word essence and Jade
+chests.  Since these items could be of great
+help to you on the adventure, it'd be good
+to remember to open them.  
+
+Word Essence Chests
+They're the same yellow as common chests.
+They contain hints about word essences.
+Fill in the question marks with characters.
+
+Jade Chests
+Although the heroes have some Jades with
+them, certain Jades can only be found in
+chests.  There are three kinds of these
+treasure chests  -  red, blue, and green.
+
+Other Devices in the Fields
+
+Saves
+There are save points in the fields.  If you
+press the A button in front of the green-colored
+stone statues like the one in the photograph
+on the right, you can save.
+
+Recoveries
+There are recovery points in the fields.
+When you drink from the yellow-colored
+pots like the one in the photo at right,
+you'll fully recover HP and MP.
+
+Warps
+As you progress in the adventure, warp points
+like the one in the photograph will appear.
+When you stand in the center, you'll warp
+someplace.
+
+Switches
+In caves, buildings, etc., there are switches
+that operate all sorts of devices.  Standing
+in front and pressing the A button will flip
+the switch.
+
+
+pages 16-17
+
+
+SHOP GUIDE
+
+At shops, you can buy and sell many
+different kinds of items and gather
+information.  Make good use of them.
+
+At the shops, stand in front of the
+shopkeepers and address them using
+the A button.  Use the control pad to
+move the cursor and the A button to
+make a choice.
+
+Inn
+
+You can restore your HP and MP here.
+You can also save.  No matter how often
+you stop, the number of the day that
+the story is on won't advance, so relax.
+[Editorial explanation: Rudra's Secret
+Treasure is divided, like a book is into
+chapters, into "days" on which certain
+events happen.  The game takes place over
+sixteen days.  What the manual is saying
+is that, if you decide to "sleep" at the
+Inn sixteen times in a row on the game's
+"first day", the game won't advance to
+the seventeenth day/end of the world/game
+over; it'll still be the first day in the
+game's time frame, no matter how many
+times you "stay the night" at the Inn.]
+
+Tool Shop
+
+You can buy herbs, tonics, and other items
+here.  You can also sell the tools you have
+on hand.  If there aren't any shops, there
+might be a peddler around.
+
+Arms Shop
+
+This place sells weapons and armor.  Both
+the attack power and defense power of
+weapons and armor are important, but since
+all your attributes are affected by
+equipment, it is necessary to take caution.
+
+Bar 
+
+You can get sake to drink here.  It
+doesn't cost any money.  You might
+catch a hint if you try a drink.
+
+Mistress of Word Essence Conduction ["Mantra Mistress"]
+ 
+She will teach you word essences for
+free.  Since the word essences she
+teaches will change, it'd be good to
+make sure to talk to her whenever you
+find her.
+
+Port
+
+Boats take off here.  The boats are
+free, but you won't be able to board
+if the ship isn't ready.  Since many
+people arrive at and depart from
+this place, you might be able to get
+some information.
+
+Map
+
+In the port's lobby, there'll be a map
+of the region.  You can view it by
+standing in front of it and pressing
+the A button.  The shape of the land
+can change from time to time.
+
+
+Pages 18-22
+
+
+ABOUT THE MENU SCREEN
+
+The menu screen, opened with the X
+button, is the one thing you'll make
+the most use out of on the quest. 
+Let's master how to use it.
+
+Looking at the Menu Screen
+
+Menu Commands
+This is a rundown of the command that
+you can use.  Point the cursor to the
+chosen command and press the A button.
+
+Character Data
+The present and maximum levels of HP
+and MP and the levels of the party's
+members are shown.
+
+Cash on Hand
+How much money the party has.
+
+Number of Days Passed
+Shows how many days have passed since
+the start of the adventure.
+
+*Changing Battle Order
+The battle order of the characters can be
+changed through the menu screen.  Move the
+cursor to the character's slot, and then
+press the A or Y button and switch he or
+she around.  For a detailed explanation,
+please refer to page 28.
+
+Menu Command Guide
+
+Item - Look at/Use the Items on Hand
+Move the cursor to the item you want to
+use and press the A button twice, and that
+item will be selected.  Next, choose the
+character on whom you wish to use the item,
+and confirm with the A button.
+
+Word Essence - Look at/Chant Learned Word Essences ["Manta"]
+Choose whomever will recite the word essence
+with the A button and, when the screen at
+right comes up, select the word essence
+you want to use and on whom it will be cast.
+The word essences you can use are written
+in white.
+
+Draw Up - Create and Arrange Word Essences ["Enscribe"]
+To arrange your menu, press the A button
+once on the chosen word essence, move the
+cursor to the space where you want it to
+be moved, and press the A button twice.
+Please refer to page 24 for more information
+on drawing up word essences.  
+(Follow the same procedure to arrange your items.)
+
+Equip - Look at/Equip Equipment
+When you choose whomever's equipment you wish
+to see with the A button, the screen at right
+will appear.  You can switch between
+characters with the L/R buttons.  To equip an
+item, select the slot to which to equip the
+item from the screen at lower-right, then
+confirm your choice of equipment with the
+A button.  The readout on the screen's status
+columns will display the effects of the equip.
+Yellow lettering indicates an increase in
+power; gray, a decrease in power.
+
+Look at Belongings - Look at All Possessions ["Inventory"]
+Displays all your belongings.  If it's
+equipment that a character can use, that
+character will laugh; if it's equipped,
+an "E" will appear next to it.
+
+Status - Look at Status
+Select whomever's status you wish to look at
+with the A button, and the screen at right
+will appear.  The character shown can be
+changed with the L/R buttons.
+
+Heading - Contents
+
+HP - Shows HP's current value/maximum value.  
+MP - Shows MP's current value/maximum value.
+Occupation - Shows character's occupation.
+To Next Level - The number of experience
+points needed for the next level-up.
+Attack Power - Stands for the attack power
+of the sword or such alone.
+Physical Defense Power - Character's defense
+against attacks.
+Magic Defense Power - Defense against magic.
+Strength - Effect of the attack power of
+character's sword or such.
+Skill - The effect of the hit rate of ["Agility"]
+character's attacks.
+Speed - Determines attack order in battle.
+Wisdom - Determines the strength of magical ["Spirit"]
+attacks and missile attacks.
+Weapon Power - Indicates the power of weapons
+equipped.
+Armor Power - Indicates the power of armor
+equipped.
+
+Config - Look at/Select Settings
+You can select options for the music during
+the game, the cursor memory, and so many
+other things.  Use the Control Pad to move
+the cursor and the A button to make a decision;
+return to the menu screen using the B button.  
+Sound - You can choose stereo or monaural for
+the game music.  Choose according to your
+television settings.
+Key Settings - You can choose the cursor
+settings in battle.  The cursor can
+"remember" to return to "Attack" or to the
+same position as the previous turn.
+Order - Choose your allies' battle order.
+Until you change it manually, it will be
+set on the default order.
+
+Save - Record Game Data
+If the letters appear written in
+white, you can save.  Choose the
+file and save with the A button.
+
+About Leveling Up
+When you defeat enemies in battle,
+you'll gain experience points and
+money.  When your experience points
+reach a certain level, you'll level
+up.  When you level up, several status
+attributes like HP, MP, and so on will
+increase.  Which attributes will
+increase, and by how much, will differ
+from character to character.
+  
+
+Pages 23-25
+
+
+WORD ESSENCES AND ELEMENTS
+
+The Word Essence System is very important, and,
+while your word essences themselves are gravely
+important, knowing which ones to select is vital
+in an emergency. 
+
+What is "Word Essence"? [What is a "Mantra"?]
+
+Word essence is the use of the magic power 
+idden in words to produce various effects like
+defeating monsters or healing wounds.
+
+Kinds of Word Essences
+
+Word essences are words, consisting of no more
+than six characters arranged in any way, that
+hold power.  The properties, power, range, and
+MP consumption of the word essences created by
+the player are determined by secret rules.
+Though word essences may be similar, their
+power or range might be different, even though
+their pronunciations may be quite close.
+
+Drawing Up Word Essences
+
+When "Draw Up" is selected at the menu ["Enscribe"]
+screen, the Word Essence list will open
+up at right.  Move the cursor to a blank
+space and press the A button twice.  Select
+each character with the cursor and decide
+with the A button.  Finally, press the A
+button at "Confirm" to finish.  If you
+press the A button twice in the column of
+word essences that you already have, that
+new word essence will be added in.
+
+An Example of Effective "Drawing-Up"
+
+When word essences become "basic", they'll
+become more effective.  Let's work together
+to create a combination word essence.  
+basic word essence - Igu  ["IG"]
++ word essence - Na
+= combination word essence - Iguna is a ["IGNA"]
+simple word essence of a basic fire
+elemental attack.
+
+Basic Word Essence List
+
+Here before you are some basic word
+essences.  Combining these word
+essences to increase their effectiveness
+is advisable, but trying to create
+entirely new word essences would be even better.
+
+Word Essence  -  Element  -  Scope  -  MP  -  Effect
+
+Igu*  -  Fire  -  S  -  1  -  Fire elemental damage ["IG"]
+Iguna  -  Fire  -  M  -  2  -  Fire elemental damage ["IGNA"]
+Aku*  -  Water  -  S  -  1  -  Water elemental damage ["AQU"]
+Kontoaku  -  Water  -  S  -  2  -  Water elemental damage ["CONTAQU"]
+Teo*  -  Wind  -  S  -  1  -  Wind elemental damage ["TEO"]
+Tou*  -  Thunder  -  S  -  1  -  Thunder elemental damage ["TOU"]
+Touna  -  Thunder  -  M  -  2  -  Thunder elemental damage ["TOUNA"]
+Tourusu  -  Thunder  -  M  -  2  -  Thunder elemental damage ["TOULUS"]
+Soa*  -  Yang  -  S  -  1  -  Yang elemental damage ["SOA"]
+Sere*  -  Yin  -  S  -  1  -  Yin elemental damage ["SERE"]
+Nihi*  -  Mu  -  S  -  1  -  Void elemental damage ["NIHI"]
+Pura*  -  Chi  -  M  -  7  -  Earth damage ["PRA"]
+Refu*  -  Recovery  -  S  -  2  -  Recovers HP ["LEF"]
+Refuna  -  Recovery  -  M  -  4  -  Recovers HP ["LEFNA"]
+Arefu  -  Recovery  -  S  -  3  -  Recovers HP ["ALEF"]
+Animu  -  Revival  -  S  -  5  -  Recovers from swoon state ["ANIM"]
+
+*  -  These are considered the basic word essences for their elements.
+
+
+Pages 26-27
+
+
+ELEMENTS
+
+If you rush ahead and attack without paying
+attention to your weapon, armor, and word
+essence elements, making your way in the
+quest could get quite difficult.
+
+Controlling the Elements in the World of Rudra
+
+In this game's world, weapons, armor,
+accessories, word essences, monsters, and
+all sorts of things hold the power of the
+elements.  Making the most of the elements
+in your attacks can turn battles in your
+favor.
+
+Learn the Six Elements
+
+There are six elemental categories; the chart
+to the right shows their opposing relationships.
+Your weapons, armor, and accessories are aligned
+with these elements' power.  Since the elements
+can thus affect your attack and defense power,
+you need to pay attention.  Moreover, there are
+also word essences dealing with the additional
+elements of Void and Earth.
+
+Fire <---> Water
+Thunder <---> Wind
+Yang <---> Yin   ["Light"<--->"Dark"]
+-------
+Void   Earth
+
+Word Essence Elements
+
+When attacking enemies with word essences,
+it's quite effective if the word essence's
+element is the opposite of that of the
+monster.  For a fire-based enemy, use a
+water elemental word essence.
+
+Weapon Elements
+
+When attacking an enemy with weapons, as with
+word essences, using a weapon of the opposite
+element as the enemy will register big damage
+to the enemy.
+
+Armor Elements
+
+Armor takes the opposite strategy of
+word essences and weapons; if the
+attacks dealt by the enemy aren't of
+the same element as your armor, your
+armor won't be very effective.  Watch
+out.
+
+Equipping Armor of Opposing Elements...
+
+Since you can equip only one weapon,
+your fighter's armaments, in that respect,
+cannot "contradict" itself, so to speak -
+but, since you can equip up to four kinds of
+armor, the elements of a character's
+equipment can wind up opposing each other.
+In that case, these elements will cancel
+each other out, so watch out!  If the
+armors' elements aren't direct opposites,
+this won't be a problem, and they can
+co-exist.  Coordinating your armor is
+important.
+
+
+Pages 28-31
+
+
+BATTLE
+
+When you move around fields like the map
+screen, you'll run into enemies and start
+a battle.  Take command of your word
+essences and attack!
+
+Looking at the Battle Screen
+
+Battle Screen
+You can input commands for the characters
+marked with a triangle.
+
+Battle Order
+Indicates battle order.  The ally with his
+or her mark at the far left end goes first.
+
+Monster Name
+Indicates the enemy monster's name.
+
+Commands
+The battle commands.  Ones in gray cannot
+be selected.
+
+HP Gauge
+Displays current and maximum HP of your
+characters, in order from top to bottom.
+
+About Your Characters' Positions
+
+On any given battle screen, you can change
+the position of the character marked with
+the triangle with the Y button.  If a
+characters is in the front lines, he
+or she will hit harder but will be an
+easier target for enemy hits.  The opposite
+is true in the back row,
+
+Battle Commands 
+
+Choose what action to take against your
+enemy.  Move the cursor with the control
+pad, confirm with the A button, and cancel
+and move one window back with the B button.
+
+Fight - Attack with Equipped Weapons
+Launch a direct attack on the enemy
+with the weapons you have equipped.
+Select the enemy to attack with the
+control pad and confirm with the A
+button.  You can attack enemies in
+the front or back lines.
+
+Word Essence - Use a Word Essence
+Choosing "Word Essence" will display
+your word essence list.  The number to
+the side of the name of the word essence
+is the amount of MP it consumes when cast.
+Word essences written in gray are
+unselectable.  On the right side of the list,
+your current and maximum MP and the effects
+of the word essence that the cursor is pointing
+to are shown.  Move the cursor with the control
+pad and confirm your choice with the A button.
+*If the word essence's range is a single target,
+choose your target.
+
+Item - Use Items on Hand
+Use the items you have.  When the list of items
+pops up, first choose the item you want to use,
+then choose who to use that item on.
+
+Defend - Defend
+With "Defend", you can protect any ally except
+yourself.  When warrior-type characters (Sion,
+Sork, Garlyle) defend themselves, the power of
+their next turn's attack will go up.
+
+Escape - Start to Run Away
+If you press the control pad either left or
+right, the "Escape" command will appear.
+When you select it, you'll start to run
+away.  You might be able to escape.
+
+Changing the Battle Order
+
+When you press the X button, you can change
+the battle order.  Move the marker left or
+right with the control pad.
+
+Status Abnormalities
+
+You can contract status abnormalities
+in battle through enemy or ally attacks.
+Except for "pollution", all of them will
+clear up automatically at the end of
+battle.  They can also, however, be
+cured through use of a panacea.
+
+[Condition] Name  -  Element
+Symptoms & How to Deal with Them
+
+Burn  -  Fire
+Character turns red, suffers damage
+every turn.  Cured by a water
+elemental attack.
+
+Freeze  -  Water
+Character turns blue, becomes unable
+to move.  Cured by a fire elemental
+attack.
+
+Shock  -  Thunder
+Character turns gold, will not accept
+commands, attacks both enemies and
+allies.  Cured by a wind elemental
+attack.
+
+Float  -  Wind
+Character turns blue-green, floats.
+Will not take damage from earth
+attacks  -  an advantageous ailment.
+Cured by a thunder elemental attack.
+
+Pollution  -  Yin ["Dark"]
+Character turns black, can't use word
+essences, status bar-meter is cut in
+half.  Cured by an antidote.
+
+Automatic Recovery  -  Yang ["Light"]
+Character's HP slowly regenerates  -
+an advantageous status ailment.  A yin ["Dark"]
+elemental attack will bring things
+back to normal.
+
+Berserk  -  Mu ["Void"]
+Character becomes completely uncontrollable.
+Attacks only enemies.  Clears up when the
+battle ends, except in the case of swoon.
+
+
+Pages 32-35
+
+
+WEAPON, ARMOR, & ACCESSORY LIST
+
+Besides buying them at the armory, weapons,
+armor, and accessories can also be obtained
+through getting them in chests or by enemies
+dropping them.
+
+Thunderbolt Sword [Raisentou] ["Storm"]
+A strange sword famed for its power to dispel
+the curses of the demons that haunt the castle
+ruins on the polluted continents.  Warriors
+can equip it.  Must be held with two hands.
+Holds thunder elemental power.
+
+Aspirade
+A large two-handed sword with a jewel-encrusted
+handle and a smooth steel edge.  Since it's
+heavy, only the most stalwart Kreunew soldiers
+use it.  Warriors can equip it.
+
+Rune Knife
+A silver-plated metal knife.  The shape of the
+swath it cuts is said to look just like the
+glimmering crescent moon.
+
+Prince Nail
+An heirloom with the power of thunder passed
+down from generation to generation of reptilian
+princes.  Fits on two hands.  It slays ferocious
+beasts with its blows, but it performs especially
+effectively against humanoid enemies.
+
+Moon Rifle
+A beginner's two-handed rifle with a moon crest
+carved in the center.
+
+Regulus
+A two-handed bow with a most flexible bowstring
+with strikes enemies quick and true.  The attack
+power of bows is not reduced in the back row.
+
+Fire Bow
+A fire-elemental two-handed bowgun crafted
+according to the arts of an ancient
+civilization.  Attacks all enemies.
+
+Plus Armor
+Armor for the soldiers Kreunew crafted
+according to the methods handed down within
+the Kreunew royal family.
+
+Chain Mail
+Light armor consisting of light metal epaulets and a body of interwoven chains.
+
+Babel Coat
+A coat denoting the leader of the
+Babel Rebellion.
+
+Frey Mantle
+The garb of a Word Essence master.
+Increases magic defense.
+
+Open Helm
+The face of the god of battle is carved
+into the head and monster horns protrude
+from the sides of this warrior's helmet.
+
+Logical Cap
+A tight hat dyed blue with matori weeds
+that contains wind elemental power.
+
+Pure Ring
+A ring of yang orientation; the bright
+light from its leaf-like green stone
+brings relief.
+
+Talisman Charm
+A charm with a sculpted dragon talisman.
+Aligned with the yin element; increases
+magic defense when equipped.
+
+
+Pages 36-37
+
+
+ITEM LIST
+
+Some items cannot be bought from tool shops
+or peddlers; they are found only in treasure
+chests.  There are many different kinds of
+items.  You can carry nine of each type of
+item.  When you go into a cave, dungeon,
+or such, you should probably take plenty
+of items with you.
+
+Herb ["Medical Herb"]
+A herb that recovers 50 HP.  20 lagu. ["Ragu"]
+
+Panacea
+Medicine that treats status abnormalities.  300 lagu.
+
+Restorative ["Alarum"]
+Medicine that restores swooned characters.  2,000 lagu.
+
+Spirit
+Sacred wine that imparts "gung-ho" status.
+
+Purifier
+Medicine that treats pollution.  1,000 lagu.
+
+Sweet Water ["Tasty Water"]
+Sacred water that recovers 30 MP.  30 lagu.
+
+Reim Herb ["Rem Herb"]
+Herb that recovers 100 HP.  100 lagu.
+
+Nuado Herb ["Nuad Heb"]
+Herb that recovers 200 HP.
+
+Horn Water
+Sacred water that recovers 100 MP.
+
+Float Stone
+Magic stone that delivers you from battles and caves.  1400 lagu.
+
+Red Pouch
+Pouch stuffed with one basic word essence.  30 lagu.
+
+Green Pouch
+Pouch stuffed with one healing word essence.  60 lagu.
+
+Amurita
+Herb that completely recovers HP and MP.
+
+Life Leaf
+Herb that increases your maximum HP by 20.
+
+Magic Leaf
+Herb that increases your maximum MP by 10.
+
+
+Page 38
+
+
+A MINI-ENCYCLOPEDIA OF RUDRA'S SECRET TREASURE
+
+A world in which, in the space of about 20,000
+years, birth and downfall have come and gone.
+The important concepts expressed by the following
+keywords are explained here.
+
+Rudra
+The entity that, at the end of a race's given
+4,000 years, brings about the ruin of the world.
+At the same time, it causes a new race to be born,
+of which Rudra is its founder.
+
+Lago Stones
+Rudra, once it completed its missions, created
+these fossils, then returned to sleep.  It is
+said that each of the five Lago Stones represents
+a race of Rudra, but not everything about them
+has been discovered.
+
+Jades
+The four stones necessary for Rudra to assume
+its perfect form.  Each is said to have its
+own hidden powers.
+
+Danan Mystics
+The first-born race.  Because they lived closest
+to the gods, they had amazingly long life spans.
+Word essences were also developed by the Danan
+mystics.
+
+Water Denizens ["Mermaids"]
+The race that emerged after the Danan mystics were
+destroyed.  They devoted themselves to the power
+in the advancement of word essences.
+
+Reptilians ["Reptiles"]
+The race that appeared after the destruction of the
+water denizens.  Though they were a battle-loving
+tribe, they respected the warriors' code and didn't
+like war for its own sake.  The development of word
+essences declined under them.
+
+Giants
+Appearing after the reptilians, this strong-bodied
+race further balanced civilization.  They developed
+many weapons and armors.
+
+Human Race
+They appeared after the giants were destroyed.
+In their first 2,000 years, they brought
+civilization to its peak, but they also wreaked
+horrible damage on the environment.  In the next
+2,000 years, their god-like power increased, but...
+
+
+Page 39
+
+
+RUDRA CHRONOLOGY
+
+Time  -  Event
+
+More than 20,000 years ago  -  The "Four Great ["Four Greats"]
+Heroes" fought the "Being from the Skies" and
+somehow drove it back.  At that time, heaven
+and earth were separated.
+
+20,000 years ago  -  The first Rudra is born,
+the Danan mystics are created, and Rudra itself
+is fossilized.  The Danans invent word essences.
+
+16,000 years ago  -  The next Rudra is born, the
+Danan mystics are destroyed, and the water denizens
+are created.  The water denizens further develop
+word essences.
+
+12,000 years ago  -  Rudra is born once again, and,
+after the water denizens are destroyed, the
+reptilians are born.  Word essences are completely
+forgotten.
+
+8,000 years ago  -  The birth of the fourth Rudra.
+The reptilians are destroyed, and the giants are
+given birth.  Civilization advances, and many kinds
+of weapons and armors are developed.
+
+4,000 years ago (first year of new calendar) - The
+fifth Rudra is born, the giants are destroyed, and
+the human race is created.  Civilization sees further
+advancement.
+
+2,000th year of new calendar  -  At about this time,
+the pollution of the air, sea, and sky begins.
+
+3,980th year of new calendar  -  Professor Myunhi ["Muench"]
+iscovers an 8,000-year-old fossil.  He names it
+the "Lago stone".
+
+3,999th year of new calendar (sixteen days before
+year 4,000)  -  The struggle of four people guided
+by destiny begins.
+
+
+Disclaimer: Rudra no Hihou/Rudra's Secret Treasure is the property of Squaresoft.  This manual was translated by Rebecca Capowski (RACapowski@worldnet.att.net); please do not post any part of it anywhere else without her permission.
+[Gid Zhi's last note - I got her permission. Thanks, Rebecca!]

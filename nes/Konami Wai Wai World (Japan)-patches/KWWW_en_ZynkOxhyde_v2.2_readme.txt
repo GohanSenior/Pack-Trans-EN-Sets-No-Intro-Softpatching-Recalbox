@@ -1,0 +1,103 @@
+KONAMI WAI WAI WORLD
+Hacked & Translated by Zynk Oxhyde
+2012-2019
+
+
+---------------
+Date Released:
+---------------
+v1.0 May 23, 2013
+
+------------
+Description:
+------------
+This is an English translation of Konami Wai Wai World for the NES.
+
+--------
+Changes:
+--------
+(v2.2 - 04/08/2019)
+*Fixed YES/NO of Casino Bunny Girl
+
+(v2.1 - 12/22/2018)
+*Restored original graphics
+*New titlescreen
+*Fixed YES/NO and EVEN/ODD
+
+(v2.0 - 07/16/2016)
+*Hacking the hero name lengths on Dr. Cinnamon's computer, thanks to Proveaux!
+*Minor script edits
+
+(v1.0 - 05/23/2013)
+Aside from translation, here are some note-worthy to trivial changes:
+*The Title screen is hacked & translated! YAY!
+*The heroes' icons are edited.
+*HP bar looks like CV's.
+*The Bullet icon is replaced by a Money bag icon.
+*The word 'Bullet' is now referred to as '$'.
+*The captured heroes' now have speech balloons.
+*The last stage evacuation/alert message is in English.
+*TwinBee's weapon menu icon is edited.
+*KonamiMan's letter K on his head is readable.
+*The skies in Dracua's castle are now darker.
+*The hunchbacks are recolored.
+*The spider ghoul had a face-lift.
+*The group photo's color does not have blue.
+*The Bunny-girl in the slot-machine casino game is purdier!<3
+*That annoying 1px is erased on the dice-man's collar!
+
+---------
+ZIP file:
+---------
+1. This readme
+2. KONAMIWWW(EN)v2-2.ips patch
+
+--------
+Contact:
+--------
+Email: zynkoxhyde@yahoo.com
+
+---------
+Password:
+---------
+Zynk reused O's with 0's; l's with 1's! So that's how Zynk messed up the alphabet!
+Anyways, this password lets you have ALL party members, sub-weapons, items, $1000, & VicViper & TwinBee power-ups!
+
+RwNeD eIvTw huCd
+
+----------------
+ROM Information:
+----------------
+No-Intro Name: Wai Wai World (Japan)
+(No-Intro version  20130731-235630)
+File MD5:      752353CCC6678C727926B661C7AD5E3F
+File SHA-1:    D509F4CF534C3638A29314563E98DE5F963F8264
+File CRC32:    B27BCF3D
+ROM MD5:       F1ADE0B4C5EF48E27D1E4256E8521709
+ROM SHA-1:     D273629B112C8C11A133FA944874B9C21295AEFE
+ROM CRC32:     8A96E00D
+
+
+--------
+Credits:
+--------
+Zynk Oxhyde - Hacking and Translation
+Proveaux - Hacking the hero name lengths on Dr. Cinnamon's computer
+
+---------------
+Special Thanks:
+---------------
+Romhacking.net - for hosting the patch
+
+--------
+Contact:
+--------
+Email: zynkoxhyde@yahoo.com
+
+-----------
+Disclaimer:
+-----------
+* Zynk Oxhyde is not related or affiliated with Nintendo and the publisher of the original game.
+* Do not sell this patch and the contents with it.
+* Do not sell the pre-patched ROM into reproduction cartridges.
+* You may distribute or host this patch provided that all files that come with it are intact.

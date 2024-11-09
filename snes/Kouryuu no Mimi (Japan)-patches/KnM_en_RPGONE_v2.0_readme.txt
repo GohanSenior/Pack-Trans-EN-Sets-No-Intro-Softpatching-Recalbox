@@ -1,0 +1,142 @@
+================================================================================
+ ######################                                             ###
+ ########################                                      ######## 
+ ##########################                                ############ 
+     #######        ########   ##########        #####     ############ 
+     #######       #########   ###########     #########         ######
+     ######################      ###    ###  #####    ###        ######
+     ####################        #########  ####                 ######
+     #######   ########          #####      ####     ######      ######
+     #######    ########         ###         ####      ###       ######
+     #######     ########        ###          ####    ####       ######
+     #######      ########     #######          ####### ##       ######
+     #######       #########                                    ########
+    #########       ########################################################## 
+  #############       ######################################################## 
+  #############          #####################################################
+  #############              #################################################
+
+    R   P   G   O   N   E      T   R   A   N   S   L   A   T   I   O   N   S
+================================================================================
+
+                                    Presents
+
+                         ==============================
+                         |                            |
+                         |        Koryu No Mimi       |
+                         |   The Golden Dragon Ring   |
+                         |                            |
+                         ==============================
+
+                            English Translation v2.0   
+                            Copyright 2018 by RPGONE 
+
+		         http://rpgone.superfamicom.org
+
+================================================================================
+
+-----------------
+Table of Contents
+-----------------
+I.   Story
+IA.  What is the Golden Dragon Ear
+II.  What's New
+III. Credits
+IV.  Application instructions
+V.   Hi-Score on title screen
+VI.  Disclaimer
+
+
+--------
+I. Story
+--------
+Natsume Kiroemon, the 45th leader of the Natsume family, is due to inherit the 
+Koryu No Mimi, also known as the Golden Dragon Ring, which gives its bearer easy 
+access to wealth and women. As a result of his father's death, he left the 
+Italian monastery where he'd been training and rightfully took the name "Natsume 
+Kiroemon" as well as the power of the Golden Dragon Ring.
+
+Upon his return to Japan, Kiroemon fell fatally in love with Kanako, one of the 
+members of the rival Mina clan. However, the evil hand of the Mina clan attacked 
+Kiroemon and then abducted Kanako. Now Kiroemon has unsealed the power of the 
+Golden Dragon Ring, making his own power surge, and he's striking back at the Mina 
+clan. Both Kiroemon and Kanako's fate are in your hands!
+
+
+---------------------------------
+IA. What is the Golden Dragon Ear
+---------------------------------
+Natsume Kiroemon has a special power over money and women that is passed down 
+from generation to generation. This power is contained in his left ear, and is 
+thus called the Golden Dragon Ear.  
+
+The earring Kiroemon wears seals this power and by removing the earring, the power 
+within his ear can be released. It is an innate power of the Natsume family - his 
+earring does not give him any powers, it only keeps them inside of Kiroemon.
+
+
+--------------
+II. What's New
+--------------
+V2.0 [31-07-2018] - Fully working on real SNES hardware
+		  - VWF code updated
+		  - Font improved and VWF widths adjusted
+		  - New character name graphics
+		  - Hi-Score on title screen
+		  - Script revision
+
+v1.0 [31-10-2004] - Initial release 
+
+
+If you find any bugs, please contact Jonny on romhacking.net
+
+
+------------
+III. Credits
+------------
+Jonny - Project Leader, Programming, Graphics, Font Design
+ChrisRPG - Variable Width Font Programming
+BugCatcher - Translation
+Eien Ni Hen - Game Over Text Translation
+
+Elf - Final Playtest v1.0
+vince94, Matthew Callis - Final Playtest v2.0
+Bongo - Hex2Asc ASM
+
+
+----------------------------
+IV. Application instructions
+----------------------------
+You need to apply this patch onto an unmodified, non-interleaved ROM with NO
+Header (Rom checksum: E2B1, CRC32: 89276C88, Size: 1,048,576 bytes).
+
+
+---------------------------
+V. Hi-Score on title screen
+---------------------------
+The Hi-Score feature on the title screen may not work when using SoftPatching. 
+Apply the patch to the ROM to get this to work properly.
+
+The Score logging to SRAM can be stopped by disabling SRAM in the internal ROM 
+header. 
+To do this, change the byte at 7fd8h to 00h (rom address $80ffd8).  
+This will also stop the Hi-Score feature showing on the title screen.
+
+Press L+R at the title screen to clear your current Score and Hi-Score.
+
+
+--------------
+VI. Disclaimer
+--------------
+The Koryu No Mimi videogame is Copyright (c) Oosawa Arimasa, M.A.T, Inoue 
+Noriyoshi, VAP.
+
+RPGONE is in no way or form affiliated with Oosawa Arimasa, M.A.T, Inoue 
+Noriyoshi, VAP or with any other video game companies. It shall not be held 
+liable for any damages of any type arising out of, or in any way connected with 
+your use of this translation.
+
+This English translation is FREE and may NOT be sold.
+You may NOT distribute this translation applied to a rom. 
+
+We do NOT endorse piracy.

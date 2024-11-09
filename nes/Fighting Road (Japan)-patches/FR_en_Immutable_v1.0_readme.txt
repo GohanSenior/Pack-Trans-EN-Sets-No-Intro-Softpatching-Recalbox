@@ -1,0 +1,26 @@
+Fighting Road for the Nintendo Famicom English Language Translation Patch Readme
+Released October 11th, 2016
+
+Hacking: Immutable
+Translation: DeepWolf
+
+Original ROM information:
+Name: Fighting Road (J).nes
+Size: 262160 bytes (0 MB)
+
+CRC32: BDDE0FD7
+CRC64: F671AEAED4BE5150
+SHA1: 2CE010BFE7BFED1F4316E393B389A67619B253AC
+SHA256: FE894AC467024478F6A61D31AF4EB3CF7F6260E2F13D076BEC3EA1B2F726F544
+ 
+---------------------------
+
+This readme is written by Filler for submission of a translation patch to Romhacking.net. I had nothing to do with this translation. I found it linked from a YouTube video about the game. Below are the notes on the translation from the original YouTube video.
+
+"Here is fan made english adaptation of the famicom game back from 1988. It's not 100% correct (I've made a few mistakes due to compilation to the video), but if you ever wondered what this game is all about - here it is - watch the story unfold!
+
+Thanks to Game Dave for giving me enough courage to beat the game, thanks Vovan for scans of Instruction Manual. I wasted so much time when I was trying to put english text in the ROM of the game, so I said: "Fuck it." and just made a video. Also, go easy on some of the lines, 'cause it's have been translated from Japanese to Russian, an then from Russian to English. Something like that.
+
+Beat the game under 15 min, it's very short, but have some cool graphics, animation and stupid-ass last boss with countless fireballs!
+
+Ask me in the comments, if you don't get something about the story or characters, I'll do best I can to explain everything about this game."

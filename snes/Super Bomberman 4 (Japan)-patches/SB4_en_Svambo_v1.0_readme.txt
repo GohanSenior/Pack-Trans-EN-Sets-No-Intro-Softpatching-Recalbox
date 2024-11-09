@@ -1,0 +1,42 @@
+What is this?
+
+This is a translation patch for Super Bomberman 4 for the Snes.
+This is version 1.0 of the patch.
+
+How do I use it?
+
+Use any IPS Patcher and apply this patch to the japanese Super Bomberman 4 rom without a copier header.
+If everything works fine the checksum should be ok afterwards.
+
+Story behind the patch
+
+I allways loved Bomberman games - from the first time I played Bomberman on a C64 until nowadays. I was 
+totally happy when I found part 4 and 5 on the SNES. Since there is not too much text in Bomberman-games 
+I never understood why there was no translation patch for it.
+Well ... now I know. It was really challenging (at least for me). The text routine was strange, 
+the colour system was terror and the sprite-texts were ... well ... a lot of work ... 
+but now it's finally done and every single jap text is translated to english (I hope).
+
+Thanks
+I would like to give a big thanks to the friendly guys from ...
+
+http://www.embjapan.de/
+http://www.japanisch-netzwerk.de/
+
+... who helped me to translate the japanese texts,
+and to Sinap for his great tool SNESEDIT.
+
+If you find any bugs, untranslated textstrings, spelling mistakes, if you want to translate the game 
+to any other language and want to save some time, or if you want to tell me how much fun you have with 
+the game feel free to contact me :
+
+Svambo(at)freenet.de
+
+
+Greetings to all the guys on the coolest SNES-forums of the web:  www.supernes.de & www.snesfreaks.com
+
+
+Svambo 07.12.2009
+
+
+

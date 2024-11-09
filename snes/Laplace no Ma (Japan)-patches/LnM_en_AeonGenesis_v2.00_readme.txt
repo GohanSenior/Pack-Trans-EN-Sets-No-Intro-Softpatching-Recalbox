@@ -1,0 +1,97 @@
+LAPLACE'S DEMON
+ENGLISH TRANSLATION V2.00
+Copyright 2018 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.  About Laplace's Demon
+2.  Patch History
+3.  Patch Credits and Contributors
+4.  Known issues
+5.  Application Instructions
+6.  Optional Patches
+
+-----------------------
+1.About Laplace's Demon
+-----------------------
+Laplace's Demon is a horror RPG with a Lovecraftian bent.
+Set in the fictional town of Newcam, Massachusetts in 1924,
+the player and several paranormal investigators look into
+some disturbing rumors surrounding a mansion on the outskirts
+of town.
+
+---------------
+2.Patch History
+---------------
+Laplace's Demon was originally released in 2001. There was
+a very strong (and ill-conceived) push to get it out on
+Halloween back then, and the resultant patch was terribly
+buggy; battle menus didn't display right, status menus didn't
+display right, lots of item names had been chopped down to fit
+in available space, battle narrative didn't display in the
+correct order, and the writing was in desperate need of an edit.
+
+I eventually pulled the patch voluntarily, as it really did not
+meet my own quality standards. I continued to work on it on and
+off, fixing the combat narrative, expanding menus, and adding
+multi-line item names. I got some help with the font display
+issues and started work on the narrative myself, but eventually
+passed it off to Wes Falls, a developer who I follow on Twitter.
+Lots of issues kept cropping up during testing, several of
+which turned out to be in the original game. It's not very
+well put together, but we did the best we could with what we
+had.
+
+September 6, 2018 - Initial version 2.00 Release
+
+October 31, 2001 - Initial version 0.95B Release (retracted)
+
+---------------
+3.Patch Credits
+---------------
+THE LAPLACE TEAM
+Gideon Zhi       - Project leader, lead romhacker, assembly work
+Tomato           - Script translation
+TheMajinZenki    - Translation checking
+Wes Falls        - Script edit
+g8z et al        - Fix for font hack
+
+--------------
+4.Known Issues
+--------------
+-- Somehow, you can end up with a "Nothing" item in your inventory.
+   This can cause the Tools menu in combat to look weird. Sorting
+   fixes it. Unsure whether this is a bug in the original game
+   or not.
+-- Character names longer than six letters in slots 2 and 4 will
+   occasionally overwrite the "HP" indicator of the characters
+   in slots 3 and 5 when they're targeted in combat. The HP
+   indicator will reset when the next character or monster
+   takes its turn.
+
+Please report any other bugs, spelling errors, and such on
+on The Pantheon (http://agtp.romhack.net/pantheon/)
+Screenshots are preferred, as are SRAM saves.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+2.00 MB (16mbit LoROM) WITHOUT header. (*exactly* 2,097,152 bytes)
+No header.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "laplace.smc" make sure the patch
+is "laplace.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT
+HAVE A HEADER!. If you right-click the ROM and select Properties, it
+should read "2.00MB (2,097,152 bytes)". TUSH will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net/utilities/608/
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+have a header.

@@ -1,0 +1,231 @@
+Dragonball Z Gaiden: Plan to Eliminate the Saiyans
+English Patch
+Version 1.00 IPS
+Current Release: Apr. 29, 2007
+Intial Release: Oct. 30, 2006
+by Twilight Translations
+copyright 2006
+--------------------------------------
+
+1. Introduction
+2. Development
+3. Notes
+4. Patch History
+5. Bugs
+6. Credits
+7. Acknowledgements
+
+--------------------------------------
+
+1. Introduction
+
+--------------------------------------
+
+Dragonball Z Gaiden: Plan to Eliminate the Saiyans is the fourth and final DBZ RPG released
+for the Famicom. It was released on August 6, 1993 and is probably one of the last games
+to be released for the Famicom. Unlike its predecessors, this game does not follow any
+arc in the manga/anime. Instead, this game features an entirely original storyline made
+especially for this game.
+
+The gameplay is very much like the other DBZ RPGs, with a few notable exceptions. This time
+around the card battle system has been given an upgrade, allowing you to choose different
+cards to form combos. If you string together the right cards, the character will be able
+to perform one of their signature moves. 
+
+Gone are the days of leveling up. So, beyond figuring out the card combination for each
+technique, there's really no reason to not run from every enemy you encounter. This is
+really a weak point, in my opinion. The frequent enemy encounters only serve to frustrate
+the player for no real reason. Defeating a boss nets you a rise in HP and allows you to
+use one more card per turn, which is rather useless.
+
+The one thing that was added that I really like is the Auto Move feature. This makes
+traveling around the maps (which are pretty big compared to past games) a lot easier.
+The thing I can't understand is, seeing as how this game was released after The
+Legend of the Super Saiyan (Chou Saiya-jin Densetsu) for the Super Famicom, why they
+didn't simply remove the card-based movement system. Entering training and healing houses
+require you to land on the building using a card that has either a dumbell or a heart
+respectively in the bottom right corner.
+
+Dragonball Z 3: Killer Andriods (known as Hot Battle! The Androids in some circles,
+more on this in a little bit) is the third DBZ RPG released for the Famicom. It was
+released in 1992 by Bandai. DBZ3, as I will refer to it from here on, is a
+continuation of the first two Dragonball Z RPGs for the Famicom:
+Dragonball Z: Assault of the Saiyans and Dragonball Z 2: Lord Freeza's Fury (an
+English patch is available for the former from Twilight Translations, while the
+latter is still in production).
+
+Overall, I would have prefered a sequel to Dragonball Z 3 that finished up the Androids/Cell
+saga. I wish they had based the aforementioned Legend of the Super Saiyan around the
+Androids/Cell sage instead of the Saiyans/Namek sage, but that's me.
+
+Also, a direct-to-video OVA was released in conjunction with this game that was essentially
+a visual walkthrough for the Famicom game. It features brand new animation and I'd really
+recommend checking it out if you can find it. Personally, I found the OVA more enjoyable
+than I did the game. Also of note is an interactive version of the OVA was released a
+couple years later for the Playdia system.
+
+--------------------------------------
+
+2. Development
+
+--------------------------------------
+
+After I finished translating Assault of the Saiyans, I decided that I'd tackle all of
+the DBZ Famicom RPGs. In the summer of 2005 (or earlier) I started working on dumping
+the text from the remaining three games. I was trying to convince a close friend of mine
+(Crotanks, who, at the time of this writing, is exporting more awesomeness than the states
+of Chuck Norris and Steven Segal combined) to take up hacking, so I suggested he work on
+Gaiden and we'd release it under the Twilight Translation flag. Actually, this is where
+the idea of Twilight Translation first sprang up.
+
+Anyway, Crotanks was up for it and so I helped him learn the basics of the trade and walked
+him through most of the process. He built the table, found all the text, and dumped all the
+scripts. This is where D.D.S. enters the picture. He had signed onto help me out with
+DBZ3 and unbeknownst to me at the time, he had also signed on to help Crotanks with Gaiden.
+
+Since originally the patch was planned to have any compression or assembly level hacks
+implemented, Crotanks was going to handle the entire project, but then we released that
+the translated text simply wasn't going to fit. Luckily by this time I had learned ASM
+and how to add my beloved huffman compression. So once the editting and formatting was
+complete, I took over as the head of the project.
+
+As far as things went on the assembly side, I'd estimate that nearly 90% of the routines
+that I was interested in were copied and pasted directly from DBZ3's source. As such, I
+merely copied and pasted my code for DBZ3 and tweak it. Even with the dictionary and huffman
+compression, there still wasn't enough room for the text, though! I ended having to create
+a program (WordCount) to generate an additional dictionary to compress the game further.
+
+Finally the game was ready for testing, so I brought back snesmaster and mrfreeze (who
+had previously helped with testing DBZ3) and they gave the Beta patch a run through.
+Fortunately there was only one major bug (and that was caused by a typo), which I fixed
+pretty quickly.
+
+Which brings us to today. I'm extremely proud of the patch. Everything should be top-notch
+and provide any Dragonball Z fan with a weekend's worth of enjoyment. Plus, I'm giving
+English players a shot at something not even the Japanese gamers had access to: Vegeta.
+In the original Japanese game, Vegeta, though a member of your party, is controlled by
+the computer. Why they made a fan-favorite unplayable, I don't know. I do know, that it
+was a matter of changing one byte to gain control of him though. If you'd rather play the
+game the way it was meant to be, I've included a patch that retains the CPU-controlled
+Vegeta.
+
+--------------------------------------
+
+3. Notes
+
+--------------------------------------
+
+Unfortunately, I had to abbreviate some of the characters' techinque names in order for
+them to fit within the various windows. I even had to employ squishy tiles in a few places.
+These are easily the low point of the patch, but they in no way affect your experience.
+
+The "you are here" bubbles that appear above your character on the overworld map are
+still in Japanese. I didn't think I could fit the translation in that small of space, so
+I left it.
+
+The Tenkaichi Budoukai mode may or may not be completely playable. The only emulator that
+will run this game is one in the FCEU family (FCEU, FCEUD, FCEUXD, FCEUXD SP) and FWNES.
+I couldn't get complete a single tournament in either the Japanese rom in FCEUXD SP, so
+I know for a fact it's not the patch causing it. I'd like to test it with FWNES, but it
+doesn't work with Windows XP and I'm DOSBOX-retarded.\
+
+Due to the nature of the card system, I've included screenshots that show the combination
+for every technique. There's a few places where NPCs will give you a card combination, but
+unless you can read kanji, it won't help. Feel free to use them or not.
+
+The only thing I would have liked to do is add the translation credits below to the credits
+roll at the end of the game. Sadly, space just didn't permit. Be sure to read the
+acknowledgements section below to see who did what!
+
+--------------------------------------
+
+4. Patch History
+
+--------------------------------------
+
+-Version 1.00 IPS
+
+ The patches are now available in both NINJA format and the more common IPS format. NINJA
+ can apply both or you can use LunarIPS. No changes have been made to the contents of the
+ patches.
+
+-Version 1.00
+
+ Everything is translated and thoroughly tested. That doesn't mean that there aren't
+ still bugs lurking around, just that we didn't find them. If you find any read
+ below in section 5 for reporting them.
+
+ Included are two patches:
+
+ *dbzg.rup - The english translation.
+ *dbzg_veg.rup - The english translation plus control over Vegeta when he becomes a
+  member of your party.
+
+ Both patches are in NINJA format, for information on this see the official site at:
+ http://ninja.cinnamonpirate.com/
+
+ Over all, I'm extremely happy with this patch, and do not see an update needing to
+ be made in the future.
+
+ Please note that the rom only works in FCEU (and its offshoots) and FWNES. Rocknes
+ won't play the game, nor will NEStopia. This isn't due to the translation; the original
+ unpatched roms will not play either. I suspect there are more than just these two that
+ won't play the rom, though. If you're emulator of choice doesn't work, you may consider
+ switching to FCEU temporarily. See section 3 above for more information.
+
+--------------------------------------
+
+5. Bugs
+
+--------------------------------------
+
+There's one minor bug in the items menu. If you have 2 pages worth of items, the '1' will
+flicker and become a two. I had to rewrite a little of the VRAM routine for the Roulette
+card to work properly and unfortunately this bug is a side-effect. It shouldn't cause you
+any problems whatsoever, though. I couldn't think of a way to fix this without breaking
+a lot of things. It might be fixed in a future release or it might not.
+
+Other than that, there are no known bugs. However, if you manage to find one, I would like
+the following sent to me: a screenshot, a save state in FCEU format before the bug occurs,
+a brief description of the bug (even if you think it's obvious), and the circumstances
+under which it occured. Send that to my email at redcomet at rpgclassics dot com with
+Dragonball Z Gaiden or something similar in the subject line (so I won't trash it with
+the mountain of spam I get every day).
+
+--------------------------------------
+
+6. Credits
+
+--------------------------------------
+
+Dragonball Z Gaiden: Plan to Eliminate the Saiyans
+Translation Team:
+
+RedComet - Programmer (me)
+Crotanks - Script Extraction
+
+D.D.S. - Translator
+Elf - Graphics
+
+Testing and QA Team:
+
+snesmaster
+mrfreeze
+
+--------------------------------------
+
+7. Acknowledgements
+
+--------------------------------------
+
+In addition to the people listed in the Credits section, a few people deserve a special
+mention, without whom, this project would have gone no where fast and ended up being
+"just another dead DBZ translation":
+
+* The fans - The fact that my site has gotten about 5000 hits since DBZ3 was released
+  proves you care; I appreciate that.
+* RHDN's Script Help Board & the many wonderful translators who frequent it.
+* ROMHacking.net - a great place for getting help, feedback, and spreading news.
+
+...And all the ones I cannot remember, which, knowing me, is a lot.
+

@@ -1,0 +1,45 @@
+Crisis Force
+English Translation V 1.0
+Copyright 2008 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Crisis Force
+2.Patch History
+3.Patch Credits
+4.Known Issues
+
+---------------------------
+1.About Crisis Force
+---------------------------
+Crisis Force is a shooter for the NES by Konami. This game is pretty cool and the graphics are pretty cool for an NES game. You can consider this patch something akin to what Aeon Genesis did with Recca.
+---------------
+2.Patch History
+---------------
+What's done:
+
+-I didn't do much, but edit the title screen and reword some things in the options mode.
+
+---------------
+3.Patch Credits
+---------------
+
+Me- Hacking
+
+
+--------------
+4.Known Issues
+--------------
+None
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or at my site
+
+yojimbo.eludevisibility.org

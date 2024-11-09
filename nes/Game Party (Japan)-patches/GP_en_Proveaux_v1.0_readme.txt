@@ -1,0 +1,25 @@
+______________________________________________________________
+
+Proveaux Hack 2011
+______________________________________________________________
+
+Apply "Game Party E.ips" to "Game Party (J).nes" and enjoy. :D
+
+ROM CRC32:  0xf1c76aed
+ROM MD5:  0x95796671ba31d8abcc6288daf0640e60
+______________________________________________________________
+
+Changes:
+
+Japanese to English
+______________________________________________________________
+
+Thanks goes to:
+
+BRPXQZME for Mind-Q hints and ending translation.
+
+If I forgot anyone, please let me know. I have not looked at this in long while.
+______________________________________________________________
+
+This patch is for personal use only. Not to be used for profit, sale, or trade in any form.
+______________________________________________________________

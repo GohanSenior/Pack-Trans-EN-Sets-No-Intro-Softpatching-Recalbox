@@ -1,0 +1,30 @@
+NES:
+
+- Bio Senshi Dan - Increaser Tono Tatakai (Japan) cores compatibles: Libretro FCEUmm, Libretro Mesen
+
+- Devil Man (Japan) cores compatibles: Libretro FCEUmm, Libretro Mesen
+
+- Don Doko Don 2 (Japan) cores compatibles: Libretro FCEUmm, Libretro Mesen
+
+- Fudou Myouou Den (Japan) cores compatibles: Libretro FCEUmm, Libretro Mesen
+
+- Lasalle Ishii no Child's Quest (Japan) cores compatibles: Libretro FCEUmm, Libretro Mesen
+
+- Minna no Taabou no Nakayoshi Daisakusen (Japan) cores compatibles: Libretro FCEUmm, Libretro Mesen
+
+- Nekketsu Kakutou Densetsu (Japan) cores compatibles: Libretro FCEUmm, Libretro Mesen, Libretro QuickNES
+
+- RPG Jinsei Game (Japan) cores compatibles: Libretro FCEUmm, Libretro Mesen
+
+- Youkai Club (Japan) cores compatibles: Libretro FCEUmm, Libretro Mesen
+
+- Yu Yu Hakusho - Bakutou Ankoku Bujutsukai (Japan) (Datach) cores compatibles: Libretro FCEUmm, Libretro Mesen
+
+SNES:
+
+- Ghost Chaser Densei (Japan) the region core must be NTSC
+
+MEGADRIVE:
+
+- Monster World IV (Japan) the core region must be on Japan NTSC, PAL or Europe
+

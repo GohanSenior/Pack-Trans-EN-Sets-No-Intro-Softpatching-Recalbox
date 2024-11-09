@@ -1,0 +1,75 @@
+===============Spooky Kitaro 2========================
+============Kitaro vs. Yokai Army=====================
+==================V1.01===============================
+Genre: RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Authors: Djinn / aishsha
+
+E-mail: magicdjinn@narod.ru / aishsha@gmail.com
+Web-site: http://magicteam.emu-land.net / aishsha.blogspot.com
+ 
+ 
+======================================================
+Gegege no Kitaro 2 - Yokai Gundan no Chosen
+======================================================
+Background: What can I say? It's Gegege no Kitaro. This
+obscure one-eyed boy is a mascot on Japanese shores but
+still unknown to general public all over the the rest
+of the world. The game is a plain and really difficult 
+(in many aspects) RPG loaded with traditional Japanese 
+puns, religious aspects and surroundings. If you want to
+know the basics of what is going on - check another .txt
+file in this archive or wikipedia - it's up to you.
+As for the game itself - I'd wish you a lot of luck, if
+you decided to clear it through. As in any usual oldschool
+game you know practically nothing of what to do or go
+next. The control system of the game is not that clear 
+as well. Just a quick hint: try pressing U or D on the
+battle screen to get to some alternatives :)
+
+The game was our first collaboration attempt with Djinn.
+He was totally responsible for all the hacking work and
+I must admit that his job is just flawless.
+The translation was a great challenge for me due to
+many cultural and encyclopedic information contained
+within the game. And one more - they speak Kansai-ben...
+And a lot! So it would be a real nightmare without some
+help from a good person listed in the credits. This was
+a long way to go but we managed to pass that.
+
+Use a patching IPS utility of your choice to apply the
+patch. The game may have some problems with some
+emulators but FCEU should work just fine. 
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. The script 
+may still look rough in places so your help would 
+be really appreciated.     
+
+Enjoy the playing!
+
+======================================================
+
+Credits go to:
+aishsha - who else can praise you than yourself? Well, I was the
+one who spoiled the whole script with this translation. 
+
+ASchultz - for his proofreading activities (again!).
+Thanks, man ;)
+
+Djinn - for his god-like hacking skills which made translation
+activities a pleasant business to deal with.
+
+fuzzball - for his enormous help with Kansai-ben and support all
+along (thanks again, man ;)).
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by aishsha. October 2008.

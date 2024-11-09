@@ -1,0 +1,45 @@
+========Gegege no Kitaro: Youkai Daimakyou============
+==================V1.0================================
+Genre: Platformer
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha
+
+E-mail: aishsha@gmail.com
+Web-site: aishsha.blogspot.com
+ 
+ 
+======================================================
+Gegege no Kitaro: Youkai Daimakyou
+======================================================
+This is the first game about Kitaro made for Famicom
+in 1986. In comparison to its successor - this is a
+true old-school platformer, which was later released
+in the US as Ninja Kid. That localization had practically
+nothing left from the original protagonist, as it
+changed even items in the game.
+
+The hack itself was practically nothing - the game
+has about 5 lines of text in general but I was still
+satisfied playing it in original shape as it was intended. 
+
+Use a patching IPS utility of your choice to apply the
+patch. 
+
+I would be highly grateful, if you find some time to 
+contact me with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.     
+
+Enjoy the playing and do buy the game, if you like it!
+
+======================================================
+No credits this time - it was just too easy :)
+
+======================================================
+
+
+Compiled by aishsha. July 2009.

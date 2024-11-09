@@ -1,0 +1,97 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+POCKET BILLIARDS: FUNK THE 9 BALL
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+English translation project by PR Translations
+Version 1.00 Released 14th Jan 2006
+http://prtranslations.cjb.net
+
+* Introduction
+
+Funk the 9 Ball is a GBC game produced by TAM and released in Japan in
+2000. It is a game where you play 9 ball billiards (a game similar to
+snooker that I have no familiarity with outside this game) using
+monsters called Tamappii that have special powers which affect the
+game. Perhaps surprisingly, it was not the (fairly vague) Pokemon
+connection that prompted me to work on this - I didn't discover it
+until after I had already been sold by the game's truly bizarre cast
+of characters. This is just a weird, fun little game, which I thought
+deserved an English translation. So here it is.
+
+Note: While playing the game, do be sure to occasionally check out the
+menu that can be accessed by pressing Select while you're outside of a
+billiards match. You can see details about all the Tamappii and items
+you win during gameplay.
+
+* The Patch
+
+Included with this Readme file should be funk9-100.ips, a patch that
+needs to be applied to a Japanese ROM of Funk the 9 Ball using a
+program such as SNESTool or Lunar IPS. I will not supply you with the
+ROM, but I shouldn't need to, since it's really not hard to find.
+
+* What's Translated
+
+To the best of my knowledge, everything is now translated. This
+includes all the menus, dialogue, Tamappii names and descriptions,
+item names and descriptions, and credits. All the graphical text
+(which mainly consists of titles and manga-style "sound effects") is
+translated as well.
+
+This is the second released patch for the game (after version 0.65,
+which was released on 28th Dec 2004). New in this patch are the
+translations of the Tamappii and item descriptions. I also translated
+the few remaining bits of graphical text that I hadn't done before.
+Finally, I have gone through all the other text and improved accuracy
+and clarity where appropriate.
+
+* A Note on the Translation
+
+My Japanese has improved a lot in the past year, and in general
+I don't think I still need to give a warning about how accurate the
+translation may or may not be. It's still heavily paraphrased in a lot
+of places due to a lack of space (and hacking ability on my part), but
+bearing that in mind, I'd say it's a decent representation of the
+original game.
+
+It's worth noting that every character in this game has some odd
+quirk to their speech. I have attempted (often poorly) to represent
+these in English.
+
+Also, for the "Today's Fortune" descriptions ("Lucky Colour"
+and "Lucky Item"), I had a 7 whole letters to work with. The result
+is, in some cases, some severely abbreviated text. I'd try to find a
+more creative solution, but these bits of text are picked at random
+and have no relevance to the rest of the game, so... yeah.
+
+Finally, much of the game remains untested. This is because I, uh,
+kinda suck at it. I'm confident that there are no bugs, but if it
+turns out that the game suddenly turns into a garbled mess at some
+point, don't hesitate to contact me.
+
+* Contact
+
+Feel free to e-mail me (Philip Reuben) at tuxedotrout@hotmail.com
+for the aforementioned reason, or if you have any other questions or
+comments.
+
+* Thanks
+
+TAM, for making the game. Matio, for listening to all my ramblings,
+playing the game for 5 minutes before getting bored, and pretty much
+demanding that I translate Pokemon Card GB 2 (no, I won't be
+translating Pokemon Card GB 2 in the foreseeable future.) The creators
+of the tools I used to hack the game (most notably Kent Hansen for
+Tile Layer Pro, BreakPoint Software for Hex Workshop, and Jair for his
+Relative Search, Script Extractor and Script Inserter utilities). And
+finally, Jim Breen for WWWJDIC, and all the posters in the history of
+sci.lang.japan.
+
+* Disclaimer
+
+Put simply, what you do with this is your own damn fault. I am not
+responsible if you download the ROM, or for anything you do with the
+ROM or the patch. Please don't distribute the patched ROM, and please
+include this readme file if you distribute the patch. The original
+game is copyright 2000 TAM, and the translation and patch are
+copyright 2005 Philip Reuben.

@@ -1,0 +1,61 @@
+======================================================
+==================Fortress of Fury 2==================
+=======================V1.00==========================
+Genre: Action/Shooter
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+Fortress of Fury 2 aka Ikari no Yousai 2
+======================================================
+Background: Fortress of Fury 2 aka Ikari no Yousei 2 is a 
+sequel to the GB game of the same name. A sequel called
+Operation Logic Bomb was also released for the SNES.
+But for some reason 2 was never released in english.
+It didn't really take long to do because all that
+was in Japanese was the title screen and a name in the
+credits.
+
+
+======================================================
+Patching Instructions
+======================================================
+Apply the patch to Ikari no Yousai 2 for the Gameboy.
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.   
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking.
+
+sin_batsu - graphic design
+
+ReyVGM - Special Thanks
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. May 2011.

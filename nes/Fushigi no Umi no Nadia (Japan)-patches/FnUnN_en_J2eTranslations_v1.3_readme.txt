@@ -1,0 +1,150 @@
+NADIA: Secret of the Blue Water
+version 1.3
+J2e translations
+http://members.aol.com/j2etrans/
+J2etrans@aol.com
+
+****VERY IMPORTANT****
+please take the time to read the section on running nadia.
+it contains information on the compatibility of the nadia rom
+on the current emulators that are out there!
+
+-----------------------------------------------------------------------------
+the Nadia translation team is:
+
+Anus P.		-Graphics
+		-Rom Hacker
+		-Translator (sorta)
+
+Rydia		-Translator
+
+Una Farmer	-Translator
+
+Blasted2	-Rom Hacker
+
+*Special thanks goes out to Toma XIII
+ for helping Anus P. with a few translations
+ and to necrosaro for starting the Nadia project
+ and devolping great tools to work with.
+
+How much of this game is translated??
+Well, as far we know, the whole game's been translated!
+Now there may be a few spots that may sound strange, but
+that's only because we translated the game from dumped scripts
+and we'll try to correct all mis-translated things as soon
+as possible!
+
+How can you help:
+
+(1) If there is any untranslated text in the game, please tell us
+	and send us screenshots and a savestate/savegame, whatever!
+
+(2) We're not to sure how the credits at the end of the game will turn
+	out, so if anybody has any savegames we could use to check
+	this out, it woulds be greatly appreaciated!
+
+(3) If there is any instince where its obvious that the wrong text
+	gets displayed, please tell us what line gets displayed
+	and what it should possibly say.  This is a common error
+	when using pointer table modifications for translating
+	games.
+
+*Nadia was hacked using the following tools:
+
+	Thingy
+	Hex Workshop
+	Nesticle
+
+-----------------------------------------------------------------------------
+Nadia Updates and releases:
+
+version 1.3
+
+-Added in the menu that said "NO ITEM" when viewing the stats of a
+ character who is not holding an Item
+-made "NEO ATLANTIS" display when "NEO ATLANTIS WON!" was displayed in the
+ close up battles
+-Fixed up when you win a close up battle so that the "Kt" after your
+ armys name doesn't show up
+-Fixed the menu that lets you select letters for entering your name
+-changed the item "ELECTRC" into "POWER" to sound better
+-changed "BABELTOE" into "BABEL" It should really be Tower of Babel.
+ Babel-Toe was a mistranslation but we're keeping it as just "BABEL"
+ because Tower wont fit in the maximum space there is for it
+-changed some other texts that appear on the battle field to make
+ more sense
+
+version 1.2
+
+-As far as we know, everything in this release is translated!
+ but we could be wrong.. and we intend to fix a couple things up
+ here and there....
+
+version 1.0
+
+-Initial release
+-Not much translated... just the main menus and character and Item names
+ and stuff.
+
+-----------------------------------------------------------------------------
+Applying the IPS patch to the rom:
+
+We recommend you use SNESTOOL to do this for you.  It's by far the easiest
+IPS patcher to use!  just load it up, select "USE IPS" and follow
+the instructions!
+
+-----------------------------------------------------------------------------
+Running nadia:
+
+When running Nadia *DO NOT* use nesticle!
+There are times in it where the game tends to lock up!
+
+As of right now, the only 2 emulators which we find are able
+to run nadia without it crashing or locking up are fwNES, and
+BioNES!
+
+If speed is a problem for you use fwNES, because its the
+fastest.  But if speed isn't a problem for you, then
+stick with BioNES.  Although it may be slower, the graphics
+are displayed correctly!  But this doesn't mean that the
+graphics don't turn out bad on fwNES, there's just a few
+glitches and layering problems.. nothing serious.
+
+If anyone knows any other emulators which wont lock up
+nadia, please tell us so we can give people more
+selection to choose from!
+
+-----------------------------------------------------------------------------
+How to play Nadia:
+
+well, first of all you gotta use the main menus to start a new game.
+First you gotta register a new log before you can actually start playing!
+the menu systems fairly straight forward and easy to figure out.
+but playing the game is a different story!  It first starts off as your
+turn to tell your army what to do.  You can select which guy you want to
+something and menu will show up.  This menu will give you the option to
+a) Move b)Use a skill c)use an Item d)Veiw the character's stats.
+although you might think that moving your characters is pointless, you'll
+soon find out that it is almost nessessary to move your characters on the
+battle field so that you can get into more strategic positions and also
+to get your army onto the offensive rather than defensive!  if you move
+one of your characters beside one of the enemies characters an RPG-style
+battle will break out!  When this happens you will have the option to
+a)Fight b)use a Skill c)use an Item d)RUN!!  fairly straigh forward to
+figure out I would think.  Oh, and choosing skill will allow you to use a
+special technique or choosing Item will allow you to use an Item!
+experiment to see which does which!  That's pretty much the whole game right
+there!  oh, I nearly forgot, to win a battle, all you have to do is kill
+the enemies Emperor, but beware, you will loose as soon as Nadia is killed,
+so choose your fights wisely!
+
+One last thing you could do if you want to help is submit a better guide
+for playing the game.  If anybody wants to do that, it would be great!
+
+-----------------------------------------------------------------------------
+Copywright notice:
+
+Thanks for downloading our translation patch, and we hope you enjoy it!
+after all, we're doing this for free!  If you wish to distribute this
+patch you may, but you MUST include this text file here with the patch
+that you distribute!

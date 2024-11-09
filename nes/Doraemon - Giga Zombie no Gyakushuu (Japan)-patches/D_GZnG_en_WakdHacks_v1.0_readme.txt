@@ -1,0 +1,57 @@
+Doraemon RPG Patch v1.0
+Hacked by WakdHacks	
+
+--------------------------------------		
+WHATS IN v1.0 - 100% completed|
+(released October 5th, 1999)	|
+			|
+Everything!			|
+------------------------------------
+WHATS IN v0.3 -  35% completed|
+(released July 24th, 1999)	|
+			|
+All menus			|
+95% monsters		|
+70% items			|
+25% dialogue                                 |
+			|
+-------------------------------------
+WHATS IN v.01 - 5% completed  |
+(released June 28th, 1999)              |
+                                                      |
+Almost all menus                             |
+Some monsters                               |
+Some dialogue		|
+Prologue			|
+			|
+			|
+What needs to be done - 	|
+			|
+Everything else		|
+-------------------------------------			
+
+
+How to use the IPS patch - 
+
+Download Snes Tool from the WakdHacks page (URL on the bottom of the page).  The rest should be self-explanitory.
+
+
+WakdHacks is - 
+
+Nagash - Site maintainer, Hacker
+Bongo` - Hacker
+Kagami - Translator
+Yusuke - Translator
+
+Look for future versions coming soon, we're going all the way and we're doing it at a furious pace!
+----------------------------------------
+| http://wakdhacks.cjb.net/ |
+----------------------------------------
+Send questions, bug reports, suggestions, etc. to - wakdhacks@hotmail.com
+
+Thanx to everybody that helped out here:
+Lina`Chan for the translating
+magimoogle for the beta testing
+InVerse for the awesome title screen
+WakdHacks team for the great cooperation
+#romhack in general for giving me somewhere to go and chill

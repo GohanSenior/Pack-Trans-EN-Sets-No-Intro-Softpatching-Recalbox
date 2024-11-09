@@ -1,0 +1,82 @@
+STED: Starfield of Memorable Relics
+version 1.0
+J2e translations
+http://j2e.emulationworld.com
+J2e@emulationworld.com
+
+-----------------------------------------------------------------------------
+the STED translation team is:
+
+Necrosaro       -Rom Hacker
+Luke Drelick    -Translator
+
+
+
+*People who helped out:
+skippy          -Spells translations
+Faraday         -Spells translations
+Wildbill        -Script condensing
+[cx]            -Script condensing
+AnusP.          -ROM
+Taskforce       -Support
+Stovetop        -Support
+
+
+How much of this game is translated??
+Well, as far we know, the whole game's been translated!
+Now there may be a few spots that may sound strange, but
+that's only because we translated the game from dumped scripts
+(context may be wrong in many cases) and we'll try to correct
+all mis-translated things as soon as possible!
+
+How can you help:
+
+(1) If there is any untranslated text in the game, please tell us
+	and send us screenshots and a savestate/savegame, whatever!
+
+(2) We've only beta tested part way through the game, so if anybody
+        has any savegames we could use to check out the end of the
+        game, it would be greatly appreciated!
+
+(3) If there is any instance where its obvious that the wrong text
+	gets displayed, please tell us what line gets displayed
+	and what it should possibly say.  This is a common error
+	when using pointer table modifications for translating
+        games, and when translating based on script dumps.
+
+*STED was hacked using the following tools:
+
+        Thingy
+        Tile Layer
+        Nesticle
+
+-----------------------------------------------------------------------------
+STED Updates and releases:
+
+version 1.0
+
+-Initial release
+-Everything we could find has been translated! Have fun!
+
+-----------------------------------------------------------------------------
+Applying the IPS patch to the rom:
+
+We recommend you use SNESTOOL to do this for you.  It's by far the easiest
+IPS patcher to use!  just load it up, select "USE IPS" and follow
+the instructions!
+
+-----------------------------------------------------------------------------
+Running STED:
+
+As far as I know, STED should run on any NES emulator with good
+compatibility, like NESticle, BioNES, FWNES, LoopyNES, etc.
+Due to the speed at which the game plays (and the limited amount of time
+we all have nowadays), I would suggest increasing the frameskip, or you
+will probably get bored of all of the long pauses and delays, like i did :)
+-----------------------------------------------------------------------------
+Copyright notice:
+
+Thanks for downloading our translation patch, and we hope you enjoy it!
+after all, we're doing this for free!  If you wish to distribute this
+patch you may, but you MUST include this text file here with the patch
+that you distribute!

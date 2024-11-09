@@ -1,0 +1,126 @@
+Kai no Bouken: The Quest of Ki
+Hacked & Translated by Zynk Oxhyde
+2013
+
+---------------
+Date Completed:
+---------------
+August 25, 2013
+
+------------
+Description:
+------------
+This is an English translation of The Quest of Ki for the NES.
+
+There is also a sprite improvement patch that made some items look like from Tower of Druaga and more.
+
+--------
+Changes:
+--------
+QUEST_OF_KI_ENG_v2 (04/09/2019)
+QUEST_OF_KI_ENG+_v2 (04/09/2019)
+*Credits completely translated and realigned
+*End messages realigned
+*Edited stage intro texts
+*Edited game over screen texts
+*New font
+*Fixed minor text bugs
+
+QUESTOFKI(EN) v1.0 (08/25/2013)
+*Only the English alphabet, capital & lowercase, are added! 
+
+QUESTOFKI(EN)+ v1.0 (08/25/2013)
+Aside from translation, here are some note-worthy to trivial changes:
+*Ki's sprites are improved.
+*Items from treasure boxes are made to look like from Tower of Druaga.
+*Stage/floor palettes are changed.
+*The word TIME in-game is now a Clock.
+*Yellow colored texts are added.
+*Gil's sprites slightly edited.
+*The color of the picture of stone with tiara changed.
+*Titlescreen 'New Start' changed to 'New Game Start'.
+
+---------
+Controls:
+---------
+D-pad (Left & Right only) = Move
+A = Jump/Hold down to shoot up/Tapping it when flying
+B = Hold down to run/Speed up movement while in the air
+Start = Pause/Skip Ishtar & Quox message.
+
+---------
+Gameplay:
+---------
+The game is a platformer. The main objective is to get the key then exit thru a door (aside from the door from whence the player came out of, duh!).
+But it isn't that simple, the player has to figure out how to get the key first before escaping to the next floor. The player has no weapons
+so you must rely on evading enemies. Other than that, there's a time limit in every floor, so you should keep that in mind.
+In some floors, you need items found in treasure boxes to pass. In some obstacles, you need to hit the wall or the ceiling just to duck.
+
+----------------------
+Item List - ENGLISH[+]
+----------------------
+Wing	[Jet Boots]	- Hold or tap A-button to fly.
+Barrier	[Pendant]	- Grants protection from enemies & projectiles once. An enemy will disappear when you collide with the Barrier on.
+Clock	[Clock]		- Adds 60 seconds on the Timer.
+S-Flag	[L-Flag]	- Adds 1 life; a 1UP.[Changed it from S-flag. The 'L' means Life]
+L-Flag	[S-Flag]	- Adds 8,000 points (yes, NOT 100 seconds like what the Youtube video or GameFAQS says). [Changed it from L-flag. The 'S' means Score]
+Gift	[Crystal]	- Adds 10,000 points.
+Cross	[Cross]		- Makes the Vampire (the big furry guy; that's what they call it in the Tower of Druaga series) disappear.
+Blank	[X]		- None.
+Orb	[Ruby Mace]	- Makes the Big Ogre with a weapon disappear.
+Candle	[Candle]  	- Makes the invisible ghosts visible.
+Z	[ZZ]	  	- Makes some enemies stop moving in a few seconds.
+Warp	[Warp] 		- Makes you skip some floors. However, after the 60th floor, it makes you go back to previous floors.
+Pearl	[Red Ring]	- Invulnerability from Red Wisps.
+Flask	[Flask]		- Depletes the Timer faster.
+Bolt	[Book]		- Stops enemies from firing projectiles.
+Face	[Chime]		- Stops enemies from moving.
+
+
+---------
+ZIP file:
+---------
+1. This readme
+2. QUEST_OF_KI_ENG_v2
+3. QUEST_OF_KI_ENG+_v2
+
+----------------
+ROM Information:
+----------------
+Database match: Ki no Bouken - The Quest of Ki (Japan)
+Database: No-Intro: Nintendo Entertainment System (v. 20180803-121122)
+File SHA-1: 8F02CDD99AD4B27A85EF1208A9520B0C1734F608
+File CRC32: CCC47A57
+ROM SHA-1: EB576DCDE0BFA51F039D153804B8614D53B8F0C9
+ROM CRC32: E1526228
+
+--------
+Credits:
+--------
+Zynk Oxhyde - Hacking, translation & script revision
+	    - Zynk did the credits, translated some of the untranslated script & revised some script.
+	    - [+]Zynk made Ki's new sprites because he thought the original looks awful. DX
+	    - [+]Changed the items to look like from Tower of Druaga.
+	    - [+]Changed the stage/floor palettes.
+
+Tomato	    - Translated scripts.
+	    - He let Zynk use his scripts that he left because the previous hackers went missing on him.
+	    - He did the translation for the Intro, Ishtar, Dragons & Ending (60th floor).
+
+---------------
+Special Thanks:
+---------------
+Romhacking.net for hosting the patches
+
+--------
+Contact:
+--------
+Email: zynkoxhyde@yahoo.com
+
+-----------
+Disclaimer:
+-----------
+* Zynk Oxhyde is not related or affiliated with Nintendo and the publisher of the original game.
+* Do not sell this patch and the contents with it.
+* Do not sell the pre-patched ROM into reproduction cartridges.
+* You may distribute or host this patch provided that all files that come with it are intact.

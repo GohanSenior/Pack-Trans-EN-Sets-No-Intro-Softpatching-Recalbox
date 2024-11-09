@@ -1,0 +1,238 @@
+                      DvD Translations
+
+                          presents
+
+
+                    Antarctic Adventure
+
+
+                        for the NES
+
+                        published by
+
+                           Konami
+
+               Patch Version: 1.0
+
+                Release Date: February 3, 2005
+
+------------------------------------------------------------
+Hello and welcome to the ReadMe file for
+
+"Antarctic Adventure"
+
+Although the in-game title for the game is "Antarctic
+Adventure", written in English, the full title of the game
+on the box is written in Japanese.  It literally translates
+to "Eventually Antarctic Big Adventure."  Our only guess is
+that the Japanese word for "Eventually" was really put there
+to rhyme with the Japanese word for "Antarctic" so, in that
+light, we could call it:
+
+"Avalanche-ly Antarctic Adventure"
+
+But, as it doesn't sound that good, we suggest sticking
+with the in-game English name.
+
+In this file I've included info on how to use the patch
+and how to play.
+------------------------------------------------------------
+Credits:
+                      DvD Translations
+             dvdtranslations.eludevisibility.org
+
+DvD    - Tile editor
+       - Tester
+       - ReadMe author
+
+Shiroi - Translations:
+         * "South Pole"
+         * "Avalanche-ly Antarctic Adventure"
+------------------------------------------------------------
+A little history of Konami and the NES
+
+Original game ROM size: 1 16k program ROM bank
+                          &
+                        1  8k character ROM bank
+                      = 24 kBytes
+                      = 24576 Bytes
+
+Games designed for the original Famicom/NES hardware could
+be 1 or 2 16k program banks and 1 8k character bank.  Later,
+all games made for the NES used special mapper chips to
+expand the size of the addressable ROM beyond these
+limitations.  As this game only uses 1 program bank, it is
+the smallest (and cheapest to manufacture) a game for the
+NES could be!
+
+Konami was the first 3rd party company that Nintendo
+licensed to manufacture their own games for the Famicom.
+Antarctic Adventure was Konami's first release for the
+Famicom along with Yie Ar Kung-Fu!  I believe the latter
+was their first game released for any home system,
+specifically the Microsoft MSX.
+
+List of Konami's Original 24k ROM Famicom Releases
+
+ 4-22-85 Yie Ar Kung-Fu                  MSX 1982 
+ 4-22-85 Kekkyoku Nankyoku Daibouken /
+         Antarctic Adventure             MSX 1984 
+ 7-11-85 Road Fighter
+ 9-20-85 Pooyan         (w/ Hudson Soft)
+ 3- 4-86 Circus Charlie (w/ Soft Pro)
+------------------------------------------------------------
+How to patch the ROM file:
+
+You need:
+
+1) A ROM file.  The file must include the standard 16
+   byte iNES header followed by the program ROM.  This
+   makes the ROM file 24592 Bytes in size.
+
+   I'm not telling you how to get the ROM file, but
+   for this game, the format of the 16 byte iNES header
+   should be:
+
+   4E 45 53 1A 01 01 00 00 00 00 00 00 00 00 00 00
+
+2) Patch File: AA_v1_00.IPS
+
+3) An IPS patching program
+   Recommended patching program for IBM PC:
+
+    Snes-Tool.exe by The M.C.A./Elite
+
+Using SNES Tool:
+
+1) Make a copy of the un-patched ROM.  You always want to
+   keep the un-patched ROM around for later revisions of
+   the patch.
+2) Place an un-patched ROM file with header
+   (I'll call it AA.nes), AA_v1_00.IPS, and
+   Snes-Tool.exe in the same directory.
+3) Run Snes-Tool.exe
+4) Type 'U' for "Use IPS"
+5) Press the down arrow key until AA_v1_00.IPS
+   is highlighted.
+6) Hit Enter.
+7) Press the down arrow key until AA.NES is highlighted.
+8) Hit Enter.
+9) Hit 'Q' to quit.
+
+Note: If patching the file on a Mac, I recommend UIPS.
+------------------------------------------------------------
+Playing the game on an emulator:
+
+For the PC, I recommend FCE Ultra, although being such a
+basic ROM with no mapper and no fancy timing code, I'm sure
+it works in every NES emulator ever made.
+------------------------------------------------------------
+Why I chose to translate THIS game:
+
+1) I wanted to take a brake from determining the exact
+   context of the nearly 500 blocks of text in Port Pier.
+   I've made great progress, but staring at a text editor
+   for months wasn't good on the eyes.
+
+2) I've played and passed all the prequels to this game.
+   It doesn't have any.  I have this thing about playing
+   games that are part of a series in the order in which
+   they came out...
+
+3) I've played and passed many of the SEQUELS to this game.
+   * "Yume Penguin Monogatari", for the NES, is essentially
+     the closest thing to a true sequel to this game.
+   * Penta the Penguin also shows up as a playable character
+     in all of the games in the Parodius series.  Also
+     many other penguins are cannon fodder in the game.
+   * Konami's Krazy Racers (Wai Wai Racing) has an entire
+     level devoted to Antarctic Adventure, the theme song
+     plays and you drive over ice and avoid penguins.
+   * I'm sure Penguin's show up at some time in the Wai Wai
+     World series of games.
+
+4) It's one of my family's favorite games on our 63in1 cart.
+
+Why YOU should bother playing THIS game:
+
+1) To understand where Konami's fascination with penguins
+   came from!
+
+It's a pretty simple game... but what do you expect for 24k?
+------------------------------------------------------------
+Game Controls Chart:
+
+1) Title & Demo Screen Controls
+
+- Start              :Bring up level section screen
+                     :Start game
+
+- Select             :Bring up level section screen
+                     :Select difficulty level
+
+2) Game Controls
+
+- Start              :Pause/Un-Pause
+
+- Control Pad
+  - Up               :Accelerate
+  - Down             :Decelerate
+  - Left             :Move left
+  - Right            :Move right
+
+- A or B             :Jump
+                     :Climb out of fissure
+  - while wearing
+    helicopter hat
+    and jumping      :Fly
+
+3) The basic goal is to make it to the South Pole and back,
+   stopping at different country's outposts along the way.
+   You have a certain time to reach each outpost.  Along
+   the way you can collect flags and fish for points.
+   Avoid holes, seals, and falling into fissures.  A
+   flashing flag not only gives you points but also gives
+   you a helicopter hat that allows you to fly for a short
+   distance over holes (but not seals).
+
+4) Check out Brian P. Sulpher's Antarctic Adventure
+   FAQ/Walkthrough at www.gamefaqs.com for more information.
+------------------------------------------------------------
+Translation Progress History:
+
+Patch Version  Release Date
+-------------  ---------------
+1.00           January 25th, 2005  - Patch Completed
+1.00           February 3rd, 2005  - Patch Released
+
+* "South Pole" translation             - Complete
+* "REST" & "km" font cleaned up        - Complete 
+* Title screen hack - DvD Translations - Complete
+* Japanese title translation           - Complete
+* ReadMe                               - Complete
+------------------------------------------------------------
+Software used in this translation:
+
+* Emulator
+
+  FCE Ultra 0.94
+   by Bero & xodnizel
+
+* Tile Editor
+  
+  Tile Layer Pro 1.0
+   by Kent Hansen
+
+* IPS Patch File Creator
+
+  Snes-Tool Version 1.2
+   by The M.C.A./Elite
+
+* ReadMe Creation
+
+  Notepad
+   by Microsoft
+------------------------------------------------------------
+Are you still reading this?
+
+DvD

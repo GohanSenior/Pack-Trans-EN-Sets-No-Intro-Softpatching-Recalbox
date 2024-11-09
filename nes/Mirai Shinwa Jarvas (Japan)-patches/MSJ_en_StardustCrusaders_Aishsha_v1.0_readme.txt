@@ -1,0 +1,76 @@
+===============Distant Legend of Jarvas===============
+======================V1.00===========================
+Genre: ACT/RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: aishsha@gmail.com/
+Web-site: aishsha.blogspot.com/http://yojimbo.eludevisibility.org/
+ 
+ 
+======================================================
+Jarvas
+======================================================
+Background: For both myself and aishsha this was practically
+our first translation personally and working together.
+Originally I had released a slightly incomplete patch
+on Xmas 2008 and there were still issues that weren't
+dealt with until 2 years later. It took way longer than
+it should have, but it's now done and that's all that matters.
+
+
+
+I would like to mention that I find this game to be on
+the very bad side. If anyone is crazy/dumb enough to
+play it, I will try to give them some guidance as to
+what to do. First of all, you do not level up automatically.
+You must go to a guild to get a level up. Finally, the
+goal of the game is to gather an army and conquer all
+castles in the world. I would also recommend a heavy
+usage of cheating to speed the game up.
+
+A few bugs and odd stuff to note. The menu occasionally
+flashes brown. Pretty sure this was present in the
+original version. Also attack and defense stats are
+not effected by weapon and armor. This was probably
+an oversight and I had originally altered the stat
+routines to add when a new piece of equipment
+was bought, but I removed it. I wasn't sure if
+I was adding actual equipment stats.
+
+
+Use a patching IPS utility of your choice to apply the
+patch (I do recommend Lunar IPS). 
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.   
+
+Enjoy the playing and do buy the game, if you like it!
+
+======================================================
+
+Credits go to:
+aishsha - translation, hacking, testing
+
+Pennywise - main hacking, testing
+
+Kartes - hacking
+
+ReyVGM - testing
+
+http://www.ne.jp/asahi/oroti/famicom/kou/sa/33645401.html
+
+where we got the maps from
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. December 2010.

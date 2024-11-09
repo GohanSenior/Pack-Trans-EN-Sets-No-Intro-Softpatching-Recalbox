@@ -1,0 +1,81 @@
+======================================================
+====================Youkai Club=======================
+=======================V1.01==========================
+Genre: Action/Platformer
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+     
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+Youkai Club
+======================================================
+Background: This was the very first translation I ever
+released back when I first got into romhacking. There's
+nothing really special about game, it's basically a
+crappy Castlevania clone, but here I am many years later
+updating this translation. The old patch had a header
+issue that prevented the game from working. It was
+a simple fix and while I was at I updated the title
+screen and tweaked some of the text.
+
+======================================================
+Version History
+======================================================
+
+1.00 - Initial Release
+1.01 - New title screen, header fix, tweaked text
+
+======================================================
+Patching Instructions
+======================================================
+I've included two patching formats, IPS and BPS. The former
+is very simple and the later needs to be applied
+with byuu's patcher, beat.
+
+These are some of the links where you can download it.
+The patching process is the same as IPS.
+
+http://byuu.org/programming/
+http://www.romhacking.net/utilities/893/
+http://www.smwcentral.net/?p=section&a=details&id=5917
+
+Apparently beat has issues working on XP, but I've been
+told the third link works on XP.
+
+Apply either patch to the original Japanese version of the
+ROM:
+
+Youkai Club (J).nes
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - Hacking
+
+M-Tee - Title screen design and hacking
+
+Ryusui - Translation
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. April 2014.

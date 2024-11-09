@@ -1,0 +1,71 @@
+DICING KNIGHT.
+ENGLISH TRANSLATION V1.00
+Copyright 2007 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1. About Dicing Knight.
+2. Patch History
+3. Patch Credits and Contributors
+4. Known issues
+5. Application Instructions
+6. Controls Explanation
+
+----------------------
+1.About Dicing Knight.
+----------------------
+Dicing Knight, a homebrew Wonderwitch game, managed to
+win a Best Homebrew contest and saw an extremely limited
+release as a commercial game. It's absurdly fun, for such
+a simple game. Each dungeon is randomly rearranged when
+you enter it, as is typical for roguelikes. The gameplay,
+atypical of roguelikes, is comprised of fast-paced action.
+An explanation of the controls follows in section 6.
+
+---------------
+2.Patch History
+---------------
+This game was brough to my attention this morning on the
+SelectButton forums. I decided to hack it, and did so this
+afternoon. Then, this evening, I released the patch.
+
+January 20, 2007 - Initial version 1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE DICING KNIGHT TEAM
+Main Team:
+Gideon Zhi - Project leader, Romhacker
+Chrissy/Excellen - Japanese Translator
+
+--------------
+4.Known Issues
+--------------
+--The patch is largely untested, so one or two of the graphics
+  might not display 100% correctly. I think they will, though.
+
+Please report any other bugs, spelling errors, and
+such on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Grab LunarIPS from the following site:
+http://www.romhacking.net
+Then just apply the patch to the game.
+
+----------------------
+6.Controls Explanation
+----------------------
+--The X D-Pad moves your character around.
+--The Y D-Pad manages your inventory. Press an empty direction to
+  pick up an item, or the direction of an item to use the item.
+--The B button brings up your shield. Your hunger meter drops at
+  an increased rate while the shield is out.
+--The A button swings your sword.
+--A special move can be executed when the bar below your health
+  reads "MAX!!" To do so, press both sword and shield buttons at
+  the same time. The move you do depends on which you press first.

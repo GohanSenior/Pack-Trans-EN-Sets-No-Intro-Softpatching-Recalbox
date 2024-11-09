@@ -1,0 +1,92 @@
+JOJO'S BIZARRE ADVENTURE
+ENGLISH TRANSLATION V1.00
+Copyright 2012 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About JJBA
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+6.Gameplay Tips
+
+--------------------------------
+1.About JoJo's Bizarre Adventure
+--------------------------------
+This is a short RPG based on Stardust Crusaders, the third arc of the
+long-running JoJo's Bizarre Adventure manga. The first two arcs have
+recently been adapted into TV anime, and the game picks up where they
+left off; Jotaro is Joseph's son.
+
+It's a somewhat abridged version of the story. Some of the events have
+been shuffled around, some don't occur at all, some have been changed
+completeley. It's an okay game, probably about five hours long, but
+you probably need to be a fan of the property to get the most out of
+it.
+
+---------------
+2.Patch History
+---------------
+This would have been an easy project had I elected to leave the font
+as 8x8. But no, I decided to make it 8x16, and in so doing needed to
+rewire nearly every menu so things fit better. Whoops! I'm mostly
+happy with the end result, though.
+
+April 13, 2013 - Initial V1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE JOJO TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker, assembly hacking
+TheMajin - Text translation
+blargh_ - Text edit
+Kitsune Sniper - Title Screen
+
+Special thanks to Tomato, BRPXQZME, and Paul Jensen for consultation on
+bits and pieces of the script.
+
+--------------
+4.Known Issues
+--------------
+--Cursor behavior in combat tends to stick a bit, however this occurs in
+  the Japanese version of the game and is not the fault of the patch.
+--Status screens are unstable and can crash the game, however this occurs
+  in the Japanese version of the game and is not the fault of the patch.
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://agtp.romhack.net/pantheon)
+Screenshots are preferred, as are savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+1.00 MB (8mbit LoROM) WITHOUT header. (*exactly* 1,048,576 bytes)
+No header.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "jojo.smc" make sure the patch
+is "jojo.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT
+HAVE A HEADER!. If you right-click the ROM and select Properties, it
+should read "1.00 MB (1,048,576 bytes)". TUSH will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net/utilities/608/
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+not have a header.
+
+---------------
+6.Gameplay Tips
+---------------
+--Does a battle seem unwinnable? Try using the "Idea!" command under the
+  Tactics menu.
+--Try Checking everywhere! Items get stashed in the damnedest places, and
+  Checking the environment carefully can save you a lot of dosh.

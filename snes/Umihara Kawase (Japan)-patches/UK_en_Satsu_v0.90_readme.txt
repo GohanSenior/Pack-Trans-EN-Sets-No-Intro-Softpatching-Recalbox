@@ -1,0 +1,121 @@
+Umihara Kawase translation patch v0.90
+http://sa-two.yuudachi.net/
+
+Contents
+================================================================================
+1. Patch History
+2. About Umihara Kawase
+3. Controls
+4. Issues
+5. What doesn't this patch do?
+6. Why, after all this time, are you
+   rereleasing such a minor translation?
+7. Patching Note
+A. Credits and Thanks
+B. Reminder
+
+1. Patch History
+================================================================================
+v0.90 - 2/6/2007
+- Replay system completely translated.
+- Game over graphic translated.
+- Title screen *not* translated. See below for details.
+- Idiocy removed.
+- Let's forget the previous versions ever existed.
+
+2. About Umihara Kawase
+================================================================================
+Umihara Kawase is a platform game that was only officially released in Japan
+and enjoyed a sequel on the PlayStation. The title is derived from a Japanese
+cooking idiom meaning "sea fish are fat in the belly, river fish are fat in
+the back".
+
+The game is pretty simple. You control a girl with a rubber fishing line
+which you can use to attack and catch most of the various enemies in the
+game. However, its main use is to navigate through the levels. You can hook
+onto any solid surface, and mastering swinging from surface to surface is the
+key to getting far in this game.
+
+The game comes with an option to watch a replay of your progress once you
+lose. This feature is suprisingly sophisticated; you can store replays in
+several files and save them to the game's memory. It's this feature that
+has been translated.
+
+True, in this day and age, this feature has been completely superceded by
+the great ease of making gameplay clips and sharing with them others on
+the Internet, but the reason this translation was made was to bring attention
+to a rather unique and enjoyable game.
+
+3. Controls
+================================================================================
+D-Pad : Move/Reel in line (up)/Loosen line (down)
+A     : Jump
+B     : Throw fishing line
+X     : Jump
+Y     : Throw fishing line
+L     : Scroll screen left
+R     : Scroll screen left
+Start : Pause
+Select: Not used.
+
+Operating the Replay System:
+First, you need something to replay. For the sake of this demonstration,
+play the game, lose all your lives, and return the main menu.
+Go into the replay menu, and select the option "Save".
+The save menu will list 10 files, representing the 10 lives you used.
+They're named FIELDxx, where xx is the number of the FIELD you died
+at. Anyway, pick a file and save it. Now, you can replay it.
+Leave the Save menu, and you can either Replay, Rename or Delete
+the file. I think it's pretty self explanatory from there.
+
+4. Issues
+================================================================================
+None known at time of release.
+
+5. What doesn't this patch do?
+================================================================================
+The title screen is left in the original Japanese. I think it looks better
+that way, but if anyone feels like producing a *good* English version, I'll
+gladly incorporate it into this translation.
+
+6. Why, after all this time, are you rereleasing such a minor translation?
+================================================================================
+Umihara Kawase was my very first contribution to the translation scene, and
+it's nostalgic for me. However, I also produced this translation when I was
+a stupid high schooler, and it ended up being that I couldn't think back on
+it without cringing in embarassment. One thing that particularly bothered me
+was that I had altered the TNN logo graphic at the start of the game to a
+short message, and another was the really crappy hand-written "The End!" on
+the Game Over screen. I decided I couldn't put this translation on my current
+site without fixing this, and I thought maybe I could at least get this out
+there so that eventually only a few people will know that I was a dumb high
+school kid once.
+
+7. Patching Note
+================================================================================
+Considering that not that many people will be playing this compared to titles
+like Tales of Phantasia or Shin Megami Tensei, I don't think I have to be very
+verbose here.
+You should know, however, that this patch was made for a ROM /WITHOUT/ a header.
+The size of an Umihara Kawase ROM without a header is 1,048,576 bytes.
+
+A. Credits and thanks
+================================================================================
+
+Translation/hacking: 		satsu
+
+Special thanks to:
+Kent Keltner, who brought this game to my attention.
+
+Akimaru, who helped me with some difficult parts of the translation as
+I didn't actually speak Japanese when the translation was first made.
+
+B. Reminder
+================================================================================
+Please DO NOT ask me or anyone else involved with this translation for a
+copy of the ROM.
+The distribution of this work as a prepatched ROM is strictly forbidden.
+This patch must also be distributed with this readme file.
+
+Copyright 2007 satsu, except for the bits I didn't do which are copyright
+to the people who did them.

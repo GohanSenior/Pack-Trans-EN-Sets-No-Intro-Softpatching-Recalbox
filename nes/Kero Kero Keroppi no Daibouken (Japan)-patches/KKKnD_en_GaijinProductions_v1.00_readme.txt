@@ -1,0 +1,36 @@
+Kerokero Keroppi's Big Adventure 
+--------------------------------
+English Translation version 1.00
+--------------------------------
+from Gaijin Productions (of CTC)
+by Translator/Romhacker Musashi
+
+Version 1.00
+------------
+-All located game text translated
+-Title Screen Translated
+
+About the Game
+--------------
+In Keroppi's Big Adventure, Keroleen, Keroppi's girlfriend, has been kidnapped and its up to Kerropi to save her.  Kerropi must travel through Zanuzanuzanupago completing various puzzles to make his way to the final castle where Keroleen is held.
+
+About the Project
+-----------------
+I started this project a little bit before Christmas of '98 as side project.  I was tired of working on my lengthier project, Rainbow Silkroad (now 100% translated and out soon), a NES RPG.
+After a few days this fairly simple project was completed.  It should be noted that I did not have a script dump when I translating this game so there maybe a line or to left untouched.  If you run across it please it to me.  I also went through several name changes for Keroleen.  At first I translated it to Kerri, then Kerrin, and then, after doing some intesive research at the Sanrio website I discovered it to be correctly translated as Keroleen.  This was the last change I made to the game and was left unchecked.  If anything appears wrong please report it as well.
+
+Thanks
+------
+-Everyone at CTC for their support
+-Toma, after seeing his Kerropi 2 translation, I was compelled to look for then translate Keroppi's Big Adventure 1.
+-Wildbill, he showed my, with his coordination of the Destiny of an Emperor 2 project, that the best way to do things is to do it extremely organized and well paced.
+-Taichou, for providing webspace for my site
+-www.Sanrio.com for the info
+-Playtester Mustie, my brother
+-My tools: Tile Layer, Hex Workshop, Nesticles 0.42, and my old trusty 486-SX 33mhz computer at home (plus my Imation SuperDisk drive that no one else has...)
+
+Gaijin Productions
+http://gaijin.romhacking.com/
+
+come visit the Confederated Translation Company, of which Gaijin Productions is a member:
+http://ctc.weyland-yutani.net/

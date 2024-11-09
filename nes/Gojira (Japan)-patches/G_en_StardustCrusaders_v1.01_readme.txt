@@ -1,0 +1,93 @@
+==========================================================
+==========================Godzilla========================
+===========================V 1.01=========================
+Genre: Strategy/Action
+
+Source language: Japanese
+
+Platform: NES
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Godzilla
+======================================================
+Project History:
+
+I think I started this project sometime in 2014 in what
+I'd hoped would be a quick project, but that didn't quite
+work out.
+
+The project started on a whim when Rodimus Primal generally
+suggested someone retranslate the Japanese version of the
+game due to removed music from the movie's original composer.
+
+Hacking the game was pretty standard fare, but the project
+stalled when I wanted to expand a text box. So I set the
+project aside and came back to it several years later.
+After some fairly intensive reverse-engineering the game's
+code, I deemed it not worth anymore effort and reverted
+the box to its original size. I finished the project
+shortly after.
+
+======================================================
+Version History
+======================================================
+1.0 - initial release
+1.01- title screen bugfix
+
+======================================================
+Patching Instructions
+======================================================
+The patch is in IPS and BPS format. I recommend FLIPS
+for all your patching needs.
+
+http://www.romhacking.net/utilities/1040/
+
+
+Apply the patch to the Japanese ROM:
+
+Godzilla (Japan).nes
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking
+
+leina - bugfixing
+
+Ryusui - translation
+
+DarknessSavior - translation
+
+M-Tee - title screen design
+
+cccmar - testing
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. September 2023.

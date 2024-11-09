@@ -1,0 +1,269 @@
+
+                       (insert elite ascii graphic here)
+
+
+                     Ganbare Goemon! 1.01 (22 March 2010)
+                             Official Readme File!
+
+------------------------------------------------------------------------------
+
+I. Introduction
+II. Project
+IIa. Project Members
+IIb. Tools
+IIc. History
+IId. Known Issues
+III. End-User Information
+IV. Thx
+V. Legal stuff that would never hold up in court
+
+------------------------------------------------------------------------------
+
+                             Introduction
+
+Hey everybody. This is a project that's been a LONG time coming, and I'm 
+pretty damn glad to see it finished, considering the fact that I started it
+about ten and a half years ago. And, you know, this translation really
+couldn't be for a better game: the game that "started it all" and began the
+Goemon series of games that Konami had going for a while. It's great fun,
+though confusing without a FAQ of some sort, and is just such a classic Konami
+game. It's got a very very basic River City Ransom fighting style going on,
+with some confusing mazes and hidden secrets in the style of the Goonies II.
+You should probably check it out sometime.
+
+So here's the story on the translation: back when I was first starting my
+translation news site and patch archive, I had to playtest a LOT of games. I
+tried out the old translation of Ganbare Goemon by Neo Demiforce from back in
+1998, and it was frustrating because the game was fun as hell, but the patch
+was for an old FFE dump of the ROM that no one used anymore and that no
+emulators even played. I WANTED to play it, though, and I was under the
+impression that not much in the game was actually translated, so I decided to
+translate it myself as a fun project.
+
+After getting Xeur to translate the script, I realized that inserting the
+script was going to be a huge pain, and instead of doing that I decided to
+hand it off to my friend kueller to finish up. His translation was pretty
+functional, but none of the pointers were changed, stuff was taken out, and
+it was generally kind of a slipshod work all told (graphics aside). Fast-
+forward to 2009 and I hear that there's EIGHT endings in all, and only the
+first one is done. I want it to get fixed, but since kueller's long gone and
+I don't want to continue his work without his permission, I just decided to
+do the whole thing from scratch myself. So there you have it.
+
+
+------------------------------------------------------------------------------
+
+                               Project
+
+I had hoped to release this on October 15 of last year, which would have been
+the ten-year anniversary of the project (as far as I know), and I would have
+met it if I'd actually worked on it. As such, I got all the graphics and the
+script inserted, and then just kind of forgot about it for a few months.
+Whoops!
+
+While no doubt not impressive by most ROM hacker standards, this is by far the
+most advanced translation I've ever done. A small assembly hack was added to
+the between-level map screen to display the text horizontally rather than
+vertically, and I had to do some HELL of messing around with the palettes and
+attribute tables to have the title screen looking as good as it does. All of
+that kind of thing is a first for me, so I'm pretty proud of the end result
+over here.
+
+
+Members:
+--------
+Spinner 8 (I don't have a website but you can reach me @spinner_8 or the RHDN forums)
+  - text hacking
+Xeur (?)
+  - text translation
+Dirk Grundy (http://www.stringtheorycomic.com)
+  - graphic design
+
+(While kueller's and Demi's translations were used on occasion as a frame of
+ reference, and both my and kueller's projects are based off of the same
+ translated script, it should be stressed that all hacking work is entirely my
+ own.)
+
+
+Tools used:
+-----------
+Microsoft Windows 7 by Microsoft Corp.
+  (http://www.microsoft.com)
+FCEUX 2.1.2 by zeromus, adelikat, et al.
+  (http://fceux.com)
+Nestopia 1.40 by Martin Freij
+  (http://nestopia.sourceforge.net)
+Tile Layer Pro 1.1 by Kent Hansen
+WindHex for Windows 2005.4.20 by Bongo`
+  (http://stealth.romhack.net)
+Thingy 0.98 by necrosaro
+Atlas 1.06 by Klarth
+JWPce 1.50 by Glenn Rosenthal
+  (http://www.physics.ucla.edu/~grosenth/jwpce.html)
+Lunar IPS 1.01 by FuSoYa
+  (http://fusoya.eludevisibility.org)
+
+
+Patch history!
+--------------
+Version 1.01 - Corrected translation of the secret message that appears when
+               you hold A+B while powering the system. What does it mean? You
+               tell me, man.
+Version 1.00 - All text translated, including text that was likely dummied out
+               of the final game. All graphics translated, aside from a few
+               that were left alone for aesthetics.
+
+
+Known Issues
+------------
+- When jumping diagonally it is possible to get stuck in the background at the
+  top of the screen. Normally you can jump back to the standard playing field
+  and continue as normal, but there are places where you appear to sink into
+  water and will die. This was present in the original game.
+
+- On the passes, the pixels that make up the word "PASS" are transparent,
+  which makes the background colors visible behind it. This was also in the
+  original game, but the characters were drawn so that it wasn't quite as
+  noticeable.
+
+- The password that you receive after finishing the game was left alone, so it
+  remains in Japanese in case you want to write it down and use it. Good luck
+  to you, too, since I have no idea what it's used for, and the game has no
+  way to input the password in the first place that I can see.
+
+- Along those lines, there are many graphics and lines of dialogue in the ROM
+  that as far as I can tell aren't present in the game itself. They've still
+  been translated, but if you run across them they may sound awkward due to a
+  lack of context. If you see anything off, please reach out and let me know.
+  A save state and an explanation of how to duplicate the issue would be
+  incredibly helpful.
+
+
+------------------------------------------------------------------------------
+
+                               End-User
+
+Back in the day this section used to have information about how to patch this
+translation so you can play it, but patching has become easy enough at this
+point that no one really needs the help. So instead, let me write up a little
+mini-guide. You'll be glad you read it!
+
+Ganbare Goemon is thirteen levels long, and the goal of the first eleven is to
+collect three passes in order to get through the gated checkpoint. There's
+three ways to collect passes: they can be found in the secret passageway, in
+the underground chambers, or if you're lazy enough (and rich enough),
+you can buy them from certain shops. You don't need any passes in the last two
+levels, so don't even bother looking. The game doesn't tell you this either.
+
+Secret passageways are little 3D mazes that you can explore, and there's one
+per level. You can get a lot of treasure from there, plus they're the only
+place where you can get extra lives. The underground chambers are ALSO a
+secret, and the stairways to enter them can only be found by jumping over
+them. So yeah, you'll be doing a lot of random hopping around everywhere in
+the constant hopes of uncovering these stairways.
+
+That's basically it, so here's a rundown of most of the items you can get:
+
+- A slingshot (called "sling" in the pawn shop) will probably be the first
+  thing you find. At that point you can put away that big pipe you hit people
+  with and shoot at your foes from a distance. For whatever reason, you get
+  the sling from those little pawing cat idols that appear from pots and such.
+
+- You can get shoes which will make you run faster. Very helpful! You can get
+  a maximum of three. You get the shoes from some weird octopus mask that just
+  looks like a coinpurse to me, if you find it from pots. Keep an eye out!
+
+- Food is in plentiful supply in the game, and eating dumplings or miso soup
+  will instantly refill your health. You can also buy rice balls (which are
+  embarrassingly called "food" in the pawn shop) that go into your inventory
+  and will automatically restore your health if it ever goes to zero.
+
+- You can buy straw hats, helmets, and armor to protect yourself from various
+  obstacles and projectiles. Like, a helmet will deflect falling rocks, and
+  hats deflect those... little white... things... that birds drop on you.
+
+- In level 2 you'll notice the annoying taxi couriers that run around. If you
+  run into one, they'll not only take some of your money, but send you back to
+  the beginning of the level. SO annoying! To protect yourself, buy a Charm
+  from a shop. It looks like a red price tag with the letter K on it.
+
+- Herbs are cool, but kind of annoying. They look kind of like a black beer
+  can, and they'll instantly restore any health that you lose when you get
+  hit, up to five times. Nice, but you can't control when it happens. If you
+  have them in your inventory while in a 3D maze, you can press A+B to see a
+  map, even if you don't have that maze's map in your possession.
+
+- Jumping around to find those stupid staircases is annoying as hell, but if
+  you buy a candle they'll all be made visible to you for a limited time.
+
+- Also be on the lookout for scrolls while underground. There's only four in
+  the game (including one on the first level!), and they permanently raise
+  your maximum health.
+
+Damn, that was long. Remember back when video games actually NEEDED manuals?
+
+------------------------------------------------------------------------------
+
+                               Thanks!
+
+This translation is dedicated to ReyVGM, owner of the Video Game Museum at
+www.vgmuseum.com. While playing through the game for his site he noticed that
+only the first of eight endings were translated, and was gracious enough to
+provide me with save states and screenshots for testing. It's safe to say that
+without him, this translation would have been MUCH more frustrating, and
+probably never would have existed at all.
+
+Thanks to Dirk, who came through one hundred percent with some great graphical
+designs, including a completely awesome title screen.
+
+Thanks to Xeur, one of my best friends from those heady early days of ROM
+translation. Thanks again for doing the script for me, and whatever you're
+doing, I hope you're well, and I miss you very much.
+
+Thanks to Sardius, who did a run-through of the near-final product and gave me
+some useful suggestions, not to mention that he totally inadvertently managed
+to break the game. If that's not the sign of a good beta tester, I don't know
+what is.
+
+Thanks to Procyon, who near-single-handedly wrote the best guide to Ganbare
+Goemon on the internet, at strategywiki.org. I spent WAY less time testing
+this game than I would have without that walkthrough. Check it out if you're
+having trouble with the game.
+
+Thanks to tummai and KingMike for some unsolicited help on the Romhacking.net
+forum. It saved my newbie self a good two hours that would have been spent
+flailing about and searching on my own (even though I tell myself I probably
+could've done it on my own... eventually).
+
+Thanks to InVerse, who I bounced ideas off of for a good long while during the
+period when I was considering using the game's subtitle "Karakuri Douchuu" as
+part of the title screen. Literally translated it means "tricky journey", but
+"tricky" in this case means "sly" or "clever" like a thief, not "difficult" as
+the phrase implies. Racking my brain for a suitable synonym that wouldn't
+sound too goofy took weeks, if not months, and eventually I came to the
+unrelated conclusion that the subtitle wasn't really needed anyways.
+
+Thanks again to oddigy for the webspace. You gave me webspace for years, for
+free, with no questions asked, and I've known you for years and years longer
+than that. You've been a real friend, and I'll always be grateful to you.
+
+Thanks to those who came before, namely Demi and kueller. Apologies in
+particular are long overdue to Demi, whose translation I finally was able to
+play just a few months ago, and it's a hell of a great piece of work that's
+just as complete as Dragoon-X's is (but still missing the other endings). If I
+had known back then how good that translation was, and how easy it was to
+convert FFE ROMs to something playable, I honestly would've never bothered
+with all this nonsense.
+   
+------------------------------------------------------------------------------
+
+                         Legal Made-up Stuff
+
+Naturally, Ganbare Goemon remains the sole property of Konami, and this
+translation is not and has never intended to infringe on their intellectual
+property. It's being released to the fans, as a way to play the games they
+love with all respect that's due to them. In keeping with this hobbyist
+spirit, feel free to re-distribute this patch (this means YOU Underground
+Gamer! WAVES!), but it is forbidden to distribute this patch along with the
+Ganbare Goemon ROM image, either separately or pre-patched. Anyone doing so,
+does so entirely without my consent, knowledge, or approval.

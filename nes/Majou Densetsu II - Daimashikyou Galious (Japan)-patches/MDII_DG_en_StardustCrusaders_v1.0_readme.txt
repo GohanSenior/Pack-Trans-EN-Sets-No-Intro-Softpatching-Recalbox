@@ -1,0 +1,82 @@
+======================Knightmare II========================
+===================The Maze of Galious=====================
+=========================V 1.00============================
+
+Genre: Action
+
+Source language: Japanese
+
+Platform: Famicom
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: antoniusblocko@protonmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Knightmare II
+======================================================
+Project History:
+
+This game had already been translated back in the early
+days, but the title screen was never done. The title
+screen is perhaps one of the coolest/best designs on the
+NES in my opinion. So, in addition to translating the
+game, I've also implemented an equally impressive
+English title design.
+
+Anyhow, this was a fairly simple game to translate
+with not a lot of text, that Ryusui helped me translate
+in a few days and Graphicus created the excellent new
+title screen.
+
+
+======================================================
+Patching Instructions
+======================================================
+The patch is in IPS, BPS and xdelta formats and can be
+patched a variety of ways.
+
+http://www.romhacking.net/utilities/893/
+http://www.romhacking.net/utilities/598/
+
+Apply the patch to the Japanese ROM:
+
+Majou Densetsu II - Daimashikyou Galious (Japan).nes
+
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking
+
+Ryusui - translation
+
+Graphicus - title screen design
+
+cccmar - testing
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. February 2021

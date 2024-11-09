@@ -1,0 +1,89 @@
+MOBILE FIGHTER: G GUNDAM
+ENGLISH TRANSLATION V1.00
+Copyright 2002 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+0.  PLEASE NOTE
+1.  About G Gundam
+2.  Patch History
+3.  Patch Credits and Contributors
+4.  Known Issues With the Patch
+4.1 Known Issues with Emulators
+5.  Application Instructions
+
+-------------
+0.PLEASE NOTE
+-------------
+DO NOT USE ZSNES WITH THIS GAME. As of this writing
+(9/20/02) ZSNES has some nasty flicker issues in
+three of the stages (the Master, Rising, and Speigel
+Gundam stages.) This is -NOT- caused by the patch,
+it's an emulation issue. DO _NOT_ BUG ME ABOUT IT!
+
+----------------
+1.About G Gundam
+----------------
+G Gundam is a mediocre fighting game for the Super
+Famicom/Super NES console and it's based on an anime
+of the same name. There isn't much else to say about
+it.
+
+---------------
+2.Patch History
+---------------
+I don't even remember when I started working on this
+game, only that I started it for font size modification
+practice. About two weeks ago, I fixed the last of the
+issues with the font, and the result is as you see here.
+
+September 20, 2002 - Initial version 1.00 Release
+
+---------------
+4.Patch Credits
+---------------
+THE G GUNDAM TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker
+Alexander Beetle - Text Translation
+
+Special Thanks
+Alexander Beetle deserves an extra mention here, because
+his script is a very good read. He took extra time to
+polish it up and make it worth your time, and his excellent
+writing saves the game from total mediocrity.
+
+-----------------------------
+4.Known Issues with the Patch
+-----------------------------
+There are no known issues.
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are savestates.
+
+-------------------------------
+4.1 Known Issues with Emulators
+-------------------------------
+The following issues are emulator issues and are NOT
+caused by the patch:
+
+Issue: Nasty flicker problem in Master, Rising, Speigel
+Gundam stages.
+This is a problem with ZSNES. I do not know if it's
+fixed in SNES9X.
+
+--------------------------
+5.Application Instructions
+--------------------------
+If using SNES9X, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "ggundam.smc" make sure the patch
+is "ggundam.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+a header. If you right-click the ROM and select Properties, it
+should read "Size: 2.00MB (2,097,152 bytes)". SNESTool will remove all
+of your headers for you easily, and you can find it at
+http://rpgd.emulationworld.com
+In the utilities section, click on the IPS Tools link.

@@ -1,0 +1,119 @@
+====================Grand Master=======================
+========================V1.01==========================
+Genre: ACT/RPG
+
+Platform: Famicom
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+		aishsha@gmail.com
+Web-site: aishsha.blogspot.com
+		  yojimbo.eludevisibility.org
+ 
+ 
+======================================================
+Grand Master
+======================================================
+Background: This project has been in the works for a
+long time, I just never did anything with it. I asked
+satsu if he was interested in translating this game.
+Months later he asked me how big the script was and
+agreed to translate it, but it took me a long time to
+dump the script and it wasn't until June/July 2010
+that I got everything ready. Unfortunately satsu was
+busy with work and so I chatted about it with aishsha
+and he liked the game and said he'd translate it. He
+was a little busy with work too, but he was able to find
+the time to translate it. After I finished Jigoku
+Gokuraku Maru, I focused solely on this game and with
+the help of ReyVGM, who did extensive playtesting for me,
+this project was finished.
+
+I recently went back to this game to fix a few odds and
+ends and have also fixed a few original bugs in the original.
+In the final stage, there is a pit that causes a crash
+instead of resetting your position. Also the emblems you
+get after each stage, the fifth one never shows up in the
+menu for some reason. It does now with this patch.
+Don't get me wrong, there's still various issues with the
+game, but now there's just less of them.
+
+The game itself is a sort of like a Zelda clone and
+features nicely detailed graphics and anime-style
+cutscenes. The story is also told through the
+use of branching paths.
+
+I recently wrote an article on the game for
+HardcoreGaming101, so please refer to that if
+you'd like to know more about it.
+
+======================================================
+Version History
+======================================================
+
+V 1.0 - Initial release
+V 1.0a - Typo fix patch
+V 1.01 - Bug fix patch
+
+======================================================
+Hints, Tips etc.
+======================================================
+The game makes use of a branching path system that's based
+on the order in which you clear all the stages. If certain
+events are not triggered, you will get a bad ending. 
+The optimal order is as follows:
+
+Castle, Ice Temple, Cave, Pyramid, Tower
+
+If you enter the Tower before the Cave level, you will
+get the bad ending.
+
+If you enter the Pyramid before the Cave level, you
+will get an alternate story branch.
+
+
+======================================================
+Patching Instructions
+======================================================
+The patch is in IPS, BPS and xdelta formats and can be
+patched a variety of ways.
+
+http://www.romhacking.net/utilities/893/
+http://www.romhacking.net/utilities/598/
+
+Apply the patch to the Japanese ROM:
+
+Grand Master (J).nes
+
+======================================================
+Credits
+======================================================
+Credits go to:
+
+Pennywise - hacking, testing
+
+aishsha - translation
+
+eien ni hen - manual translation
+
+Ryusui - additional manual translation
+
+Rebecca Hubish - additional manual translation
+
+Corey DeFrancesco - english manual design
+
+ReyVGM - testing
+
+danke - additional testing
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. May 2021.

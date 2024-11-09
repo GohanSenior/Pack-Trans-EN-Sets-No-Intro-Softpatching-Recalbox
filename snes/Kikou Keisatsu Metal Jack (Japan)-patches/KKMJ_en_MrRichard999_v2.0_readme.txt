@@ -1,0 +1,20 @@
+Kikou Keisatsu Metal Jack English Translation Version 2.0
+5/17/2018
+Hacked by MrRichard999 & FlashPV
+Translation done by Jink640
+
+Here is a patch which translates the original Japanese ROM introduction and makes it also more cannon to the series instead of the plain generic one. Also this incorporates the title screen from the US Prototype.
+
+Thanks to FlashPV for getting the title screen to display properly and Jink640 for helping translate the original intro. 
+
+-Updates to V 2.0
+Fixes a slight error in the intro.
+
+Use on this UnHeadered ROM
+
+Kikou Keisatsu Metal Jack (Japan).sfc
+CRC32: 5577DE70
+MD5: F5B848B97DC28B0B2F794C637C785518
+SHA-1: 0F8C662C012D866F42209B0ED66CE9722D689968
+SHA-256: 2B27E9BCEB646A300566248FCDCBD582435F50BD6132B0F0025CC146A9D62BD9
+

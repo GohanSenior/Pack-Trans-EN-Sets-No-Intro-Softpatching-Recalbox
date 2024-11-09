@@ -1,0 +1,52 @@
+=================================================
+=== KUNIO-KUN NO NEKKETSU SOCCER LEAGUE (NES) ===
+======== English Translation Patch V 1.2 ========
+= ©2003 PentarouZero - pentarouzero@hotmail.com =
+========== http://www.pentarouzero.com ==========
+=================================================
+
+================================
+About the game/this translation
+================================
+Kunio Kun's Nekketsu (Hot Blooded) Soccer League is a sort of sequel to Nekketsu High School Dodgeball Club: Soccer Edition (bastardised and released in the US and Europe as Nintendo World Cup Soccer). The basic game is the same - you control one player, usually Kunio (known in the US as Alex, Crash, Mr.K, or John... Fuck, you'd think Technos would at least try to be consistent) and give instructions to the others. But this one has weather effects, super shots, more moves... and it kicks the crap out of most (maybe all) other NES soccer games.
+The story is something like- Kunio and a bunch of soccer players from Nekketsu High School want to be the World #1 soccer team, so they enter the Nekketsu Soccer League. Winning enough games in this would allow them to participate in the Technos Japan Cup, and winning that would prove they are the world #1. 
+Anyway, I decided to translate it, using my knowledge of Japanese (not good), and several dictionaries/online translators. God knows why.
+
+=======
+History
+=======
+Version 1.2: A couple of other things fixed.
+Version 1.1: Fixed an untranslated screen (the weather setup for Match and PK games)
+Version 1.0: First release. Complete as far as I know.
+Versions 0.1 to 0.9: Unreleased, incomplete
+
+=====================
+Patching Instructions
+=====================
+1. Download an IPS patcher from somewhere like http://www.zophar.net/utilities/genutil.html
+2. Apply kuniosoc.ips to the Kunio-Kun no Nekketsu Soccer League ROM
+DO NOT apply the patch to any other translation or hack of this game (I know at least two others exist - a discontinued English trans and a Russian one)
+
+============
+Known Issues
+============
+None as yet. If you find any bugs or untranslated stuff, e-mail me at pentarouzero@hotmail.com.
+
+=======
+Credits
+=======
+-ROM HACKING-
+PentarouZero - Everything
+
+-TRANSLATION-
+Excite Japan - Crappy translation
+PentarouZero, various dictionaries - Cleaning it up
+
+-ORIGINAL GAME-
+Graphic: Tooru Tsuborin, Maruyama Andi
+Program: Takahashi 68K, Takayuki Sakagami
+Sound: Sawa Amigo, Urabe Denjarasu
+Package: Yamane Kerorin, Kumiko Manjuu
+Thanks: Mitsuhiro, Shiro, Bengal, Yokopen, Miwachan, Sakamoto
+Design: Tsurutsuru Kai
+©1993 Technos Japan Corp

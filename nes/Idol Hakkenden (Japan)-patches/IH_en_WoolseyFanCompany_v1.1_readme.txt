@@ -1,0 +1,41 @@
+___________________________________________________________________________
+	This translation/localization was created with love and care by
+Polinym of the Woolsey Fan Company (W.F.C.). The original version was finished
+on 9 / 3 / 2019. This patch ( "Pop Star Debut (USA).ips" ) is to be applied to an
+ordinary, headered "Idol Hakkenden" ROM file.
+
+	I, Polinym, have done my best to ensure that this localization
+ is bug-free, however, there is a graphical issue involved in the ending credits / attract mode.
+ During the opening/ending song, "Nova Girl" (U.S.) / "Kimiha Hoehoe Musume" (Japan), 
+the collection of glitchy tiles appear. I am unsure at this time where the issue is located, but it 
+should not crash the game or impact it in any way. An issue also exists if a line of text exceeds
+16 characters, which will result in the text printing out past the box it is meant to stay in. 
+If you encounter any line of the text in the game that goes outside the box,
+please let me know somehow as soon as possible, for it is an easy fix.
+
+	Unfortunately, due to space limitations, the songs in this localization have lyrics
+that do not match up with the notes of the music. This applies to the "Song Time" songs
+in regular gameplay and "Nova Girl" in the end credits. If you know of a solution to create
+space for good lyrics, please contact me. I'm still very new to the Romhacking scene, so
+there is much yet for me to learn.
+
+	Lastly, thank you for playing Pop Star Debut! Feel free to let me know what you
+thought of the localization, if I should change anything, or if you have ideas on improving
+it. I hope you keep an eye out for more localizations by the W.F.C. If you have a game in mind
+that you would like the W.F.C. to localize, please let me know! 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"Spring Cleaning" Revision
+This version adds...
+- Seemingly all text overflow glitches have been fixed.
+- The "Pistol" item has been changed to a "Blaster".
+- Some lines have been revised.
+- A PDF of the localized manual has been incldued.
+- Some unlocalized sprites have been updated.
+- Sabrina's in-game hair color now accurately represents her intended design.
+  (She's a blonde now)
+- Typos have been removed.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+___________________________________________________________________________

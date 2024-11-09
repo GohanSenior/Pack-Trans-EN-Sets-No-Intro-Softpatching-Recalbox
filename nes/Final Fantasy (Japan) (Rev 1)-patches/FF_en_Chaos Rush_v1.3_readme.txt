@@ -1,0 +1,42 @@
+Final Fantasy Translation v1.3
+by Chaos Rush
+
+PATCHING INSTRUCTIONS:
+Apply the included patch file to a clean, unmodified,
+Japanese Final Fantasy FAMICOM ROM, Rev B.
+
+This is a translation patch of Final Fantasy for the
+Famicom/NES. It aims to be an accurate translation
+that also uses Square Enix's terminology for its
+modern remakes of that game. The entire script from
+the original Famicom version of the game was
+retranslated.
+
+There are two versions:
+
+1. Default Edition
+This is the default version. It strictly adheres to
+the terminology used in the GBA/PSP/iOS remakes of
+Final Fantasy. If you're a long-term fan that wants
+to see stuff like Garland's famous line from the
+original NES version retained, then this is the
+version for you.
+
+2. Chaos Edition
+This is an alternate version that uses different
+terminology for some names, particularly the
+"Four Fiends" being changed to the "Chaos Four",
+in order to be closer to the Japanese text to
+preserve the four bosses' connection to the
+final boss. In addition to that, all monsters
+based off of D&D are spelled as they are in D&D.
+This version does NOT rename anything else,
+and therefore it should still maintain continuity
+with the rest of the Final Fantasy series.
+
+Credits:
+* Chaos Rush - translation and hacking
+* Neon Streetlight - script revision
+* Disch - Final Fantasy US Disassembly (although it's for the US version, the offsets were similar to the Japanese version anyways)
+* Lenophis - Battle DTE fixer upper (originally for US version but I ported it to Japanese version)
+* Team dCode - for making the Bigram Analysis tool

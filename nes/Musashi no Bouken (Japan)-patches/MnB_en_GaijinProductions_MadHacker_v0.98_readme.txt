@@ -1,0 +1,47 @@
+The Adventures of Musashi
+English Translation Patch version 0.98
+A MadHacker / Gaijin Productions release
+Released January 20, 2000
+All bugs can be reported to MusashiBugs@hotmail.com
+
+This right here represents the sixth time I have written the readme for this project.  This one will be short and to the point, because I just want to get the dang thing released.
+
+All of the rom hacking was done by The MadHacker.  The text was translated by Musashi and Bokudono.  The font is a (by now heavily) modified version of one of the fonts put out by J3D back in the old DeJap days.  Don't ask me which, I don't remember.  Major thanks go out to Wampus, for being a beta testing machine.
+
+This project was originally started as part of Translation Revelations.  Thanks go out to Yukelon, TheNed, and Musashi for the translation work they did for that first doomed effort, as well as Shujin-Rik, for his contribution.
+
+This game has worked and tested fine in every emulator I tried it in, including NESticle and LoopyNES.
+
+
+About the game:
+The Adventures of Musashi is Dragon Warrior, with a touch more of a samurai setting, and more of a sense of humor.  Colorful graphics, bizarre enemies, and a tanuki helper all come together to make it a fun clone of the classic original.
+
+
+Historical Note:
+Anyone interested in the historical figure of Miyamoto Musashi is encouraged to check out the Samurai trilogy of movies.  Or even if you're not.  They're that interesting.  (And available on DVD!)
+
+Word from Musashi - In addition to the movie, be sure to read Eiji Yoshikawa's novelization "Musashi" as well.  Since its publication it has been the bases of at least seven samurai films in Japan and other artistic endeavors.  And even more readily available is the "Book of Five Rings" by Miyamoto Musashi himself.
+
+
+About the patch:
+Other than the ending, this patch has been ready longer than I'd care to admit.  But, a combination of disinterested beta testers who never played the game, a hectic work and study schedule, two lost beta versions, and some difficulties in hacking in the ending have pushed this off.  There are still some story "bugs" or other problems, but all of the text is translated (with one exception).  Plus, I do plan on "juicing up" some of the lesser details once those bugs have been worked out (and I know exactly how much free space is available to use for it).
+
+
+"Accuracy" in the translation:
+It seems like every translation that is released gets comments about it's accuracy.  If enough people play it, I'm sure this one will be no exception.  So, I'm going to take this opportunity to address the issue directly.
+
+This translation (just like every other NES project and most projects on other systems) was hit by a very serious limitation to the space available for fitting in the translation.  Couple this with the innefficiency of the english language (in Japanese, every time the name Musashi is used, it takes up three spaces.  In english, it takes up seven.  And the proper name is used A LOT in the game dialog, so I had to cut it down to an improper form.), japanese langauge jokes or puns, and other assorted problems, and the accuracy had to be sacraficed.  In almost every instance, an effort was made to retain the original meaning (first and foremost) and flavor (secondary) of the text.  In one or two cases where worthless text was thrown in, personal jokes were added instead.  With the bugfix release(s), I will try to include more accurate and complete translations to some of the text (but fixing any dialog problems comes first and foremost, which is why I haven't done that already).
+
+The point is, you should be having fun playing this game, not grading the translation effort like it's a high school exam. (Trust me, they did a good job translating the text, and the butchering of that translation was entirely my own.)
+
+
+"Bugs" and problems and bears, oh my.
+Two lost beta versions and several inactive beta testers later, this is not a "perfect" release.  There are some minor problems here and there, some monsters were never renamed, and one spell has never been cast so we could see what it does (the name has been replaced with "Dummy" for now.  If anyone figures out what it does, please let me know.).
+
+"Copyright information"
+Actually, if you're reading this, then you're not one of the people this section would be written for.  It's those other people, who don't care what the team members have to say about the project, and just want us to "GIMME GAME TRANZLATIONZ NOW LAMAH!"  The greedy selfish leeches who can't even have the decency to respect someone's wishes that a patched version of the rom NOT be distributed across the internet.  The weak, petty people with no self-esteem who would remove this readme file and thereby remove any acknowledgement that a team of people put in their hard work and many, MANY HOURS and DAYS and MONTHS of their own FREE time into a project like this.
+
+So I won't waste my breath.  Instead, I'll thank those of you who have read this far, and who understand (even if only a little bit) that translations such as these are a labour of love.  It's for you people, the ones who respect the work that goes into a project like this, that projects like this one are released.
+
+End of line.
+

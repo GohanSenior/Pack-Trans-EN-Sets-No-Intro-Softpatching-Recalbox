@@ -1,0 +1,165 @@
+   ____  ____  ____  _  _   ___  ____  ___  ___  ____  __  __    __    __   
+  (  _ \(  _ \(_  _)( \( ) / __)( ___)/ __)/ __)(_  _)(  )(  )  /__\  (  )  
+   )  _/ )   / _)(_ ) |  (( (__  )__) \__ \\__ \  )(   )(__)(  /(__)\  )(__ 
+  (__)  (_)\_)(____)(_)\_) \___)(____)(___/(___/ (__) (______)(__)(__)(____)
+                            _____  ____   ___  _  _ 
+                           (  _  )(  _ \ / __)( \/ )
+                           ) (_) ()    /( (_-. \  / 
+                           (_____)(_)\_) \___/ (__) 
+
+                               Princesstual Orgy
+                     (Tashiro Masashi no Princess ga Ippai)
+                               Instruction Manual
+                                     v1.00
+                                    
+-------------------------------- INTRODUCTION ---------------------------------
+
+Tashiro Masashi no Princess ga Ippai is an action game released by Sony for the
+Famicom game system in 1989. It was never officially translated into English
+but was translated by Suicidal Translations and released under the name 
+Princesstual Orgy on September 3rd, 2001.
+
+This file serves as an instruction manual for the translated game. It is not a
+translation of the original instruction manual but is an original work based on
+my experiences playing the game.
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+  I. Introduction
+ II. Table of Contents
+III. The Story
+ IV. Gameplay
+  V. Distribution Notes
+ VI. Conclusion
+
+---------------------------------- THE STORY ----------------------------------
+
+You play as Tashiro Masashi, a Japanese comedian, who is awakened from sleep by
+a fairy who asks him to come rescue the princesses of Fairyland who have been
+kidnapped by a band of witches. Mashi must brave 4 levels of bizzare terrain to
+make it to each of the 4 witches castles to rescue each of the beloved & kawaii
+princesses or Fairyland will fall into the hands of the dreaded Ultra Witch.
+
+---------------------------------- GAMEPLAY -----------------------------------
+
+This is a simple NES action game, so gameplay isn't exceptionally difficult.
+From the title screen, you have the options of Start and Continue. Start will
+begin a new game and Continue will allow you to input the password that you get
+at the end of each of the levels.
+
+General play control is simple:
+
+Left/Right: move left/right
+      Down: crouch/climb down ropes
+        Up: aim weapon upward/climb up ropes
+         B: shoot YoYoo / run faster
+         A: jump
+     Start: open item select screen
+
+
+LEVELS
+------
+
+When you begin a new game (or after you beat a level) you have the option of
+choosing which stage to begin. It doesn't matter what order you play the stages
+in though some are easier than others, so I recommend starting with the Ice
+Witch level. The four initial stages are:
+
+Ice Witch - The Ice Witch resides in a typical generic outdoors and town level.
+When you defeat the Ice Witch, you receive the Ice YoYo which temporarily
+freezes your enemies before destroying them.
+
+Plant Witch - The Plant Witch makes her home in a swamp populated by underground
+caverns. After you defeat the Plant Witch, you will receive the Plant YoYo which
+causes enemies to explode, destroying any other enemies caught in the aftermath.
+
+Fire Witch - The Fire Witch's castle lies on the other side of the ocean and you
+must swim to the other side to confront her. If you succeed, you'll obtain the
+Fire YoYo which causes any enemy struck with it to burst into flames.
+
+Stone Witch - The Stone Witch's castle is hidden deep within an ancient forest.
+If you can destroy her, you'll receive the Stone YoYo which turns your enemies
+into blocks of stone that you can use to reach greater heights.
+
+After traversing an entire level, you'll then find yourself at the witch's
+castle. You must first locate the guardian of the key to the witch's chamber
+and then enter the chamber itself. Once you've defeated the witch, you must
+escort the princess out of the castle before it collapses.
+
+When you've defeated all 4 witch's, you'll then head to the island in the sky
+where you must first traverse a top-down overworld (ala Rygar) and then enter
+the Ultra Witch's castle where you must seek out and destroy the ultimate evil
+in order to bring peace to Fairyland.
+
+
+ITEMS
+-----
+
+In addition to the special YoYos you get by defeating the witches, there are
+several other items that you can get by randomly shooting your YoYo at various
+points. These include:
+
+Triple Shot - The Triple Shot (which looks like a triangle) will allow you to
+shoot 3 YoYos at once.
+
+Quadruple Shot - The Quadruple Shot (which looks like a star) will allow you to
+shoot 4 YoYos at once, 3 to the front and 1 to the back.
+
+Longer String - Longer String (which looks like a roll of string) increases the
+distance that your YoYos go.
+
+Bottles - Bottles (which look like bottles, go figure) will either add 10
+points to your life total or poison you, subtracting points and causing you to
+wretch.
+
+Small Hearts - Small Hearts appear when you kill an enemy and add 10 points to
+your life total.
+
+Large Hearts - Large Hearts appear after you kill certain enemies and add 50
+points to your life total.
+
+Princesstual Portrait - If you're lucky enough to find a picture of a princess,
+you'll gain 100 points onto your life total.
+
+Fairy - I haven't figured out what the fairies do but you occasionall find one.
+
+Chain - The Chain is a stronger variant of the standard YoYo.
+
+Ring - The Ring reduces the amount of damage you take when hit by an enemy.
+
+Crown - In each level, you'll encounter an ally who will give you a crown that
+effectively doubles your offensive power. Be careful, if you accidentally shoot
+your ally before receiving the crown, they'll disappear. After the first time,
+you'll have one other opportunity to meet them and obtain the crown but if you
+shoot them again, they won't come back.
+
+----------------------------- DISTRIBUTION NOTES ------------------------------
+
+This Princesstual Orgy translation should be distributed in a file named 
+pov100.zip and should contain the following files:
+
+	   pov100.ips - the translation patch
+  princesstual.txt - the readme file
+	   po-man.txt - this manual
+
+All three files are (C)opyright 2001 by Suicidal Translations. All rights
+reserved. You may distribute this translation in any manner you desire as long
+as the original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Tashiro Masashi no Princess ga Ippai is (C)opyright 1989 by CBS/Sony Group Inc.
+
+---------------------------------- CONCLUSION ---------------------------------
+
+So there you have it. Not the most complex game of all time but I rather enjoy
+it. It won't take you hours on end to defeat like some other games but it's
+well worth playing when you're just out to have a little fun.
+
+If you have any questions, feel free to ask. The official site of the 
+Princesstual Orgy translation is at http://www.pigtails.net/ST and you can find
+the most current contact information there as well.
+
+-InVerse
+
+-------------------------------------------------------------------------------
+Princesstual Orgy Manual     -     (C)opyright 2001 InVerse     -      09/03/01

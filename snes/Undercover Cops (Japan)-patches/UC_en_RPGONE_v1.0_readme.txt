@@ -1,0 +1,94 @@
+================================================================================
+ ######################                                             ###
+ ########################                                      ######## 
+ ##########################                                ############ 
+     #######        ########   ##########        #####     ############ 
+     #######       #########   ###########     #########         ######
+     ######################      ###    ###  #####    ###        ######
+     ####################        #########  ####                 ######
+     #######   ########          #####      ####     ######      ######
+     #######    ########         ###         ####      ###       ######
+     #######     ########        ###          ####    ####       ######
+     #######      ########     #######          ####### ##       ######
+     #######       #########                                    ########
+    #########       ########################################################## 
+  #############       ######################################################## 
+  #############          #####################################################
+  #############              #################################################
+
+    R   P   G   O   N   E      T   R   A   N   S   L   A   T   I   O   N   S
+================================================================================
+
+                                    Presents
+
+                         ==============================
+                         |                            |
+                         |       Undercover Cops      |
+                         |                            |
+                         ==============================
+
+                            English Translation v1.0   
+                            Copyright 2019 by RPGONE 
+
+		         http://rpgone.superfamicom.org
+
+================================================================================
+
+-----------------
+Table of Contents
+-----------------
+I.   Story
+II.  What's New
+III. Credits
+IV.  Application instructions
+V.   Disclaimer
+
+
+--------
+I. Story
+--------
+It's 2043 and Dr. Crayborn and his gang have taken control of New York's 
+streets. The city mayor has made one last plea for help and called three of the 
+finest City Sweepers: Zan, an ex-karate master; Matt, an ex-professional 
+football player and Rosa, the only female vigilante whose boyfriend was killed 
+by villains. They must fight the gang and eliminate Dr. Crayborn in order to 
+restore peace to the city.
+
+
+--------------
+II. What's New
+--------------
+v1.0 [03-02-2019] - Initial release 
+
+If you find any bugs, please contact Jonny on romhacking.net
+
+
+------------
+III. Credits
+------------
+Jonny - Project Leader, Hacking
+SupaSAIAN - Testing
+
+Thanks to E for the text translation
+
+
+----------------------------
+IV. Application instructions
+----------------------------
+You need to apply this patch onto an unmodified, non-interleaved ROM with NO
+Header (Rom checksum: 24FA, CRC32: B574C939, Size: 2,097,152 bytes).
+
+
+-------------
+V. Disclaimer
+-------------
+The Undercover Cops videogame is Copyright (c) Varie, Irem Corp. 
+
+RPGONE is in no way or form affiliated with Varie, Irem Corp., or with any other 
+video game companies. It shall not be held liable for any damages of any type 
+arising out of, or in any way connected with your use of this translation.
+
+This English translation is FREE and may NOT be sold.
+You may NOT distribute this translation applied to a rom. 
+
+We do NOT endorse piracy.

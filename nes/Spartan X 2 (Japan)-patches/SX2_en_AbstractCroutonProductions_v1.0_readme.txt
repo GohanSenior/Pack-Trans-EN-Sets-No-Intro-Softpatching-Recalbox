@@ -1,0 +1,60 @@
+=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@
+
+    o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+
+         ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
+
+                               k u n g  f u  2
+                              
+                         e n g l i s h  v e r s i o n
+
+         ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
+
+    o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+
+=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@
+
+
+                brought to you by *abstract crouton productions*
+                
+          translation, some hacking, and new gfx by *occluded hairdo*
+
+                ridiculous genius hacking mastermind: *parasyte*
+
+
+=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@
+
+
+this file is a patch, not an actual playable game image. to use it, you need
+the original japanese rom and an ips patching program.
+
+things changed in translation:
+
+* all japanese text translated into english (duh)
+
+* titled screen changed to one ripped from the first game
+
+* graphics on the im screen changed
+
+* enemy profile screen text layout modified
+
+...and that's about it. but boy, was this a lot of work. the text storage
+format for this game is hellish, and without parasyte's help it would never
+have gotten hacked. he was an equal partner in this project and deserves a
+great deal of the credit for it.
+
+note that this game is called spartan x 2 in japanese and that an official
+english version was probably produced, since irem went so far as to place
+advertisements in us magazines. will a prototype ever surface? and if so,
+whose translation will win out...?
+
+enjoy!
+
+=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@=@
+
+thanx to the makers of these tools: tile layer pro, ipsxp, ipsexe, ipselect,
+table manager, gextract, ginsert, the spoony bard font pack
+
+web address: http://www.freewebs.com/abstractcrouton/
+
+email: occluded_hairdo@REMOVETHISTEXTNONSPAMMER.myrealbox.com

@@ -1,0 +1,457 @@
+                       DvD Translations
+
+            AD&D DragonLance 2 - Dragons of Flame
+                 for the Nintendo Famicom/NES
+
+              Patch Version: 1.03
+               Release Date: October 31st, 2003
+
+Hello and welcome to the ReadMe file for
+"AD&D DragonLance 2 - Dragons of Flame" for the NES.
+
+In this file I've included info on how to use this patch,
+how play control differs in this game from that of
+"AD&D DragonLance 1 - Heroes of the Lance", and a rough
+walkthrough.
+
+------------------------------------------------------------
+
+Credits:
+
+                       DvD Translations
+             dvdtranslations.eludevisibility.org
+
+DvD    - Programmer
+         Original English translation of menus & items
+         Translation of characters & places
+         Editor
+         Alpha Tester
+
+KlD    - Beta Tester
+
+                    Shiroi Translations
+                    yatsu.deviantart.com
+
+Shiroi - English translation of the entire script
+
+------------------------------------------------------------
+How to Patch the ROM file:
+
+Original Game ROM Size: 1 megabit of program ROM
+                          &
+                        1 megabit of character ROM
+                      = 2 megabit
+                      = 256 kBytes
+                      = 262144 Bytes
+You need:
+
+1) A ROM file.  The file must include the standard 16 byte
+   iNES header followed by the program ROM followed by the
+   character ROM.  This makes the ROM file 262160 Bytes in
+   size.
+
+   I'm not telling you how to get the ROM file, but
+   for this game, the format of the 16 byte iNES header
+   should be:
+
+   4E 45 53 1A 08 10 12 00 00 00 00 00 00 00 00 00
+
+   Note:  The ROM file most commonly found on the internet
+
+     AD&D Dragons of Flame.nes
+
+   has a corrupt header file that doesn't allow the battery
+   backup system to work!  Instead of the 12 it has a 10.
+
+   Starting with patch version 1.00, if your ROM file has a
+   header with a 10, it will be changed to a 12 by the patch
+   which will allow the battery backup to work.
+
+2) Patch File: DoF-v1_03.IPS - Included with this file.
+
+3) An IPS patching program
+   Recommended patching program for IBM PC:
+
+    Snes-Tool.exe by The M.C.A./Elite
+
+Using SNES Tool:
+
+1) Make a copy of the un-patched ROM.  You always want to
+   keep the un-patched ROM around for later revisions of
+   the patch.
+2) Place an un-patched ROM file with header (I'll call it
+   DoF.nes), DoF-v1_03.IPS, and Snes-Tool.exe in the same
+   directory.
+3) Run Snes-Tool.exe
+4) Type 'U' for "Use IPS"
+5) Press the down arrow key until DOF-V1_03.IPS is
+   highlighted.
+6) Hit Enter.
+7) Press the down arrow key until DOF.NES is highlighted.
+8) Hit Enter.
+9) Hit 'Q' to quit.
+
+Note: If patching the file on a Mac, I recommend UIPS.
+
+------------------------------------------------------------
+Why I, DvD, chose to translate any game:
+
+   I wanted to give back to the translation community
+   after playing so many excellently translated games
+   such as Tales of Phantasia for the SNES by DeJap,
+   Final Fantasy II for the NES by NeoDemiforce, and
+   Final Fantasy III for the NES by Alex W. Jackson,
+   Neill Corlett, & SoM2Freak.  I really appreciate all
+   that have gone and translated before me.
+
+Why I chose to translate THIS game:
+
+1) I wanted to translate an action/adventure or RPG
+   that everyone knew something about.  Yes, this game
+   is the sequel to the infamous AD&D DragonLance - Heroes
+   of the Lance, rightly voted one of the worst games
+   ever released in the US for the NES.  What is
+   amazing about this game is that all the things that
+   made the original game so bad (terrible player control,
+   no ability to regain health except using magic which
+   is almost impossible to replenish) have been fixed in
+   this game.  Try it out.  I think you'll be pleasantly
+   surprised.
+
+2) I've played and passed all the prequels to this game.
+   It just has the one.  I have this thing about playing
+   games that are part of a series in the order in which
+   they came out...
+
+3) This game only uses Hiragana and Katakana, no kanji.
+   Plus it has a nice Roman character font on the same
+   character table.
+
+4) I wanted to do an NES game.  I have a lot of experience
+   with machine language of the 6502 processor.
+
+5) I liked the game and wished I could play it in English.
+
+6) AD&D starts with A.  It was one of the first that I
+   considered...
+
+Why YOU should bother playing THIS game:
+
+1) This is a COMPLETE translation.  I worked my ass off to
+   make sure that ALL of Shiroi's translation made it into
+   the final patch.  It was not easy.  I had to get pretty
+   creative moving code around and filling in tiny unused
+   portions of code with strings.
+
+2) This is an accurate translation.  After Shiroi translated
+   the script, I researched the correct spelling of all the
+   character names and places in the HotL manual, the PC
+   version of this game, and on DragonLance web sites.
+
+3) See what a vast improvement this is over the prequel!
+
+4) It's the only official D&D game, released on the Famicom,
+   that wasn't released in the US; see what you're missing!
+
+5) Its very different from the PC released version of this
+   game.
+
+6) It's quite short.
+
+7) You won't get stuck or need a walkthrough...
+   so why am I including one in the doc?
+
+8) KlD says, "This game was enjoyable to play.  I'm more of
+   a turn-based RPG player, but the action wasn't difficult
+   and was actually sort of fun."
+
+Why i, shiroi, chose to translate this game:
+
+   i looked on the Whirlpool want ads and saw it. :o i chose
+   this one specifically because it wasn't too big, and i'm
+   something of a closet D&D fan. anyhow, then i got in
+   touch with DvD and i was really struck by the amount of
+   interest he showed in doing it right, as in adhering to
+   the proper names and places. thus, i was motivated to
+   whip through the script and do my best.
+   please enjoy.
+
+------------------------------------------------------------
+Game Controls & Tips:
+
+1) If you haven't played Heroes of the Lance before, you
+   should read it's manual.  Actually, the manual is the
+   best thing about the game!  The story line and characters
+   for this game are identical to the prequel.  The
+   controls, spells, and items are similar but are improved
+   in this game.  With a little research you should be able
+   to find a text copy of the HotL manual on the internet.
+   I own a copy of the HotL with manual, but before writing
+   this I checked and I was able to find a text manual for
+   the NES version of HotL on the net.
+
+2) Controls
+
+* Start    : Start the Game
+             Display the Main Menu
+
+* B-button : Swing your Weapon
+             Cancel menu command
+             Back up one menu
+             Advance Text
+             Speed Up Text - When possible
+
+* A-button : Jump
+             Select menu command
+             Advance Text
+             Speed Up Text - When possible
+
+* Directional Pad
+
+ + Overworld:
+
+  - U,D,L,&R : Move character N,S,E,&W
+
+ + Underworld or Fighting:
+
+  - L & R    : Move character left or right
+
+  - D        : Duck
+               Pick up item
+               Aim weapon down when swinging it
+ 
+  - U        : Aim weapon up when swinging it
+         
+3) The Main Menu, Clerical Spells Menu, and
+   Magic User Spells Menu scroll up and down. This is
+   because they all have more items than can be shown
+   on the screen at one time.
+
+4) Use "Hero Select" to swap the position of 2 characters.
+
+5) Rest often and swap first characters to keep your
+   HP up.  After resting once, you'll a have to wait
+   a while before it will let you rest again. In the
+   overworlds, you cannot rest if you are in a
+   battle.  In the underworlds, you cannot rest if there
+   is one or more monsters in the hallway you currently
+   occupy. The game lets you know if you successfully
+   rested or not.
+
+6) All characters start with 255 HP.
+   Spell points are as follows:
+
+Raistlin starts with 255 MP.
+
+Spell               MP Used
+------------------- --------
+Charm                 16      See HotL manual
+Sleep                 21      "
+Magic Missile         16      "
+Web                   32      "
+Burning Hands         21      "
+Fire Ball             32      Attack with a ball of fire
+
+Goldmoon starts with 255 MP.
+
+Spell               MP Used   What It Does
+------------------- --------  ------------
+Cure Light Wounds      5      Raise 1 living character's HP
+                              by 51 points (20% of 255)
+
+Hold Person           16      See HotL manual
+
+Spiritual Hammer       6      "
+
+Bless                  6      ?
+
+Dispel Magic           6      ?
+
+Heal                  16      Raise 1 living character's HP
+                              by 127 points (50% of 255)
+
+Turn Undead           16      Attacks undead on the screen
+
+Cure Critical Wounds  21      Raise 1 living character's HP
+                              by 204 points (80% of 255)
+
+Raise Dead            48      Raise 1 dead character's HP
+                              to 51 points (20% of 255)
+
+6) To equip a weapon or a piece of armor, GIVE
+   it to the person who you want to equip it on and then USE
+   it while it is in that persons inventory.  If they can
+   equip it, it will move from the items section to the
+   equipment section.
+
+7) To throw a projectile weapon, it must be in the items
+   section of the character who wishes to use it.  Also,
+   that character must be the first in the party.
+   Select the projectile (arrow, pouch of bullets, javelin,
+   etc.) with the USE command.  Only certain characters can
+   use certain projectile weapons.  If it doesn't work for
+   one character try it with a different one.
+
+------------------------------------------------------------
+Quick Walkthrough - Contains "spoilers":
+
+   The goal of the first overworld is to make it to the man
+   just north of the Pax Tharkas fortress in the far
+   south west corner, Gilthanas.  Do this after meeting all
+   the other men to follow the story, one of which gives you
+   a Potion of Healing.
+
+   The goal of the second overworld is to make it to the
+   cave in the south west after visiting Theros in the cave
+   in the north east.
+
+   Both underworlds contain a number of useful items not
+   listed here.
+
+   The goal of the first underworld, Sla Mori, is to find
+   the Wyrmslayer and then find the entrance to Pax Tharkas.
+
+   The goal of the second underworld, Pax Tharkas, is fight
+   the goblin, meet the first dragon, the Old Sage, defeat
+   the second dragon, Ember, and then defeat Verminaard.
+
+------------------------------------------------------------
+Translation Progress History:
+
+Patch Version  Release Date
+-------------  ---------------
+
+none           December 21st, 2002 - Project Begins
+
+* Thingy character table first generated
+
+
+0.40           June 18th, 2003 - Initial Public Release
+
+* Menu Screens        - Complete except for the screen
+  - Start, Save, Load,  telling you to hold reset while
+    & Main menus        turning off the NES power
+  - Magic User Spells
+  - Clerical Spells
+* Command Screens     - Complete
+  - Hero Select
+  - Use/Drop/Give
+* Items               - Complete
+* Command Feedback    - Complete
+* Title Screen Hack   - Complete *
+* Event Text          - Dumped
+* Original PC Text    - Dumped
+* Intro/Ending Text   - Ready for dumping
+* Ending Credits Hack - Untouched
+
+
+none           August 21st, 2003
+
+* DvD  first contacted by Shiroi.
+
+
+none           August 31st, 2003
+
+* Event Text          - Shiroi finished translating
+* Intro/Ending Text   - Dumped
+                      - Shiroi finished translating
+
+
+0.60           September 12th, 2003 - Shiroi Release
+
+* Title Screen Hack   - Complete - Shiroi Added
+* Intro/Ending Text   - Complete
+* Ending Credits Hack - Complete *
+
+
+1.00           October 22nd, 2003 - Beta Testing Release
+
+* Menu Screens        - Complete              
+* Event Text          - Complete *
+
+
+1.02           October 28th, 2003 - Shiroi Release
+            
+* Event Text          - Tasslehoff "trap" event text finally
+                        executed in game and so it was fixed
+* Ending Credits Hack - Test Player changed to KlD
+
+
+1.03           October 31st, 2003 - Complete Public Release
+            
+* Event Text          - Minor edits in Old Sage intro &
+                        Raistlin death 
+* Intro/Ending Text   - Minor edits of last screen of intro
+                        & last 5 speeches of ending
+------------------------------------------------------------
+Thank You:
+
+DvD wishes to thank Shiroi for her very quick and complete
+translation. Without her, who knows if the project would
+ever have been completed.
+
+------------------------------------------------------------
+Software used in this translation:
+
+ Emulators
+
+* FCE Ultra 0.94
+   by Bero & xodnizel
+* Nesticle     - Hide the background tests
+   by Bloodlust Software
+* RockNES      - Beta testing on the Mac
+   by Fabiano Lopes & Richard Bannister
+
+ Tile Editor
+  
+* Tile Layer Pro 1.0
+   by Kent Hansen
+
+ Disassembler
+
+* NES Disassembler v1.0 beta4
+   by Morgan Johansson 
+
+ Hex Editors
+
+* Thingy Version 0.98
+   by necrosaro
+* frhed 1.0.156 beta 1
+   by Raihan Kibria
+
+ General Organization & Document Creation
+
+* Excel 97
+   by Microsoft
+* Notepad
+   by Microsoft
+
+ IPS Patch File Creator
+
+* Snes-Tool Version 1.2
+   by The M.C.A./Elite
+* UIPS 1.00      - Beta testing on the Mac
+   by EmuScene Software
+
+Files & Web Pages used in this translation:
+
+ NES
+
+* nesdev.parodius.com
+* Nintendo Entertainment System Documentation
+  Version: 2.00 (NDox200.txt) by ???
+* Nintendo MMC1 info for 8-bit NES carts
+  by Matthew J. Richey
+* Programming that 8-bit beast of power, the NES
+  by joker21@earthlink.net v.80.666
+* Nintendo Entertainment System Architecture v2_4.htm
+  by Marat Fayzullin
+
+ DragonLance
+
+* www.dl3e.com - The DragonLance Nexus
+* AD&D DragonLance 1 - Heroes of the Lance - Manual
+------------------------------------------------------------
+Happy Adventuring!
+
+DvD

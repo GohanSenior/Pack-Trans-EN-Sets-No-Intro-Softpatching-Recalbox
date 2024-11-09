@@ -1,0 +1,56 @@
+The Golf '92
+Hacked & Translated by Zynk Oxhyde
+2014
+
+---------------
+Date Released:
+---------------
+September 28, 2014
+
+------------
+Description:
+------------
+This is an English translation of The Golf '92 for the NES!
+
+
+---------
+Gameplay:
+---------
+Well its... golf... on the NES.
+
+
+---------
+ZIP file:
+---------
+1. This readme
+2. The Golf '92 - English.ips patch
+
+
+----------------
+ROM Information:
+----------------
+File:  Golf '92, The (Japan).nes
+CRC32: 7E283494
+MD5:   0B36998C 37988021 F0000C19 EE97D2F8
+SHA1:  17BD0A46 DF600974 2D79965A 5C020BB0 F970C5B7
+
+
+--------
+Credits:
+--------
+Zynk Oxhyde - Full Hacking & translation.
+
+
+--------
+Contact:
+--------
+Email: zynkoxhyde@yahoo.com
+
+
+-----------
+Disclaimer:
+-----------
+Zynk Oxhyde is not related/affiliated with Nintendo & G.O.1 in any way.
+USE owns this game, all rights reserved. This patch is not for profit! 
+This patch is free! Don't distribute this in pre-patched ROMs!
+Don't ask Zynk Oxhyde for ROMs. Get your ROMs from anyhow you like.

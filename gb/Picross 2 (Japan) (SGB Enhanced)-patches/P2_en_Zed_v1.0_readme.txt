@@ -1,0 +1,30 @@
+Picross 2 
+Japanese to English Translation Version 1.0
+November 8, 2014
+By Zed
+
+After 15 short years it's finally done. A 100% complete translation as far as I know. Should work on anything that plays the original ROM. No fancy stuff. Just graphics and text editing.
+
+Patching Info
+-------------
+It's an IPS patch. Use an IPS patcher.
+
+ROM Info
+--------
+Picross 2 (Japan) (SGB Enhanced) No-Intro
+ROM CRC32: F5AA5902
+ROM MD5: 142D1F9F4B868780824CCA20010AD4D8
+SHA-1: 57788519111CBE9E20B43D1935E9F52AE165E858
+
+Credits
+-------
+Hacking: Zed
+Translating: Google & Bing Translate with help from Seihen on the RHDN boards
+Thanks to KingMike from RHDN for a Quick Picross puzzle suggestion
+Tools used: Tile Layer Pro, WindHex, Monkey-Moore, GIMP, all in Linux
+
+Distribution
+------------
+You may only distribute this translation as an IPS file and never as a 
+patched ROM. The patch must also be distributed with everything in this ZIP 
+file (Picross2.ips, Picross2.txt) unchanged, including this file.

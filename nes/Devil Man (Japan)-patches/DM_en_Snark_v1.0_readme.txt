@@ -1,0 +1,192 @@
+Devilman translation patch c. 2009 snark. 
+Go Nagai's Debiruman/ Devilman series. Enjoy :) Please do not sell, copy, modify, or redistribute. 
+Enjoy :)
+
+
+DEVILMAN WALKTHROUGH:
+
+C. snark 2009 @ www.boojumsnark.com
+Devilman by Go Nagai 1989 Famicom/NES walkthrough.  
+
+STORY: 10,000 Years ago, demons ruled the Earth. Archdemon Xenon their four faced master is imprisoned in ice
+in the Himalayas, and the demons are beginning to stir. They are unleashed on air, land, sea and Akira Fudo must destroy them!
+
+Character: Akira Fudo is a young man whose parents died of mysterious circumstances, who lives with his girlfriend Miki Makimura in Tokyo. Akira, who hides a secret power, is taunted by the bullies Dosuroku and Masa Bokutou. Riyo Asuka, his eccentric friend knows of a secret mask that allows its wearer to see into the World of Demons. Akira combines with Amon, the strongest of ancient demons and becomes Devilman in order to destroy the demons and save humanity! There are six levels to explore in this graphic and text adventure game!
+
+LEVELS:
+
+1. TOKYO
+2. LAVA CAVES
+3. TOKYO RUINS
+4. SECRET LABS
+5. SUBTERRANEAN CAVES
+6. DEMON WORLD OF ICE 
+---------------------------------------------------------
+PASSWORDS:
+[#] = number (Letter) Italicized letter
+* = lowercase
+
+Lava Cave: beginning
+
+(N) (D) (G) (D) C (D) Q B w* A E A (F) Q A M
+
+Tokyo Ruins: beginning
+
+E (D) ? B A(H)[0](F)(G) A R (A) d* U C
+
+Secret Lab in the Forest (beginning)
+
+d* (D) C A T (C) Y f* S [1] A (F) e* A (A) (E)
+Subterranean Ocean (beginning)
+
+Subterranean Ocean
+
+H D F C A T (C)(Y) f* l* [1] P Q [1] U (B)
+ 
+Ice World of Demons (beginning)
+d* H A A T (C) (Y) f* l* l* f* Q [0] R (D) A
+
+-----------------------------------------------------------------------------------------------------------
+CONTROLS:
+
+A. Jump, Select Answer
+
+B. Punch
+
+SELECT - Transform Up to Devilman or (Giant Devilman if you are aleady Devilman outside in Tokyo)
+Transform down back to Devilman from Giant Devilman or back to Akira Fudo if you are Devilman. 
+
+START - Talk or Password
+
+--------------------------------------------------------------------------------------------------
+1. TOKYO
+
+Akira begins outside of the Makimura's brick home. Outside are a few thugs, that you will need to dodge. 
+Inside the Ms. Makimura will greet you. Leave and go next door, and a man will tell you 
+that your girlfriend Miki is waiting. Talk to Ms. Makimura, and Mr. Makimura who will ask if you saw
+the TV program. Say no, and find out that the city has been attacked by demons! Go to Miki's room, 
+and she will let you know that a strange fellow, Riyo Asuka wants to talk to you. Go outside and 
+dodge the demons! Walk to the house with the red fence and meet Riyo, the odd fellow with blonde hair 
+and a trenchcoat. Riyo's recounts the sad strange tale of his late father who headed a special secret
+research unit for the investigation of demons. Akira's mother and father were members of this group, 
+who trekked in search of demons in the Himalayas.Mr and Mrs Fudo die by the hands of demons, and Mr 
+Asuka dies horrifically in his lab. Riyo swears revenge and asks you if you believe in your abilities, 
+which you do of course. Riyo bids you to increase your anger and become Devilman, even at the expense of your human heart. Riyo opens the gates of hell, and now you must battle shapeshifting LADY DEMONS! Punch the ladies before they can transform into jumping green demons, and eventually a mask will appear. Snatch the mask and become Devilman! Hit them with your angry fireballs until they are no more. Your friend Riyo has mysteriously vanished.At this point you can waltz about town frightening the locals, or transform back into AKira, so they will no longer shriek in your presence. A townie lets you know that the secret unit went to the Makimuras. Check the house to find only sobbing Miki is left, apparently the Secret Unit came in search of demonic activity, and have taken the Makimuras away. Miki will heal you from this point, should you have any battle scars. 
+ 
+Talk to the townspeople, who let you know that there is are secret ruins hidden underground, that girls should not walk outside unescorted, and that rogues can have good hearts and can be good allies. You can fight to build up ANGER points for Devilman to use as fireballs, and to increase life-bars. When you return to Miki, she will ask you to permit her to fight outside. "Miki can do  it! ", she says as she packs a mean wallop. 
+Miki can defeat enemies in two slaps! When she enters Riyo's abandoned house, Dosoroku is waiting for her! 
+Run or defeat him in a few slaps!  Have Miki run as fast a she can back to her room, and report the news to Akira! Miki will now wait at home, and Akira should now head back to Riyo's. Masa, another rogue is waiting there, and he's not talking. Punch him around a few times, and he will tell you a few things. He knows you have Devil power,that a secret lab is hidden in the woods and that you can increase Devilman's power by soaring into the sky!
+ 
+Transform into Giant Devilman by transforming to Devilman, and transforming up again! Now you are as big as Godzilla and can stomp around Tokyo! Press up and you can fly! Avoid the Green and the Brown demons, walk to the right, into a grasy area until you see a sparkling shining ring. Enter the ring to face the first Boss Sirene! Sirene will chastize Amon, the demon Akira combined with. Apprently she loved Amon the bravest of all demons, and now swears to destroy him for his unforgivable deed. 
+
+BOSS 
+
+SIRENE is half bird, half demon, with a nasty flying claw. Defeat her as Devilman with full anger to do the most damage. When you defeat her, Aguwel, the messenger of demons, dispatches her ally! Loyal Kaimu, an ancient dinosaur-demon, runs to her rescue. Sirene is mortified as Kaimu rips off his head in sacrifice so that Sirene can combine with his body. 
+
+
+SIRENE/KAIMU
+With a Dinosaur body and a Sirene hood ornament, this deadly combination will charge at Devilman. Punch away 
+until this loathsome duo is history! Take the second mask, level up, you've earned it! Transform into Devilman into Akira, and enter the forest. Dodge the carnivorous plants, and enter the black hole between 
+the trees for the secret entrance to the next level. 
+
+
+2. Underground Lava Caves 
+Fall down and go to the right and talk to a human that has fled into the caves to escape the demons. The monk that you will speak to below will recognize that you are no ordinary human if you are Devilman, and will also fill up your life-bar. If you are Akira, he lets you know that a man of strength can tear down walls....hmmmm. 
+If the music changes into the emergency theme, then you will notice that a demon has trappped a human in its claws! This stage is important because it will affect your rank!
+
+Rescue the human? If you select yes the human will run for it and the demon will run after you! Defeat it in two hits, and your rank will go up!
+
+If you select no the human will explode in the devil's claws, and the demon will run away taunting you!
+
+****Notes on Devilman Rank:******
+
+Rank is displayed when you select the password function. The ranks are in increments of one; 16 possible statuses. Rank can increase by defeating bosses or by saving humans. There are four human faces on the top right hand screen, which are indicators of saved humans.  Keep them from turning into skulls by saving them!  If status drops below the sixteenth, the game will be over.  Your rank will increase if you defeat bosses and rescue captured humans.  Your rank will decrease if you decline to rescue the captured humans, and the last remaining human face is a skull.  
+
+In the caves that appear to be empty, use the talk function to listen to some spooky scary voices such as 
+"I am Aguwel Messenger of Hell... Closer devilman" or "Devilman....whoooo....we are your enemies". In one of the caves there is a purple demon! Bash it and it will taunt you..."You're losing your human heart Devilman!"
+Now its time to do some serious spelunking, from the monk go back up and to the left to the rocky ledges. 
+Avoid falling in hot lava, falling stalactites, shrouded wall-walkers, burrowing shell-monsters, and deadly carnivorous pears throughout this place! Go right to the false walls, go up and right, then fall down, 
+go left over lava pits, and fall again. Go to the left and over the lava, destroy another rock wall to find the second sparkling ring!
+
+Boss:
+
+AGUWEL
+
+This creepy green tentacled beast is the Messenger of Hell, and he tells Devilman to rot in it! Squiggly Aguwel can split in two and throw rocks at you, so fire away with angry firepower! Defeat half of him, and replenish your life, and then finish him off for the second mask! Go through the door outside and see what's left of Tokyo!
+
+
+3.  Tokyo Ruins
+From the building, go left, and enter the maroon building to find that old rogue Dosuroku and his shiv.
+Since he has learned his lesson, he will give you the option of finding the Makimuras, or staying behind.
+As Dosuroku, go into the large building and go down into the Secret Unit Complex/Interrogation Facility. 
+Smash the purple demons, and jump over the shooting guards in biohazard suits, and time your movements to avoid the laser beams. Go down and to the right, smash the wall, go up and enter the room that only Dosuroku can enter. The guard tells you to get lost that only demons are incarcerated here. Leave, go down and right, and destroy another wall. Dodge the lasers, go up and enter the cell. Talk to the pig-faced humanoid demon, and smack him when he gets too tight-lipped. "Whatcha gonna do, torture me?" he says. He's hiding something. Eventually he will dish some info about the Makimuras and a key. Leave, go down, right, and break another wall, and enter the cell. This demonic humanoid  has some pretty scary teeth, and he tells you that he likes to eat humans and wear their skin! Smack this creature around a bit for more information, a key, and a blubbering apology. Leave this place and return outside to Akira, handing over the key.  Enter the Secret Unit, go down twice and to the right, smashing past the breakable walls, and dash across the lasers, and fall in the deep chamber, go ahead and fall down again, and enter the cell. Its Mrs Makimura! Destroy the demon and rescue her! The Mrs. tells you the location of her husband which is at the rightmost upper cell with a breakable wall. Go this way and rescue Mr Makimura, who will tell you to meet Dr Yamanobe, who was Dr. Fudo' assistant, in the forest!   Leave, go left, down, left, and down again, right and avoid the orange rolling armored balls, and smack the green serpents for Anger points. Break through the wall and find the sparkling ring and enter it for a really creepy boss fight!  
+
+
+BOSS - JINMEN
+This Turtle-like demon has a creepy carapace full of human faces, and the souls of those he devoured. 
+
+"Akira...." "Mother?" Jinmen laughs and cruelly taunts you with the voice of Akira's mother. Use fireballs to hit him in the face, and avoid his flying zig-zag flame attack! Destroy this monster and earn your third mask! Exit to the forest for the next stage. 
+
+
+4. Secret Lab - Go through the woods through the trees to find the laboratory of Dr Yamanobe, AKira's father's old assistant. (This is only if you have rescued both Makimuras). He tells you of your father. Change into Devilman and he clues you in on his own covert demon research and dissections. Unfortunately his girlfriend/ assistant Masami Izumi, the telepath has gone missing and he asks to take over and find her. As Dr Yamanobe, leave and enter the Demon Research Lab of the Secret Unit. Go right, down, and left and enter the door. The worker tells you that the Laser Controkl Room is nearby.Leave and go right, down, and enter the door. The worker let you knows that Masami was last seen with Dr. Rainuma! Leave, go up on the ledge, up the stairs and enter the door. Talk to Yamanobes old partner Rainuma who says he is disgusted with humanity, and now sides with demons! Uh-oh! Slap him for his insolence and listen to him spill the beans. She is held in the right room, and the door is equipped with an electric shield! Slap him again for good measure and return to Akira. 
+
+
+Enter the Secret Lab as Akira, and head right, and enter the rooms of the encapsulated green girl demons. 
+THey recognize you now as a friend! The last of these rooms has a glass capsule, smash it to release another green demon-girl! She will graciously fill up your life-bars. Leave go right, and as Devilman jump over the high wall. Go right and enter the door, go past the lasers and smash the glass capsule to release Masami!
+She thanks you and tells you that the door to icy demon world is guarded by Geruma, demon of the deep waters!
+Leave, go left, through the wall, enter the door, smash the round device. Now the lasers are toast! Go out, 
+left as Devilman jump over the wall, down, right, jump over the deep pit, and destroy the wall. Enter the next sparkly ring for the next enemy boss! Note: if you return to Dr Yamanobe's, Masami will be there, and reminds you to visit before the Ice World. 
+
+Boss- DAMASUKU
+
+This boss vows to roll Devilman in the name of Zenon, and roll he does! Smash him with fireballs, and as he splits in two, if you defeat one of him your life will restore to the highest level. Smash him again, and take your next mask! Exit the door into a subterranean ocean.
+
+
+5. Subterranean Ocean:
+
+Devilman alone can navigate this level. Avoid goofy crabs, scallops, prattling prawns, and ferocious fish
+and make sure to have plenty of Anger points here. Press up and directional keys to swim about this strange sea-world. Go right, down, and right and up again. Go left, up, right up left up, and swim along until you demolish the wall. Enter the sparky ring for the next boss!
+
+
+BOSS - GERUMA
+Geruma begins telling you of his new Master, Satan. This huge fearsome fish-demon hits hard and fast, so fire away with fireballs until he is fried. As he gurgles his last, He warns you of his spawny minions attacking your girlfriend, and that his master Satan awaits! Devilman can take the mask at this point and the Ice Demon World is through the door!  
+
+
+A. Return to Yamanobe's lab and talk to Masami there about Geruma first. She tells you that not only Zenon has unleashed the demons, but another rising angel as well. Satan! It gets worse, Riyo Asuka is Satan! Now Akira fears for Miki. Leave, return to the water world, and go up-up and to the left to enter the secret hideaway route for the Tokyo Ruins.  Enter the building and find Masa Bokuto with his trusty club. Talk to him and 
+ask him to save Miki. As Masa you will be transported to Miki's pink bedroom, and she will scream in surprise. 
+Talk to her, and let her know you are there to help. Leave, and start whacking demons with your bat/club. 
+These mini demons are Geruma's newly hatched hell-spawn! After beating enough of them, Akira returns and
+vows that he will keep Miki safe from demons. Now its time to beat the demons on their own turf! 
+
+6. Ice World of Demons:
+
+Go right in this slippery ice world. If you have two fireballs throw them now, otherwise confront the 
+Psycho Genie! "Ho Ho Pycho Genie blasts you with mind power!" Hit before the genie disappears and repeat until it is gone. If you survive, you get full life! go right and through the door to enter the deadly Ice Palace!
+Avoid falling ice-cicles, rolling ice-crab demons, slithering flying snakes, and watch your step! There are 
+only two friendly green-demons here to fill your life bar, one to the bottom left door and one to the top left door. Go right up, left up, left up, to the topmost left ledge. (YOu can go through the door and fill up, avoiding the swarming bat-demons. Go right and up through the door. Go right, and confront an ugly brown demon! This demon says that he is Satan's minion and he is ordered to destroy Devilman! Fireballs finish this guy off fast. Enjoy your life-fill and go right and through the door to face the Archdemon Zenon!
+
+
+BOSS ZENON
+
+He's huge and has four faces and a nasty claw! Zenon boasts that he is the Lord of All demons and that Devilman will be history! Move quickly to the spot before the second post, dodge his fireballs, and time your jump to smash his middle face! Avoid his clutching grasp and knock him until he is no more!
+
+
+*****ENDING**** Four alternative endings.
+
+Devilman game ending info:  
+
+The endings are as follows and dependent on events that occur during/after the Tokyo Ruins stage:
+
+1. If you rescue Mr. and Mrs. Makimura, Ms. Izumi, and Miki, you have the option of defeating Satan after Xenon. If you defeat him the ending will be the best ending with credits and pcitures of all the nice people that you saved. 
+
+2. If you rescue Mr. and Mrs. Makimura, Ms. Izumi, and Miki, you have the option of defeating Satan after Xenon. If you do not defeat him the ending will be pretty gruesome. 
+
+3. If you rescue Mr and Mrs Makimura, Ms. Izumi and but not Miki, the ending will be different after defeating Xenon, you get to see a sad message and the little brown devil mask.
+
+4. If you do not rescue Mr and Mrs Makimura (the options of rescuing Miki and Ms Izumi will not happen) and the ending will be different after defeating Xenon you get to see another message and the brown devil mask.
+ 
+*****THANKS*********
+
+Thanks for reading this comprehensive walkthrough and feel free to send your kudos or feedback. :)
+
+c. 2009 snark  

@@ -1,0 +1,79 @@
+DRAGON SQUADRON: DANZARB [RYUUKI HEIDAN DANZARB]
+ENGLISH TRANSLATION V1.00
+Copyright 2007 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Danzarb
+2.Patch History
+3.Patch Credits
+4.Known issues
+5.Application Instructions
+6.Mini-FAQ
+
+-----------------
+1.About Danzarb
+-----------------
+Danzarb is a simple little RPG produced by Pandora Box, Gainax, and
+Yutaka. It features a battle system halfway between Phantasy Star and
+Final Fantasy, giant robot dragons, a new gameplay twist for each
+mission, and a story that, while largely cliche, impresses greatly
+by the end of the game.
+
+---------------
+2.Patch History
+---------------
+The Danzarb project initially started in October of the Year 2000, but
+went rather slowly until late December, when it really started to pick
+up.
+
+August 24th, 2007 - Initial v1.00 release.
+
+---------------
+3.Patch Credits
+---------------
+Gideon Zhi - Project leader, lead romhacker
+DDS - Translator
+DaMarsMan - Initial script format
+
+--------------
+4.Known Issues
+--------------
+- No known issues.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+1.00MB (8mbit HiROM), WITHOUT Header (1,048,576 bytes), DEINTERLEAVED
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "danzarb.smc" make sure the patch
+is "danzarb.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 1.00 MB (1,048,576 bytes)".
+
+***FURTHER*** Make sure that the ROM is DE-INTERLEAVED! Run your ROM
+through NSRT; it will remove headers and de-interleave you ROM for you
+should it require any of this.
+http://nsrt.edgeemu.com/
+
+-----------------
+6.Troubleshooting
+-----------------
+--If the game does not run at all, read the above section on
+  application instructions (specifically on header removal
+  and deinterleaving.)
+  Make sure your ROM is not read-only when you toy with it.
+  Also make sure that if you previously hard-patched the ROM and
+  the game crashes as described, you will need to re-apply the
+  patch a clean, Japanese original ROM.
+
+--Note that the first time you run the game, it does dump you
+  directly into the prologue! The only time the title screen
+  actually appears is between the prologue and Mission 1. This
+  is NOT a bug!

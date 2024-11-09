@@ -1,0 +1,221 @@
+           $$$$$                                          $                $   
+         $$$$   $           $$               $$          $$               $$   
+       $$$$$                 $                $          $$               $$   
+      $$$$$                                              $$               $$   
+       $$$$$     $        $ $     $$$$$$$    $     $$$$$$$$    $$$$$$$$   $$   
+         $$$$$   $$      $$ $$   $$      $$  $$   $$    $$$   $$     $$   $$   
+           $$$$  $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+         $$$$$   $$      $$ $$ $$$           $$ $$        $ $$$      $$   $$   
+   $   $$$$$     $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+    $$$$$         $$    $$  $$   $$      $$  $$   $$    $$$   $$     $$$  $$   
+                   $$$$$$   $$    $$$$$$$    $$    $$$$$$$$    $$$$$$  $  $$   
+  $$$$$$                                                                       
+$$$$$$$$$$                            $            $   $$                      
+$   $$   $                            $$          $$    $                      
+    $$    $$$$$   $$$    $$$$   $$$$$ $$  $$$   $$$$$$      $$$   $$$$   $$$$$ 
+    $$   $$    $ $   $  $    $ $      $$ $   $    $$   $   $   $ $    $ $      
+    $$   $$    $ $   $  $    $  $$$$  $$ $   $    $$   $$  $   $ $    $  $$$$  
+    $$   $$      $   $  $    $      $ $$ $   $    $$   $$  $   $ $    $      $ 
+   $$$$  $$       $$$ $ $    $ $$$$$  $$  $$$ $   $$   $$   $$$  $    $ $$$$$  
+
+                               Family Pinball
+                             English to Japanese 
+                                 Translation
+                                   v. 1.00
+
+                   
+
+
+-------------------------- DEDICATION & INSPIRATION ---------------------------
+ 
+This translation is dedicated to the people who have released translations for
+games that I poked around in and wanted to do, but didn't, due to lack of skill,
+lack of time or lack of motivation. Thanks to them, I can play the games in
+English with much less frustration than would otherwise have been required.
+
+Sliver X - Valis
+Shi Tzu - Magical Doropie
+Pale Dim - American Dream
+saito - Dodge Danpei
+
+I've been rather obsessed with Canadian indie rock, as of late, particularly
+revolving around the supergroup Broken Social Scene. As I did the title screen
+of this game, as well as various other small parts, I listened to a big megamix
+of BSS, Metric, Stars, Feist and Emily Haines and the Soft Skeletons. Metric is
+my absolute favourite artist, at the moment, and the gateway that got me
+listening to the other artists mentioned, so I'll go with her lyrics.
+
+		Choose the highest bidder / was my answer
+		when they told me I was up for sale. /
+		Schoolyard / Junior high style / Bullies
+		have always tried / to buy the better girls.
+
+		-Metric "Soft Rock Star"
+
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+    I. Dedication & Inspiration
+   II. Table of Contents
+  III. Introduction
+   IV. Version History
+    V. Distribution Notes
+   VI. Technical Notes
+  VII. Staff
+ VIII. Tools
+   IX. Patching Instructions (** READ THIS BEFORE ASKING QUESTIONS!! **)
+    X. Contact Information
+   XI. Closing
+
+--------------------------------- INTRODUCTION --------------------------------
+
+Family Pinball is a four player game with four different modes. There is a
+traditional pinball machine with a Pacman theme, a battle mode (offering three
+different tables) in which your opponent and yourself try to knock the ball
+past each other's flippers at opposite ends of the table, a sports mode which
+is similar to battle mode except with soccer and hockey themes, and a pachinko
+mode. 
+
+Rather than simply referring to the players as Player 1 - 4, each player also
+gets to select a representative from amongst six Namco characters, only one of
+which ever made it to an American release.
+
+Family Pinball is one of several games that Namco aimed at getting families to
+play games together. Other games in the series include Family Tennis, Family
+Jockey and Family Mahjong.
+
+-------------------------------- VERSION HISTORY -------------------------------
+
+v. 1.00 - March 01, 2009
+
+What's Complete
+ - all in-game text translated
+ - minor graphics hacks (title screen, newspaper graphics)
+ 
+What's Incomplete
+ - nothing of which I am aware
+
+------------------------------ DISTRIBUTION NOTES ------------------------------
+
+This Family Pinball translation should be distributed in a file named
+fpine100.zip and should contain the following files:
+
+	  fpine100.ips - the translation patch
+          fpine100.txt - this readme file
+          fpin-man.txt - a manual for the game
+
+These files are released under a Creative Commons Attribution-Noncommercial-
+-Share Alike 3.0 license. This means that you are free to copy, distribute and
+transmit these files in any manner you see fit, as long as you do so in a non-
+commercial manner and attribute the author. Additionally, you are permitted to
+modify this work as long as you release your modifications under the same
+Creative Commons license.
+
+For more information, see http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Family Pinball is (C)opyright 1989 by Namco Ltd. & Artman Inc.
+
+------------------------------- TECHNICAL NOTES -------------------------------
+
+At one time, I was going through a video pinball phase where I played as many
+pinball games for console systems as I could find. It was at this time that I
+decided it would be fun to translate a pinball game, something that isn't done
+very often. (Or at all, to the best of my knowledge.) I happened across this
+game, with it's multiple modes, and found it highly enjoyable. Thus a project
+was born.
+     There are no major liberties taken with the translation. Everything 
+follows the spirit of the original text, if not the literal meaning. Due to
+space constraints, Tarosuke, Kagekiyo and Valkyrie's names were shortened to
+Taro, Kage and Valkyre respectively. Also, on the newspaper screen that follows
+the battle and sports modes, I removed a vertical line along the right edge, so
+as to avoid having to shorten Valkyrie's name even further.
+	The primary font used in the title is a slightly modified version of Alba
+Super. The world Family is in the Wide Latin font.
+     There are two uppercase fonts in the translation. One is the original and
+the other was inserted by me. The second font is identical to the first except
+that each letter is one pixel lower than in the original. To be honest, it has
+been more than three years since I inserted that font, so I'm not entirely sure
+as to what was my reasoning. I am assuming that I felt the font looked better
+when shifted down a pixel but perhaps there were certain parts of the game
+which were already in English and didn't look as good, so rather than screw up
+those parts, I simply inserted a second uppercase font, since there was plenty
+of room to do so.
+     On a random note, there is a TILT DANGER graphic in the ROM that is unused
+as far as I can determine. Despite constantly pushing the bump buttons, I've
+never caused the game to go into tilt, so I assume this feature was never
+implemented.
+     Also, upon successfully completing the pachinko game, you will receive a
+message with a code to use at the title screen. I have tried this several times
+but have been unable to get anything to occur.
+
+Special thanks to Sliver X for moving the pinball graphic in the title screen
+so that it now dots the I.
+
+Recommended Emulator: Family Pinball utilizes Mapper 4, thus it should run in
+any emulator that has advanced beyond the most primative stages. I prefer FCE
+Ultra, but you may have another preference.
+
+GoodNES calls this ROM 'Family Pinball (J).nes'. Your best bet for locating the
+ROM is to check a full GoodNES archive, though you should import the original
+cartridge from a shichiya (Japanese for pawn shop) for the sake of legality.
+
+------------------------------------ STAFF ------------------------------------
+
+Hacking
+-------
+InVerse
+Sliver X
+
+Translation
+-----------
+BRPXQZME
+Darth Nemesis
+Mew Seeker
+Ryusui
+
+------------------------------------ TOOLS ------------------------------------
+
+The following tools were used for this translation:
+
+        WindHex: hex editing
+  Translhextion: relative searching
+ Tile Layer Pro: graphics hacking & font insertion
+           GiMP: title screen design
+       Nesticle: minor tweaks on title screen
+       LunarIPS: patch creation
+     
+Most of these tools, as well as ROM hacking tutorials, can be downloaded from
+ROM Hacking dot Net (http://www.romhacking.net).
+
+----------------------------- PATCHING INSTRUCTIONS ---------------------------
+
+Patching a ROM is extremely simple. You need three things. A ROM, the patch and
+a patching program. To patch with ips.exe, you simply type:
+
+	ips <ROM name> <patch name>
+
+So if your ROM was named fpinball.gb and the patch was named fpine100.ips you
+would type:
+
+	ips fpinball.nes fpine100.ips
+
+Make sure you have the ROM, the patch and IPS in the same directory.	
+	
+To patch with Lunar IPS, simply select the patch you wish to apply, the ROM you
+wish to apply it to and Lunar IPS will do the rest.
+
+------------------------------ CONTACT INFORMATION ----------------------------
+
+ The official Family Pinball English translation home page is currently located
+ at http://www.suicidaltranslations.com
+
+ E-Mail addresses concerning the project can be located on the official page.
+
+ Do NOT, under ANY circumstances, ask for ROMs. You will not only be denied,
+ you will have your request for illegal files forwarded to your ISP.
+ 
+------------------------------------- CLOSING ----------------------------------
+
+ So there you have it. Have fun and remember, it's just a game.
+
+ -InVerse

@@ -1,0 +1,65 @@
+KingMike's Translation
+http://www.emuxhaven.net/~kingmike/index.html
+
+Zombie Hunter
+Patch v1.01
+Release date: 8/25/2002
+*********************************************
+Original Title: Zombie Hunter
+Original Language: Japanese
+*********************************************
+Translation by:
+ Shih Tzu - for translating story, stage titles, and a few other phrases.
+ KingMike - translation, hacking, ASM modifications
+ Eien Ni Hen - Game Over text
+*********************************************
+Contents of package.
+zhunt101.ips     : Japanese to English translation patch, 100% done.
+zhunter1a.txt    : This document.
+*********************************************
+Emulation Status:
+Nintendo MMC1 (mapper 1), so nearly every emulator supports this. However, the voice affects
+don't appear to work, so use something better than Nesticle, and you should be fine.
+*********************************************
+
+What's done:
+ - All known text.
+ - Replaced Hi-Score logo with English logo found in MSX version.
+
+What won't be done:
+ - Voices (lacking the skill, both vocally and hacking-wise)
+*********************************************
+How to patch:
+ - Download this zip file.
+ - Download the game ROM. (I won't provide this. You find it.)
+ - Download IPSWin 2.0 from somewhere (www.zophar.net might have it, but no guarantees. Look for "Utilities").
+ - Open IPSWin 2.0, click the little folder thing in the first box. Choose the original Japanese ROM. Choose the IPS patch in the lower text box in the same manner. Click Patch. Enjoy!
+*********************************************
+How to play:
+
+This is a platformer mostly, but it does cross paths with an RPG.
+Controls are:
+ Arrows - Move
+ Start - Pause / Menu
+ B - Attack
+ A - Jump
+
+When an enemy attacks, you can't move forward until you kill all the enemies. You can run back to the left, until the enemies are gone, if you need to escape.
+You must continue to fight enemies until you receive a key to open the door to the boss of the level.
+Collect Experience to level up.
+When you receive equipment, remember to equip it. To do so, push Start to open the menu, select Items, Use, and select the item, and push A.
+Remember that you can push B as a cancel button. If you receiev an item you don't want, and your inventory is full, you are prompted to discard an item. Push B if you wish to not take the item left behind by the enemies.
+At the beginning of each stage, their is a shop. Go to the far left of the stage, and push Up and B together to enter the shop. Choose Buy or Sell (or push B to exit). When asked if you will buy/sell an item, again, A=yes/B=no.
+*******************************************
+Zombie Hunter
+	(c) 1987 Hi-Score Mediawork
+
+English Translation:
+	(c) 2002, 2003 KingMike
+
+No distributing the patch with ROM, either pre-patched, or in one zip. You may provide the ROM as a seperate download ZIP file, but make the users learn how to patch on their own. Sorry, that's how it should be.
+
+ kingmike2000@hotmail.com
+
+I do NOT want questions about where to find the ROM or how to patch the ROM. Do not spam. Do 
+not ask me how to hack ROMs (I don't have the time/energy to explain). These will be ignored. If you have anything else to say, change the last 0 in my address to a 1, and send me messages. Thanks:-)

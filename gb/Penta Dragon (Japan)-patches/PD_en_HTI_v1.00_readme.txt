@@ -1,0 +1,47 @@
+Penta Dragon
+English Translation Patch - version 1.00 02/28/03
+By HTI  http://hti.rpgclassics.com
+
+
+What You'll Need:
+-----------------
+1. This patch you just downloaded
+2. A Game Boy Penta Dragon ROM
+3. SNESTool
+
+
+What You'll Need To Do:
+-----------------------
+After you've downloaded the ROM, this patch, and SNESTool, put them all into
+the same directory.  Backup the ROM if you wish, then run SNESTool, select
+"Use IPS", then select "penta.ips", then your ROM.  The ROM is now patched,
+so run it in your favorite emulator.
+
+
+Boring Patch History:
+---------------------
+After finishing the menus for Glory of Heracles: Snap Story, I didn't really
+have anything to do until the script got translated.  So I began looking for
+a small project I could do in the meantime.  I found Penta Dragon, and it
+looked interesting enough, so I decided I'd do it if I found a translator.
+
+One of the people who offered to help me translate GoH: SS also was willing
+to do Penta Dragon as a warm up.  So he did, and I inserted it, and it was
+done.
+
+The game consists of three different cut-scenes, one at the beginning, one
+right before the final boss, and the ending.  Even though I kinda doubt
+that many people will ever actually play the game through to the ending, it
+is indeed fully translated.
+
+
+Credits:
+--------
+Hacking: Hiryuu
+
+Translating: Tyrome Williams
+
+And thanks to Kero Hazel for some help in smoothing out the dialogue.
+
+
+

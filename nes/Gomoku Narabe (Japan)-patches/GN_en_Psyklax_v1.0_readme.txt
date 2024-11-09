@@ -1,0 +1,132 @@
+GOMOKU NARABE RENJU (NES)
+Translation by Psyklax
+v1.0 (20170614)
+
+CONTENTS
+1. Intro
+2. Background
+3. ROM Information
+4. Game Rules
+5. Final Thoughts
+
+INTRO
+This is a full 100% translation of Gomoku Narabe Renju.
+Released on 27th August 1983, it was only the joint fourth
+game ever released on Famicom, along with Mahjong on the same
+day. It's based on the Japanese board game Gomoku Narabe,
+meaning Five in a Row, and it's also known as Gobang in the
+West. The Renju subtitle refers to the professional rules
+that make the game more difficult for the black player (who
+always goes first) thus making the chance of victory more
+even for both players. Given the Wikipedia article uses the
+Japanese name of both the game and the rule set, I didn't
+translate the title into English, and simply transliterated
+it.
+
+BACKGROUND
+The Famicom (later NES) only provides for one or two 16KB ROM
+chips for non-graphic data (known as PRG-ROM) and one 8KB ROM
+chip for graphic data (known as CHR- ROM). This limitation
+was no great problem for the first year or so of the
+Famicom's life, but it quickly dawned on game producers that
+to take advantage of the substantial graphics and sound
+capabilities that the system had to offer, they needed to
+solve the ROM problem. The solution was memory management
+chips (MMCs, also known as mappers) which swapped ROM memory
+in and out of the Famicom's RAM. The system could still only
+access the same amount at any one time, but with the ability
+to switch chunks of the ROM made new types of games possible.
+The first Famicom game (that I can find) that used an MMC
+chip was City Connection, released in September 1985. It was
+satisfied with one 16KB PRG-ROM, but doubled the CHR-ROM
+available to 16KB, presumably because the colourful city
+backgrounds were a key feature of the game that would be lost
+without more graphical space. Interestingly, the US release,
+which arrived three years later, doubled the size (2x16KB
+PRG, 4x8KB CHR), partly to add a nice title screen among
+other things.
+
+By 1986, the vast majority of Famicom titles used mappers, as
+the extra cost of including these chips along with larger
+ROMs was offset by the potential of more advanced games. The
+Famicom had already been released in the US by this point, so
+the difference with early games is perhaps not as keenly
+felt, since mappers were already starting to be used by the
+time games were being released in the US. Some early Japanese
+games which didn't use a mapper were localised overseas with
+extended ROM via a mapper.
+
+Early Famicom games, due to their limited size, generally
+avoided using Japanese language, since it takes far more
+graphics to make a full Japanese syllabary than an English
+capital alphabet. Nevertheless, some early games did still
+use Japanese, mostly ones that were quite Japanese to begin
+with. Gomoku Narabe Renju and Mahjong are two obvious
+examples, along with Hon Shougi - Naitou 9 Dan Shougi Hiden,
+a shogi game (Japanese chess).
+
+It was interesting for me to delve into one of the earliest
+Famicom games to see what's going on inside. Presumably it's
+less sophisticated than later NES and Famicom games, but a
+good starting point.
+
+ROM INFORMATION
+GoodNES name: Gomoku Narabe Renju (J) [!].nes
+CRC32: 28843BB1
+
+GAME RULES
+Gomoku Narabe is played on a Go board with Go pieces, but
+that's where the similarities end. It's quite a simple
+game: you have to get five pieces in a row to win. Black
+always goes first, and players alternate between black and
+white to ensure fairness.
+
+ Opening Pattern
+At the beginning of play, there is a specific opening
+pattern: a black stone is placed on the centre point, then
+a white stone is placed in the central 3x3 square, and
+finally a black stone is placed in the central 5x5 square.
+This process is automated in this game, but in real life
+the players would obviously do it themselves. There are 26
+possible combinations of stones: 13 'direct' (where the
+white stone is next to the black stone), and 13 'indirect'
+(where the white stone is diagonally adjacent to the black
+stone). On the right of the screen is shown which type of
+move was played (so 1IN is Indirect Opening number 1, and
+1DI is Direct Opening number 1). Each opening move has a
+'name' in Japanese, and each of these names were shown in
+the original Japanese game. You can read more about all the
+opening moves here:
+
+https://en.wikipedia.org/wiki/Renju_opening_pattern
+
+Incidentally, the Famicom game doesn't include all 26
+opening patterns, only 19, presumably due to ROM space
+constraints. Since the game does it automatically, it can
+choose which one to use.
+
+ Black Handicaps
+The Renju rules used in this game add an extra element to
+the original rules: black has limitations on how it can
+win. For white it's simple: five or more stones in a row
+equal a win. Black, on the other hand, has some handicaps.
+
+Firstly, black cannot make a line of more than five: this
+is an 'overlong' line. Second, black cannot place a stone
+that builds two separate lines with three stones in each,
+if they are unblocked (no white stones next to them).
+Third, black cannot place a stone that builds two separate
+lines with four stones in each, whether they are blocked or
+not. In each case, white wins.
+
+FINAL THOUGHTS
+I hope you enjoy this little game from the early days of
+the Famicom. It was a real education for me, as I had to
+rewrite some of the assembly to do what I wanted, which
+will help me greatly with future translations. I have to
+say, though, that I'm still terrible at the game. Even on
+the beginners level (LVL1 on the menu) I get hammered every
+time. Maybe you guys will enjoy it, anyway. Have fun! :)
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

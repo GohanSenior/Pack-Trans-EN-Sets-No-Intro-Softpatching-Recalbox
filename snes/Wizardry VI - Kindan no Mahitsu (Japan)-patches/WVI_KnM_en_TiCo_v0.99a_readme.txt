@@ -1,0 +1,44 @@
+WIZARDRY-Bane of Cosmic Forge English patch
+--------------------------------------------
+Author: TiCo.
+e-mail: tico@freemail.hu
+Project HomePage: http://tico999.freeweb.hu/
+
+2013.9.13
+Quick Fixes by MrRichard999
+-Corrected spelling and added names in for QuickStart
+Party selection to eliminate jibberish for quick party
+members
+
+2010.04.10
+v0.9 99% completed "sorry I don't have time" release:
+-Story text 100% done
+-Battle menus and battle text 99% done (need some re-pointering and fixing)
+-Game quest full playable in English (some monster actions and spells not translated, and battle text need repointering).
+-NOTE menu is need some analysis, I need save state or savegame with full inspected item list PLEASE if you have one email to me!
+-Portrait edit menu partial translated.
+-I found some bug (game freeze if sell some special item (Maiden Head,...)) in original game which need fix.
+
+2006.01.12
+First v0.3 public release:
+-In game menus translated but some label need tile hacking 6 character to 5 character.
+-Options and other menus translated  If you want play in English switch ITEM and MONSTER to English in  options.
+-Races, professions, skills, full English
+-Character detail screen full English with PC version signs (Strength -> STR, Intelligence -> INT ect.)
+-Battle menus and battle text partial translated (need some re-pointering and fixing)
+-Game quest full playable in English before mountain area (after in progress).
+-Item identification screen have lots of bug!!!
+-In game fonts now 8x16 but I can't make Variable Font Width.
+-This version doesn't work with ZSNES!!!! Work with SNES9x (I use v1.43)!!!
+
+NOTES
+------
+Please use Lunar IPS 1.00 for use this patch. SnesTool have some bugs.
+
+THANKS
+------
+
+MadGod           --- for a Cosmic Forge 1.50 ultimate Wizardry Editor for PC.
+FuSoYa           --- for Lunar Tools (Lunar IPS, Lunar Address, Lunar Expand). http://fusoya.idz.net
+SinaP            --- for SnesEdit and SnesEditWin.
+Michael Springer --- for Geiger's Snes9x Debugger.

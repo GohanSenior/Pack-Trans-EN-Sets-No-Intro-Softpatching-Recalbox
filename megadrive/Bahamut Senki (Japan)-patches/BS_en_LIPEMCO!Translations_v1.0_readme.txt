@@ -1,0 +1,279 @@
+﻿********************************************************************************
+*                          Bahamut Senki (Mega Drive)                          *
+*                          English Translation Patch                           *
+*                              v1.0 (02 Jun 2020)                              *
+*                                                                              *
+*                        TheMajinZenki -- Translation                          *
+*                               Supper -- Hacking & Manual Digitization        *
+*                               cccmar -- Editing & Testing                    *
+*                               filler -- Initial Translation                  *
+*                             Xanathis -- Testing                              *
+*                               Oddeye -- Testing                              *
+********************************************************************************
+
+For 2,000 years did the peace brought to Bahamut by the royal line of Pholia 
+last; but no more. The skies darken, the evil powers once banished return, 
+calamities tear the land itself asunder -- and the "Age of Darkness" is at hand. 
+As the world crumbles, eight rulers raise armies and war amongst themselves to 
+decide the fate of the continent. None can say when or how the Age of Darkness 
+will end, but amidst the chaos, there is one certainty: that the conflict can be 
+done only when one Master stands alone above them all...
+
+Bahamut Senki (Record of the Bahamut War) is a 1991 turn-based strategy game by 
+Sega for the Mega Drive. In it, up to four players take control of one of eight 
+rulers in the fantasy realm of Bahamut, raise armies, and battle AI opponents 
+and each other until one faction emerges victorious. It's a very complex and 
+advanced game for its time, featuring three rulesets of varying depth, 
+adjustable difficulty, and three different levels of simulation: high-level 
+political management, tactical battles (in both hex-based and simplified 
+variants), and real-time action-based combat between individual units.
+
+This patch fully translates into English both the game itself and its two 
+accompanying instruction manuals, which are essential to understanding how to 
+play.
+
+                    ****************************************
+                    *          Table of Contents           *
+                    ****************************************
+
+  I.   Patching Instructions
+  II.  User Manual and Catalog
+  III. Troubleshooting
+  IV.  Secrets
+  V.   Authors' Comments
+  VI.  Version History
+
+                    ****************************************
+                    *       I. Patching Instructions       *
+                    ****************************************
+
+You'll first need a ROM image of Bahamut Senki for the Mega Drive. It should 
+match the following specifications:
+
+  No-Intro filename: Bahamut Senki (Japan).md
+  CRC32:             B1E268DA
+  MD5:               E67C277CC6CBC821C3E0C1898A635DAF
+  SHA-1:             CEE49B613298E060D938DE523DFCBB27E790B5AF
+
+The patch itself is a standard IPS patch. Use a tool such as Lunar IPS to apply 
+the IPS file to the ROM. The patch will expand the ROM to 1 MB, so don't use 
+ancient patching utilities that don't support that.
+
+                    ****************************************
+                    *     II. User Manual and Catalog      *
+                    ****************************************
+
+Bahamut Senki was produced during an era where the idea of games being 
+self-contained experiences, with tutorials and explanations for all features 
+provided in the game itself, hadn't really developed. Making a paper manual to 
+explain things was both cheaper and easier than trying to do so within 
+contemporary ROM and RAM constraints. To put it bluntly: Without the manual, 
+this game is basically incomprehensible.
+
+So, it wasn't easy, but we've translated the manuals! Both of them! All 112 
+pages! And nicely formatted them as HTML pages! Every chart, graph, and map has 
+been reproduced as accurately as we could manage in an attempt to make the 
+experience as authentic as possible. We hope (really, really hope) that you'll 
+appreciate the results.
+
+There are two manuals: the standard instruction manual, and a supplementary 
+catalog containing information on units, spells, and various mechanics. To get 
+started with the game, it's best to read the instruction manual, referencing the 
+catalog as needed.
+
+Both manuals should have come included in the patch download. You can also read 
+them online on this patch's web site:
+
+  Instruction Manual: http://stargood.org/trans/bahamut_manual/manual.php
+  Character Catalog:  http://stargood.org/trans/bahamut_manual/catalog.php
+
+Major thanks to Sega Retro for providing the scans used to produce these 
+translations. You can find the original documents on their Bahamut Senki page: 
+https://segaretro.org/Bahamut_Senki
+
+                    ****************************************
+                    *         III. Troubleshooting         *
+                    ****************************************
+
+There's already a long explanatory note about this issue in the user manual, but 
+since a lot of people are probably going to run into it and think it's a problem 
+with the patch, we're repeating it here in the hopes of heading off at least 
+some of the complaints.
+
+When an enemy invades your territory, the game displays the message "The enemy 
+is invading!" Then, it will often appear to "softlock" and stop responding to 
+input. In reality, the game is waiting for you to use the Player 2 Pad to 
+manipulate the invasion defense menu. The Player 1 Pad will frequently not do 
+anything at all on this screen, even in a one-player game, unless the game has 
+specifically been set to 1 Control Pad mode (it defaults to 2 Control Pad mode 
+if it detects that two Pads are plugged in, which is what most emulators will 
+tell it).
+
+To make sure the Player 1 Pad works on this screen, open the Options menu on the 
+title screen, select the "Controllers" option, and set it to "1 Control Pad".
+
+This is the only time you'll ever have to use the second player's controller in 
+a one-player game. Don't ask us why; it's most likely a bug that somehow slipped 
+by.
+
+                    ****************************************
+                    *             IV. Secrets              *
+                    ****************************************
+
+Bahamut Senki has some pretty surprising secrets for a strategy game from 1991. 
+We've included information about these with this patch as extras, but by 
+request, they've been removed from the main readme and placed in a separate 
+"spoilers.txt" file. Please check it out, because this game really does have 
+some interesting things going on that you would never find out just by playing 
+normally.
+
+                    ****************************************
+                    *         V. Authors' Comments         *
+                    ****************************************
+  
+  -------------------
+  -- TheMajinZenki --
+  -------------------
+  
+  Bahamut Senki was a bit of a weird project. In theory it started as something 
+"short" that would only take a few days to work on... but this kind of game 
+needs clear instructions as to how to play it, so I decided translating the 
+manual would be necessary. Little did I know I was facing about 100 pages of 
+text! Still, I think it was worth the trouble. I hope you enjoy this game, and 
+especially that you read that manual!
+  
+  ------------
+  -- cccmar --
+  ------------
+  
+  Record of the Bahamut War is one of the earliest strategy games on the Mega 
+Drive.
+It's interesting in that it's mostly about various tactical options you have to 
+win the battles and a high degree of strategy needed to achieve that. Most of 
+the actual 
+story can be found in the manual, but there is also a very long, true ending
+that's not so easy to find. All things considered, this game is quite unique on 
+the 
+system for its time, especially considering that a lot of strategy games were 
+also 
+simplified by comparison. There's a large selection of spells, units and terrain 
+types also.
+
+  Overall, the editing process here concerned mostly the menus, unlike in most 
+of our other projects. So, while this game was made largely with strategy fans 
+in mind, anyone can give it a shot and find something to like. Enjoy!
+  
+  ------------
+  -- Supper --
+  ------------
+  
+  So, years ago, I've just finished up a translation of Battle Golfer Yui with 
+my frequent collaborator filler, and I'm on the hunt for another short Mega 
+Drive game we can work on. I pull up the nice spreadsheet somebody's put 
+together of which games are translated, and there's this "Bahamut Senki" game 
+listed as untranslated. Everything else on the list looks pretty crap, and even 
+though I can't understand what's going on in it at all it's clear the game 
+doesn't really have that much text, so we decide to give it a shot.
+
+  Right out of the gate, we've got an obstacle: the game's script is in an 
+extremely obnoxious format. Instead of using a single universal encoding for all 
+messages, the game splits messages up into little "packs" that are each encoded 
+against a specific subset of the main font. So I spend a lot of time producing a 
+conversion table for the game's 650 font characters, do a bunch of disassembly 
+work to identify all the font packs and which messages are associated with them, 
+and do some arcane manipulations in order to convert that into an actual 
+human-readable script.
+
+  I also go ahead and set everything up to be inserted back into the game. 
+Another obstacle: all messages use hardcoded offsets, and nearly all of them use 
+16-bit relative references rather than full 32-bit pointers as a space-saving 
+measure. This means that I can't just update the pointers, and I can't even use 
+the typical technique of adding a layer of indirection by replacing the strings 
+themselves with ID numbers to reference against a separate table -- due to 
+compression shenanigans, some of the original strings are only a byte long, and 
+we have well over 256 strings, so 8-bit IDs are out. So I end up having to 
+create a hash table using the computed pointers of the original strings as keys, 
+which are then used to look up the replacements at runtime.
+
+  At this point I hand the script over to filler. Time goes by, we all get to 
+working on other things, and the whole thing basically gets forgotten about 
+until late last year when TheMajinZenki is looking for a short project to work 
+on. So I volunteer Bahamut Senki, and we all agree it's not very long and all 
+the coding work is done already so this'll be quick and easy, right? So with 
+filler's approval, we start working on the game.
+
+  Zenki starts doing his thing, and after looking at it for a while he declares 
+we need to translate the manual because it's impossible to understand the game 
+without it. And then, to my horror, he translates the manual. Or rather, the 
+manuals, because there are two. And they're 112 pages long. And _someone_ is 
+going to have to format them and I have a bad feeling about who it's going to 
+be.
+
+  So at this point, my vision of this as a quick project to fill in while we 
+look for something more interesting to do thoroughly destroyed, I finish up with 
+whatever it is I'm working on at the time -- Madou Monogatari something or 
+other, no doubt -- and pick up my dusty code from 2018 again. And it turns out 
+that hey, who would have guessed, an 8x16 font is absolutely _not_ going to cut 
+it for this game. Time to implement a very fake variable-width font using 
+prerendered graphics.
+
+  Oh, and unit names have to fit a 7-character space. The translations are 
+double that. We don't have enough room in VRAM to make a true variable-width 
+font work (and hell if I want to program it anyway, because I thought I was done 
+with this game years ago!) so I try this and that and eventually find that, if I 
+space things out right, there's juuuust enough room to fit them all into VRAM 
+using precomposed tiles with a 4-pixel-wide font. And that's the story of why 
+you have "BlackKnight" instead of "Black Knight": it saved 4 tiles that I 
+absolutely needed and couldn't find any other way to get. Same deal with the 
+weird "centering". I wouldn't have done it if I didn't have to!
+
+  At this point, the translation is apparently done and the game is actually 
+mostly working! It's a good feeling. Until I discover while reading over the 
+translated manual that, if playing as Sieg or Vastral, you can press "A" on 
+commands to get advice messages from your tactician. And boy, what messages they 
+are. "On this terrain, you can summon Centaurs and Unicorns. Personally, I 
+wouldn't do that, but would summon at Vistitz (30) instead." "Let's invade N. 
+Umbar with Sieg, 2 Holy Warrior squadrons, and a Knight!"
+
+  And on and on, all this extremely dynamic and specific stuff that _I had 
+absolutely no idea existed in the game_. So at this point I just kind of rolled 
+my eyes at the sheer absurdity of the game's ability to pull out new hurdles 
+every time I think I'm done, and get to work reformatting dozens of highly 
+conditional and totally hardcoded advice messages. Great effort is expended to 
+make the game able to produce grammatically correct lists of squadrons, and to 
+make sure it understands that units with proper names should not take a quantity 
+expression. I spend so much time testing this system that at one point, I even 
+find and fix a bug the original developers overlooked that caused the game to 
+occasionally spit out a garbage location name.
+
+  Then at last, everything is finally done for real this time! With the game, 
+that is. Someone still needs to convert the user manuals from raw text files to 
+something more convenient. At first we actually make some arrangements to get a 
+scanslation done, but after several months that ends up not working out. And I 
+lied, everything was _not_ done with the game, because in that span I fix 
+several more problems, ranging from "the message for not having a controller 
+plugged in when you start the game isn't formatted right" to "the game freezes 
+on real hardware if you try to go to the second page of the War menu in Normal 
+Rules".
+
+  But anyway, as I suspected was going to be the case from the beginning, it 
+falls to me to format the manuals. And you know, I'm really not much of a web 
+designer, but I did the best I could. Hope it shows, because I spent a lot of 
+time on it. And specifically a lot of time cleaning and lettering that map at 
+the very end, so please gaze upon it lustfully. Please?
+
+  And so, finally, something like two years after starting on this "short" 
+"minor" project, we finish. All I have to do is stop writing this readme and 
+that'll be the end of Bahamut Senki, forever, until someone finds a bug and I 
+have to go figure out what the hell went wrong _this_ time.
+
+  But you know what? This was tons of fun. It wasn't boring. It was totally 
+different from anything else I've worked on, and the game itself is actually 
+really cool once you get into it. I'm glad everything went wrong. Now go have 
+some damn fun.
+
+                    ****************************************
+                    *         VI. Version History          *
+                    ****************************************
+
+v1.0 (02 Jun 2020): Initial release.

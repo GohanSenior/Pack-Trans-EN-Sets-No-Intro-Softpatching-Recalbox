@@ -1,0 +1,11 @@
+***WARNING***:  I have yet to test this on other emulators but the game Rainbow Silkroad is 
+known to crash sometimes on Nesticles when falling down certain pitfalls or using certain 
+stairs.  To rememdy the situation go to the option NES Timing and change the HBlanks from the 
+default 115 to a lower value.  I have tested it at 80 and the game works fine.  
+
+If someone would like to enlighten me on why it does this it would be appreciated.  I doubt 
+though that it has anything to do with the actual romhacking performed on the rom.
+
+-Musashi
+Gaijin Productions
+

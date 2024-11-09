@@ -1,0 +1,45 @@
+IKINARI MUSICIAN
+Translation by Psyklax
+v1.0 (20170811)
+
+CONTENTS
+1. Intro
+2. ROM Information
+3. Final Thoughts
+
+INTRO
+This patch translates the tile of Ikinari Musician, renaming
+it Spontaneous Musician. The word "ikinari" can be
+translated as "suddenly, abruptly, spontaneously". The
+latter was chosen as the most appropriate name.
+
+ROM INFORMATION
+GoodNES name: Ikinari Musician (J) [!].nes
+CRC32: B5E2CB2F
+
+FINAL THOUGHTS
+There really isn't much to say about this at all. I'd just
+come off another game that was a pain to hack with little
+reward, so this was very welcome: the only thing to change
+was the title, sitting in the graphics bank, ready to
+change. Inside the ROM, the name table for the title screen
+was just there, in the open. I even easily moved the star
+(used in the original to mark a 'ji' in a stylish manner) a
+few pixels so that it could dot an 'i'. The whole thing
+probably took about an hour from start to finish.
+
+The only other thing I changed was the name of the tune
+clearly inspired by Pachelbel's Canon - it has a 'K' in the
+original version. It's not really a verbal game - in fact,
+it's not really a game at all. It's more a fun way of
+playing about with music on the NES's sound chip. Maybe you
+didn't know about this curious little item before - well,
+now you do. Happy composing!
+
+Tools I used for this translation:
+FCEUX (best NES emulator for debugging and hacking)
+HxD (general hex editing)
+Tile Molester (graphics)
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

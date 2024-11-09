@@ -1,0 +1,189 @@
+
+SUPER ULTRA BASEBALL 2 English translation patch v1.00
+
+Author: VX 
+URL: http://vxtrans.blogspot.com/
+E-Mail: tubebar@ymail.com
+
+Contents
+================================================================================
+
+1. Patch History
+2. About Super Ultra Baseball 2
+3. Patching the ROM
+4. Distributing this Patch
+5. Controls
+6. Issues
+7. Remaining
+8. Bug Reports 
+9. Credits
+
+1. Patch History
+================================================================================
+ 
+V.100 - 04/25/09
+
+-Inital Release
+
+2. Super Ultra Baseball 2
+================================================================================
+
+Culture Brain’s Ultra Baseball (Baseball Simulator in the US) series is a unique 
+baseball statistical simulator. Players have the option to create their own Team, 
+choose manager personalities, uniforms and stats. Additionally players have the 
+unique option of using the Ultra League where players have higher stats and super 
+Ultra powers!
+
+Super Ultra Baseball 2 is the fourth game released in the Ultra Baseball Series. 
+The first two games were released in the US under the titles of “Baseball 
+Simulator 1,000”. Culture Brain planned to release this game as “Super Baseball 
+Simulator 1,000 2” but later canceled the release.
+
+Ultra Baseball Series:
+
+-Ultra Baseball: released in 1989 for the NES as "Baseball Simulator 1,000".
+
+-Super Ultra Baseball: released in 1991 for the SNES as "Super Baseball Simulator 1,000".
+
+-Ultra Baseball Jitsumeiban: released in 1992 for the SNES in Japan only. This is 
+basically Super Ultra Baseball w/ real names (Jitsumeiban means Real Names Version). 
+The graphics and sound are slightly better, and there is a new pennant option but 
+this obviously uses the same engine. 
+
+-Super Ultra Baseball 2: released in 1994 for the SNES in Japan only. Culture Brain 
+planned to release this title as "Super Baseball Simulator 1,000 2" but canceled shortly 
+after. This game uses a new engine and sports more features.
+
+-Ultra Baseball Jitsumeiban 2: Same engine as SUBB2, but with real players and some 
+additional features. Most of this game has been translated into English by Tuffy da Bubba
+and is currently being revised and completed.  
+
+-Ultra Baseball Jitsumeiban 3: 1995, new engine, completely players even have numbers on
+their jerseys.
+
+-Pro Yakyuu Star: 1996, same engine as UBBJ3 but cartoon mode only and no ultra powers.
+
+3. Patching the ROM
+================================================================================
+
+The correct ROM to use for SUBB2:
+
+ -512 KB (524,288), NO HEADER.
+
+CRC: FFE37ADF
+MD5: 223DE12AD94141D910CFA59CEEF34D4D
+SHA1: 0AD316766F146BF6A9F873F8FC35E272135F74D1
+
+4. Distributing this Patch
+================================================================================
+
+You may distribute this translation patch (or pre-patched ROM) however you like, 
+as long as this readme text is included and that you do not modify the actual 
+translation code (i.e. removing our credits). Thanks and enjoy!
+
+5. Controls
+================================================================================
+Please see the SUBB2 Manual for full instructions.
+
+KEY representation for each button:
+
+             Y = Y button (pink)
+             X = X button (pink)
+             B = B button (dark purple)
+             A = A button (dark purple)
+             L = L button (gray, top left)
+             R = R button (gray, top right)
+   Control Pad = directional pad (black)
+         START = start button (black))
+        SELECT = select button (black)    
+
+ ______________
+/Menu Controls/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+      START - advances through most menus
+          A - confirms selection
+          B - rejects selection
+Control Pad - navigates through menus
+
+ ________
+/Batting/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+      START - calls time
+          X - picks power up (if available)
+          A - swings bat
+          Y - tells runner (on base) to steal
+Control Pad - moves batter in box, affects where bat hits ball
+
+
+/Pitching/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+      START - calls time
+          X - picks power up (if available)
+          A - tosses pitch
+          Y - fast ball
+Control Pad - velocity, stamina used per pitch, and direction
+
+
+6. Issues
+================================================================================
+
+-Some text is cut short or abbreviated due to space restrictions.
+ 
+
+7. Remaining
+================================================================================
+
+-Nothing, 100% complete.
+
+8. Bug Reports 
+================================================================================
+ 
+If we missed something or broke something please let us know or it will never 
+be fixed!
+
+All it takes is an e-mail: tubebar@ymail.com  
+
+If you need help patching this ROM, I suggest you ask over at RHD Forums:
+http://www.romhacking.net/forum/
+
+ 
+9. Credits
+================================================================================
+ 
+Special thanks to RHDN and ZD for hosting the relevant tools for ROM hacking, as well
+as the patch:
+
+http://www.romhacking.net/
+
+http://www.zophar.net/
+
+This translation would not have been possible
+without the help of:
+
+Ryusui - ASM Coding and Support
+http://theryusui.googlepages.com/
+
+Tauwasser - Graphics Decompression
+http://www.romhacking.net/forum/index.php?action=profile;u=693
+
+Tuffy da Bubba - Main Translator
+http://www.geocities.com/tuffydabubba/
+
+DarthNemesis - Addtional Translations
+
+Special thanks to:
+JRB & EJH - Baseball Terminolgy, and Editing.
+
+-ROM Hacking Tools-
+
+DaMarsMan - ASM Intro Code
+http://www.romhacking.net/docs/282/
+
+creaothceann (VSNES)
+http://vsnes.aep-emu.de/
+
+Stealth Translations (Windhex)
+http://stealth.romhack.net/
+
+SnowPro (Tile Layer Pro)
+http://info.sonicretro.org/Tile_Layer_Pro

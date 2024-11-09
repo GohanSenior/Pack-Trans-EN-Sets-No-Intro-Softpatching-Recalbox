@@ -1,0 +1,166 @@
+KingMike's Translation
+http://www.emuxhaven.net/~kingmike/index.html
+
+SPAMLESSkingmike2001@SPAMLESShotmail.com (hopefully, only SPAMLESS e-mails will be sent. So, remove the SPAMLESS portions,
+ and send me, well, spam-less e-mails.)
+
+Banana Prince
+Patch v1.1
+Release date: 6/22/2003
+*********************************************
+Original Title: Banana Prince
+Original Language: German
+*********************************************
+This translation was produced by:
+
+KingMike - graphics, insertion
+Teary Eyes Anderson - Text translation
+*********************************************
+What's new:
+1.1a:
+ And the good ending will not spew garbage before printing the credits. This was brought
+  on by patch 1.1.
+
+1.1:
+ Ooops! I forgot a couple lines, namely the GAME OVER screen.
+ And a slight change in the intro.
+
+1.0:
+ Initial release
+*********************************************
+Introduction:
+The Tropical Banana Island sits in the Banana Kingdom. It was all fine until one day
+when the Pepper Dragon came and took the Banana Symbols from the Banana Prince.
+Being symbols of the Banana Empire, the Banana Prince decided to get them back, and
+his subject, the Dragon Master, decided to come with to help him.
+Now, the Banana Prince must travel the islands to get back the treasures and defeat
+the Pepper Dragon.
+
+One day last April, Teary Eyes sent me an email saying he had completely finished translating
+the German edition of Banana Prince, and he was looking for somebody to put the text
+back into the ROM for him. It was a pretty fun game that I had been hoping would be
+translated, so I said sure, I'll do it. It was a bit challenging, due to the
+substring compression and string countdown method of reading text (a plus, since there's
+alot fewer pointers to worry about. A minus because one missed end-of-string character
+can screw up a good deal of text). But, I got a program done to omptimally compress the
+text, and insert it. I got that done around mid-May (5/16).
+Then I had to find the few mistakes in my script that were causing big mistakes in the text.
+That took awhile, and didn't get it solved until mid-June (6/18). Then I had to find the
+small graphics that needed translation, and get those tested and inserted.
+
+*********************************************
+Contents of package.
+bprin11.ips  : German to English patch. NOTE: Do not use on the Japanese ROM.
+bprin11.txt  : This document.
+*********************************************
+Emulation Status:
+Well, if NESTICLE will run it, I think almost anything will. :)
+*********************************************
+
+What's done:
+ - Everything.
+
+What's not so good:
+ - A couple of questions displayed incorrect answers, so I hacked it to display the
+   correct answers. This shouldn't affect anything else, but let me know if it does.
+*********************************************
+How to patch (Windows, sorry non-Windows users. I succumbed.):
+ - Download this zip file.
+ - Download the game ROM. (I won't provide this. You find it.)
+ - Download IPSWin 2.0 from somewhere (www.zophar.net might have it, but no guarantees. Look for "Utilities").
+ - Open IPSWin 2.0, click the little folder thing in the first box. 
+   Choose the original GERMAN ROM (do not try the Japanese ROM, I'm sure it'll corrupt something). 
+   Choose the IPS patch in the lower text box in the same manner. Click Patch. Enjoy!
+*********************************************
+How to play:
+
+ D-Pad: Move
+  Up: Enter doors
+  Down + B: Grow a vine (on any surface that the Prince has both feet planted on).
+  Down + A: Slide, drop through small floors (in Stage 3, anywhere else?)
+ Select: Nothing.
+ Start: Pause, and see current Score and High Score.
+ B Button: Attack
+ A Button: Jump
+
+ I've seen what looks like an upside-down Shoryuken (Hurricane Kick, or spinning flying kicking move thing for those
+  who've had the misfortune to never play Street Fighter II), but I'm not sure how I made the Prince do it.
+
+The goal of this game is to get to the end of each stage. Defeat the enemies to earn powerups, and collect Rings to
+ buy items and visit the Bonus Stages. When you reach the end of the stage, you'll have an option to go to the
+ Bonus Round, buy a different weapon, or go to the casino to gamble for more Rings. At the end of every third level,
+ you will have to fight a boss.
+
+Update:
+The Dragon Master will attack enemies and pick up items that he touches. To make him circle the Prince, hold Up and
+ jump. While in the air and holding Up, press Down. The Dragon Master will continue to spin until he tires.
+
+Power-Ups:
+ Banana - Refill 1/2 banana
+ Banana Bunch - Refill banana meter to full.
+ Flower - Increase vine length.
+ Bird - ???
+ Mini-Dragon - Invulnerability (the Prince's cloth will flash).
+ Prince - Extra life.
+ Dragon Master - summon Dragon Master for assistance.
+
+Vines:
+The Prince can also grow vines if you hold Down and press B. He can then climb the vine, and if you jump off the top
+ of the vine, the Prince can jump to distance places, both high in the air, and across large chasms.
+
+Bonus Game:
+ It costs 30 Rings to take a cannon ride to the Bonus Island.
+ Start - Starting location. HINT: If you get a bad roll, you can land on the Start space to roll again.
+  You can also move back and forth between two spaces, if you're trying to land on a particular spot.
+ Apple Core - Lose the bonus game.
+ Banana, Prince, Clock, Fist - Scratch game.
+   Try and scratch the three spaces with the prize. If you get it, you win an item. If you get even one eggplant,
+   you lose.
+ Boss - Take a quiz to win the Bonus Game, and receive one of the lost Treasures.
+ Numbers 1 to 5 - Take a quiz with that many questions.
+ Each of the first three treasures will also increase the maximum length of your life meter by one banana. Collect the
+  last treasure to get the good ending to the game.
+
+Casino:
+ It costs 20 Rings to start.
+ You must guess if the roll of a die will be higher or lower than 5.
+  If you're right, you gain 20 Rings. If you're wrong, you lose 20 Rings.
+  If the die is a 5, you lose 20 Rings either way.
+
+Vending Machine:
+ One banana costs 15 Rings.
+ A banana bunch costs 30 Rings.
+ A random powerup/weapon costs 50 Rings.
+
+Weapons:
+ No projectile.
+  Stone Axe
+
+ Small Stars have very short range.
+  King Axe   - One small star.
+  Magic      - Two small stars.
+  Grand Axe  - Three small stars.
+  Star Axe   - Two stars in a wave motion.
+
+ Spheres have better range.
+  Capsule    - One orb.
+  Meteor     - Two orbs. Small angle
+  Crusher    - Three orbs. Wide vertical range.
+
+ Crescent waves have the best range.
+  Cursed Axe - One wave.
+  Flash      - Two waves. Out and a little up.
+  Mercury    - Two waves, in a Y-shaped motion.
+  King Ship  - Three waves, in a Y-shaped motion.
+  Fold       - Two waves make a circular motion, then straight.
+
+*********************************************
+Banana Prince
+	(c) 1991 Soldout
+        (c) 1991, 1992 Takara
+
+English Translation:
+	(c) 2003 KingMike and Teary Eyes Anderson
+
+NO DISTRIBUTING THE PATCH WITH THE ROM.
+NO DISTRUBUTING THE PATCHED ROM!!

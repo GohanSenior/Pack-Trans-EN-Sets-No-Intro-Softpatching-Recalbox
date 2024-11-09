@@ -1,0 +1,483 @@
+###################################
+#                                 #
+#      Konami World English       #
+# VRC beta compliment Translation #
+#      By Demi for Y0SHi          #
+#           12/16/97              #
+#       demi@frognet.net          #
+#                                 #
+###################################
+
+"The translation is essentially the product of 2 days of boredom and a
+ smattering of wewetata pmk."
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+NEW IN THIS VERSION:
+
+VRC  - I'm told a new version of nesticle is coming out soon, and
+       it may support the original VRC mapper konami world was meant
+       for. so, i copied the CHR and text banks to the NEZ file and
+       here it is. there are no improvements from version 3. lelelele
+
+3.00 - changed character 'ciman' to 'spice' (it fits better with
+       cinnamon) 
+       extended getsufuu-maden to its full name
+       fixed spice's reincarnation text 
+       added a line or two of spice's reincarnation dialogue 
+       added the 'bad' card text in the card game
+       drew in the 'later!' text graphic
+       translated kong's 'hey!' cage message
+
+
+2.00 - fixed the dice game dialogue. in 1.00, i had really no idea 
+       what they were trying to say (the game is a complete nigger
+       to translate) so i just threw in some confusing nonsense.
+
+
+1.00 - initial release. about 80% complete, although i will need
+       sardu to fix a few bugs in the mapper emulation to be able
+       to see all of the game, so it's not all done yet.
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+  This documentation will probably never be passed around with the intended
+  ROM after one or two couriers through the emu 'scene', so i'll try to make
+  it as pointless as possible for your spontaneous arousal.
+ 
+  i started work on the evening of the 19th, and by the evening of the 
+  20th (right now) i'm about 80% thru. i'll release it when it's all good 
+  and done. the translation was done 100% by me, Mr. 1 year of college 
+  Japanese, so don't bother sending me bug reports about how it isn't 
+  entirely accurate. it's pretty late right now, and i've been working 
+  on it all day. Hey! i got a good idea. if anyone can guess what font
+  i stole to build this one's, i'll mail you a circuis peanut, or something..
+  depends what i find.. no promises..
+  
+  this morning, i had set out to make it as fluent as possible, but as 
+  the hours wore on, my inevitable freakish sense of humor found its way 
+  into the translation, and so you people now have a slightly messed up 
+  translation where people curse at you, and generally give you an 
+  uninspiring message in whole towards your goal (not to mention the 
+  subtle use of a few shmooze points here and there). 
+  
+  oh! i almost forgot. don't even think of trying to use the password 
+  function. the password uses the japanese alphabet, which has more 
+  symbols in it than english does. so, you'll get some normal looking
+  letters in your password, and some really fucked looking ones. but,
+  chances are you're using a capable enough emulator that allows real-time
+  saves, so it shouldn't be a problem.
+ 
+
+
+-----------------------------------------------------------------------------
+
+
+
+APPLICATION:
+
+  to apply the patch, you need to have a trained NES format rom 
+  which is 262160 bytes long. if your japanese konami world rom isn't
+  262160 bytes, then you've got problems. just run the 'apply' batch
+  program with the contents of this archive and the japanese rom both
+  in the same directory and it'll patch it lickety split. 
+ 
+
+-----------------------------------------------------------------------------
+
+
+
+CONTROLS:
+
+  there are a few points you should know that aren't entirely obvious
+  when you play the game. jumping and punching are the normal A and B,
+  but then you have these few:
+
+  DOWN     ... press to go into 1 of the 3 doors in the beginning
+               (not up like you'd expect, eh)
+  
+  UP       ... press up to go into the little doors within the levels
+               that lead to betting games.
+
+  DOWN + B ... press when on a teleporter to warp back to the base.
+               also, press down + B to open a cage door and release
+               an ally when you have a key.
+
+  UP   + A ... press to switch characters while in a level.
+
+  DOWN + A ... press to switch from normal attack to item attack
+               (if your current character has an item to utilize)
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+STORY: 
+
+  the story's pretty cool, actually. as with games like parodius, konami
+  felt it needed to parody itself a bit to keep its audiences entertained.
+  So, they created this game which contains characters from multiple other
+  previously released konami games, excluding the central characters konami
+  man (who did a camio in goonies 2) and konami girl. 
+
+  Dr. Cinnamon cries for help, as the enemy forces from planet Gradius are
+  trying to take over Konami World! not only have they succeeded in making
+  him hysterically mad (he swears at you a lot :) but they have immobilized
+  the only 6 forces capable enough to defeat them! 
+
+  quickly, Konami man jumps into the action. Along with the android, Konami
+  Girl, that Cinnamon provides, they set off to rescue the 6 allies and
+  reclaim their Konami World!
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+GAMEPLAY:  
+
+  the gameplay is pretty much like a konami megaman. for every level that 
+  you 'complete', you find one character, and are able to use his abilities
+  till the end of the game. the last level is a shooter level, where you 
+  can choose to be twinbee or vic viper. along with the characters you can
+  find, there exist harder to reach items that make the game a little bit 
+  more interesting to play, and often times make the character a little more
+  valuable. they are:
+
+  Konami Man
+   Relation: (None)
+   Item: Beam Gun
+          your normal gun-type thing. no surprises.
+   Abilities: Flying Cape
+
+  Konami Girl
+   Relation: (None)
+   Item: Heat Gun
+          same kind of thing as Konami Man's, basically..
+   Abilities: None
+
+(use konami man and girl only as last resorts or if you have noone else,
+ as they have no real distinguishing features and their musics suck!)
+
+  Goemon   
+   Relation: Goemon, Doraemon (I think eh)
+   Item: No Fucking Clue 
+   Abilities: He can open the flashing treasure boxes.
+
+  Simon Belmont
+   Relation: The Castlevania Series
+   Item: Holy Cross
+          Like a boomerang type thing. One of the best projectiles, but
+          it takes away 5 bullets every time you use it.
+   Abilities: Effective against vampires and undead.
+
+  Gestu Fuu-Maden
+   Game: Getsu Fuu-Maden (unreleased in USA)
+   Item: No Fucking Clue
+   Abilities: A Special Hadouken mastery enables him to have a higher
+              number of enemy items stolen. (#@$!@)
+
+  Mikey
+   Game: The Goonies 1, 2
+   Item: Slingshot
+          a fast travelling projectile. 
+   Abilities: His small body allows him to travel in places others can't.
+
+  Kong
+   Game: I thought it would be Donkey Kong, but that's not by Konami..
+   Item: Bananas
+   Abilities: Strength and jumping surpass all others.
+
+(hey guess what. strength has 8 letters but only 1 syllable. cool eh)
+
+  Maoi
+   Game: The Gradius/Nemesis Series, Salamander, Parodius
+   Item: A Flying Disc
+   Abilities: No Fucking Clue
+
+(fucking has 2)
+
+  Vic Viper (Shooter #1)
+   Game: The Gradius/Nemesis Series, Salamander, Parodius
+   Item: Option (I think)
+   Abilities: A variety of gun formations.
+
+  TwinBee (Shooter #2)
+   Game: The TwinBee Series, Parodius
+   Item: Power punch
+          if you've ever used TwinBee in Parodius, you'd know what I
+          mean. it's kind of hard to describe.
+   Abilities: Agility
+
+P.S. that penguin guy that helps activate the teleporter came from the 
+     games penguin adventure and antarctic adventure. he fucking rules; 
+     they should have given him a better part. get the MSX version of 
+     penguin adventure, it has ruley music. when you die, it says
+     'god bless you'. i'm thinking that's some fucked up shit right
+     there.. fuck yeah =]
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+RESPECT:
+
+  Konami, for making this distinguished oldskool and slightly fucky game.
+  
+  Y0SHi, for getting me interested in the game, and minor translation
+  help.
+
+  BloodLust Software, For Nesticle, of course! mapper #6 needs improvement 
+  though. =]
+
+  Nobuaki Andou, for PasoFami. call me oldskool, but it's still the 
+  choice debugger i use.
+ 
+  BreakPoint Software, for their wonderful HexEditor, HexWorkshop.
+  (plug plug plug)
+
+  The_Brain, for Xlate 1.00. he dicked us all over on 2.00, but nothing 
+  can rival 1.00 still in terms of speed. hear that, BW? =]
+  
+  _FanWen_, for being a NES drag queen god diety type person in general.
+
+  Zophar, for supplying me with the muthafuckin rom in the first place!
+
+  Stumble, and all the rom couriers/suppliers out there, for keeping
+  the shit moving.
+
+  Berzerker, for always being there for my emotionally distraught life. =]
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+NO RESPECT:
+
+  Far Front East, for having a fuckin STUPIDASS rom layout scheme. ptuey!
+
+  Marat Fayzullin, for holding out for months to release iNES .7. i could
+  have had this thing done months ago!
+
+  SoM2Freak, for dicking me over on the credit i deserve on a lot of 
+  things.
+
+  The Japan Foundation, for their lameass japanese-english dictionary that
+  had like 1% of the words i needed to look up for this project! bah!
+
+  Shadow, for stealing my romhack.doc and not being a man about a lot
+  of things.
+
+  And lastly, all of the 1000 new rom hacking 'groups' that think they're
+  all that. i translated this game all by muh big bad self in 2 days.
+  booyah!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oh! yayatotolala emulationator translinination pmk (C) 1997 by Demi 
+all yaya reserved.

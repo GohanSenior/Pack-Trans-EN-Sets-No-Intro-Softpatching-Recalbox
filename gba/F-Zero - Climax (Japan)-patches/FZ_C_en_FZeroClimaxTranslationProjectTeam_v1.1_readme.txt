@@ -1,0 +1,27 @@
+Use this LunarIPS patch with a clean original japanese rom.
+
+This patch is from F-Zero fans to F-Zero fans, it's free and nonprofit.
+
+Version 1.1
+
+Changelog: 1.0:
+-No save data screen translated.
+-Both tutorials from the main screen translated.
+-Cleaned the logo on the title screen to not have japanese characters.
+-Mode Selection Screen backgrounds translated.
+-Mode Selection Screen, Link Mode and Edit Course Mode bottom text translated.
+-Link Mode text translated.
+-Course Edit Mode text translated.
+-Control Settings translated.
+-Character Profiles translated.
+-Story Line translated.
+-Time Attack: Zero Test descriptions translated.
+-Rick Wheeler translated on records (you need a new savefile or newer courses to make it work).
+-Translated Chapter, Technique and Profile's unlockables text.
+-Localized Rick Wheeler, Luna Ryder and Tek Hughes names on several places.
+-Rank on Grand Prix Mode translated.
+
+Changelog 1.1:
+-Fixed a bug that made new save files to not get the three default courses on Edit Course Mode.
+-Fixed a typo on the no save data screen.
+-Fixed a typo on the Samurai Goroh profile.

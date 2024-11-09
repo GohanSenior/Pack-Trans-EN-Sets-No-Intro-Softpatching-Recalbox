@@ -1,0 +1,37 @@
+Mirai Senshi Lios English Translation
+AGTP Version 1.00
+http://agtp.romhack.net
+draw_omega@yahoo.com
+
+-----------------
+Those Responsible
+-----------------
+Gideon Zhi - Romhacker
+Jair - Translator
+Akujin - Translator
+
+-----------------
+Stuff Done
+-----------------
+Everything, I hope.
+
+-----------------
+Stuff Not Done
+-----------------
+Nothing, I hope.
+
+-----------------
+Patching Instructions
+-----------------
+Go to your favorite emulation site and download SNESTool. Drop it, the
+patch, and the Lios ROM into the same directory. Then
+open SNESTool. If it's missing some extenders, you'll have to find 'em
+on your own. Once you get SNESTool running, select (Use IPS) then the
+.ips patch file, then the Lios ROM. You should now be patched.
+
+-----------------
+If you find a bug
+-----------------
+By all means, let me know. Preferably with a savestate and/or saveram.
+If you find a problem with the ending, be sure to let me know. I haven't
+been able to test it out completely...

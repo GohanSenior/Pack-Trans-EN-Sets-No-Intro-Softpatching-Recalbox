@@ -1,0 +1,132 @@
+                                     Pretty Soldier Sailor Moon
+                                        English Translation
+                                       v1.01 (July 5th, 2022)
+
+====================================================================================================
+
+- Sailor Moon (Overall franchise) (c) Naoko Takeuchi/PNP, Toei Animation Co., Ltd., Kodansha Ltd.,
+    Bandai Co., Ltd.
+    Bishoujo Senshi Sailor Moon (1993 SFC video game) (c) Angel, in addition to the previous
+    holders. All rights reserved.
+
+- No ownership is claimed by FlamePurge or mziab over Bishoujo Senshi Sailor Moon or the franchise
+   from which it originates. Commercial use of this patch, including but not limited to
+   reproduction, sale, etc. is strictly prohibited.
+
+- This unofficial, fan-made patch is provided "as-is" on a voluntary (i.e. non-profit) basis.
+   FlamePurge and mziab are not liable for damage incurred to the end-user, their OS, or their
+   hardware while using this patch.
+   
+- Apply this patch only to an unheadered "Bishoujo Senshi Sailor Moon (Japan).sfc" with the
+   following specifications.
+     Hashes: CRC32 - A56323C1
+               MD5 - 6C6E750E419D6C3DB27A708D240D32B1
+              SHA1 - 330844563DB7D208D57BC2BB95C7FBC0A830EFF5
+			  
+- Send error reports to FlamePurge or mziab either by posting in the project thread on
+   ROMhacking.net, or via the site's PM feature.
+
+
+   Table of Contents
+
+To reach a given section, Ctrl+F the text fragments in brackets.
+
+
+Preface ............. [RM01]
+Controls ............ [RM02]
+Cheat Codes ......... [RM03]
+   Nakayoshi Mode .. [RNM3]
+   2-player Double . [RTP3]
+Changelog ........... [RM04]
+Credits ............. [RM05]
+
+====================================================================================================
+
+   [RM01] Preface
+   
+  mziab
+
+It all started when I was looking for a new, preferably small project to sink my teeth into after
+the SMAS relocalization was finished. Then I remembered that, unlike its sequel, the first
+Sailor Moon beat-'em-up was still untranslated. Being much more barebones compared to said sequel
+also meant it had precious little text, most of it in the ending subtitles and credits/character
+biographies. So in March 2020 I set out on the journey to translate the game, while FlamePurge
+offered his advice and help with various localization aspects and graphics. After some initial
+progress, I've hit some snags related to how the compression worked. Then a certain global event
+happened and so a half-finished project waited for better times, which thankfully arrived in 2022,
+fresh off the heels of the SMAS MSU1 project.
+
+I dusted off my files and got to work, first on the ending subtitles, for which I decided to forgo
+implementing a VWF routine and go for a pre-rendered approach. The way the game was laid out made
+adding separate tilesets where needed a breeze. Then I proceeded to translate the opening credits
+roll. The most tedious part by far was the score screen after completing a level, which required a
+lot of careful work to get the tilemaps just right.
+
+Eventually, after working on it for a few weeks straight, I was able to insert all of the translated
+text, tilemaps and graphics and not have anything explode. A lot of this time was spent on minutiae
+that no one except for FlamePurge and I might notice, but I wouldn't have it any other way. All in
+all the game was pretty easy to work with, a few curveballs at the eleventh hour notwithstanding.
+What was supposed to be a short and sweet side-project took a bit longer than anticipated, but hey,
+here we are. In the end I've had fun, so I hope you Moonies enjoy the end product!
+
+====================================================================================================
+
+   [RM02] Controls
+   
+The controls can be remapped in the "OPTIONS" menu.
+
+   Control Pad: Move in indicated direction, move confirmation prompt cursor
+     A Button: Confirm
+     B Button: Jump
+     X Button: Unused
+     Y Button: Attack, (Hold) Perform projectile attack, confirm
+ START Button: Pause
+SELECT Button: Unused
+     L Button: Unused
+     R Button: Unused
+	 
+Press and hold the Y and B Buttons together to perform a radial attack (Drains HP on Normal and
+Hard Modes).
+
+====================================================================================================
+
+   [RM03] Cheat Codes
+   
+ 1. Nakayoshi Mode
+ 
+At the title menu hover over "OPTIONS" and hold the X Button. While still holding the X Button,
+press the A Button and Sailor Moon will shout, "Nakayoshi! (Friendly)" This changes Easy Mode to
+Nakayoshi Mode: every benefit of Easy Mode while letting you complete all 5 stages.
+   
+----------------------------------------------------------------------------------------------------
+
+ 2. 2-Player Double
+ 
+At the title menu hover over "PLAYERS: 2" and hold down the L and R Buttons. Press the A Button to
+continue to Player Select; now both 1P and 2P can choose to play as the same character.
+
+====================================================================================================
+
+   [RM04] Changelog
+
+v1.01 (July 5th, 2022)
+
+- Translated the hidden Nakayoshi difficulty option (thanks to alex_tenjo and Zanemato for reports)
+
+- Resolved timing issue causing the initial voice clip to be cut off (thanks BokuNES for reporting)
+
+----------------------------------------------------------------------------------------------------
+
+v1.00 (June 30th, 2022)
+
+- Initial release
+
+====================================================================================================
+
+   [RM05] Credits
+
+- mziab: Tools, reprogramming, graphical editing, translation
+
+- FlamePurge: Graphical editing, localization consultation, testing
+
+Special thanks to FuSoYa and all you Moonies out there!

@@ -1,0 +1,112 @@
+==========================Firebrand=======================
+====================A Ghosts 'n Goblins Tale==============
+===========================V 1.00=========================
+Genre: action RPG
+
+Source language: Japanese
+
+Platform: Gameboy
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: antoniusblocko@protonmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Firebrand: A Ghosts 'n Goblins Tale
+======================================================
+Project History:
+
+Several years back I decided to retranslate the Japanese
+version of Gargoyle's Quest for the GB. I can't really recall
+why I decided that, but a translator translated the script
+for me and I never did anything with it. Fast foward like
+five years later and I decided to start work on this game
+and finish it. All said, it only took me about a month to
+do.
+
+I guess the moral of the story is that if I'm working on
+a translation with someone, I'll eventually finish it,
+no matter how long it takes. Sometimes real life and
+other projects get in the way, but once I start a project,
+I always see it through. I must give credit to the
+translator for a doing a very thorough job and providing me
+with notes to consult. I don't think he's translated
+many games, but he's very talented and I wish him all
+the best.
+
+
+The game's titular character, Red Arremer, has been
+given the name Firebrand instead to match the official
+translation. That wasn't the only reason. The name Red
+Arremer was initially just a placeholder. Capcom had the
+artwork and no name for it, someone thought the demon
+look like a red version of a dev called Arima and the name
+stuck. Also, the race of gargoyle's are called Red Arremer
+too. So I thought Firebrand was the best option.
+
+Speaking of the original. I had a brief look at the translation
+and man is it woefully abbreviated. Painfully so and this
+new translation blows it out of the water.
+
+It isn't too bad for a GB game, so I hope you enjoy
+the translation.
+
+
+======================================================
+Patching Instructions
+======================================================
+Due to limitations in the IPS format and the changes I
+made to the ROM, I'm only supporting the BPS for this
+game. You can download FLIPS from here:
+
+http://www.romhacking.net/utilities/893/
+
+Apply the patch to the Japanese ROM:
+
+Red Arremer - Makai Mura Gaiden (Japan).gb
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking, text editing
+
+catfoodmoney - translation
+
+Ryusui - additional Translation
+
+Tom - misc translation help
+
+FlashPV - title screen design
+
+harmony7 - special thanks
+
+cccmar - testing
+
+Xanathis - testing
+
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. January 2019

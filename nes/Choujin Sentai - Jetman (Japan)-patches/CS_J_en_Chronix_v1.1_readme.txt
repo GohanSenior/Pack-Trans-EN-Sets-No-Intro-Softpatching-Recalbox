@@ -1,0 +1,21 @@
+Completed translation of Choujin Sentai - Jetman (NES)
+
+Made by Andrei Vdovin a.k.a. Chronix.
+Email me if you find any glitches in this game.
+Thanks in advance!
+chronix@bk.ru
+
+Original ROM:
+-----------------------
+Choujin Sentai - Jetman (J).nes
+File size: 262 160
+
+ PRG ROM:    8 x 16KiB
+ CHR ROM:   16 x  8KiB
+ ROM CRC32:  0x952a9e77
+ ROM MD5:  0xd9f661e8b3c9123cd7ae0583f911b34e
+ Mapper #:  1
+ Mapper name: MMC1
+ Mirroring: Horizontal
+ Battery-backed: No
+ Trained: No

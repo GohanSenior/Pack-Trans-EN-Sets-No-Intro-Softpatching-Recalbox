@@ -1,0 +1,26 @@
+100 World Story Translation Patch
+Version BS.VQt (April, 2007)
+AlanMidas(king_midas_@hotmail.com or alan@eskimobob.com or ICQ#9821147)
+
+Stuff done:
+AlanMidas - everything
+There... me... that's about it for the most part
+If you find any bugs in this(overlapping tex/typos/anything), please let me know. It might take a few years, but I'll try to get it fixed and put a new patch out there =)!
+
+
+New This update:
+Fixed like 2 or 3 typos, nothing too dramatic.
+
+Old Updates:
+BS.VQ(Feb,2007)
+Fixed my bad hacking and typos from the last release.
+
+Special thanks:
+Thanks to my brother Toma for helping me with the origional font I used, and getting me into emulation.
+And thanks to everybody who got after me for not doing stuff for awhile so I could get it done, and for sending me typos/etc after the last version(too many people to list =p).
+And thanks to those people who gave nice encouraging insentive stuff too(like Spinner 8 for offerring to start hurting people if they didn't respond to my translation request... which wasn't responded too anyway... but it got done, so hey all's happy =p)
+
+ummm... that's about all I can think to put in here... so that's all folks!
+
+Older updates(1998-2000):
+Game text translated and such

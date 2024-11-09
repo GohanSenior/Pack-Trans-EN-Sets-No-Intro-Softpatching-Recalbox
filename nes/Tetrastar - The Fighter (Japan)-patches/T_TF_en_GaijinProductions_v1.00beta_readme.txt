@@ -1,0 +1,64 @@
+Tetrastar  5-21-99 (private beta)
+---------------------------------
+English Translation version 1.00beta
+------------------------------------
+from Gaijin Productions (of CTC)
+by Romhacker Musashi
+   Translation |tsr
+
+Version 1.00
+------------
+-100% of the Game text is translated
+
+Play
+----
+Use either BioNes or LoopyNes.  They have the best emulation of this game.  After the initial
+graphic glitch for the title screen in the very beginning its fine (BioNes).
+
+About the Game
+--------------
+In 2089, the manmade space probe, Prometheus, encountered the space armada of the Baal Empire.
+At first peace existed and human technology leaped forward with the help of the Baal.  However
+some wary individuals joined a group called the "Resistance" which worked to prepare mankind
+against a possible betrayal by the Baal.  They worked with the military and began the Tetrastar
+fighter project.  However a period of peace saw to the termination of the project.  Then in 
+2091 the betrayal came and the Baal turned from helping Earth to trying to destroying it.  
+Immediately you, the test pilot of the Tetrastar project, must return as you stand as man's 
+only chance at survival... 
+
+About the Project
+-----------------
+Well, one day (maybe a couple of months ago) I was reading through posts on ZD's romhacking
+board.  I saw an unanswered post by |tsr about a translation request for a Famicom shooter
+called Tetrastar.  Knowing he was well-versed in all things Famicom I tried the game out, 
+looked at the text, and decided I'd do it.  I contacted tsr| wondering if he wanted to do the
+translation.  Fortunately he was and graciously translated the script I sent.  But he noticed
+that this was only half of the script.  I went back into the rom and low and behold I had
+missed the second half of the script located after a large banks of FF's.  Eventually I the
+entire script was translated by him and I got to hacking it back in.  Well here's the finished 
+project enjoy.
+
+Now one more point.  I don't take requests at all.  In fact if you ask me directly I'll 
+be more inclined to avoid it than even look at it.  So no requests.  The only ones I consider
+are ones posted in a general forum that have some intelligence behind them.  I don't translate
+games because they fall into this or that adored theme (such as Dragon Ballz or something 
+along those lines).  Gameplay and story are the elements I'm looking for.  So any direct 
+requests to me will be ignored.
+
+Thanks
+------
+-Everyone at CTC for their support
+-My Beta Playtesters:
+	The MadHacker
+	|tsr
+	[cx]
+
+-My tools: Script Extractor (by Jair), Hex Workshop, Tile Layer, BioNes, and SNEStool
+
+Visit Gaijin Productions at:
+http://gaijin.romhacking.com
+
+Also visit the Confederated Translation Company, of which Gaijin Productions is a member:
+http://ctc.weyland-yutani.net/
+
+

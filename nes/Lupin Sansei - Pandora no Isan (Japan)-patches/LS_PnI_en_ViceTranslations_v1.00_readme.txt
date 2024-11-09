@@ -1,0 +1,151 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Lupin The 3rd: Pandora's Legacy
+  English Translation Patch
+  Version 1.0
+
+  Created by Vice Translations
+   part of   Kitsune's Den
+             http://vice.parodius.com/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CREDITS
+-----------------
+ Kitsune Sniper
+  Game hacking
+  Email: kitsune_sniper [at] parodius [dot] com
+
+ Akujin
+  Main translator
+
+ filler, Shih Tzu, Eien Ni Hen, satsu
+  Additional translation support
+
+
+Version History:
+-----------------
+Version 1.00 - May 29, 2004 [Patch size: 10117 bytes, CRC32: b661b602]
+ I'm finally done with this thing. W00t. All the in-game and cutscene
+ is translated, and there's a title screen that little ol' me made.
+ The Lupin logo is all pixelated, but it works. And I spent three or
+ four hours on that stupid shot up logo SO BE THANKFUL FOR IT. Argh.
+
+What's left:
+------------
+  Nothing!
+
+
+Mini instruction thing:
+-----------------------
+Left/Right: Moves character
+Up: Enters door
+Down: Crouch
+B: Attack
+A: Jump
+Up + A: High jump
+Down + A: Go down a floor / level
+Pad + A: Swim [in water]
+Select: Use special tool
+Start: Pause
+Left/Right [while paused]: Choose special tool [Lupin only]
+
+You can use three characters in this game: Lupin, Jigen and Goemon. They
+all have different skills:
+
+Lupin The 3rd: Lupin is the character that has the most tricks available.
+He can use special goggles, go underwater, use a jetpack, a shotgun,
+bombs, and save himself from falling down chasms with balloons. But, he
+can't shoot while jumping, and can only shoot one bullet at a time. He
+can also grab vests which protect him from being captured.
+
+Daisuke Jigen: His gun has great reach, but he can't use any items other
+than the call phone. He can shoot multiple shots at the same time, and
+can shoot while jumping. Oh and if he falls on water, he dies. And he can
+only be hit once.
+
+Ishikawa Goemon The 13th: He's the strongest character in the game, but he
+also has the worst reach of 'em all. His Zantetsuken can cut through almost
+any enemy, and kills everything EXCEPT the bosses on one hit. Some enemies
+can't be killed though, so watch out. He can only take one hit before being
+captured.
+
+//
+Game Mechanics:
+\\
+
+You run, you kill enemies, you go in doors, you grab items [shoot the urinals
+to get them... don't blame me, THEY LOOK LIKE URINALS], you evade Zenigata,
+if someone gets captured look for them in the level otherwise you'll get them
+back when you finish it... and uh, that's it.
+
+<Kitsune_> and shott the peethings on every level for items
+<Kitsune_> ... they look like urinals. :P
+<Sardius> heh! they do, yes.
+
+//
+Special tools:
+\\
+
+Call phone: All three characters can use this. You use it to switch to another
+character on the fly, at any time, except during a conversation. You can't
+switch to a captured partner, obviously.
+
+Ruby Ring: You'll need this to bribe some characters into helping you.
+
+Lupin-exclusive items:
+
+Vest: You'll be protected for one hit for each one you pick up.
+
+Shotgun: Use this and you'll get a few three-way gunshots. But, you get
+knocked back a bit when you fire the weapon, so be careful.
+
+Goggles: They help you find traps in some stages.
+
+Bombs: They destroy all enemies on screen and open doors and passageways.
+Hint - use them on the fireplaces in stage one...
+
+Jetpacks: Use them to fly around the stage. Get hit and you'll fall down.
+
+Oxygen tanks: You need these to swim around. Some stages -require you- to go down
+and swim.
+
+Balloons: If you fall down a hole, you'll be saved by this. You can shoot
+your gun and maneuver a bit while floating, but the balloon will pop after a few
+seconds of flight.
+
+<Sardius> kinda sucks that only lupin can use those subweapons, too.
+<Sardius> not to mention the vests. :/
+<Kitsune_> It's good, though, imagine a nigh-invincible Goemon :P
+<Kitsune_> "I shall smite thee with my boomstick!"
+
+
+Very special thanks to:
+-------------------------
+satsu - For letting me finish this project... two years after he started
+ it.
+
+Sardius - for being my only betatester and telling me of two crash bugs early
+ in the game.
+
+<Sardius> yay, I'm helpful!
+
+Copyrights
+-----------------
+ Lupin the 3rd and related characters are [C] Monkey Punch. 
+
+ Lupin the 3rd: Pandora no Isan [game] is [C] 1987 NAMCO.
+
+ Nintendo Entertainment System, Famicom, Pokémon and all other related names
+ and indicia are Copyrighted to Nintendo.
+
+ Sardius' dialogue is [C] to him, but he can't prove it so IT'S MINE HAHAHA!
+
+
+Disclaimer
+-----------------
+  There is no videogame company or any other company associated with
+  Kitsune Sniper. In no event shall Kitsune be liable or responsible for
+  any damages that may occur from direct, indirect or consequential results
+  of the ability or disability to use or misuse any material it provides.
+
+  In other words, you'd better own the cart for the rom that you're patching,
+  and if something goes wrong, don't blame me!

@@ -1,0 +1,49 @@
+
+         ___________________
+        /     Samurai       \
+       /    Pizza Cats       \
+      / NES translation patch \
+      =========================
+
+ =====================================
+ | Author:	DarkMarkZX           |
+ | Language:	English              |
+ | Version:	1.00 (first release) |
+ =====================================
+
+< DESCRIPTION >
+
+This is a full translation for the Kyatto Ninden Teyandee game released for NES. It's aimed to resemble english version of the cartoon as close as possible.
+
+This patch has been carefully tested on Nestopia v1.40.
+
+*Why Samurai Pizza Cats and not Cat Ninden?*
+
+If you are interested in this game, then you probably know the whole story of the original anime and its Western adaptation.
+Long story short, the characters portrayed in the original show have different names, occupations and personalities than in the dubbed cartoon. Since the game is set in the Cat Ninden universe, a straight translation would have to account for that.
+There were two main reasons why I took a different route:
+1. I originally got to know the show by watching the English cartoon, and liked it so much that I was motivated to make this translation in the first place.
+2. Given the limited amount of space in the original rom, an exact translation would not be possible. Every piece of text needed to be appropriately abbreviated in order to fit the character limit and maintain cut-scene synchronization.
+
+*Why Nestopia is the recommended Emulator for playing this game*
+I have tested several modern NES emulators, and (at the time of writing this) only Nestopia properly supports the patched rom. Although FCEUX can also play the original game, its current implementation of IPS patching prevents it from playing the translated  version. Also, I played through the whole game several times on Nestopia in order to assure that it works correctly.
+
+
+< INSTALLATION >
+
+There are 2 ways to use it. You can:
+  1. Let the emulator handle it (for example, by opening it like any game in Nestopia)
+ or
+  2. Permanently patch you game with software such as Lunar IPS (remember to make a copy of the original game file)
+
+
+< WHAT'S STILL MISSING >
+
+ - due to character limit, there are no commas and apostrophes in the text
+ - characters' names in the credits remain untranslated
+ - some menus contain leftover accents which should be removed
+
+
+< SPECIAL THANKS >
+
+ - Shadow (for making his own patch for this game, which allowed me to learn about basic aspects of hacking the original rom)

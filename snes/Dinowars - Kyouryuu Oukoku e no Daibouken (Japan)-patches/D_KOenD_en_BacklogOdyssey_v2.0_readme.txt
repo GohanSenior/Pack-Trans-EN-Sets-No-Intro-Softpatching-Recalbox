@@ -1,0 +1,2 @@
+A "fun" non-official, non-accurate, and hackneyed translation hack of Dinowars - Kyouryuu Oukoku e no Daibouken, the Japanese equivalent of DinoCity on the SNES!
+	-Apply Patch with an IPS patch like LunaIPS

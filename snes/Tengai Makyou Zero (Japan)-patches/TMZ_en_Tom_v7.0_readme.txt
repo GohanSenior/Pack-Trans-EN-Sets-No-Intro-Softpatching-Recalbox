@@ -1,0 +1,177 @@
+Far East of Eden: Tengai Makyou Zero
+Patch Version: Seven
+English Translation Patch Notes and Credits
+
+All of the game's packaging, including the box, manual, inserts, map, skill chart, and survey card have also been translated, and are available for download at:
+
+https://www.dropbox.com/sh/1rdmclp1kfpqkjo/AAB_mkjdbMm4IYqC5GqfCfhga?dl=0
+
+The "digital" png/jpeg options are for viewing the manual/packaging on electronic devices in whatever resolution you prefer. The "print" option has another version of the manual, with the pages re-ordered for easy printing. Each option includes all of the packaging.
+
+
+  -----------------------
+    GENERAL INFORMATION
+  -----------------------
+
+This is the seventh patch released for Tengai Makyou Zero (updated on July 9th, 2018). In addition to translating the game from Japanese into English, all reported typos and glitches have been removed, in addition to a few improvements to the original script. This most recent patch will fix the formatting of the lines in article #6 in the Canine Nation's newspaper.
+
+This patch is only for the original release of Tengai Makyou Zero, and is not compatible with the limited edition "Shonen Jump no Sho."
+
+Two types of patches are available: .bps and .ips. Use whichever patching format you prefer. If you're not sure which to use, give beat, the .bps patcher, a try. It's available at https://www.romhacking.net/utilities/893/. Log in and download it! (Note that you only need to patch the game once with either patch. Do not patch the game with both of them.)
+
+Not all emulators can run the patched version of the game, but the translation does work on actual hardware. (Flash carts won't run it, but it's possible to modify the actual cart.)
+
+Several emulators can run the game, including Higan (which requires the .bml and the use of the included rom splitting program), bsnes (which requires the .xml), and recent versions of snes9x. Snes9X does not require a .xml or .bml, and when Higan v107+ is released, it will not require it either.
+
+If you're using Higan, please use DDStranslation's file splitter tool after patching the rom, and add the folder it creates to Higan's main folder. Be sure to add the .bml file to that folder. Apparently, the file splitter may not be required once Higan is updated further!
+
+If you're using a version of the bsnes emulator that requires .xml files, you must place the included .xml file in the same folder that the rom is in, with the same name as the rom (you don't need to use the splitter). If you do not do this, you will not be able to pass the game's two initialization screens.
+
+Some emulators have problems with the real time clock's date display. That is a fault of the emulator, not the patch. To get around it, simply change to a different emulator or version. If the emulator of your choice does not support the English patched version of the game, I suggest that you contact the author of the emulator and ask them to add support for it.
+
+Once patched, the game must run through an initialization process the very first time you start it. Press the A Button, then reset when you're prompted. A similar screen will appear. Press the B Button this time, then reset when you're prompted. The game should begin then.
+
+If you get an "NG" on any of the initialization screens, resetting will not lead to the next screen. It may be due to a problem with the .xml file. Double-check that you have the file in the right place, with the right name, because without it, you won't be able to pass the initial check.
+
+If you're still confused, ask around at romhacking.net at any time. Someone's sure to be able to point you in the right direction.
+
+  -----------
+    CREDITS
+  -----------
+
+(In order of appearance)
+
+Initial hacking, rom expansion, base font:
+LostTemplar
+
+Game and packaging translation:
+Tom
+
+Customized text editing program and support:
+byuu
+
+Menu hacking, system and interface hacking, font work, bug fixing:
+DDStranslation
+
+Pixel artist:
+FlashPV
+
+Graphics extraction and insertion:
+DougRPG
+
+Packaging editing and layout:
+Cargodin
+
+Packaging resources used by Cargodin:
+https://michaelmannucci.deviantart.com/
+http://vgboxart.com/designer/Reza/
+http://vgboxart.com/forums/showthread.php?27971-Ervo-s-Super-Famicom-Template
+
+Special thanks to all of the beta testers (and people who contributed in other ways), including (but not limited to):
+
+ChronoMoogle
+Lentfilms
+magictrufflez
+Dark-Jango
+GHANMI
+Apoptose
+sveinjk
+Freestate
+niuus
+MetalFan
+KingMike
+dejan07
+Tater Bear
+
+Youtubers Daria Plays and Erika Szabo for offering to cover the translation on their Youtube channels. Please check out their channels here:
+
+Daria Plays:
+https://www.youtube.com/channel/UCZ697qvWdKOUmXuvslxNzPg
+
+Erika Szabo:
+https://www.youtube.com/channel/UCd6zd2m9BILwo2taslwXxRA
+
+And Oubutei, the who created ìVäOñÇã´ZEROäÆëSçUó™ (The Tengai Makyou Zero Complete Strategy Guide) website [http://www.geocities.jp/tengaimakyouzero/tengaizero.html]. Not only was his website extremely helpful in understanding how to trigger the secret events in the game, but he also provided GHANMI with advice that allowed us to test some of the more obscure debug menus in the game.
+
+Also thanks to all of the people who reported formatting errors, translation errors, or general suggestions since the original patch was released. You people made this revised version possible!
+
+------------
+
+Comments from Tom, the translator:
+
+Tengai Makyou Zero is the second fan-translation in the series (with the first being Oriental Blue: Ao no Tengai). Right off the bat, I want to stress that this game's title is "Tengai Makyou Zero" (pronounced something like "Ten Guy Mock Yo") and not "Far East of Eden Zero." The distinction between the two is really important to me.
+
+"Far East of Eden" refers to an entirely made-up American book about the history of Jipang. (The book doesn't really exist. It's just a part of the series' lore.) Some games in the series do not take place in Jipang, and do not contain the word "Far East of Eden" on the package. Thus, it's not a suitable English name for the Tengai series as a whole.
+
+To make a long story short: "Tengai Makyou Zero" is the name of the game, and "Far East of Eden" is just decorative text that reflects the "roots" of the series.
+
+Please keep it in mind if you ever introduce the game to others! That's all I ask!
+
+It was a pleasure to work with so many talented people. Thanks to everyone who helped to make this project a reality. Hopefully the long wait was worth it. I hope to continue to provide more Tengai Makyou series translations in the future. (I'm looking forward to translating TM Ziria next!)
+
+If you'd like, please follow me on twitter @RetroTranslator, and subscribe to my Youtube channel, Tom's Translations, which can be found here:
+
+https://www.youtube.com/channel/UC9Q6I1inXxSd6sSgXcOBOyA
+
+Feel free to send me a message. Thanks!
+
+P.S. If anyone prints out the English box and manual to make a full English replica of the package, please send me a picture or a video of it! (I'd love to see it!)
+
+------------
+
+Comments from DDStranslation, the core system hacker:
+
+It was a great honor to have the opportunity to work with everyone on Tengai Makyou Zero.
+
+Like many others, I had heard a lot of things about this legendary game, but never thought it'd be possible to create a playable English translation of it. I actually didn't even know it was already emulated.
+
+But thanks to Lentfilms guiding me to Tom's request for help on RHDN, I got the chance of a lifetime to take part in helping translate one of the greatest SNES RPGs ever. Tom's dedication and passion for the project shined through on all of his posts, and I wanted to do anything that I could to help him bring it to completion.
+
+After a year of coding, testing, bug-fixing, and re-testing, it's such a relief to finally reach the finish line. I did everything in my power to do the game justice, and hopefully it has paid off in the end.
+
+And I hope everyone else will finally be able to enjoy this wonderful game by Hudson, now in English.
+
+------------
+
+Comments from FlashPV, the pixel artist:
+
+First, I must state that I'm French, so forgive my poor english. :D When I offered my services for the graphics part, I didn't imagine there would be so many things to do. Now that it's finished I have to admit that I'm proud to have been part of such a great project. I hope you'll like our work. Thanks for reading my comments!
+
+------------
+
+Comments from Cargodin, the packaging editor:
+
+Hi, all! Before anything, I should mention that I've worked the least on the English patch for Tengai Makyou Zero (as in, I did nothing at all). I've been helping Tom with much, much smaller graphic design projects for about a year now, but T.M.Z. is easily the largest and most exciting! He sent me the scans and his translation for everything mid-February, and I was essentially done by mid-June, with only touch-ups and the like here and there.
+
+I have the game in my collection, but it's the only Tengai Makyou RPG entry that I haven't played, and I never took the time to sit down and really peruse the manual and the extras, so the magnitude of the entire package was really overwhelming at first! Still, it turned out to be a lot of fun for me, not just to make it, but also to read and enjoy. Tom likes to go into his text time and time again to fine-tune things until they are flat-out perfect, and it really shows in the fun-loving, heartfelt and nostalgic-feeling translation of the guide.
+
+A lot of blood, sweat and tears went into this game's original development and release back in the 90s, and decades later, I'm honored to have been even a small a part of the English project- and its dedicated team- to keep T.M.Z., a true labor of love, alive.
+
+------------
+
+Comments from DougRPG, the graphics (and cartridge) hacker:
+
+Working on this project was like a dream come true to me. I remember playing this game back in 2003 when DeJap released the graphics packs to play on Zsnes. I never imagined that almost 15 years later I'd be one of the people working on the translation project.
+
+I'm very proud that I could work with all the guys in the translation team. These guys are absurdly talented. It was a very nice period of time for me.
+
+I want to thank Tom for including me in this project and trusting in me. I also want to say that my work is fully based on 1-)neviksti's work on the SPC7110; 2-) bsnes/higan code implemented by byuu; 3-) many other indirect contributors for the SPC7110 reverse engineering (too many to put in here).
+
+I always wanted to be a romhacker and be part of a translation team, and now I'm officially a member of one of the most anticipated translations for the Snes of all time!!! Omg!
+
+This legendary translation is now finally in english!!! Hope you like it. Thank you all.
+
+  ----------------------
+    PLGS Special Event
+  ----------------------
+
+Thanks for reading 'til the end. Here's some information on a PLGS event that only happens in 2018. (It originally only happened in 1996.) Most Japanese players never got to see this event, since the way to see it was only listed in a comic magazine, though a handful stumbled into it. It may not mean much to English speakers, and you have to set in a date from the past to view it at this point, but here it is.
+
+Kouji Imada PLGS event
+
+Japanese TV personality Kouji Imada appears from January 9th through February 3rd by the Fire Bear Shrine in the middle of the night, from 12:50 AM to 12:59 AM. At that time, you can also find a hidden treasure chest somewhere around the area where Mr. Imada is. It contains a backscratcher.
+
+From February 6th to March 2nd, he appears at the Peacock Shrine from 12:50 AM to 12:59 AM. The treasure chest hidden somewhere around him contains a Miracle Liquor.
+
+From March 5th to March 30th, he appears at the Canine Shrine from 12:50 AM to 12:59 AM. There are two treasure chests hidden somewhere around him that contain 50000 ryo each.
+

@@ -1,0 +1,18 @@
+ .==============================.
+( SOLOMON'S KEY - TEAR OF LIHITA )
+ '=============================='
+
+Full english translation.
+English table included if anyone want to translate this in another language.
+
+This patch must be applied on the NO-INTRO ROM:
+
+Solomon no Kagi - Oujo Rihita no Namida (Japan).sms
+
+Staff:
+FlashPV: Hacking, translation (from french version)
+Ichigo: English Title Screen
+
+Version history:
+
+V 1.0: Initial release

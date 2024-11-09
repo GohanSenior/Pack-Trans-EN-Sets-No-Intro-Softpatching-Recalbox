@@ -1,0 +1,39 @@
+This manual is going to be very bare-bones, as I don't feel like rigging up
+a full-sized HTML deal at the moment.
+
+To save the game, either talk to Kouji in his room on floor 2 of Hotel Osaka
+or call him at a telephone kiosk. The latter option requires the use of a
+phone card.
+
+To rest, use Kunio's bed in his hotel room (middle room on floor 2 of Hotel
+Osaka.)
+
+A - Talk to people
+B - Jump/Cancel
+Y - Attack/Accept
+Start - Menu
+
+-Items-
+Cough Drops - Restores 15 HP.
+Whisper - Restores 50 HP.
+East Kisses - Restores all HP.
+Sea Kelp - Restores 10 Ki.
+Plain Crackers - Restores 70 Ki.
+Tiger Goblet - Restores all Ki.
+Gerolin - Restores 10 HP and 10 Ki.
+Dogman - Restores 30 HP and 20 Ki.
+Devil Fist 50 - Restores 50 HP and 50 Ki.
+Fine Wine - Restores 100 HP and 100 Ki.
+
+Sea Monkeys - Totally useless.
+Silver Necklace - Lowers encounter rate.
+Gold Necklace - Lowers encounter rate.
+Dangerous Drugs - Increases encounter rate.
+Drag-On Quest 5 - Increases encounter rate.
+Finally Fantasy 5 - Increases encounter rate.
+Blue Stone Pendant - Increases luck.
+
+Prepaid Cash Card - Exchange at vending machines, crane games, slot machines.
+Phone Card - Lets you use a telephone kiosk to call Kouji and save the game.
+Taxi Card - Returns you to Hotel Osaka.
+Bike Key - Instantly travel to any district of Osaka.

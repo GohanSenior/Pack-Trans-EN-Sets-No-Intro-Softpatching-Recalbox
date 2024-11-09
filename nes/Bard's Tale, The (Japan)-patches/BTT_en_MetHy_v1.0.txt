@@ -1,0 +1,58 @@
+        The Bard's Tale - Tales of the Unknown 
+              Famicom version
+
+             Translation to English 
+          Version 1.0, January 17 2024
+
+
+__________
+
+     General Info:
+
+
+This patch is a translation from Japanese to English of the Famicom version
+of The Bard's Tale - Tales of the Unknown.
+
+This game did release in English in the US but with a ROM of half the size.
+As a result a LOT of content was cut or changed. Almost 30 enemy types were cut,
+including 3 bosses, and most of the remaining ones recycled graphics from
+other enemies rather than having their own like in the original version.
+A lot of dungeon graphics and graphical scenes were also cut as well as the 
+intro, step sounds, some flavour text, etc. A lot of musics were also changed.
+For a sample of what was cut and changed you can check the TCRF page.
+
+This romhack took the US version script and inserted it in the JPN version.
+For text that didn't exist in English I used the help of a Japanese speaker
+and of Google Translate.
+Note that many strings aren't 1:1 with the US release, but the meaning
+always remain the same. This is due to technical reasons, also the US script
+wasn't always perfect.
+
+
+__________
+
+     Patching:
+
+Using a patching tool such as Lunar IPS, patch the rom:
+Bard's Tale, The - Tales of the Unknown (J).nes
+
+
+__________
+
+     Playing tips:
+
+- You can and should use the US version manual.
+- There are 2 optional bosses that were cut from the US release, it's up
+to you to find them!
+- Protip 1: outside of combat you can change how many party members are in
+the front row with the Advance command.
+- Protip 2: many monsters can be made to join your party, either using the
+Bard's song or by casting the Figurine spell. Experiment!
+- Enjoy! Even players familiar with the US release will have some surprises!
+
+__________
+
+     Credits:
+
+Hacking, translation: Ness aka MetHy
+Translation help: Anonymous, Google

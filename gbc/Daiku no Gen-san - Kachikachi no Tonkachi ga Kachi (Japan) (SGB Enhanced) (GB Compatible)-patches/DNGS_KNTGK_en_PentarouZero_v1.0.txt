@@ -1,0 +1,57 @@
+  ============================================
+  |             DAIKU NO GENSAN              |
+  |      English Translation Patch V1.0      |     
+  |            ©2003 PentarouZero            |
+  |         pentarouzero@hotmail.com         |
+  |       http://www.pentarouzero.com/       |
+  ============================================
+
+
+  ============
+  | The Game |
+  =============================================================================
+   Daiku no Gensan for Game Boy Color is a long overdue new game in the Daiku
+   no Gensan (Hammerin' Harry) series (no, the pachinko games don't count)
+   developed by Biox in 2000. It's more puzzle-oriented than the previous
+   games - you basically have to use your three hammers to manipulate enemies
+   in block form and reach the exit of each level.
+  ============================================================================= 
+   
+
+  ==================
+  | Status/History |
+  =============================================================================
+   Version 1.0
+   Everything is translated.
+  ============================================================================= 
+
+
+  =========================
+  | Patching Instructions |
+  =============================================================================
+   Download an IPS patcher from somewhere like
+   http://www.zophar.net/utilities/genutil.html , and apply GENSAN10.IPS to 
+   a clean Daiku no Gensan Game Boy Color ROM image. Do not apply it to any
+   other translation or hack of this game.
+  ============================================================================= 
+
+  ================
+  | Known Issues |
+  =============================================================================
+   The credits are almost certainly screwed up. (I'd appreciate any savestates
+   from just before them).
+  ============================================================================= 
+
+  =================
+  | Patch Credits |
+  =============================================================================
+   ROM Hacking: PentarouZero
+   Text Translation: Al LaPrade
+  ============================================================================= 
+
+  =========================
+  | Original Game Credits |
+  =============================================================================
+   © 1990, 1996, 2000 Irem Software Engineering Inc.
+   © 2000 Biox Co., Ltd
+  ============================================================================= 

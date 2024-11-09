@@ -1,0 +1,149 @@
+                             Hana no Star Kaidou
+                          English Translation Patch
+                 by GAFF Translations (pluvius3 @ gmail.com)
+                        v1.00 (Created July 1, 2015)
+--------------------------------------------------------------------------------
+
+
+*TABLE OF CONTENTS*
+ -----------------
+
+I.    VERSION HISTORY
+II.   INTRODUCTION
+III.  INSTRUCTIONS FOR USE
+IV.   KNOWN BUGS
+V.    CREDITS
+VI.   TECHNICAL NOTES
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+
+
+********************
+I.  VERSION HISTORY
+********************
+
+v1.00 (07-01-15):  First release.
+
+
+******************
+II.  INTRODUCTION
+******************
+
+This is an English translation patch for Hana no Star Kaidou ("Flowering Star
+Highway"), a game released for the Nintendo Famicom in 1987 by Victor Music
+Industries (now known as Victor Entertainment).  As might be expected from a
+music company, this game is about two teenaged Japanese performers trying to
+make it big in the music industry.  As might also be expected from a music
+company, this game isn't very good.  It's brutally difficult with cheap deaths
+galore, which is compounded by the fact that you're controlling two people at
+once (which, needless to say, is not easy using a controller with only one
+D-Pad).  It's also really tedious, since each level consists of the same walking
+around and finding various objects, then going into a building and walking
+around a boring and confusing maze.
+
+So why did I translate this game?  Well, not only is it pretty infamous in the
+community of Famicom fans, but it also has very little Japanese in it.  Indeed,
+the only actual Japanese is in the intro and on one of the building signs.  The
+rest of the game's text is in hilarious Engrish.  (A sample: "Show up you gays.
+You gonna be famous.")  I have thus created two patches: one for purists that
+only changes the Japanese into English, and one that also edits the Engrish into
+something that makes sense.
+
+Including playtime, I estimate that these patches took me around 10-15 hours
+over the course of a few months of limited free time to complete.  I hope you
+enjoy them--well, as much as you can enjoy this game, anyway.
+
+
+***************************
+III.  INSTRUCTIONS FOR USE
+***************************
+
+1.  Download and install Lunar IPS or a similar IPS patcher if you haven't
+    already.
+	
+2.  Get a copy of the Hana no Star Kaidou ROM.  No, I don't know where.
+    The correct ROM is identified by GoodNES 3.23 as the verified good dump.
+	
+3.  Apply the desired patch to the ROM using the aforementioned IPS patcher.
+    The patcher should automatically expand the ROM for you if it's anything
+	like Lunar IPS.
+
+
+****************
+IV.  KNOWN BUGS
+****************
+
+None at this time.  I didn't bother hacking the title graphics due to my lack
+of artistic ability and the compression mentioned below; anyone who is good
+at Famicom art hacking should feel free to do so.
+
+
+***********
+V.  CREDITS
+***********
+
+Rob "Pluvius" Browning: Hacker, translator/editor, tester
+Ivan Rorick: Spot-checking of the intro translation
+
+
+********************
+VI.  TECHNICAL NOTES
+********************
+
+Most of the work of translating this game was pretty easy.  The most difficult
+part was hacking the graphics in the intro.  Even though the game already has a
+functional English font for the title screen, all of the graphics in this part
+of the game are compressed using RLE.  This made replacing the Japanese font, as
+well as hacking the signs in the train station, a bit of a chore to do without
+screwing things up.  Beyond that, the most technically challenging part was
+hacking the 16x16 kanji displaying routine (used for the "dream" line in the
+intro) so that it would display 8x8 text instead.  I couldn't simply use the
+normal text routine since the kanji routine had the benefit of allowing me to
+display that line of text anywhere on the screen.  The normal text routine uses
+spaces to align text, and I didn't have enough room in the ROM to add that many
+spaces.
+
+The bulk of the game's text is in a bog-standard format, a block of text with
+positioning information at the beginning of every line and a pointer table at
+the beginning of the block.  It even uses ASCII encoding.  Editing was simple
+and I barely even had to fiddle with the pointers (I didn't even realize they
+were there at first).  I had to hack in a question mark to replace the
+unnecessary hyphen, but the graphics aren't compressed here so that wasn't a
+problem.  The only other text was in the "true" ending, which was strangely
+formatted as top-to-bottom then left-to-right instead of the other way around.
+For example, the first words of each line are "WELCOME," "ROAD," and "HERE," so
+this is encoded something like "WRHEOELAR..."  Considering what this bonus
+ending is like (I haven't seen an ending so insultingly and sloppily
+implemented since The Krion Conquest), it's not too surprising that this bit
+of text was an odd-ball.
+
+
+****************************************
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+****************************************
+
+Thanks to:
+
+Victor Entertainment, for developing and publishing this game.
+
+Nintendo, for making the system this game runs on.
+
+Klarth and RedComet, for creating Atlas and Cartographer, two script utilities
+that made editing the main block of text very much less tedious.
+
+The developers of FCEUX, the very useful debugging emulator which I used for
+this entire project.
+
+Romhacking.net, for hosting this hack and many others like it, as well as
+providing useful hacking information.
+
+The NESDev Wiki, the premier resource for NES hacking information.
+
+And, of course, you for reading and playing.
+
+Questions, comments, criticisms, and bug reports can be sent to
+pluvius3 @ gmail.com (without the spaces obviously).  Please put "Hana no Star
+Kaidou" or something similar in the subject line so I will know what the email
+is about.  If you alert me to a bug, I will fix it in a future update and give
+you credit.
+
+Copyright 2015 GAFF Translations, all rights reserved.

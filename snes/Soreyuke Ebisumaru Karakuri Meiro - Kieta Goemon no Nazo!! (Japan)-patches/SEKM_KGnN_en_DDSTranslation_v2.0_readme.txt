@@ -1,0 +1,46 @@
+Get Going!
+Ebisumaru:
+The Mechanical Maze
+Mystery of the Missing Goemon!!
+
+
+Translation Patch (Version 2)
+
+
+Version 2 Changes:
+ - Fixed the game glitching when you pick up the Fan item.
+
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+ROM name: Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (J)
+CRC32: 885FB1B9
+
+
+This patch is for Ebisumaru on the Super Famicom.
+The text has been translated from Japanese into American English.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both formats of patches.)
+
+The target Japanese ROM must have a size of 1 MB (1,048,576 bytes),
+and have a CRC32 checksum of 885FB1B9.
+If not, the patch will not work as intended.
+
+
+
+-----------
+  CREDITS
+-----------
+
+Translation:
+Tom
+
+Graphics:
+FlashPV
+
+Programming:
+DDSTranslation
+

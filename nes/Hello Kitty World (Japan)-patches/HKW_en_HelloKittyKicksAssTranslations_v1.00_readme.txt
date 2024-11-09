@@ -1,0 +1,165 @@
+        _   _         _  _          _   __ _
+       | | | |  ___  | || |  ___   | | / /(_)  _     _
+       | |_| | / _ \ | || | / _ \  | |/ /  _ _| |_ _| |_  _  _
+       |  _  |/ /_\ \| || |/ / \ \ |   /  | |_   _|_   _|| |/ /
+       | | | |\ ,___/| || |\ \_/ / | |\ \ | | | |_  | |_ | / /
+       |_| |_| \___/ |_||_| \___/  |_| \_\|_| \___| \___||  /
+                            _           _                / /
+                           / \_______ /|_\               \/ 
+                          /          /_/ \__
+                         /             \_/ /
+                       _|_              |/|_
+                       _|_  O    _    O  _|_
+                       _|_      (_)      _|_
+                        \                 /
+                         _\_____________/_
+                        /  \/  (___)  \/  \
+                        \__(  o     o  )__/
+
+                                    
+     _   __ _          _                _______                 _
+    | | / /(_)        | | _            |   _   |               | |
+    | |/ /  _   ____  | |/ /   ____    |  |_|  |  ____   ____  | |
+    |   /  | | |  __| |   /   | ___|   |   _   | | ___| | ___| |_|
+    | |\ \ | | | |__  | |\ \  |___ |   |  | |  | |___ | |___ |  _
+    |_| \_\|_| |____| |_| \_\ |____|   |__| |__| |____| |____| |_|
+
+
+                        Hello Kitty World
+                       English to Japanese
+                           Translation
+                             v. 1.00
+
+
+
+-------------------------- DEDICATION ---------------------------
+
+This translation is dedicated to Toma for all he's given to the
+scene. His translations are fun, his personality has made the
+romhacking scene a more enjoyable place to be and his attitude is
+a perfect example of what romhacking/translating is all about. 
+The world needs more people like Toma. Then again, the thought of
+millions of Toma's running around is extremely frightening. Either
+way, we thank you, Toma.
+
+----------------------- TABLE OF CONTENTS -----------------------
+
+    I. Dedication
+   II. Table of Contents
+  III. Introduction
+   IV. History
+    V. Staff
+   VI. Tools
+  VII. Patching Instructions (**READ THIS BEFORE ASKING QUESTIONS!)
+ VIII. Contact Information
+   IX. Closing
+
+-------------------------- INTRODUCTION -------------------------
+
+Hello Kitty is a one or two player side scrolling action game.
+You play the part of Hello Kitty who must fly through 4 stages in
+order to find and rescue her friend Tubby who got lost when he 
+flew off over the horizon because of his big bunch of ballooons.
+    The game was brought to America in the form of Balloon Kid for
+the Gameboy. I believe that Hello Kitty World is superior to 
+Balloon Kid for 2 reasons. First of all, it's an NES game (hence
+it's in color) and secondly, well, Hello Kitty just kicks all ass.
+     We chose to dedicate this translation to Toma for the simple
+reason that he liked the game and once mentioned that he'd like to
+see it translated. The game is pretty self explanatory and if you
+have trouble, watch the demo at the beginning of the game for 
+instructions. It patches just fine with either SNES Tool or IPS.
+
+---------------------------- HISTORY ----------------------------
+
+v. 1.00 - February 24, 1999
+
+ What's Complete
+  - implemented new title screen
+  - removed Japanese from ending screen
+  - translated message when all balloons in a level are gotten
+  - completed credits
+
+ What's Incomplete
+  - Nothing I'm aware of  
+
+
+v. 0.95 - October 27, 1998
+
+ What's Complete
+  - all text translated
+  - minor graphics hacks
+
+ What's Incomplete
+  - title and ending screens untranslated
+  - credits slightly unfinished 
+
+
+----------------------------- STAFF -----------------------------
+
+ Hello Kitty Kicks Ass Translations was the name chosen for this
+ unofficial team. We worked on this project together because of a
+ mutual respect for Toma and the desire to express our thanks for
+ his contributions to the translation/hack scene. We're not an
+ official group so don't expect any future releases though various
+ combinations of group members will undoubtably work together on 
+ various projects.
+      So, in alphabetical order, here are the people who's combined
+ effort brought forth the translation you see today:
+
+        Chojin - developed the japanese table for the script dump
+     Darkforce - inserted the title screen and created new  CS logo
+       InVerse - oversaw the entire project and did the text hacking
+       Musashi - translated the Japanese script
+       Naflign - initial hacking and font work
+ Ordered Chaos - dumped the Japanese script
+         sl1me - designed the new title screen
+      Wildbill - edited the English script
+
+ My thanks go out to everyone who participated in this project and
+ anyone who had an indirect effect on the project via development of
+ hacking techniques, utility programs and inspiration.
+
+----------------------------- TOOLS -----------------------------
+
+ The following tools were used for this translation:
+
+  Hexposure: text translations
+ Tile Layer: graphics hacking
+     Thingy: script dumping
+  SNES Tool: patch creation
+  
+---------------------- PATCHING INSTRUCTIONS --------------------
+
+ Patching a ROM is extremely simple. You need three things. A ROM,
+ the patch and a patching program. To patch with IPS, you simply
+ type "ips <ROM name> <patch name>". So if the name of the ROM was
+ HKW.nes you would type "ips HKW.nes hkwe.ips" and your ROM is now
+ in English. Make sure you have all the files in the same directory
+ if you have a problem.
+      To patch a ROM with SNES Tool, simply select USE IPS, choose
+ the patch and then choose the ROM to affix the patch to. It's self
+ explanatory. If you can't figure it out, the game is probably too
+ hard for you anywayz.
+
+----------------------- CONTACT INFORMATION ---------------------
+
+ There is no official Hello Kitty World site at this time but I
+ believe there are plans in the works to create one soon. Once it
+ is complete, http://come.to/HelloKittyWorld will take you there.
+
+ E-Mail addresses concerning the project can be located on the 
+ official page once it's completed or else you can e-mail me at
+ HelloKittyWorld@hotmail.com.
+
+----------------------------- CLOSING ---------------------------
+
+ So there you have it. Have fun and remember. It's just a game.
+
+ -InVerse
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+==========================================================
+========================NES Wars==========================
+======================== V 1.01===========================
+Genre: Strategy
+
+Source language: Japanese
+
+Platform: Famicom
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: antoniusblocko@protonmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About
+======================================================
+Project History:
+
+This project began when one of my talented graphic
+design friends did a random title screen for this game.
+It was a tad too big and had to be reduced in size a
+bit but I think we got something nice in-game in the end.
+
+I had a look at the old complete translation and saw that
+there was some room for improvement and the rest is history.
+
+Please note that while I cleared all the maps except one,
+I cheated my butt off and potentially didn't encounter
+some text we were to unsure of. There were a small handful
+of messages during battle that we weren't sure what
+exactly they meant and have been labeled as such in-game.
+If anyone encounters them, do let me know.
+
+=======================================================
+Patch History
+=======================================================
+1.0 - initial release
+1.01 - fixed HMM
+
+======================================================
+Patching Instructions
+======================================================
+This patch comes in a variety of options and I recommend
+using RHDN's online rom patcher.
+
+https://www.romhacking.net/patch/
+
+Apply the patch to the Japanese ROM:
+
+Famicom Wars (Japan) (Rev 0B).nes
+
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking
+
+Ryusui - spot translations
+
+SnowyAria - additional name translations
+
+Lazermutt4 - Additional name translations
+
+Graphicus - title screen and misc graphic design
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. March 2023

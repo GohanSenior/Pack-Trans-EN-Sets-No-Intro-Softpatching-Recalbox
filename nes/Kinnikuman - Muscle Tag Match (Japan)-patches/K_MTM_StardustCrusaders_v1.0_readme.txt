@@ -1,0 +1,47 @@
+Kinnikuman Muscle Tag Match
+English Translation V 1.0
+Copyright 2008 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Kinnikuman
+2.Patch History
+3.Patch Credits
+4.Known Issues
+
+---------------------------
+1.About Kinnikuman
+---------------------------
+This is a wrasslin' game that came out earlyin the NES's life and it pretty much blows. It was also released in America as M.U.S.C.L.E.
+---------------
+2.Patch History
+---------------
+What's done:
+
+-Everything
+
+---------------
+3.Patch Credits
+---------------
+
+Me- I didn't do anything
+
+FlashPV- The credit all goes to FlashPV
+
+
+--------------
+4.Known Issues
+--------------
+None
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or at my site
+
+yojimbo.eludevisibility.org

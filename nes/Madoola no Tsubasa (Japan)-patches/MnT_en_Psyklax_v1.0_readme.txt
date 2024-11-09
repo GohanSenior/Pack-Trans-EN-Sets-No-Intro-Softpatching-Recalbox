@@ -1,0 +1,17 @@
+THE WING OF MADOOLA (NES)
+Translation by Psyklax
+v1.0 (20170605)
+
+This translates a single part of Level 8, when you encounter
+a chick who gives you a password. There is no other Japanese
+in the game, and it was used as a password for a competition
+back when the game was released. But now that I've
+translated it, you'll know what it says!
+
+GoodNES name: Wing of Madoola, The (J) [!].nes
+CRC32: C583A427
+
+That's all!
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

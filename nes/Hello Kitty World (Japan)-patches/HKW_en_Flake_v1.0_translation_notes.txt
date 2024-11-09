@@ -1,0 +1,9 @@
+Online translation engines are notoriously poor at indicating gender and tense and Japanese rarely offers any distinction between plural and singular nouns. Thus, some of the translation, especially at the end, comes from contextual interpretation of those engines' extremely raw translations.
+
+Moreover, the (extremely tight) space constraints of the program required me to trim the translations of all redundancies. The selection screen at the beginning actually reads something like "In what way do you play?" (That is, how many of you are playing?) The possible responses include the word for "One" or "Alone" for one player and the word for "Together" for two players. Had I had more space, I might have tried inserting my own whimsical translations "AlOne" and "Twogether" on that screen, but as you can see, this simply was not possible.
+
+Tippy's words at the end in translation were also no mean feat to fit. Had I had more space for them, they would have read something like: "You've come! You've come! You sure have." and "Come! Let's go back home to your house together!" As you will see for yourself if you can beat the game, I *really* had to paraphrase this translation to make it fit. Nevertheless, on the whole I believe I have done a superior job with what resources I had.
+
+Incidentally, the names in the credits (which I have also translated if anyone cares to read them) are in their traditional Japanese order, which is to say that the family name comes first and is therefore on top. If, for some reason, you need to repeat these names to someone else in the traditional English order, be sure to read the given name, which is on the bottom, first.
+
+--Flake

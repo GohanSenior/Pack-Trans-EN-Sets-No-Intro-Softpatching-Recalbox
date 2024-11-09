@@ -1,0 +1,75 @@
+The Morning Adventure
+Spanish -> English Patch
+========================
+
+Info
+----
+
+The Morning Adventure is an advergame for Mañanitos, a kind of chocolate chip
+bun marketed in Spain by Panrico as a breakfast food. It was never released to
+stores, and its existence is probably completely unknown to most; even I only
+found out about it yesterday, and I'm the guy who friggin' translated it.
+
+Basically it's a brief (five stages plus boss) platformer, set mostly indoors--
+your house, school, etc. You play as Mañanito Boy, and spend your time
+completing simple missions like waking up your brothers, tidying up after you
+finish eating your delicious Mañanitos, and making it to school on time. It was
+developed by Bit Managers (http://www.bitmanagers.com/) and released in 2003.
+
+There's a couple of food items to collect, one is the standard Mario coins/
+Sonic rings collect-100-for-a-bonus-life object, while the other, the Mañanito,
+allows you to run faster and jump higher, sometimes just making things easier
+but others strictly necessary to progress. You can also pick up objects by
+hitting B, including crates and springs which you can jump on for a bit more
+altitude, necessary for some of the puzzles which basically all involve walls
+that you can't get over.
+
+Hacking Work
+------------
+
+The text is right there in the ROM in ASCII, I just barged in and started
+typing. Your grandma could have done this hack. There was even a comfortable
+amount of padding on all dialogue which meant that I didn't even have to bother
+messing with pointers or anything. The translations are a combination of the
+combined Spanish ability of my wife and I plus assistance from Google
+Translate. Yeah, yeah; whatever.
+
+I blow at hacking so when it came to graphics hacking for the title screen I
+ended up enlisting Prof. 9, who did some great work both modifying the
+character order (PULSA -> PRESS) and finishing up (by almost entirely redoing)
+my really shoddy "E". This was the only real "hacking" and was the real
+difficult part, all kudos go to Prof. 9.
+
+All the dialogue should be done, even the credits have been de-Spanished; there
+was actually some extra text in the ROM (some stuff about completing the "demo"
+and telling you to purchase the full game--no idea if there was ever a demo
+version, but this is the full game so the demo line is never seen in-game). If
+I missed anything then that sucks.
+
+Patching
+--------
+
+It's an IPS patch. I'm not helping you. 
+
+Version History
+---------------
+
+1.01 - 2010-04-20
+Fixed typo.
+
+1.0 - 2010-04-19
+Should be complete.
+
+Credits
+-------
+
+Prof. 9
+Title screen hacking, art
+
+Vague Rant
+http://vaguerant.tumblr.com/
+Text translation + insertion, readme
+
+RifleEyes
+http://rifleeyes.tumblr.com/
+Translation advice, how to type ñ

@@ -1,0 +1,76 @@
+Booby Boys
+English Translation Patch - version 1.002/1/12
+By HTI  http://hti.rpgclassics.com
+hiryuu@rpgclassics.com
+
+
+What You'll Need:
+-----------------
+1. This patch you just downloaded
+2. A Booby Boys ROM for the Gameboy
+3. Lunar IPS or other patching program.
+
+
+What You'll Need To Do:
+-----------------------
+After you've downloaded the ROM, this patch, and Lunar IPS, put them all into
+the same directory.  Backup the ROM if you wish, then run Lunar IPS and follow
+the prompts.  Just remember the ROM is the *.gb file and the patch is the
+*.ips file.
+
+
+Boring Patch History:
+---------------------
+I didn't work on this game just because of the name... really, I didn't!
+
+...Really!
+
+...
+
+...OK, I did... BUT, the game itself is actually quite fun.  There wasn't a ton of
+text in this one, just a little blurb said by each boss, each girl, the credits, and 
+a few other miscellaneous things.  Overall it was quite a simple endeavor.
+
+
+Gameplay Notes:
+---------------
+The object of the game is to collect all the chests in the level, which reveals the 
+key, and then make it to the door.  Impeding your progress are enemies, which you can
+defeat by digging holes, which can cause them to be trapped.  You can then fill in the
+hole, which will destroy the enemy, leaving a tombstone, or let them stay in the trap.
+The problem with killing them is that you can no longer dig in an area with tombstone,
+and the enemies will respawn anyway, but you'll get points and sometimes items for
+defeating enemies.  There are six worlds, with ten levels each.  At the end of the
+world, you'll have to fight a boss.  Beat all six bosses to fight the final boss.  And
+that's it.
+
+The items:
+
+Shovel = Extends the number of holes you can make simultaneously by one.
+Boots = Increases your speed.
+Armor = Temporarily makes you invincible.
+Clock = Freezes all enemies temporarily.
+Gun = Allows you to temporarily shoot enemies to defeat them.
+Boomerang = Allows you to temporarily defeat enemies via boomerang.
+Bomb = Allows you to defeat enemies Bomberman-style for a few seconds.
+Crystal = Temporarily transforms enemies into crystals, which can be collected for points.
+Smart Bomb = Allows you to destroy all on-screen enemies 5 times.
+
+
+Known Issues:
+-------------
+Some of the names in the credits had to be truncated a bit.
+
+Y. Nishiguchi became Nishi-guchi
+Kina-chan became Kina
+And R235 Poyo~n became R235Poyon
+
+That's all.
+
+Credits:
+--------
+Hacking: Hiryuu
+
+Translating: eg
+
+

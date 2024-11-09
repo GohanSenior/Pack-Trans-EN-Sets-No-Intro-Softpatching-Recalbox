@@ -1,0 +1,89 @@
+Nadia: The Secret of Blue Water
+v1.0
+July 19, 2011
+KingMike Translations (http://kingmike.emxuxhaven.net)
+
+***********
+INTROUCTION
+***********
+This is an adventure game by Namco based on the Nadia anime by GAINAX.
+
+The script was translated by Eien Ni Hen in 2009, and I have hacked it.
+It was a learning experience as my first MD/Genesis translation hack.
+
+****
+TEAM
+****
+ KingMike - tools, assembly, graphics
+  (except the title, which I ripped from my DVD cover and then recolored
+  to match the anime OP title)
+ Eien Ni Hen - translation
+
+***********
+WHAT'S DONE
+***********
+ Should be complete.
+
+************
+WHAT'S BUGGY
+************
+ Only issue is a couple screens I'm not sure how they'd look on hardware.
+ Looks fine on Kega Fusion, corrupt on Gens Tracer.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+ Either apply the IPS version of the patch to a Nadia ROM.
+ Hopefully you all know to make sure to apply it to a de-interleaved version
+ (most commonly known as a "BIN" ROM) and NOT the interleaved "SMD" format.
+ or use a program such as upset (from byuu.org) to apply the UPS version.
+
+****************
+EMULATION ISSUES
+****************
+ As with bugs, a couple intro screens are glitched in Gens Tracer, looks fine in Fusion.
+ Don't know which is accurate to hardware.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+ Set your console region to USA to play the game in English.
+
+ At the "Namco For Sega Genesis" screen, press A to play the intro
+ or Start to skip to the title sequence.
+ Press Start again to go to the start menu.
+
+ Choose BEGIN to start a new game, PASSWORD to continue a previous game,
+ or SOUND MENU to listen to the game's soundtrack.
+
+ On the password screen, use the D-Pad to choose a letter, A to input the letter.
+ Press B to erase a letter and move the input cursor back,
+ press C to erase forward. Press Start when finished.
+ Note that due to programming limitations, the original Japanese passwords won't work
+ in the dual-language patch.
+ If you know the English passwords, they should work if you enter the
+ characters in the same positions.
+
+ During the game, use the D-Pad to move, A to search objects or talk to people and
+ C to open the command menu.
+ Press C to enter choices and B to cancel.
+
+ Watch the story scenes, then in the exploration scenes go around and use the items to solve puzzles.
+
+ Commands:
+ Items : Use or look at items.
+   Use : Use an item.
+   Give : Give an item to another character. Some characters can't give away an item, and others can
+     only be used by the right person.
+   Look : Look at the item, maybe it will give you a clue.
+ Move : Quickly go to another scene of the level. Too bad it seems to only be used in the first chapter.
+ Talk : Have Jean speak to another character.
+
+*********
+COPYRIGHT
+*********
+Anime (c)1989 NHK, Sogo Vision, Toho, GAINAX
+Original game (c)1991 by Namco
+English translation (c)2009 Eien Ni Hen, code 2011 by KingMike
+I am not affiliated with Namco.
+Do not distribute the game image ("ROM") and the patch.

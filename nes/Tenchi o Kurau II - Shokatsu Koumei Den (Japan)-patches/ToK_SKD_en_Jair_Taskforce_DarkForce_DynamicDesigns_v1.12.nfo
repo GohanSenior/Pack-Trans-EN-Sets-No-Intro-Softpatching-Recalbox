@@ -1,0 +1,963 @@
+-------------------------------------------------
+The Destiny of an Emperor-II Translation Project:
+-------------------------------------------------
+
+-Confederated Translation Company (Destiny Translations, Gaijin Productions, 
+Magic Translations, and The Vale)
+
+Whats new in V1.10
+====================================================
+
+A graphics bug that had some sprites out of place
+when joining or leaving your party or just standing
+in overworld maps has been squashed.
+
+====================================================
+
+Introduction:
+
+Hello Destiny Fans!  This is a rather large .nfo file, but the creation of our 
+DoaE-II English patch was a rather large project, underway for close to two 
+years.  I would recommend that players and would-be ROM hackers alike read it, 
+for it is literally chocked full of useful information.
+
+A Policy Statement:
+
+We "amateur" videogame hackers and translators do this purely for fun, for the 
+love of the games, and also for the many educational experiences and benefits, 
+with not even the slightest hint of personal monetary gain of any sort.  In 
+fact, we are hardly "amateurs", except in the "not-for-profit" category. 
+Collectively, we enjoy a huge amount of formal education, up to and including 
+post-graduate degrees. Without the benefit of a source code, we have created a 
+product that we claim is far superior to what a bunch of "paycheck grubbers" 
+(so-called professionals) could wangle on their best day!
+
+That said, let me issue a warning that if anyone (other than CAPCOM) comes up 
+with the bright idea of pirating our patch, combining it with the DoaE-IIj ROM, 
+and selling copies of a DoaE-IIe game for money, the "Liu Bei Legion" will hunt 
+you down anywhere you might be in this whole wide world.  There is no place to 
+hide!  I guarantee, if someone tries to sell our patch, his head will decorate a 
+pointed stick in front of Xinye Castle!  Before we're through with you, Lu Bu 
+will look like a one-legged Sunday School teacher.  'Nuff said...?  Okay, on 
+with the show! :)
+
+In the Beginning....
+
+For a while, I didn't know where to start with this text.  I've been involved in 
+many superb projects with a varied assortment of teammates.  Some projects have 
+reached completion, while others have languished; but no single effort to date 
+has meant more to me personally than Destiny of an Emperor-II.  Indeed, it is 
+one of the two games that drew me into this hobby (the other one being Dragon 
+Quest V).  My two all-time favorite videogames, RPG or otherwise, are Destiny 
+of an Emperor (I) and Dragon Warrior (Quest) IV.
+
+The People Involved:
+
+Rather than talk about the game itself at the outset (for true fans KNOW both 
+the game and Romance of Three Kingdoms legend...), I will discuss instead, the 
+special people involved in each stage of the project.
+
+Me (Wildbill):
+
+As I stated, DoaE-I is tied for my all time favorite game.  Let's face it; the 
+game is downright addictive, and I must have played it at least 50 times through 
+the years since it's release in 1989.  As of 1997, I had no idea that a sequel 
+even existed, as I did not follow the export market.  But then I discovered the 
+emulation world quite by accident, searching for information about a possible 
+English prototype of Dragon Quest (Warrior) V, and a few weeks later I stumbled 
+into Zophar's Domain, Demi's Rom Hacking WWW Board, and a now defunct RPG news 
+website, all of which followed amateur translation efforts.  This was in the 
+days of the "FF2 and FF3 Translation Wars", and it was in this millieu that I 
+first heard about the Japanese DoaE-II game.
+
+Cataclysm-X:
+
+What a character CX is!  But he and I have always enjoyed cordial relations, and 
+it was CX who first attempted a translation of DoaE-II, teamed up with Shujin 
+Rik, as translator.  But CX ran into all sorts of problems with what is now 
+known as the "ROM-from-Hell", especially with a form of text compression invoked 
+by a system that uses thousands of bytes for "substrings".  I followed CX's 
+progress and rantings about the technical challenges, then finally learned 
+enough about the emulation world to establish a dialogue with CX and other 
+people who were working on projects of interest to me.
+
+CAPCOM of America:
+
+I wrote CAPCOM a very polite and passionate letter, requesting that they bring 
+DoaE-II to America, on PC or anything, but they didn't even afford me the 
+courtesy of a reply.
+
+Dark Force:
+
+For several years, DF has been a mainstay in the J2e and DeJap translation 
+"companies", and has lent his talented hand to several major releases, including 
+FF4.  DF also has an abiding interest in the Ro3K legend, both the Chinese and 
+Japanese languages, and advanced hacking techniques, including assembly language 
+(ASM).  DF took over the DoaE-II project, a new person for me to badger on
+message boards, about progress.  Eventually, DF and I had several ICQ chats and 
+exchanged a few e-mails.  It was through his tutelage that I learned many 
+additional details about DoaE-II's substring compression, and ASM problems 
+associated with converting its extensive Chinese ideographs into English.
+
+A Turning Point:
+
+Then, events took a fateful turn.  About mid-1998, Dark Force told me one 
+day that he would probably never get around to finishing DoaE-II, that it was 
+too time-consuming with all the other things he had to do (and quite possibly 
+the toughest Famicom hack ever attempted), that I should take over the reins of
+the project and look for the necessary cast of talented people to help me get 
+the job done.  So, I did exactly that, became a project manager, or facilitator, 
+as my only real technical roles have been scriptwriting, some tile work on Shop 
+signs, the English font, the Chinese table file, some translations of both 
+Japanese and Chinese lists, and a hand in the Destiny website design and 
+maintenance.
+
+Jim Price:
+
+Through the first half of 1998, Jim Price and I had worked on Technos Samurai 
+for Famicom, a game we completed that became one of the first releases of the 
+newly created Confederated Translation Company (following Magic's SFC Villgust).  
+As work on T-S was winding down, I asked Jim if he would become the chief hacker 
+for the DoaE-II project, and he agreed.  Within a few days Jim had dumped the 
+script, and our project was off and running.  Jim and I started from the English 
+patch worked on by Dark Force, one that already had a rough English Prologue, Introduction, and font, plus a few other features.  Within a short time Jim had
+some more English menues built, and had loaded a few weapons, items, tactics, castles, and even some warlords.  Jim also found the code to expand the menu
+boxes, created multi-character tiles to fit in long menu words  like "Tactics",
+and started the Title Page conversion.
+
+Musashi:
+
+Musashi was one of the first people I met in the translation scene.  A 
+contributor to the Earthbound Zero Prototype Dumping Fundraise, Musashi is also 
+a dyed-in-the-wool Destiny and Ro3K fan.  When I told him I had received the 
+project from Dark Force (about the same time as I told Jim), I asked him to join 
+the team, too.  Thus, Jim, Musashi, and I formed an early triumvirate in those 
+heady early days of this CTC/Destiny/Gaijin DoaE-II project, about September 
+1998.  It was Musashi who re-translated the Prologue, Introduction, and 
+eventually, large blocks of the 40,000+ byte Bank-1 dialogue, and ALL of the 40+ 
+kilobyte Bank-2 dialogue.  Musashi also helped design the Destiny Translation 
+website, and applied some rather impressive finishing touches to those Shop 
+signs I started.  All of the translations loaded by the previous patch owners 
+were eventually supplanted by our own work, but having it to start from was 
+still invaluable to our efforts.
+
+Faraday:
+
+Ah, Faraday!  He is a translator deluxe, from merry olde England, and a pure joy 
+to work with.  He prefers to translate scripts of games that he loves (and DoaE 
+does not represent one of his favorite genres), but nevertheless, everything he 
+did for DoaE-II was absolutely suberb, meticulously researched, and placed in 
+context with the styles of the period.  Faraday translated the lion's share of 
+the Bank-1 dialogue, and about 30% of Bank-3 before he had to take a leave-of-
+absense to deal with some personal issues.  If anyone wishes to play some of the 
+fine works translated by Faraday, try SFC Villgust, Technos Samurai, or Phantasy 
+Star Gaiden, all produced by CTC teams!
+
+Braxton:
+
+Braxton did a lot of quality work on the DoaE-II Title Page, including the 
+conversion of "Tenchi wo Kurai" to "Destiny of an Emperor".  Brax also did the 
+sword, and "The Story of Zhuge Liang" logo.  That's the beauty of the CTC WWW 
+Board.  Usually, when someone posts a request for help, that call is answered.
+
+Robin:
+
+Robin is a good friend and a fellow RPG-lover, also from England, who is a 
+pretty darn good self-taught, Kanji-reading Japanese translator.  I asked Robyn 
+to look at the Kana-only DoaE-II bank script, after Faraday ran into conflicts 
+with his free time.  But DoaE-II has a lot of strange readings that are military 
+in nature, so Robyn and I worked it out that the most efficient use of his time 
+was to translate Kanji projects like Mystic Ark.  But Robyn was willing to 
+tackle the DoaE-II script, and to me, that makes him valuable part of the 
+effort.
+
+Michael Wishlow:
+
+Mr. Wishlow is either a con-artist or a thief.  At the very least, he is a 
+person of very low integrity, for I made a flawed judgment, myself, then Wishlow 
+completed the debacle by absconding with sixty U.S. Dollars ($60).  Times were 
+getting desperate for the project in late 1998 and early 1999.  Musashi was 
+coming through with Bank-2, but about the time Faraday got 30% through Bank-3, 
+and had to halt his DoaE-II work permanently, Jim Price's computer crashed and 
+he went incommunicado from the rest of us for several months.  Musashi and I 
+kept working on the translations, Chinese table file, etc.; and I kept 
+searching for more pool translators.  That's when I decided it would be worth 
+$60 (about the price of a high-end game cart), to "contract" with Wishlow for a 
+Bank-4 translation.
+
+(An excerpt from this transaction)
+
+Subject: Re: Translation of SuperFamicom RPGs
+Date: Wed, 10 Feb 1999 19:03:07 PST
+From: "michael wishlow" <abunaideka@hotmail.com>
+To: wildbill@aloha.net
+...
+>> >michael wishlow wrote:
+>> >>
+>> >> I have several contracts i'm working on so figure about a week for
+>> >> completion.
+>> >> Please send payment in either Cash or International Money Order.
+>> >> By the time it gets here,i'll most likely have the translation done
+>> >> and i'll send the completed work via E-Mail.
+>> >> I look forward to working on this.
+>> >>
+>> >> Send to: Michael Wishlow
+>> >>          109a Park Row
+>> >>          New Westminster,B.C
+>> >>          V3L-2J5
+>> >>          CANADA
+
+If any of my Canadian friends want to contact Wishlow about getting this money
+back, hop to it, and use the $60 to buy a game cart for dumping, or something
+similar....
+
+Demi:
+
+After being screwed by Wishlow, things started looking up again.  While working 
+in Japan, Demi found a complete full-color 208-page Strategy Guide for DoaE-II, 
+and mailed it to me when he returned to Ohio.  I scanned it into graphic form, 
+and send copies around to the various members of the team.  I even uploaded it 
+for a time, when much of CTC was hosted by Postman77 and his domain, the-liu.  
+This guide was invaluable, because it correlated Chinese ideographs of every 
+name and feature in the game (using Furigana), with their corresponding Kana 
+transcriptions.  This unlocked the door to a successful translation of 
+EVERYTHING in the game, especially warlord names, some of which were "mangled" 
+beyond recognition in their Katakana forms.
+
+Izack:
+
+Izack, a Destiny fan from Singapore, volunteered to be our Chinese translator, 
+and provided just about everything we needed in that area.  His biggest 
+contribution was translating all of the new Tactics in DoaE-II, and he did it 
+within mere days!  DoaE-II uses 50 Tactics, 22 of which were present in DoaE-I, 
+so that left 28 new ones, including 10 special battle array Tactics.  
+Additionally, Izack translated all of the warlord names from the Strategy Guide, 
+and helped immensely with the Weapons List, including conversions of weapons 
+with later era Japanese names, to appropriate Chinese weapons of the Ro3K 
+period.  He even suggested that we re-name an episode featuring a bottle of 
+Japanese Sake, to Chinese Jiu, which we happily did!
+
+Taskforce:
+
+One day, Musashi and I were talking about all of the setbacks, key among them, 
+Jim's mysterious disappearance at the very time when he was reporting progress 
+on an automated script insertion utility.  I realized that with over half of the 
+game already translated, I needed to do something to jumpstart the project.  I 
+made one more futile attempt to contact Jim, then went to one of my most trusted 
+and reliable workmates and friends in this hobby field, Taskforce.  TF and I had 
+already finished Villgust, and were planning Phantasy Star Gaiden.  Even though 
+I knew TF wasn't a history buff, or a big military strategy game fan, he was 
+certainly capable of writing a script inserter. So, I explained about Jim, and 
+asked TF if he would modify his Villgust inserter to load Bank-1, and possibly 
+2.  The rest (hee-hee-hee) is history!  To synopsize briefly, Taskforce picked 
+up a very early stage of possibly the hardest NES hack ever, and saw it through 
+to conclusion.  As such, he is the biggest hero of this project.  Eventually, 
+Jim did re-appear, and gave his blessing to TF taking over, but not before he 
+(Jim) saw my Chinese table file (many months in the making), posted at the 
+Destiny website.  Jim grabbed that table file and dumped all of the Chinese 
+warlord names for us, as such has been the unselfish spirit of our extended 
+Destiny team!  But much more is to be revealed about TF's work with Insertion 
+and Pointer Tools, his never-ending wrestling match with Substring Compression, 
+the dreaded "F2" Warlord List, and all of the other hacking chores he 
+accomplished.  Look in his technical notes (below) for much more information on 
+these details.
+
+Varkon:
+
+Sometimes, good things come in threes, and Godsend Number Two was soon to emerge 
+on the scene.  Shortly after Taskforce joined the project, I cajoled one of our 
+excellent Mystic Ark translators, Varkon, to translate that very Bank-4 that 
+Wishlow had been paid $60 to do.  Varkon, a former winner of a competition 
+called the Japan Bowl, proved to be a translating dynamo!  He believed that 
+translating one kilobye of DoaE-II script per hour was slow, but it's not 
+really, when compared to the 60 or more hours the rest of us spend editing, 
+preparing, and inserting that same 20 kilobyte script that took him about 20 
+hours to translate.  At first blush it might appear that the translator has
+the easiest job of all.  Not so.  All serious translating teams have learned
+(sometimes painfully) that projects go absolutely nowhere without serious,
+competent, dedicated translators.  The work is exhausting, and translator
+burnout is common.  But Varkon finished Bank-4 so quickly (and it became
+painfully apparent that Faraday wasn't going to return), that I prevailed upon
+him to finish the last 70% of Bank-3.  Once he settled down to it, Varkon flew through the rest of the script quickly, and just like that, most of the DoaE-II translations were completed, achieving our first huge milestone in this project!
+
+Jair:
+
+The third missing link in assuring completion was ASM hacking skills.  Taskforce 
+eventually loaded the four banks, while the rest of us beta tested, edited, 
+wrote FAQs, translated manuals, etc., but one of the the biggest bars to 
+completion (after bank-loading) was the ASM hacking necessary to alter the 
+routines that controlled how the names in the "F2" Warlord List were displayed 
+on Status and Battle pages.  The names displayed just fine in straight 
+dialogues, inserted as a process of not-so-simple variables, as most fell into 
+the realm of substring compression.  For this reason, editing and formatting 
+script required that all names reside entirely on one line of insertable 
+dialogue.  But the biggest challenge was displaying the Chinese (ideographical) 
+names in Pinyin (English), because each Chinese ideograph used four bytes, 
+stacked two-over-two, and the four segments were stored at random in a huge 
+Chinese font table!  In the simple chart below, the 12 c's represent the 
+segments (of three ideographs) that were available for each name conversion:
+
+cccccc                Zhuge_
+cccccc   to become:   _Liang    where:   _ is a blank space.
+
+Enter, Jair... yet another contributor to the Earthbound Zero Fundraise.  To 
+make a long story short, Jair volunteered to solve these conversion problems, 
+and actually did so during the Christmas holiday period of 1999.  As Taskforce 
+proclaimed on the CTC WWW board, "Jair is da man!"
+
+Yan Zhang:
+
+Yan Zhang is a student at a scientific and technical magnet school in Virginia, 
+and says he enjoys the Ro3K legend and games immensely.  During the earlier part 
+of 1999, I read a FAQ he started drafting for DoaE-I, then e-mailed Yan, and 
+asked him if he would volunteer to write an official DoaE-II English translation 
+Project FAQ and Walkthrough.  As of the time of writing this document, Yan's FAQ 
+is about 97% finished.
+
+Jainsafel:
+
+A really nice person from the University of Texas in Austin, who is working on 
+our project's official translation of the Destiny of an Emperor-II Game Manual.  
+The actual document was severely battered when I received it with the DoaE-IIj 
+gamepak, but still readable.  At the time of this writing, Jainsafe1's work is 
+still on-going, but her translations of some of the Tactics are printed in a 
+section below.
+
+Postman77:
+
+P77 was our Destiny (and CTC WWW board) host for about a year, allowing us 
+server space and access to his domain, the-liu.  We would still be with P77 had 
+his partnership not failed with the other server owners.  Hopefully, P77 says he 
+will be back in the server business sometime during the winter of 2000.
+
+Randy:
+
+A prince of a fellow who offered us a domain for the Lennus-II Translation 
+Project, and graciously granted the latitude to support a number of projects, 
+including a new home for Destiny and Magic Translations.  Thanks, Randy!  I hope 
+you will find some pleasure playing DoaE-IIe while we continue working on 
+Lennus-II.
+
+World-wide Destiny Fans (and fellow team members):
+
+All of you... you're the best!  Concerning DoaE-II, I've never had a crank e-
+mail from anyone, proving that a mature game and series like Destiny of an 
+Emperor also attracts a mature audience.  It's a real pleasure to share this 
+game's English patch with y'all!  To the dozens of people who have worked on 
+this game, offered help, and sent encouragement over the past year-and-a-half, I 
+hereby dedicate our Destiny of an Emperor-II English translation patch to ALL of 
+you!
+
+------------------------------------------------
+Tips for Playing Our English Version of DoaE-II:
+------------------------------------------------
+
+I don't want to divulge spoilers, but this game is a little different from the 
+original, so consider this section a "Tip" page, just like in the game manuals.
+
+(Note:  I rate the Nintendo-of-America version of DoaE-I a "G", whereas the Ro3K 
+novel and the DoaE-II Japanese script read more realistically, as to how 
+soldiers might act, fight, and speak while embroiled in a long-running war.  
+Therefore, as compared to DoaE-Ie, from NOA, I'd rate our game at least "PG", or 
+possibly "PG-13". But as I mentioned, there are some notable differences 
+between the original and DoaE-IIe, so here are tips to help players get off to a 
+good start.)
+
+1.  The first five warlords possess full suites of weapons and armor, but 
+players will need to use the Equip command before fighting, or even the little 
+"frito-bandito" types in the countryside will beat you to a bloody pulp in just 
+a few rounds!
+
+2.  Be sure to designate a Stratigist, or you will not be able to use your TP!
+
+3.  Equipable weapons are warlord-specific, instead of being fully 
+interchangeable.  Be careful when one general leaves the party, and another one 
+joins and inherits all of the old equipment.  You may need to visit the armory 
+to purchase a new weapon.
+
+4.  There is a Vault feature in this game, for storing excess items.  It is 
+located to the immediate right of the Save-Game desk in Headquarters Buildings.
+
+5.  There are many useful new items in DoaE-II, like Elixirs for restoring TP in 
+the field, and Tents for regaining both HP and TP.
+
+6.  Elixirs A, B, C, and D carried over from DoaE-I, but we did a more literal 
+translation than NOA, naming them Herbal, Copper, Silver, and Gold Elixirs.
+
+7.  Previously defeated warlords are not necessarily recruitable after you clear 
+a battle scenario.  The number of people you can rally to your side and/or keep 
+on the rolls at the Billetting Facilities are much more limited than in DoaE-I.
+
+8.  For increasing levels more quickly, you may use Training Gymnasiums in 
+various towns, but it's very expensive, and you can accomplish the same thing by 
+fighting in the countryside, plus earn much needed "Jin" (Gold).  When your 
+level is high enough, the Gym operator will tell you to seek a more advanced 
+facility.
+
+9.  ChiTuMa is available in this game, when Guan Yu leaves the Luoyang area with 
+Liu Bei's wives in tow, those fine ladies, Gan & Mi.  This is realistic to the 
+plot of the Ro3K novel, for Cao Cao gave Guan Yu the "Red Hare" in an attempt to 
+entice his continued service.  Try giving the horse to any warlord (starting 
+with Guan Yu).  Equip ChiTuMa and see what happens.  I guarantee, you'll like
+it, a LOT!
+
+10.  There are regular Steeds for sale in this game, too, but they are not used 
+to lure enemy warlords to your side, as in DoaE-I.  You will need to experiment 
+with Steeds to learn what they can do for you!
+
+11.  Many Scrolls are available, that can be read for effecting certain tactical 
+actions.  Some are special, essential to advancing in the game, while others are 
+handy for a one-time execution of standard Tactics in regular battles.
+
+12.  Significant new Tactics were designed for DoaE-II, so as soon as you learn 
+a new one, use it to see what it does.  Check our special Tactics Section for a
+brief description of some of those new Tactics.
+
+13.  A few familiar Tactics and Items are missing in DoaE-II, like Gui Huan and 
+Gullwing (the warping tools).  But the game is quite expansive, and if returning 
+to previously settled areas becomes necessary, the necessary avenues of approach 
+will be provided.
+
+14.  Unlike DoaE-I, most of the attacking and healing Tactics may be directed 
+toward either a single person or the entire group.  Manipulate the cursor 
+buttons to choose between single or multiple options. (Note: Some multiple 
+options are availably ONLY in battle mode.)
+
+15.  There are quite a few bugs in various emulators, whether playing Japanese 
+or patched ROMs, especially in battle mode.  I recommend fwNES V302 for the
+best emulation and fewest lockups.
+
+16.  There are also a few minor item bugs in both the Japanese and patched ROMs, 
+especially regarding Smoke Bombs.  This is either a CAPCOM glitch, or else we 
+need a new dump and/or better emulation support.  Use Save-States frequently to 
+safeguard against lockups.
+
+17.  The game begins in Xuzhou, when the Emperor and Cao Cao dispatch the 
+Brotherhood to chase down Yuan Shao, who is fleeing toward his own brother's 
+domain (Yuan Shu) of Jizhou, holding the Imperial Seal that he stole from the 
+ashes of Luoyang.  This is very realistic to the actual novel, except Xuzhou is 
+really Lu Bu's fiefdom, who appears in DoaE-II within the context of his 
+expected behavior, but in scenarios that are not necessarily in the correct 
+chronological order of actual history.
+
+18.  The subtitle of the game is "The Story of Zhuge Liang", who may have been 
+the greatest Chinese Tactician of them all.  Zhuge Liang is recruited about one-
+quarter of the way through the game.  Be careful how you go about waking him up!
+
+19.  Although the characters and castles are very similar in DoaE-I and II, the 
+plot is vastly different.  If you enjoyed DoaE-I, I believe you will LOVE DoaE-
+II.
+
+20.  There are some innovations in this game that became standard features in 
+SNES games, sequences that I never saw in an NES game until I played DoaE-II.  
+These tips are not all-inclusive, but should be helpful until Yan has finishes
+and releases his FAQ/Walkthrough.
+
+----------------------------
+The DoaE-II Tactics Listing:
+----------------------------
+
+You will need to master many of these tactics in order to advance and win the 
+game, especially those counter-tactics against certain enemy actions.
+
+I included the original Japanese translations in the first chart, so players 
+could see how similar (or misleading) they were, compared to the actual Chinese 
+definitions provided by Izack.
+
+* Also used in DoaE-I
+**Used in DoaE-I and loaded into DoaE-II, but not actually used in the game.
+
+Japanese Translation  Pinyin          Definition
+---------------------------------------------------
+1.  fire attack       *Lian Huo       Train Fire
+2.  hellfire          *Ye Huo         Hellfire
+3.  sweltering heat   *Yan Re         Sweltering Heat
+4.  heat-resisting    *Da Re          Great Heat
+5.  fire god          *Hou Shen       Fire God
+6.  water flask       *Shui Tu        Stream
+7.  river current     *Shui Xing      River
+8.  sea mine          *Shui Lei       Water Lightning
+9.  flood             *Hong Shui      Flood
+10. water current     *Shui Long      Water God
+11. choosing comfort   Luo Mu         Drop Wood
+12. choosing kill      Liu Mu         Wooden Stream
+13. falling rocks      Luo Shi        Drop Rocks
+14. stone throwing     Tou Shi        Catapult
+15. barrier            Ji Shi         Valley of Rocks
+16. army surgeon      *Chi Xin        Brave Heart
+17. copper shaman     *Tong Xian      Copper Shaman
+18. silver shaman     *Yin Xian       Silver Shaman
+19. well done         *Wan Fu         Perfect Recovery
+20. gold shaman       *Jin Xian       Gold Shaman
+21. adjournment        San Kai        Scatter
+22. deterrant force    He Yi          Crane
+23. put on a sword     Bai Ma         White Horse
+24. pharmicist         Heng Fang      Square (OFF/DEF up)
+25. cold/freeze        Yu Lin         Fish Scale
+26. self-protection    Feng Jian      Wedge
+27. clan               Yi Wen Zhi     Brotherhood
+28. drainage           Bei Shui       Backs to Water
+29. silence            Jing Mo        Silence
+30. divine             Ba Gua         Eight Diagrams
+31. back to beginning  Ce Jian        Tactics Reduction
+32. absorb            *Ji Mian        Immunity to Attacks
+33. separate          *Ce Mian        Immunity to Tactics
+34. poor plan         *Jie Ce         Undo Tactics
+35. assassination     *An Sha         Assassination
+36. impersonate       *Yi Xin         Suspicions
+37. alienate          *Li Jian        Alienate
+38. betray             Li Fan         Betray
+39. blasting Tool      Fu Sha         Morale Blow
+40. reject/denounce   *Bei Ji         Critical Hit
+41. reception          Chao Ma        Scold/Insult (Deride)
+42. mimic word         Wei Tui        False Retreat
+43. conclusion         Xue Lu         Retreat
+44. trust              Xing Luan      Break Concentration
+45. good luck          Chi Fu         Good Fortune
+46. sever repeatedly   Ce Fan         Reflect
+47. trap               Xian Jing      Trap
+48. total destruction  Jie Zhen       Break Formation
+49. kills poison       Sha Du         Cure Poison
+50. hot weather        Yan Dun        Smokescreen
+51. night watch        Suo Di         Shorten the Road
+52. scar               Zhao Gui       Resurrect
+53. return           **Gui Huan       Warp
+------------------------------------------------------------------
+
+Now, presenting Jainsafel's translation of the new Avalanche and Formation 
+Tactics, from the DoaE-IIj game manual...
+
+DoaE Manual Translation v1.1
+by Jainsafel
+
+-----
+
+pg. 35
+
+-----
+
+Avalanche Tactics
+
+Causes gigantic trees or rocks to fall from above and knock down the enemy.  
+However, it cannot be used when there are no mountains or hills nearby.  It can 
+be used against single enemies as well as the entire enemy group.
+
+-----
+
+Drop Wood Tactic        [Luo Mu]        (Consumes 4 SP)
+
+Causes a huge tree to fall above the enemies' heads, knocking them down.
+
+-----
+
+Wooden Stream Tactic    [Liu Mu]        (4 SP)
+
+With this powerful drop wood tactic, gigantic trees are made to fall like rain 
+and knock down the enemy.
+
+-----
+
+Drop Rocks Tactic       [Luo Shi]       (6 SP)
+
+Causes an enormous stone to fall from above the enemies' heads, crushing their 
+army.
+
+-----
+
+Catapult Tactic [Tou Shi]       (8 SP)
+
+Using a catapult, continuously launches stones which crush the enemy.
+
+-----
+
+Valley of Rocks Tactic  [Ji Shi]        (10 SP)
+
+Invites the enemy into a valley (or some such) with a blocked exit, and drops 
+huge stones and trees from above, knocking the enemy army down beyond all 
+recognition.
+
+-----
+
+pg. 41
+
+-----
+
+Formation Tactics
+
+Lu Bei's army, while fighting, can alter their attack and defense power, ect., 
+by means of their formation layout.  Ensure successful battles by changing your 
+formation according to the situation.
+
+-----
+
+Scatter [San Kai]       (Consumes 0 SP)
+
+The usual senario is that of a non-laid-out formation.  If you use this tactic 
+when your formation is laid out, then it will return to that regular state.
+
+-----
+
+Crane Formation [He Yi] (Consumes 8 SP)
+
+Loses defensive power in place of heightened attack power.  Its effectiveness is 
+particularly evident in battles fought on level ground.
+
+-----
+
+Square Formation        [Heng Fang]     (Consumes 12 SP)
+
+Raises both attack and defensive power, but agility becomes extremely low.  When 
+up against Bai Ma this formation becomes very weak.
+
+-----
+
+White Horse Formation   [Bai Ma]        (Consumes 8 SP)
+
+This was in "The Art of War": The art of war considers 'godspeed' an aim.  
+Should you lay out in this formation, attack and defensive power will not 
+change.  However, your agility will rise and you will probably be able to turn 
+the fight in your favor.
+
+The true value of this formation will be demonstrated when you employ it against 
+the enemy's Heng Fang Tactic.
+
+-----
+
+pg. 42
+
+-----
+
+Fish Scale Formation    [Ya Lin]        (8 SP)
+
+Decreases the Tactics success rate of your enemy by one-half.  Raises your 
+attack and defense power as well, but the attack power of the commanders on 
+either wing lowers to almost nothing -- though their Tactical success rate 
+rises.
+
+-----
+
+Wedge Formation [Feng Jian]     (16 SP)
+
+Attack power and agility rises quite a bit, but the attack power of the 
+commanders of either wing (the head and 5th unit of the line) become next to 
+nothing.  (However, compared to the other three units their defensive power 
+becomes the strongest.)  Especially effective on level ground.
+
+-----
+
+Brotherhood Formation   [Yi Wen Zhi]    (16 SP)
+
+Attack power and agility rise, but defense power goes down.  Effective on level 
+ground.
+
+-----
+
+pg. 43
+
+-----
+
+Backs to Water Formation        [Bei Shui]      (24 SP)
+
+A formation Tactic of life or death.  Attack power doubles, and fierce fighting 
+(a critical blow) occurs with more ease.  But in place of that, defense power is 
+lowered by half.  Can only be used if near a water-source.  Again, since you 
+certainly cannot retreat, if you need to, use San Kai then lay out in some other 
+formation.
+
+-----
+
+Silence Formation       [Jing Mo]       (32 SP)
+
+Temporarily erases your form while in front of the enemy, making it easy to 
+dodge enemy attacks.  Defensive power also doubles.  However, you become unable 
+to use Recovery Tactics.
+
+-----
+
+Eight Diagrams Formation        [Ba Gua]        (48 SP)
+
+The strongest Formation Tactic; said to have its origins in The Art of War's 
+antiquity.  We hear that it involves things called the Gates of Life and Death, 
+but no more details are known.
+
+-----
+
+Note:  Since I pasted this version of Jainsafel's translation work in this .nfo 
+file, she and Jair have teamed up to produce a color version of many of the 
+pages in the actual game manual.  This work can be accessed from the Destiny 
+website.
+
+----------------------------
+Taskforce's Technical Notes:
+----------------------------
+
+Well, I'm not really sure where to start.  There were many features in this game 
+that were not the usual fare for me, nothing at all like the translations I have 
+done in the past.  I will discuss these issues on a case-by-case basis.
+
+Pointers:
+
+Well, these were certainly fun!  The typical way a pointer works is 
+characterized by the usage of two bytes that point to an address in the ROM.  
+Typically, pointers fall within the current bank and are reversed.  Usually, the 
+last byte of the address is followed by its first byte, that can have a value 
+added or subtracted.  Well, the pointers in this game worked that way, but they 
+certainly weren't listed that way.  Instead, the pointer bytes were split into 
+two separate groups.  Within a given section, all of the pointer's second bytes 
+were grouped together first, then a similar group of their first bytes followed 
+them in the ROM.
+
+"So," you say, "what's the big deal?"  Well, for one thing it caused the 
+programming of insertion tools to be a lot more tedious.  That was a bit of a 
+challenge.  To begin with, just finding and identifying them was a big pain, 
+that is, until I finally discovered how they were stored.  Thanks go out to Jim 
+Price, for giving me a nudge in the right direction.  After I read his text 
+document, it surely speeded up the process of finding them.
+
+Substrings:
+
+I've examined a lot of games, but I have never seen a substring system as 
+complex as this one.  Let me explain how a substring works...  You store whole 
+words or groups of frequently used letters and symbols in one part of the ROM, 
+then use a couple of bytes to call them in your text.  This is a form of text 
+compression that is used to save bytes.  Let's say that you have the word "The" 
+150 times in a rom.  You make it a substring and use the bytes EA 02 to call 
+that word when you need it.  "The" contains three bytes, but the code to call it 
+uses only two.  Thus, you save one byte each time you call that word, a savings 
+of 150 bytes.  Those 150 bytes can now be used for fitting more text into the 
+game's dialogue.  This primitive, but effective form of pseudo-compression may 
+be a great tool for adding space to a ROM, but it's hell to program.  And with
+DoaE-2 having more than 1,000 substrings in the japanese ROM, they were a 
+real pain to deal with.
+
+Here is a comparison:  Breath of Fire II, an SNES game much larger than DoaE-2, 
+has only 256 of these substrings.  Theoretically, DoaE-2 has 4 times as many, 
+but we didn't wind up using 1000+ English substrings because our combinations 
+used more bytes on average.  I'd estimate that we still had about 700 or so, and 
+defining them was a Herculean challenge.  I think that DoaE-2's inserter is 
+probably the largest for any fan translation to date, although much of that is 
+just repetitious code, dealing with each case of substring insertion.
+
+The F2 Warlord List:
+
+As if 700 English dialogue substrings wasn't enough, the dreaded F2 Warlord List 
+also turned out to be a substring list!  Well, this was the hardest part for me.  
+I wrestled with how to get this to work for many an hour.  I would start to work 
+on it, then restart that work again, over and over it seemed.  Let me explain 
+why it was the hardest thing for me in the entire ROM:
+
+Problem 1:  It wasn't just the names in this list.  Each name was accompanied by 
+a list of statistics and other code that told the ROM what warlord picture to 
+display, what Chinese to print, etc.  Thanks to Jair, we were able to use the 
+Chinese bytes for English space, and still have enough room left over for the F2 
+(Pinyin) names of the warlords.  Otherwise, we would have run way short of 
+bytes.  As I mentioned, stored among the F2 data were the generals' Strength, 
+Agility, Intelligence, and a lot of other attributes.
+
+Problem 2:  F2 Pointers...  The F2 Pointers, as with the other banks, didn't 
+fall into the same order as the text did.  While the first pointer might lead to 
+the general listed first, the second one might point to the fourth general 
+instead of the second.  You might say this made the story a bit interesting, 
+especially during Alpha testing!
+
+I had to devise some way to keep all of those extra bytes intact and the 
+pointers properly straight, too, while being able to move things around so I 
+could fit in all of the English letters we needed.  Whew, that was quite a 
+chore!  I switched from manual to auto-insertion more than once, but finally 
+wound up using the auto method.  It wasn't quite as hard as I figured, but still 
+took some manual adjusting of the pointers to get it 100% accurate.
+
+Menu Expansion:
+
+I've done my share of this in the past.  The Gun first showed me this technique 
+in Villgust.  I quickly reverse engineered the patch he handed me and learned 
+the ins and outs of it for the Villgust ROM.  I took what I knew from there and 
+before long determined how it worked with the Game Gear, in Phantasy Star 
+Gaiden.  The NES, however, does not use the same screen mapping conditions as 
+the other two platforms, which have similar screen mappers (at least with the 
+games I did).  The NES horizontal and vertical start positions of a menu are 
+contained in the same byte for this game (and others I've seen, too).  This was 
+a bit different.  However, The width and height worked about the same, so after 
+I found that - and with a little help from a doc left by Jim Price - I figured 
+out how they worked, and put this task behind me.
+
+An Unexpected Problem:
+
+In December 1999, I lost the current source to the inserter and the most recent 
+I had was several months old.  There still remained one mistake, but I corrected 
+that manually when inserting.  Thank goodness it was far enough along that I 
+didn't have to rebuild it.  There was a lot of missing code in there that I 
+would have had to rewrite.  Luckily, the EXE I had was the current one, and was 
+usable.  Had it not been, this project could have been delayed even more weeks 
+or months.
+
+Conclusion:
+
+A couple of final notes:  This is the largest game I have done to date, topping 
+even Villgust.  The overall text size is about 100k, which is absurd when you 
+stop to consider that the ROM is only 512k total.  That's 1/5 of the total ROM, 
+unheard of, save for this game!  Villgust, which is twice its size, only had 
+about 85k total, if I remember correctly. (It will probably top it again later 
+this year when we rework the Villgust script.)  The inserter weighed in at a 
+final size of 400k.  That's just over 100k less than the ROM size.  The source 
+(which I do not have a current version of) was well over 2000 lines, and over 
+100k.
+
+- Thanks to Jim Price for the info he left about the game.  It really helped.
+
+- Thanks to my long-time teammates, Wildbill and Faraday, just because they are 
+good friends and we always look forward to working together on our next 
+project(s).  It's good to have you back, Faraday.  I'm sorry you had to go 
+through the loss of your father, Wildbill.  I've been there, and I know what 
+it's like.  I knew you're beginning to come to terms with it, and I hope that 
+fond memories are what stay with you in times to come.
+
+- Thanks to Jair, who has become a good friend as well.  He really saved our 
+butts on this project!
+
+------------------------
+Musashi's Project Notes:
+------------------------
+
+Destiny of an Emperor 2 is why I became involved in romhacking and translation.  
+I had run across Dragonsoft, an old translation site working on games such as 
+Romancing Saga 3 and Destiny of an Emperor 2. Once I saw the name Destiny of an 
+Emperor 2 I tried to contact the team in the hopes that I could assist them 
+somehow.  Well things didn't work out right away and I turned to other projects 
+to learn the ins and outs of both romhacking and translating.  Thus was born 
+Gaijin Productions. I personally have invested a great deal of time into 
+research the Three Kingdoms era and its related fields.  I've read several 
+version of the novel in addition to researching everything from Sino-Japanese 
+(Japan was called Wa) relations from that time, to Barbarian nations, to Han 
+society and culture, to Chinese methods of divining.  I am  also a history major 
+and have taken many courses in an effort to comprehensively study China (among 
+other topics).  While my knowledge of the Three Kingdoms era is not perfect, I 
+will say that it is comprehensive.  I've done more than play Three Kingdoms 
+themed video games and read poorly translated novelizations (though I admittedly 
+have done both to an extensive degree).  Game-wise, Destiny of an Emperor 2 is a 
+superb improvement over the first.  Working with the Destiny team has been an 
+immense pleasure and a learning experience.  I have attempted to keep the story 
+historically faithful without violating Capcom's own spin on things.  
+Unfortunately size limitations have forced us to butcher things here and there.  
+Despite the severe reduction of the scripts the game is still a Three Kingdoms 
+game, with all the bells and whistles.  What I do want players to realize is 
+that playing a Three Kingdoms game or reading a Three Kingdoms novel does not 
+make you a historian of the era.  If want to claim any sort of expertise in this 
+area I suggest you dedicate some time in a genuine academic pursuit of the era.  
+The internet and your local library will not do.  And remember that Destiny of 
+Emperor 2 is just a game.  Its purpose is not to teach you history, its to have 
+fun.
+
+---------------------------
+Jair's ASM Technical Notes:
+---------------------------
+
+I started work on Destiny of an Emperor II in the summer of 1999 and finished 
+around Christmas, six months and 63 pages of notes later.  I originally offered
+to try implementing a useful DTE, but Taskforce had a much more serious problem
+for me to tackle.  The original Japanese game stores two names for each warlord,
+the Japanese Katakana name and the Chinese name.  The Chinese names appear on
+the General screen, the army status screen, and the battle screen.  Taskforce
+quickly realized that these Chinese names could not be easily replaced.  That
+part of the game would have to be reprogrammed to load and display the English
+names.
+
+That was where I came in.  After many hours of disassembling, tracing, 
+experimenting, and head-scratching, I started to understand how the routine 
+worked, and I figured out how to load a single letter to the screen.  My first 
+attempt at a full routine failed to do anything useful, for reasons I don't even 
+remember offhand.  Discouraged and busy with schoolwork, I gave up for the time 
+being.  In December, my determination returned, partly out of pride and partly 
+because I didn't want to let the rest of the Destiny team down.  After a 
+torturous sequence of debugging, more experimentation, howls of bafflement, and
+occasional dances of joy (literally -- ask my roommate), it was finished.  The
+technical details are too long to explain here, although I do plan to write up
+my entire experience some day.  The routine begins at 7c043 for anyone
+interested in studying it.
+
+Working on DoaE-II was usually baffling and frustrating.  This was truly the ROM 
+from hell, at least to my beginning ASM skills.  On the other hand, this project 
+improved my abilities immeasurably.  And as wretched as I felt during the months 
+of confusion, I felt wonderful when I fired up the ROM that last time and saw 
+the battle screen come up with English names sitting properly in their places.  
+I was so thankful that God had blessed me with the skill and luck to succeed.  
+It was also wonderful working with such a great group of people!  I feel honored 
+to have been a part of this project, and I hope you all enjoy the game!
+
+Special thanks to:
+
+- loopy, for releasing the debugger-enabled build of loopyNES, without which I 
+simply would have failed.
+
+- The author of 6502.txt, which I constantly refer to for basic 6502 assembly 
+information.
+
+- Yoshi, for his NES technical documentation, a priceless source of information 
+about registers and the PPU.
+
+- Taskforce, for putting incredible effort and dedication into a game he doesn't 
+even especially like!
+
+- Wildbill, for working tirelessly to hold this project together and get it 
+done.
+
+- Everyone, especially those who have helped me over the years, those who hang 
+out and waste time with me on ICQ, and yeah ....  All you know who you are.  
+Yay!  ^_^
+
+-------------
+Team Summary:
+-------------
+
+Presenting: The DoaE-IIe V1.10 patch
+
+-----------------
+What's Been Done:
+-----------------
+
+--Everything that we know of.
+
+------------------
+What's Left to Do:
+------------------
+
+--Nothing that we're aware of.  (We did leave a few Chinese ideographical 
+nomenclatures on the status page that may or may not be changed in future patch 
+enhancements.)
+
+-----------
+Known Bugs:
+-----------
+
+--The occasional battle lockup with many emulators.
+
+--A CAPCOM or dumping glitch with the item-numbering system that occurs 
+sometimes with the Smoke Bombs.
+
+--A CAPCOM or dumping glitch involved with transferring TNT between warlords.
+
+-----------------------------------
+Additional Thank You's (Taskforce):
+-----------------------------------
+
+--Loopy.  Like Jair said, the loopyNES debugger allowed him to figure out what 
+the heck was going on in the indescribably screwy name-display routines.  
+Without it, that part of the project would have failed entirely and you'd be 
+seeing Chinese names on the battle and other screens!
+
+--YOSHi, for his NES technical doc, especially the section on the PPU.
+
+--The author of 6502.txt.
+
+-----------
+Conclusion:
+-----------
+
+Since this is a public beta, please let us know of any bugs other than
+occasional, unsolvable battle lock.
+
+Wow! The others and I (Wildbill) may have said it ALL already, but I guess the 
+most amazing thing is that we actually finished this sometimes frustrating 
+project, one of the best examples of teamwork I've ever been involved with.  
+Thanks to all of you.  It took us a long time to complete, but I feel it was 
+well worth the effort.  And now, here it is for all of us to enjoy forever!

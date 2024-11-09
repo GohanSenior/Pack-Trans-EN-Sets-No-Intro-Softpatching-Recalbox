@@ -1,0 +1,101 @@
+===========================================
+=============Star Wars (Namco)=============
+==========V 1.10 translation patch=========
+=============2009 Gil-Galad================
+============2009 Honookatana===============
+=======http://gilgalad.arc-nova.org/=======
+===========================================
+
+Game Details
+---------------
+Star Wars, the Namco version is a Famicom game released in Japan
+only. This game is based on the movie Star Wars IV: A New Hope.
+However, the story is quite a bit different in this game.
+
+You control Luke in planet based missions, using force powers
+along the way to get you to the end. At the end Luke will face
+a boss that is at first Darth Vader and then transforms into
+a native monster boss of the planet.
+
+Once you leave a planet, you will face many battles against Tie-
+Fighters on the way to the next planet. During this mission you
+will get a call from another main cast character, usually to come
+rescue him/her.
+
+At the end, Luke will pilot a X-Wing in an attempt to destroy the
+Death Star.
+
+Update History
+-----------------
+Version 1.10 - A number of improvements have been made. The force menu
+now uses single tiles instead of squishy tiles. The dialog has been touched
+up and some of the emulation compatibility problems have been worked on,
+to play mainly with Nestopia 1.37, perhaps in later versions of this
+emulator. English translation credits were also added to title screen.
+
+A big thanks goes out to Cahos Rahne Veloza for beta testing
+and offering suggestions to improve the patch. 02-08-2009
+
+Version 1.00 - First release.
+
+
+Patching Details
+-----------------
+1.)Use Lunar IPS to patch the rom. Or your favorite patching application.
+
+2.)Make sure the ROM name is Star Wars (J) (Namco).nes . The size of the ROM 
+should be 256 KB after being unzipped.
+
+Emulation Details
+------------------
+This game is a mapper 19 or N106. Use a NES emulator that supports this mapper.
+
+Known Issues
+------------------
+This game is fully translated and shouldn't have any issues. If there are any issues, 
+contact me and state the issue. A savestate and snapshot would be great.
+
+Tools used
+------------------
+FCEUXDSP
+NESten
+DCC6502
+Table Manager
+Tile Layer Pro
+Lunar IPS
+WindHex32
+Font Package by Toma
+EditPad Lite
+Atlas
+NJStar
+
+Credits
+------------------
+
+Honookatana - Japanese script translation.
+
+DarkDaiz - Suggested the PPU could be incrementing some of the tiles.
+
+sqpat - Read a Star Wars novel for Chewie sounds.
+
+bbitmaster - Death Star map. Continue mode hack.
+
+Sliver-X - Beta testing.
+
+Thaddeus - Beta testing.
+
+Cahos Rahne Veloza - Testing and suggestions.
+
+
+Authors of the above stated tools and emus.
+
+
+Contact Info
+-------------
+email: gil_galad752003@yahoo.com
+AIM: Klingo1000
+
+Futher Notes
+--------------
+This is a fan based game modification and is not affiliated with Nintendo, Namco, or any other company. This patch is not for sale and must be included with 
+the readme. Thanks and enjoy. 

@@ -1,0 +1,86 @@
+Daisenryaku Game Boy version 1.0
+completed 9/10/00
+
+Gaijin Productions
+http://gaijin.romhacking.com
+
+Warning:  Use this patch at your own risk, we are not responsible
+if it damages your computer, blows up your house, or lands you in jail.
+Also this patch is intended for people who own the game and would
+like to play it in the English language.
+
+Credits:
+
+Dave- Hacker, translator
+Joe (aka Look4sheep)- translator
+
+Thanks to:
+Joe whom help me spend many nights translating it, he did
+a big chunk of it, as well as Kasumi who helped translate
+some of the harder words.  Also I'd like to say thanks to
+Takamichi, Musashi, and Gideon Zhi.
+
+Usage:
+go into dos mode, place the rom and the IPS patch in the same directory
+and type IPS <rom name> <ips patch>
+
+ex:  C:\games\ips daisenryaku.gb dgb100.ips
+
+there.. that wasn't to hard was it.
+
+History:
+
+8/30/00- translated all text in game.. done.
+
+short history eh?
+
+Translation notes.
+I'm a big Daisenryaku fan, I was surprised that there was a gameboy
+version (there's a Daisenryaku for almost every console made).
+this version plays a bit differently.. I thought it'd be a neat and
+easy translation.. 
+This is the first translation I've fully completed, also the fastest
+I started work on it a bit over a week ago.
+However there were still problems, mainly with fonts that displayed
+sprites in some areas, and text that you'd probably never see
+when playing, but we fixed the font problem, and as for the text...
+we just translated it anyways.  
+If there's any bugs or text thats not translated (there shouldnt be)
+then email me at
+guardian_d@yahoo.com
+
+Also enclosed in this Zip file is a game faq, think of it as a mini
+strategy guide.  If you enjoyed this game be sure to check out
+other translations of Daisenryaku!
+
+Daisenryaku 2 for MSX
+http://www.bekkoame.ne.jp/i/takatemp/
+Translated by Takamichi, this version kicks ass!
+you have the choice of: USA, USSR, Sweden, Israel, India,
+Germany (east and west), as well as one where you can edit your own
+army!
+
+Daisenryaku for NES
+http://agtp.romhack.net
+Translated by Aeon Genesis Translation Proclimation 
+another great Daisenryaku series, this translation is rather recent
+so check it out!
+
+Daisenryaku for SNES
+www.gaijin.romhacking.com
+I'm also currently working on the Snes version..however don't expect
+it to be released soon =P
+
+other Daisenryaku?
+the only official Daisenryaku game that's translated is the Saturn
+version which came over to the US as Iron Storm, this one is set in
+ww2.  I've also had thoughts of translating the Genesis Daisenryaku
+(both modern and ww2 versions), and even the Saturn versions.
+A playstation version exists but I haven't had the oppurtunity
+to purchase one.  well thats all folks!
+
+
+
+
+
+

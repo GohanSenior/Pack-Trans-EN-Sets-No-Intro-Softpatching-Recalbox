@@ -1,0 +1,104 @@
+KingMike's Translation
+
+kingmike2001@hotmail.com
+
+Time Zone
+Patch v1.3
+Release date: 4/13/2001
+*********************************************
+Original Title: Time Zone
+Original Language: Japanese
+*********************************************
+These are the game credits, as I couldn't locate them in the ROM.
+
+Introducing
+  the Crew
+
+Game Created By
+  Kenji Iino
+
+Story Written By
+  Hideki Miura
+
+Backgrounds By
+  Hirofumi Hayashida
+
+Enemies By
+  Kouichi Yamada
+
+Characters By
+  Shingo Aoyama
+
+Music By
+  Hirohiko Takayama
+
+Drawings By
+  Gen Satou
+
+Supervisor
+  Yutaka Nakada
+
+Directed By
+  Mitsumi Murakami
+
+Encouragement From
+  Hisaki Katou
+
+English Translation
+  Tomato
+
+Thank you for
+  playing the game.
+
+Thanks to Chris Covell for fixing the title.
+*********************************************
+Contents of package.
+timezone.ips  : Japanese-to-English patch. Completed v1.0.
+timezone.txt  : This document.
+*********************************************
+Emulation Status:
+Tested fine in Famtasia.
+*********************************************
+
+What's done:
+ - All text inserted.
+
+What's left:
+ - I don't think anything's left
+*********************************************
+Updates:
+ v1.3 (4/13/2013)
+ - Inserted credits.
+ v1.2 (7/31/2001)
+ - Spelling fixed. Fixed one question that had a couple incorrectly
+   translated answers.
+ v1.1 (7/19/2001)
+ - Everything's done (that I know of).
+ - Chris Covell fixed the title colors for me. Thanks.
+ v1.0 (7/17/2001)
+ - If someone could fix the colors on the title, I'd be glad.
+ - Any misinserted text, let me know.
+
+*********************************************
+How to patch:
+ - Download this zip file.
+ - Download the game ROM. (I won't provide this. You find it.)
+ - Download LunarIPS (http://fusoya.eludevisibility.org/)
+ - Open LunarIPS. Pretty self-explainatory. Click Apply Patch. Browse for the original ROM, browse for the patch.
+*********************************************
+How to play:
+Walk with pad.
+Press A to jump.
+Press B to throw your hat (like a boomerang).
+Hold B to run.
+
+Collect Bells to advance the clock. When it reaches 12 o'clock, you get a skateboard that provides temporary invincibility. Though, it is harder to control your jumps on the skateboard.
+*******************************************
+Time Zone
+	(c) 1991 Sigma Inc.
+
+English Translation:
+	(c) 2001 KingMike
+
+No distributing the patch with ROM, either pre-patched, or in one zip.
+That's wrong.

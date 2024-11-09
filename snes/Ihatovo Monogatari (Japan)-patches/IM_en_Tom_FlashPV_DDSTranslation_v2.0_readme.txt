@@ -1,0 +1,63 @@
+The Stories of Ihatovo
+Patch Version: Two
+English Translation Patch Information and Credits
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+This patch is for Ihatovo Monogatari on the Super Famicom.
+The text and graphics have been translated from Japanese into American English.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both patches.)
+
+The patch has been updated to fix an error in the script.
+
+-----------
+  CREDITS
+-----------
+
+
+Hacking and testing:
+DDSTranslation
+
+Translation:
+Tom
+
+Graphics:
+FlashPV
+
+
+------------
+
+Comments from DDStranslation, the hacker:
+
+I hadn't heard of this game until Tom mentioned it, but I am glad to have played through it, experienced it, and help bring it to English speaking players.
+
+It was a short and simple project to work on between other large projects. And it was also nice to work on an adventure game. I still managed to learn and try out new things while programming on it as well.
+
+Tom and FlashPV did such great work with it, and I would definitely love to work with them again.
+
+
+------------
+
+
+Comments from Tom, the translator:
+
+The phrasing and spellings in this patch may differ from existing English translations of Kenji Miyazawa's work. I didn't consult any of them while working on this translation. I just translated everything in the game as I saw fit.
+
+This translation project was a nice break from the usual RPG stuff.
+
+It's always a pleasure to work with DDStranslation and FlashPV. I'm looking forward to working with them on another project in the future.
+
+
+------------
+
+Comments from FlashPV, the pixel artist:
+
+With this game, Tom found another obscure one so it'll be a new discovery for many people (including me).
+
+As always with DDS, you can expect top-notch hacking. Tom has done a great translation too, and I was in charge of a few graphic changes.
+
+I think we'll work together again and I hope you'll like our work. Thanks for reading this.

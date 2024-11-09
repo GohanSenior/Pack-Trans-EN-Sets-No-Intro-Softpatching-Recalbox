@@ -1,0 +1,87 @@
+=======================================================
+=====================Softball Heaven===================
+========================V 1.01=========================
+Genre: Sports
+
+Source language: Japanese
+
+Platform: Famicom
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Softball Heaven
+======================================================
+Background: 
+
+I was looking for something different to translate and
+thought maybe I'd do a baseball. So, I set out to find
+a baseball game that was fairly decent and I found the
+Japanese version of Dusty Diamond's All-Star Softball
+or Softball Heaven. What I found interesting was that
+the roster had a bunch of fantasy characters, critters
+etc. that were removed in favor of more human characters.
+
+Anyhow, this ended up being a fairly quick project that
+took perhaps less than a month for me to finish. Ryusui
+did a bunch of spot translations for me and Eien ni Hen
+translated the player and team names for me. FlashPV
+also designed and hacked the title screen for me.
+
+======================================================
+Version History
+======================================================
+1.0 - initial release
+1.01 - bugfix
+
+======================================================
+Patching Instructions
+======================================================
+There are two patches, one in the standard IPS format
+and one in the BPS format, you will need to download
+beat to patch the later or use the program Floating IPS
+instead. It can be found here:
+
+http://www.romhacking.net/utilities/1040/
+
+Apply either patch to the Japanese version of the game:
+
+Softball Tengoku (J).nes
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking, testing, editing
+
+Ryusui - spot translations
+
+Eien ni Hen - player and team names translation
+
+FlashPV - title screen design and hacking
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. September 2023.

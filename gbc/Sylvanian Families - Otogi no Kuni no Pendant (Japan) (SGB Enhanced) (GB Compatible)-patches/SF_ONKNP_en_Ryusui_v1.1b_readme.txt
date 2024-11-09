@@ -1,0 +1,201 @@
+===Sylvanian Families - The Fairyland Pendant===
+===============Version 1.1b Patch===============
+======Copyright 2007 Watercrown Productions=====
+========http://theryusui.googlepages.com========
+
+
+
+==CONTENTS==
+
+1.0: Introduction
+	1.1: What's New
+
+2.0: Contents Of This ZIP File
+
+3.0: Requirements
+
+4.0: Controls
+
+5.0: Known Issues
+
+6.0: Et Cetera
+
+
+
+==1.0: INTRODUCTION==
+
+
+
+"In all your journeys, have you seen
+the land beyond the mountains green?"
+
+
+Sylvanian Families - The Fairyland Pendant is my first complete translation patch. The full story of why I'm
+working on the project is fairly lengthy and is given on my website, so I'll dispense with it.
+
+
+Sylvanian Families is an RPG in the vein of games such as Harvest Moon or Animal Crossing. There are no
+monsters to fight, demons to capture or worlds to save: just people to make friends with, a landscape to
+explore and sidequests to uncover. There is a set objective, but you have an unlimited amount of time to
+reach it, so feel free to take it easy and discover everything the game has to offer.
+
+
+The game is based on a toy line which I wasn't even aware still existed until I learned about the Sylvanian
+Families video games. I've done research to try and keep the material presented in the game as close to the
+official English-language material as possible: all the character names have been verified as accurate, but
+some locations and concepts may be somewhat different. If you have any corrections you wish to notify me of,
+please contact me using the method given below.
+
+
+
+--1.1: WHAT'S NEW--
+
+
+Version 1.1 fixes numerous bugs and errors in the original 1.0 patch. Extra-special thanks to Shadowsithe
+for digging up all the errors I somehow managed to miss.
+
+Version 1.1b fixes a typo in the intro that somehow managed to remain unnoticed for six months. Special
+thanks to Spinner 8 for bringing it to my attention (and apologies for being too lazy to update the
+credits to reflect his contribution; I promise this will be rectified if I ever do another major update).
+The checksum has also been fixed, so emulators and other programs that are designed to take note of this
+(such as BGB, which was of immeasurable help in making sure the game's proportional font would work on
+actual hardware) will no longer issue a complaint or warning.
+
+
+
+==2.0: CONTENTS OF THIS ZIP FILE==
+
+
+
+This ZIP file contains the following:
+
+-Readme.txt (this file)
+-sf1v11b.ips (the translation patch in IPS format)
+
+
+
+==3.0: REQUIREMENTS==
+
+
+
+First and foremost, you must have a copy of the game ROM. If you have the actual cartridge, you can (with
+some technical expertise) dump the ROM yourself; otherwise, you can find the game on the Internet through
+Google or other search engines. The game is common on ROM sites under the (incorrect) title of "Sylvania
+Family"; searching for that title in conjunction with the word "ROM" or "ROMs" should help you find a copy
+in little time. DO NOT ASK ME FOR A COPY OF THE ROM.
+
+
+Sylvanian Families - The Fairyland Pendant can be played on any system that has a GBC emulator. In fact, if
+you have a flash cart, you can play the game on an actual system. DO NOT ASK ME WHERE TO FIND FLASH CARTS.
+(Because I don't know, either.)
+
+
+You will require an IPS patch program to apply the translation patch to the ROM. These are available for
+various platforms and most require no additional software installation; a quick Internet search should turn
+up a plethora of them.
+
+
+
+==4.0: CONTROLS==
+
+
+
+-Basic Controls-
+
+Directional Pad: Move Aster and scroll through menues.
+
+B Button: Cancel selections.
+
+A Button: Open menu, talk to characters, examine objects and confirm selections.
+
+Select Button: Use the GB Printer (or emulation) to print your current room layout or entries in the Flower
+Diary and Photo Album.
+
+Start Button: View the map (when available).
+
+
+-Title Screen-
+
+New Game: Start Aster's adventure from the beginning.
+
+Continue: Continue a saved game from where you left off.
+
+
+-Menu-
+
+Items: View your inventory and use items.
+
+Status: View statistics such as how many days of game time have elapsed, how many Dream Points you have
+accumulated, your current level, how many wilted flowers remain in Sylvania, and how many Dream Pieces
+you have collected. You can also use the BGM and SE options to preview the music and sound effects in the
+game, or set the speed at which text scrolls.
+
+Save: Allows you to save the game.
+
+Seeds: View the seeds and drops you have collected. You can also use the link function to trade seeds and
+drops.
+
+Furniture: View the furniture and house upgrades you have obtained. You can also use the link function to
+trade furniture.
+
+
+
+==5.0: KNOWN ISSUES==
+
+
+
+-There is a sign next to the eastmost entrance to Acorn Mountain that does not display any text when examined.
+This is a bug in the original game and is not a error in the patch.
+
+-Using the warp hole between the Flower Garden and Skyblue Fields will cause an error in the Musical Bridge
+minigame where asking Douglas to let you across will not move you to the proper side of the bridge. Asking him
+again will put you on the correct side. This is a bug in the original game and is not an error in the patch.
+
+-If one player cancels a trade while the link partner confirms, the confirming partner will recieve the
+item put up for trade by the other player and lose the item they offered; the cancelling player's items
+will remain unchanged. This is a bug in the original game and is not an error in the patch.
+
+-The "Hanauranai Jiten" ("Flower Language Encyclopedia", or "Flower Dictionary") is not available in this
+version of the translation patch. The sidequest in which you originally obtained it is still accessible,
+but the reward has been altered.
+
+
+
+==6.0: ET CETERA==
+
+
+
+The Sylvanian Families - The Fairyland Pendant translation patch has been in the works since mid-2005. Work
+was suspended for about six months, until January 2006, when I learned I could modify Klarth's Atlas to work
+through the script jumps that had hung up the translation process. The continuation of the project was
+primarily fueled by a sort of self-loathing resulting from my realization that I had become my worst enemy:
+my original intention was to translate the game directly, without regard for the official English-language
+material, and this behavior is exactly what incited me to vilify Tokyopop and Dark Horse for their
+non-translations of the .hack manga and novels and Trigun, respectively. I was a hypocrite, and this
+translation is my atonement for that hypocrisy.
+
+No small part of the credit for finishing this project goes to my utility "Burn My Dread", which even in
+its rudimentary, shambolic state was no end of help in ferreting out the last pesky script jumps, as well
+as fixing the more serious bugs Shadowsithe encountered. Eventually I hope to expand Burn My Dread into a
+full-fledged editor for the GBC Sylvanian Families games, and it may even see a public release. Keep
+visiting my website for further updates!
+
+
+If you have any questions to ask, bugs or typos to report, or inconsistencies to note feel free to contact
+me via Personal Message at:
+
+http://www.romhacking.net/forum/
+
+
+Sylvanian Families - Otogi no Kuni no Pendant is copyright 1999 Epoch. The English translation patch, beta
+version 1.0, was completed on October 17, 2006. Full version 1.0 was completed on December 12, 2006.
+
+The English Translation patch, full version 1.1 was completed on February 12, 2007. Special thanks to
+Shadowsithe for his extensive bugtesting work.
+
+Version 1.1b of the English Translation patch was completed on May 20, 2007. Special thanks to Spinner 8
+for spotting that typo.
+
+
+This patch is not to be distributed without this readme attached; otherwise, distribute it however you like.
+Enjoy.

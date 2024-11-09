@@ -1,0 +1,69 @@
+  ========================================
+  | SAIYUUKI WORLD 2: TENJOUKAI NO MAJIN |
+  |    English Translation Patch V1.0    |     
+  |           (C)2004 Pentarou           |
+  |          pentarou@gmail.com          |
+  |     http://www.pentarouzero.com/     |
+  ========================================
+
+
+  ================
+  | Introduction |
+  =============================================================================
+   Saiyuki World 2 is a decent platformer, based on Saiyuuki / Journey to the
+   West, in which monkey dude Songoku is collecting seven balls to give to
+   Buddha, for some reason. But the balls let him do shit like shoot fire,
+   spin his stick around and float around a bit on a cloud, so yeah. It was
+   released in the US as Whomp 'Em, with Songoku changed to a Native American
+   kid, a totem pole instead of Buddha and some of the enemies are different.
+   So this is a translation of what little text there was in the original.
+   Also, strictly it's Saiyuuki World, but the title screen says Saiyuki
+   because it looked crap with the extra U in there... hell, if Koei can get
+   away with it, I can.
+  ============================================================================= 
+   
+
+  ==================
+  | Status/History |
+  =============================================================================
+   Version 1.0
+   Everything done - title screen, level select screen and a few miscellaneous
+   bits of text, nothing major.
+  ============================================================================= 
+
+
+  =========================
+  | Patching Instructions |
+  =============================================================================
+   Download an IPS patcher from somewhere like
+   http://www.zophar.net/utilities/patchutil.html, and apply sai2-100.ips to 
+   a clean "Saiyuuki World 2 - Tenjoukai no Majin (J)" ROM image. Do not apply
+   it to any other translation or hack of this game.
+  ============================================================================= 
+
+  ================
+  | Known Issues |
+  =============================================================================
+   nothing.
+  ============================================================================= 
+
+  =================
+  | Patch Credits |
+  =============================================================================
+   ROM Hacking, Graphics: Pentarou
+   Stage Select Translation: Haeleth
+   Title font based on Klang (C) 1955 Will Carter
+   Subtitle font based on Semitalix (C) 1999 Toma
+  ============================================================================= 
+
+  =========================
+  | Original Game Credits |
+  =============================================================================
+   (C) 1990 Jaleco. All rights reserved.
+   Programmer: Hinjacder!, Noa.Shimura, Pilder Ojou, Prince·K
+   Designer: Jirocho·Nobu, Nowhere Man, Saboten·A, Tiger·Jet·H
+   Sound: Adios Amigo
+   Bug Chaser: Colus·Mizutani
+   Director: Magical Kura·1
+   Special Thanks to Jaleco All Staffs
+  ============================================================================= 

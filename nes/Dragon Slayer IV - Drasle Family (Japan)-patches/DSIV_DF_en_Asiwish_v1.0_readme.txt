@@ -1,0 +1,18 @@
+Dragon Slayer 4 - Drasle Family (J)
+Translation to English based on Japan rom which has a better & original title screen.
+
+Original Rom
+Dragon Slayer IV - Drasle Family (J) [!]
+MD5: 58B98A7EEED134EE0296437BFA69A21F
+SHA1: 4E04CB3906B7739AF4BEB400F9A07D77B48F36E6
+CRC32: E1539190
+
+Original Rom
+Dragon Slayer IV - Drasle Family (J) [a1]
+MD5: 3AF7943FC1F4BA8F8164992B7AE245F7
+SHA1: 9AAAAD6621EFBFE83BF78502421958C0FA6C75BE
+CRC32: 8870A286
+
+
+PS: The good rom seems to be [a1] rom (file head 7th byte = 41) rather than [!] one (file head 7th byte = 40). This patch would correct [!] rom file head.
+

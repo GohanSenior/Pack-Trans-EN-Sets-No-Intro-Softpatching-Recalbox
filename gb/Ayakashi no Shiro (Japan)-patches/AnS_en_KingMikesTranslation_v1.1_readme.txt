@@ -1,0 +1,122 @@
+The Castle Ayakashi
+v1.1 Beta
+December 13, 2018
+KingMike Translations, kingmike2001 at hotmail
+
+***********
+INTROUCTION
+***********
+Explore the Castle Ayakashi and the temples of four mystical Japanese monsters.
+
+This is a dungeon crawler for the Game Boy.
+A rather simple early release but quite fun.
+
+This patch is a beta patch.
+It translates all the text, but there may be some bugs and such I missed.
+
+****
+TEAM
+****
+I believe these are the contributors but if I am wrong, please send me a correct.
+KingMike
+ - Programming modifications, tools, translations
+It's been so long I can't recall, I think this was a machine-aided translation.
+I think filler helped with some spell stuff and the RHDN forum helped with fixing some stuff as well
+as the ending.
+FlashPV
+ - Title screen
+
+***********
+WHAT'S DONE
+***********
+Everything should be playable.
+
+************
+WHAT'S BUGGY
+************
+Translation on some names might be a bit off, please send me corrections.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+This is a BPS patch.
+Use Beat to apply it.
+
+****************
+EMULATION ISSUES
+****************
+This will probably work on most emulators, but I recommend bgb, ideally with accuracy settings on.
+This is an MBC2 game, and I've worked on a few of those to know they sometimes have trouble with the SRAM
+on that mapper.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+Control Pad - move forward, turn left or right, turn around 180 degrees.
+Select - nothing
+Start - show stats screen
+B Button - search (such as the ground or check for hidden doors), cancel
+A Button - open menu and confirm selections
+
+Menu
+----
+ Art - Use your secret techniques. When using an Art, you need to select which Level to use (you can learn
+  up to level 4 for most of them)
+ Item - Use an item. You can hold up to 16.
+ Map - See the map, once you've collected it for the current floor.
+ Rest - Take a rest?
+
+Fighting
+--------
+ Fight - Attack with weapons
+ Art - Use a secret technique
+ Defend - Take less damage
+ Items - Use an item
+ All-out - Auto mode
+ Flee - Try to escape
+
+Rest
+----
+ Between temples, your pal Kagerou can store items or allow you to save the game. You will also be
+ automatically healed.
+
+Spells
+------
+ Raijin - Attack one
+ Fuujin - Attack all
+ Shadow bind - Paralyze enemy
+ Hayabusa - Attack with a double
+ Kagerou - Raise evasion
+ Water mirror - Barrier to reflect attacks
+ Substitution - Make enemies attack each other?
+ Cicada Molt - Escape battle
+ Vajra - Recover HP
+ Vidya-raja - Recover poison
+ Angel's Robes - Float over pits
+ Wei-to - Warp to save point
+
+Items
+-----
+ Hemp Brush - Damage one enemy
+ Evil Brush - Damage one enemy
+ Shuriken - Damage all enemies
+ Cannonball - Damage all enemies
+ Poison Needle - Paralyze one enemy
+ Light Ball - Paralyze all enemies
+ Puppet - Puppet joins the battle
+ Smoke Ball - Escape Battle
+ Mixture Tin - Small HP recovery
+ Strong Tin - Bigger HP recovery
+ Dragon God Tin - Largest HP recovery
+ Antidote - Cure poison
+ Invisible Cloak - Avoid enemies
+ Key - Open doors
+ Crystal Ball
+ Map - Map of the maze
+
+*********
+COPYRIGHT
+*********
+Ayakashi no Shiro is (c)1990 Seta
+Translation (c)2009-2014 KingMike
+NO PRE-PATCHED ROM DISTRIBUTION.

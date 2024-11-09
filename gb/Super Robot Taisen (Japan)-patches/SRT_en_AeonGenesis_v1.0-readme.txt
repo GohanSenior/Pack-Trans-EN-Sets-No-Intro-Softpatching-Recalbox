@@ -1,0 +1,70 @@
+SUPER ROBOT WARS
+ENGLISH TRANSLATION V1.00
+Copyright 2007 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1. About Super Robot Wars
+2. Patch History
+3. Patch Credits and Contributors
+4. Known issues
+5. Application Instructions
+
+------------------------
+1.About Super Robot Wars
+------------------------
+The game that started it all! Super Robot Wars is a mecha crossover
+strategy/RPG. You get units from various Mazinger, Getter Robo, and
+Gundam TV shows all joining together to battle the evil Girgilgun,
+a world-destroying monster. There's really not much more to it than
+that, although interestingly SRW1 is one of the few SRW titles to
+support multiplayer.
+
+---------------
+2.Patch History
+---------------
+I started working on this... yesterday. Sort of. It's inherited work
+from strag0, who started on it many years ago, did a bunch of stuff,
+and released a "version .7" which was really only maybe 15-20% complete.
+In that respects some menu expansion had been done (although more had
+to be done before the patch could be considered complete.) I fixed up
+the unit and weapon lists - there were an awful lot of poor translations
+in there - and got the remaining text translated. It turned out that
+there was quite a lot of it, not just the Japanese story strag0 sent me
+a month or two ago. There was a fair chunk of system text, item and
+spirit move lists, and about 20K of combat text. Got that all taken
+care of though, and it looks a whole lot better now than it did before.
+
+May 20, 2007 - Initial Version 1.00 release.
+
+---------------
+3.Patch Credits
+---------------
+THE SUPER ROBOT WARS TEAM
+Gideon Zhi - Project leader, Romhacker, Research
+Tyria - Story text translation
+Ryusui - Title screen, system text translation
+Ian Kelley - Combat text translation
+
+The Old Guard
+strag0 - Romhacking
+Hiroshi - Assembly hacking
+FearGaia - Translation
+
+--------------
+4.Known Issues
+--------------
+--Occasionally in unit selection a unit's name will be too long
+  for the screen, and the end of it will get overwritten by another
+  unit or will run off the edge of the screen. Purely cosmetic.
+
+Please report any other bugs, spelling errors, and
+such on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are save games.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Simply apply with your favorite IPS patcher. I prefer Lunar IPS.
+

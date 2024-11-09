@@ -1,0 +1,11 @@
+How to patch.
+-Patch to the original Japanese rom using hash information. Apply to "unheadered" version of the rom using a program like FLIPS.
+
+Notes.
+I translated this from Spanish to English, not Japanese to English so had to change the patch info at the last minute. Actually I was using an older version of the rom that was still buggy anyways so it's good I found the correct rom to create a patch from. I was searching online and actually found out someone already created an English translation of CT3, but it's not hosted on this site.
+
+I mainly used Windhex and a Spanish table file to translate the game. Some of it was already in English so I just translated the rest. This is the first game I've translated so made a lot of mistakes at first like using text that was too long. I had to find the right words. I found out you can change the pointers so that helped in some cases where example I had to use more characters, etc. The username of the person who brought the idea to me was Mrrichard999. He unfortunately got his account suspended for arguing with the mods so I didn't mention him in the main page.
+
+The hardest part of the translation was changing "El Aire" to "On Air" when you select Kick-Off. You can't just change raw text. I had to open up the game with a tile editor and change the words pixel by pixel. Also, when multiple players try and steal the ball in the Spanish version they just use "y" and of course in Japanese it's only one character also so there was a real problem since I couldn't use "and" (too many characters). I had to open up the rom again with a tile editor and fortunately there was some unused Japanese characters so I just overwrote one of them with an English ampersand. Then I just pointed to this memory location.
+
+There's a couple minor bugs I'd like to go back and correct like changing Player1 PASS to Player1 passes, etc. But with Mrrichard999's help I corrected about 50 or more bugs to get a good English translation. I hope you enjoy!

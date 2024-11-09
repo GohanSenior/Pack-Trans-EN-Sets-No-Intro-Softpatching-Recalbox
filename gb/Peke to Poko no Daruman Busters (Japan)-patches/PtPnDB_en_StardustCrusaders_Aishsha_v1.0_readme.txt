@@ -1,0 +1,87 @@
+=====================Peke & Poko's====================
+====================Daruman Busters===================
+=========================V 1.00=======================
+Genre: Puzzle
+
+Source language: Japanese
+
+Platform: Famicom
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Daruman Busters
+======================================================
+Background: 
+
+I first found out about this game when I was browsing
+through games made by Birthday, a dev I had a hand in
+translating some of their games. The fact that it
+contained very little text made it even more
+appealing, but this game was nothing more than
+paid advertising for Fujiya company, a company
+that produces baked goods. Peke and Poko are their
+mascots in fact.
+
+As for Daruman, the name is derived from the Dharma/
+Daruma doll, which is a part of Japanese culture.
+The Darumen in the game actually kind of remind of
+those mucus from the Mucinex commericals. So if I
+were ever localize the title, maybe I'd go with
+Little Debbie's Mucinex Busters :D
+
+I guess it's pretty challenging as far as puzzlers
+go and gets harder as you progress. I was able to
+get around halfway done with the game and then
+I cheated for the rest.
+======================================================
+Patching Instructions
+======================================================
+The patch is in standard IPS or in BPS format and if
+patching with BPS you need to download
+byuu's beat patcher before the patch can be applied.
+
+http://byuu.org/programming/
+
+Apply the patch to the Japanese version of the game:
+
+Peke to Poko no Daruman Busters.gb
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated. I would like to point out that some of the
+text relating to searching and finding stuff might not
+work properly. I would love for someone to help confirm
+this for me.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking, editing
+
+aishsha - translation
+
+FlashPV - title screen and misc graphic design
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. December 2013.

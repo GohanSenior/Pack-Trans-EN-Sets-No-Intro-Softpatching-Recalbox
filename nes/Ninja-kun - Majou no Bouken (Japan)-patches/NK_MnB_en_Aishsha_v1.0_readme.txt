@@ -1,0 +1,50 @@
+=========Ninja-kun - Majou no Bouken==================
+==================V1.00===============================
+Genre: ACT/Platformer
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: aishsha@gmail.com/
+Web-site: aishsha.blogspot.com/http://yojimbo.eludevisibility.org/
+ 
+ 
+======================================================
+Ninja-kun - Majou no Bouken
+======================================================
+Background: Well, this is one of the releases kept on
+the backlog for 9 years. Nothing too special about this
+simple platformer-climb-the-mountain-save-the-world-
+kill-the-badguy-game except for the world and the bad
+guy which are not present here :)
+
+This game is very tightly related to the Jajamaru so
+we decided not to disrupt the franchise and release
+all of them in good ol' English (despite the fact that
+this one required close to no translation at all :))
+and under the same title so not to confuse the players. 
+
+The protagonist in the game is supposed to be Jaja's
+brother, but somehow we believe it's exactly the same
+red-thunderbolt mascot vigilante.
+
+The gaming process itself rotates around climbing the
+stage up-downwards and declassifying all the enemies
+on the way to pass further. Rinse and repeat! 
+
+Enjoy the playing and do buy the game, if you like it!
+
+======================================================
+
+Credits go to:
+aishsha - translation, additional hacking, testing.
+
+Pennywise - testing.
+
+======================================================
+
+
+Compiled by aishsha. August 2018.

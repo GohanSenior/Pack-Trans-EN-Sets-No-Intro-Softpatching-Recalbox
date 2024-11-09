@@ -1,0 +1,34 @@
+-------------------------------------------------------------
+-BlackPaladin's Super Dimensional Fortress Macross NES Patch-
+-------------------------------------------------------------
+
+***************************
+*Chou-Jikuu Yousai Macross*
+***************************
+
+I made another patch out of boredom while waiting for other translation work to be checked on.  This time, I did one for the NES/Famicom game, "Chou-Jikuu Yousai Macross" (Super Dimensional Fortress Macross).  This was one of three anime series that made up the show, "Robotech" in the 1980's.
+
+Patching Instructions:
+
+This patch comes in two flavors:
+
+Super-Dimensional Fortress Macross (English).ips (English Patch in IPS Format)
+Super-Dimensional Fortress Macross (English).bps (English Patch in BPS Format)
+
+I suggest using Lunar IPS for patch.  Use either patch, according to your personal preference.
+
+Be sure to use on a NES ROM (24,592 bytes) with a header and with a CRC Checksum of A3CA24D2.  Where to find said ROM is up to you.  I cannot tell you where to look for it.
+
+What changes have been done:
+
+Title Screen translated, of course
+Font Changed to a more futuristic font
+
+Special Thanks:
+
+MESEN Team (Used Hex Editor in MESEN Emulator)
+FCE Ultra Team (Used Hex Editor in FCE Ultra Emulator)
+Shouji Kawamori (He created Robotech)
+Namco (Programmer for the Famicom game)
+
+All credit to "Super Dimensional Fortress Macross" belong to Namco and their respective creators and programers.  This patch is mainly used for pure enjoyment for those who cannot enjoy this game.  All rights reserved.  (Please, don't come after me, Namco!)

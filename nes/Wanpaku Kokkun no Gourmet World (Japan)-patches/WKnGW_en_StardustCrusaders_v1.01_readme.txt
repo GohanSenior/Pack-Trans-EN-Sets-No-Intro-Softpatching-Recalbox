@@ -1,0 +1,93 @@
+======================================================
+===========Chef Cookie in Gourmet World===============
+======================V1.01===========================
+Genre: Platformer
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+     
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+Chef Cookie in Gourmet World
+======================================================
+Background: I began to consider this project after I had
+just finished doing a translation of another game programmed
+by Disco, which was very easy to do, and I saw that Chef
+Cookie was programmed by them as well. So I figured I'd
+add a side project for myself to work on on and off.
+As such it took me several months to finish it, but it's
+done now.
+
+This game was officially translated as Panic Restaurant,
+but it changes a lot of stuff and is quite frankly not
+that great of a localization. There was also a fan
+translation done over 10 years ago, but the title
+screen wasn't done and there were a few limitations
+in the translation that could've been fixed with
+some ASM hacking and a good debugger.
+
+Most of the translation aspects of this patch was
+made possible by a group effort on the forums. The
+highlight being Ryusui figuring out the meaning
+Kokkun, the name of the protag, which more or less
+means Cookie and the rest of the title came together
+quite naturally.
+
+A special mention goes to simonbelmont2 who very much
+wanted to see this game translated and through his efforts
+several aspects of the patch are thanks to him.
+
+There's also a HG101 article for the game, which should
+be checked out for those interested.
+
+http://www.hardcoregaming101.net/panicrestaurant/panicresturant.htm
+
+======================================================
+Version History
+======================================================
+
+1.00 - Initial Release
+1.01 - Despite my best efforts to not update, I made a few stupid errors.
+
+======================================================
+Patching Instructions
+======================================================
+Apply the patch to clean copy of the Japanese ROM:
+
+Wanpaku Kokkun no Gourmet World (J)
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - Hacking
+
+Paul Jensen - Dialogue Translation, Misc Translation
+
+Ryusui - More Translation Help
+
+sin_batsu - title screen design
+
+DvD - Additional Title Screen Design & Hacking
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. January 2013.

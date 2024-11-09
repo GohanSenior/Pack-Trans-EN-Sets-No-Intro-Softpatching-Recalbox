@@ -1,0 +1,25 @@
+*** Earthlight                  ***
+*** English Translation by Nezz ***
+
+Earthlight is a turn-based strategy game with a sci-fi theme. It's a spiritual sequel to Nectaris (Military Madness) developed by the same team.
+
+For the 30 scenarios of the campaign, the player guides the forces of resistance against the newly risen Galt Empire, using a variety of different unit types, such as mechs, bombers and capital ships.
+
+*** How to patch ***
+Apply the included patch file (BPS) to this ROM image:
+
+Name: Earth Light (Japan)
+CRC32: 727F1593
+
+The patch expands the ROM to 12 Mbits (1,5 MB).
+
+*** Version History ***
+v1.0:
+Initial release
+
+*** Contact ***
+Please report any bugs, problems or suggestions on the project's GitHub page:
+https://github.com/HoratioVex/Earthlight-1-Translation
+
+- Nezz
+5th of May 2024

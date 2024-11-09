@@ -1,0 +1,40 @@
+                             Moving Adventure Psy-O-Blade
+
+	              English Translation Patch
+
+==== Patching Instructions ==============================================================
+
+* get the ROM : Psy-O-Blade Moving Adventure (J) [!] (or any identical ROMs ; be careful,
+ some bad dumps exist) and make a copy.
+
+* unzip the psyoblade-1-0.zip. You get an ips file
+
+* patch the ROM with an IPS patcher. For example, LunarIPS was tested and works : you
+select 'Apply patch', then the ROM file, then the ips. Your ROM will be patched.
+
+
+==== Credits ============================================================================
+
+* Translation : Eien Ni Hen
+
+* Hacking : Tryphon
+
+* Proof-reading : PresidentLeever, boombafunk, goldenband and his wife.
+
+* Special Thanks : romhacking.net and Sega-16 boards.
+
+
+==== Versions history ===================================================================
+
+2014/11/04 : first beta version
+2014/11/06 : second beta version
+2014/11/25 : third beta version
+2015/01/03 : final version 1.0
+2015/01/04 : final version 1.1 - forgot to remove the hack easying the shoot'em up sequence
+
+
+==== Some further remarks ===============================================================
+
+* the Megadrive port is nicer than most of computer versions (if not all), but only the half of the adventure is present (seems like computer versions tells the rescue of Dr.
+Schutz on Earth).
+

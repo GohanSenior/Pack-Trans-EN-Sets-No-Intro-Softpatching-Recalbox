@@ -1,0 +1,55 @@
+Choujin Sentai Jetman English Version
+Version 1.00
+Released May 28, 2000
+
+Introduction
+------------
+
+I still have a hard time deciding if this is should be called a translation
+or merely a hack. But I guess if groups like Suicidal Translations can
+translate Sanrio games which hardly have any text and call them translations,
+I suppose I can do the same. =P
+
+
+Installation
+------------
+
+Just use the patch like you would with any other patch. Get IPS.exe,
+jetmanv1.ips, and the ROM for Choujin Sentai Jetman, stick them in the same
+directory so it's easier, and type something similar to this at the MS-DOS
+Prompt:
+
+ips jetman.nes jetmanv1.ips
+
+That should be it. Before I forget to put this in, there are also two
+'secret' modes, Hard and Very Hard. Have fun finding them. They should be
+easy to find.
+
+
+Unresolved Issues
+-----------------
+
+Everything looks nice and neat, except in battle mode, the boss names didn't
+fit, and I was too lazy to figure it out. The name of each boss is printed
+nicely right here.
+
+ -------- -----------------
+| Area A | Mirror Demon    |
+ -------- -----------------
+| Area B | Camera Demon    |
+ -------- -----------------
+| Area C | Bus Demon       |
+ -------- -----------------
+| Area D | Light Armadillo |
+ -------- -----------------
+| Area E | Time Mammoth    |
+ -------- -----------------
+
+
+Contact Information
+-------------------
+
+-magimoogle
+
+magimoogle@darkmazda.com
+http://magimoogle.darkmazda.com

@@ -1,0 +1,80 @@
+HERO CRONICLE: PROJECT OLYMPUS
+ENGLISH TRANSLATION V1.00
+Copyright 2019 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.  About Hero Chronicle
+2.  Patch History
+3.  Patch Credits and Contributors
+4.  Known issues
+5.  Application Instructions
+
+----------------------
+1.About Hero Chronicle
+----------------------
+Hero Chronicle is a crossover RPG featuring Gundam, Ultraman,
+and Kamen Rider properties. It's also adjacent to Super Robot
+Wars, featuring a few original Banpresto characters and Gilliam
+Jaeger's first ever appearance. I believe (although am not certain)
+that it was Banpresto's first ever RPG on the Super Nintendo, and
+from a timeline perspective takes place between SRW2 and SRW3,
+though not in the same world.
+
+---------------
+2.Patch History
+---------------
+Roughly two years ago I got it into my head that it would be fun
+to see the five main Compati Hero games (SD Great Battle 1-5) done
+and released all at the same time. SRW OG: The Moon Dwellers had
+released earlier that year - in English no less - and SDGB seemed
+like they would be good/important from a historical perspective.
+Hero Chronicle joined that list shortly thereafter.
+
+December 24, 2019 - Initial v1.00 release
+
+---------------
+3.Patch Credits
+---------------
+THE HERO CHRONICLE TEAM
+Gideon Zhi       - Project leader, lead romhacker, assembly work
+TheMajinZenki    - Script translation
+Fei              - Script edit
+Foxhack          - Title logo (used with permission from the author)
+
+--------------
+4.Known Issues
+--------------
+There are no known issues.
+
+Please report any other bugs, spelling errors, and such on
+on The Pantheon (http://agtp.romhack.net/pantheon/)
+Screenshots are preferred, as are SRAM saves.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+1.50 MB (12mbit LoROM) WITHOUT header. (*exactly* 1,572,864 bytes)
+No header.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "herochron.smc" make sure the patch
+is "herochron.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT
+HAVE A HEADER!. If you right-click the ROM and select Properties, it
+should read "1.50MB (1,572,864 bytes)". TUSH will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net/utilities/608/
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+have a header.
+
+Database match: Hero Senki - Project Olympus (Japan)
+Database: No-Intro: Super Nintendo Entertainment System (v. 20180813-062835)
+File/ROM SHA-1: 1C846FF08FF25325FBBEF1F9ACF10F6E73349F7E
+File/ROM CRC32: 789DA99C

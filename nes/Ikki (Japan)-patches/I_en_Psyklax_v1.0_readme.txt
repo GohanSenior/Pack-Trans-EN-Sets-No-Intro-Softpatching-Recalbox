@@ -1,0 +1,23 @@
+IKKI (NES)
+Translation by Psyklax
+v1.0 (20170601)
+
+I'll keep this brief: this replaces the Japanese title with
+an English transliteration. That's it.
+
+The WWWJDIC Japanese-English dictionary defines Ikki as
+"uprising (esp. in Japan since middle ages, e.g. peasant
+uprising)". The arcade original gives a backstory to the
+uprising, but since the NES can only support 32KB of
+programming data and a mere 8KB of graphic data (later games
+would use MMC chips to get around this problem), all of that
+is gone. So the only Japanese text remaining is the title,
+which I decided not to 'translate' due to the game's name
+being known well enough (and easy to pronounce). Changing
+the name would just add to confusion.
+
+This was a very quick and dirty job, but hey, there's
+another Famicom game translated. Sort of.
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

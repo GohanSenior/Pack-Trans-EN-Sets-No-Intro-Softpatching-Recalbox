@@ -1,0 +1,99 @@
+           ____   _      _     _  __ _                _               
+          / ___| | |__  (_)   | |/ /(_) _ __         | |  ___   _   _ 
+          \___ \ | '_ \ | |   | ' / | || '_ \     _  | | / _ \ | | | |
+           ___) || | | || |   | . \ | || | | |   | |_| || (_) || |_| |
+          |____/ |_| |_||_|   |_|\_\|_||_| |_|    \___/  \___/  \__,_|
+                                                      
+
+                                  Shi Kin Jou
+                                (Forbidden City)
+                               Instruction Manual
+                                     v1.00
+                                    
+-------------------------------- INTRODUCTION ---------------------------------
+
+Shi Kin Jou is a puzzle game released by TOEI Animation for the Famicom game
+system in 1991. It was enver officially released in English but was translated
+by Suicidal Translations and released on September 3rd, 2001.
+
+This file serves as an instruction manual for the translated game. It is not a
+translation of the original instruction manual but is an original work based on
+my experiences playing the game.
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+  I. Introduction
+ II. Table of Contents
+III. The Story
+ IV. Gameplay
+  V. Distribution Notes
+ VI. Conclusion
+
+---------------------------------- THE STORY ----------------------------------
+
+You've been locked in the dungeons of The Forbidden City for a crime you didn't
+commit. Now you must solve dozens of puzzles if you ever wish to escape the
+maze-like confines of The Forbidden City.
+
+---------------------------------- GAMEPLAY -----------------------------------
+
+As with most puzzle games, the play control in Shi Kin Jou is rather simple.
+The difficulty lies in figuring out the individual levels.
+
+General play control is as follows:
+
+Left/Right: move left/right
+      Down: move down
+        Up: move up
+         B: open the menu
+         A: undo your last move
+     
+When you bring up the menu with B, you have the following options:
+
+Reset: Redo the current level from the beginning.
+
+Theme: Select betwen the Vampire, Knight & Ninja themes. The only different is
+       overall look of each level.
+       
+Next: Skip to the next level (assuming you've completed the current level)
+
+Previous: Go back one level.
+
+Select: Jump to any level you've already achieved.
+
+Password: Enter a password to jump to the corresponding level.
+
+At the top of the menu, you'll see the stage # you're currently in. At the
+bottom of the menu, you'll see the password you can use to jump back to that
+level at a later point.
+
+----------------------------- DISTRIBUTION NOTES ------------------------------
+
+This Shi Kin Jou translation should be distributed in a file named skjv100.zip 
+and should contain the following files:
+
+	  skjv100.ips - the translation patch
+	shikinjou.txt - the readme file
+	  skj-man.txt - this manual
+
+All three files are (C)opyright 2001 by Suicidal Translations. All rights
+reserved. You may distribute this translation in any manner you desire as long
+as the original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Shi Kin Jou is (C)opyright 1991 by TOEI Animation.
+
+---------------------------------- CONCLUSION ---------------------------------
+
+So there you have it. The game itself is rather simplistic but the challenge is
+rather frustrating on some levels. I'm currently in level 82 as of the writing
+of this file and have no idea how many levels there are total.
+
+If you have any questions, feel free to ask. The official site of the Shi Kin 
+Jou translation is at http://www.pigtails.net/ST and you can find the most
+current contact information there as well.
+
+-InVerse
+
+-------------------------------------------------------------------------------
+Shi Kin Jou Manual       -      (C)opyright 2001 InVerse       -       09/03/01

@@ -1,0 +1,43 @@
+Dragon Ninja
+English Translation V 1.0
+Copyright 2010 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Dragon Ninja
+2.Patch History
+3.Patch Credits
+4.Known Issues
+5.COntact
+------------------------------
+1.About Dragon Ninja
+------------------------------
+Dragon Ninja is like an action/beat 'em up game for the NES. It was actually released in the US as Bad Dudes, which was probably it's intended name due to the words bad and dudes popping up in it. For whatever dumb reason they removed some text for pre-boss stuff. So now there's a patch that translates that stuff and everything looks great.
+---------------
+2.Patch History
+---------------
+
+
+---------------
+3.Patch Credits
+---------------
+Me - Hacking
+DarknessSavior - Translaion
+BRPXQME - Additional Translation
+ReyVGM - Testing
+--------------
+4.Known Issues
+--------------
+None!
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or check out my site at
+
+yojimbo.eludevisibility.org

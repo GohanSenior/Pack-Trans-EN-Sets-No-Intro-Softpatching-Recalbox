@@ -1,0 +1,232 @@
+Aretha II English Language Patch V0.91
+
+
+
+Introduction:
+
+	Japanese Developer:				Japan Art Media Co., Ltd.
+	Japanese Publisher:				Yanoman Corporation
+	Japanese Release:				December 02, 1994
+	English Patch Production:			Dynamic-Designs
+
+
+
+Dynamic-Designs Patch History:
+
+	V0.90:  Initial Dynamic-Designs Release:	February 24, 2020
+	v0.91:	Release to fix a bug stopping you	February 26, 2020
+		from pregressing past a certain
+		point. Also a handful of text
+		fixes.
+
+
+
+Dynamic-Designs Production Credits:
+
+	Project Coordination:				Wildbill
+	Hacking/Tools/Bug Fixing:			Bongo`
+        Assembly: 					Bongo`
+	Translation:					Filler
+	Translation Support:				Eien ni Hen
+	English Graphics:				Taskforce
+	Story Writing:					Wildbill
+	Final Script adjustments			Taskforce
+	Alpha Testing:					Taskforce
+	Beta Testing:					Draken, MariusB, and Bwah117
+
+
+
+NOT FOR SALE INFO
+
+This game in English or patch to make it English is
+NOT for sale under any circumstances!  If you paid
+for this game in any way, including in a cartridge,
+demand your money back immediately!  File a complaint
+with your credit card company and/or paypal as well!
+Especially if you obtained this game in cart form!
+
+
+
+Overview (adapted from https://www.mobygames.com/game/snes/aretha-ii-ariel-no-fushigi-na-tabi):
+
+The game continues the story of the young princess Ariel.
+After she rightfully regained her throne, people enjoyed
+a peaceful life under her benevolent reign. But this
+peaceful existence did not last long... Two adventurers
+who were wandering through mountains met a mysterious evil
+being, who threatened to ruin Ariel's kingdom. After that,
+the two men disappeared without a trace. Ariel's servants
+reported to her about the matter. After consulting her wise
+grandmother, Ariel decided to go out herself, to meet up with
+her old trusty companions and to find out the origin of the new
+threat.
+
+The game is a console-style RPG - you fight random enemies in
+turn-based combat viewed from first-person perspective. Enemies
+may attack you from the sides, and you should pay attention which
+enemy you face. A unique feature the game uses is the ability to
+get special items called "souls" after battles, and then to use
+them to forge your own armor.
+
+
+
+Bugs that are still in the released translation that may or may not ever be fixed.
+
+The save/load screens and several menu screens have graphical glitches on
+real hardware and all emulators except ZSNES.  It is HIGHLY recommended
+that you play this game on ZSNES only.
+
+Character naming screen is messy but the English alphabet
+works fine.  Changing to the English option on the naming
+screen first makes it look proper.
+
+Reflect spell name appears off screen during battles but can be
+selected and used normally.  You will notice the curser moves
+off screen.  The reflect spell can be used when this happens.
+
+The element crystals appear on the wrong line on the menu
+screen when you use the item Soul Crucible.  May also happen
+elsewhere.
+
+Sometimes a pointer ghost image might get left behind in the battle
+spell menu while moving around.
+
+During battle sometimes the text display at the top left can become
+messed up only displaying 1 letter.
+
+When you use the Aretha II Music CD item, the song list
+is garbled.  It was actually in English in the Japanese
+rom but Bongo` accidentally used that space for assembly
+code.
+
+Consult screen sometimes exits and sometimes doesn't.
+You can manually close it just fine however. This is
+an original Japanese cartridge bug.  
+
+The Black Onyx item does not work.  This is an original
+Japanese cartridge bug.
+
+All items will not appear for sale if you have too
+many items in your inventory.  This is an original
+Japanese cartridge bug.
+
+
+
+Caveat and Invitation:
+
+In a MAJOR departure from our previous policy, we are releasing an unfinished patch. This is due
+to both time factors and downsizing in the diversification of our production team. In no way are
+we suggesting anything but positive support for all of our highly dedicated and hardworking
+teammates in the past. It's simply that changing life circumstances for some of us have dictated
+the realities of where we find ourselves today.
+
+At this time, we active members of D-D cannot guarantee that we'll ever revise this patch in any
+way. This means we may never release a Version 1.00. At the same time, we're not saying we won't.
+As per usual, D-D will establish a feedback topic within the Aretha-II forum on our WWWBoard.
+After receiving the patch "as-is" and playing the game, if someone comes along who really loves
+this work and possesses the know-how to rectify certain technical issues, we will be standing by,
+ready and willing to discuss the matter."
+
+
+
+Production, Testing, and Thought Processes:
+
+I (Wildbill) have really enjoyed my part in creating this English patch. The quality of everyone's
+efforts leads me to the realization that everything we've achieved is due to a strong team effort.
+It's the dedicated contributions of each member who recodes, translates, designs fonts, redraws
+graphics, writes story scenes, and tests the developing product that ensures a successful conclusion.
+
+Let us add that anyone in the world is free to pursue this "not for profit" hobby. This means that any
+human who inhabits this planet has free rein to start in the same places we did and create stories and 
+finished products that suit their own personal interests, motivations, and tastes.
+
+-Wildbill and Taskforce
+
+
+
+Patching:
+
+Contained within this archive is an IPS (international patching system) file or a patch file in another
+format for the end user's convenience that when used in conjunction with a ROM file will make the
+game playable in English.
+
+Do note, as I touched on above, that this patch is a result of countless hours of love and labor.
+Hence, they are not meant to be sold at any price under any circumstance, be it in digital form or
+burnt into a donor cart's ROM chip.
+
+To patch the ROM file, one needs to procure a patcher for their preferred format, a widely available
+class of programs, many of which can be found at http://www.romhacking.net/ for one source.  A few
+can even be found on our download page for your convenience at
+http://www.dynamic-designs.us/downloads.shtml.  Search at the bottom under utilities.  We did not
+write these utilities.  We merely provide them as a convenience.
+
+At some point, ROM sites may upload pre-patched ROMs of our Aretha II translation. Obviously, Dynamic
+Designs cannot endorse playing these versions.  Neither will we support resolution of any associated
+problems. Moreover, pre-patched ROMs may float around the web for years.  Only by downloading
+patches containing just our original work from D-D's web site may gamers obtain revisions to these
+patches - if any - and take advantage of possible bug-fixes and corrections.
+
+
+
+
+Information pertaining to the Aretha II ROM:
+
+Country Japan
+Internal CRC 6129
+CRC32 FF63EC26
+MD5 0EE181FD933BE14CFA6D323FAE03AAE3
+SHA-1 1EB540648749F760EA23E6FB6C3AE3AD0B7CA1A5
+SHA-256 D31EA0A6F9B3EE78A724AD500F09E5F534CACF57166FF55198FD703CA1ED6F48
+ROM Speed 200ns (SlowROM)
+ROM Size 16 Mb
+ROM Bank LoROM
+ROM Type Normal + Battery
+SRAM Size 64 Kb
+Internal Title ARETHA2
+Company Yanoman               
+
+Size before patching: 2.00 MB (2,097,152 bytes)
+
+Size after patching: 3.00 MB (3,145,728 bytes)
+
+
+
+Notes:
+
+1. Not all ROMs will necessarily be patch-able with our file.
+2. If the ROM you attempt to patch has a header, you may need to remove it.
+3. A number of tools are available to remove headers: SNESTool, Smile, Toolbox, etc.  
+
+Alternatively, most emulators support a feature called soft patching, which keeps the ROM file
+intact, merging the patch data only during run time. To make use of it, make sure both the ROM file
+and the IPS are in the same directory as your emulator of choice and have the same name, but not the
+same extension. Do note that this is case-sensitive.  (Also, do note this soft patching is only
+available using the IPS patch file, and may NOT work with the other patch file formats.)
+
+i. e.:  ArethaII(E).smc and ArethaII(E).ips will trigger soft patching at the emulator's run time.
+
+
+
+Emulator Compatibility:
+
+This patched game works best in ZSNES. We only recommand ZSNES for 
+your playthrough.  All other emulators and even real hardware will
+present graphical glitches that don't show up on ZSNES, however the
+game is still playable on those other emulators or real SNES hardware.
+If you choose to ignore our recommendation, please do not report those
+glitches noted in the bug section to us.
+
+
+
+Special Thanks:
+
+The "usual suspects"! I am shocked, SHOCKED AGAIN, that we have finally released Aretha II - English!
+In the order of performing critical tasks, thanks Bongo`, Filler, Taskforce, Bwah117, Draken and MariusB!
+
+
+
+Dedicated to Bongo`.
+
+
+
+Readme 2020 Dynamic-Designs

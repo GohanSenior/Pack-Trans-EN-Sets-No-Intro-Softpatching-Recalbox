@@ -1,0 +1,204 @@
+MADOU MONOGATARI
+ENGLISH TRANSLATION V1.01
+Copyright 2004 Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Madou Monogatari
+2.Patch History
+3.Patch Credits and Contributors
+4.Known Issues
+5.Application Instructions
+6.How to Play
+
+------------------------
+1.About Madou Monogatari
+------------------------
+There is a common misconception that Madou Monogatari is
+an RPG based on Puyo Puyo characters. This is, of course,
+incorrect. The fact of the matter is that Puyo Puyo is a
+puzzle game based on Madou Monogatari characters, not the
+other way around!
+
+This particular Madou Monogatari is the very, very beginning
+of the story (although it is not the first nor the only Madou
+Monogatari title.) It stars young Arle Nadja as she attempts
+to earn an entrance certificate to her kindergarten final
+exam. She has to go all around the region looking for eight
+Secret Stones, which if brought to the peak of Sage's
+Mountain will grant her a wish. Naturally, she wants to wish
+for her entrance certificate!
+
+Madou Monogatari is hideously, sickeningly, absolutely totally
+disgustingly cute. Arle dances around in battles, snarfs curry,
+uses cookies to purchase items, and constantly mispronounces
+the word "certificate." But that's what makes it so charming!
+The game is fairly short -- 15 or 20 hours tops, and although I
+still haven't found Magic Staff Lofu or Magic Ring Rele as
+of this writing, I have found basically everything else. It's
+not particularly difficult, either, until you get to the final
+boss anyway!
+
+Do note that combat in Madou Monogatari is slightly different
+than in most similarly turn-based RPGs. First is the complete
+exclusion of physical attacks -- rather, you get four free
+magic spells which serve similarly (Fire, Ice Storm, Thunder,
+and Bayoen.) Some enemies are weaker against one elemental
+spell than the others (which is typical.) Also of note is
+that neither you nor the enemies have visible health gauges --
+you have to judge relative health levels based on textual
+messages that the game gives (and by how Arle dances, heh.)
+
+---------------
+2.Patch History
+---------------
+I've wanted to work on this ever since I first heard about it.
+After Necrosaro began to hack the game, I constantly nagged him
+about it, until eventually after a year or two of little or no
+progress, he just shoved everything at me and told me to do it
+myself. I was more than happy to do so!
+
+This was back in... either the fall of '01 or the spring of '02,
+I don't exactly remember. I managed to get the first file inserted,
+but not all of the script was translated, the font hacking wasn't
+100% perfect, and there were tons of other issues (such as compressed
+graphics) that would need to be taken care of. A few years later,
+we're here!
+
+August 4, 2004 - Version 1.01 Release
+Fixes:
+--Various typos
+--Graphic garble when using Magical Staff Papo in battle
+--Graphic garble when combining items into Maoliga's Medicine
+--Graphic garble when viewing Wanderlust item description
+Thanks to everyone who pointed out problems.
+
+July 19, 2004 - Initial version 1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE MADOU MONOGATARI TEAM
+Main Team:
+Gideon Zhi - Project leader, Romhacker
+Necrosaro - Initial romhacking work & ASM work
+Bansama - Translation
+Shivalva - Translation
+Ian Kelley - Translation.
+
+Special Thanks:
+BMF54123 - The superb "Curry Hut" and title screen graphics
+Matt Kendora - Help identifying a decompression JSL
+Shihtzu - Spot translations of small tidbits
+
+--------------
+4.Known Issues
+--------------
+--Brief garble when asked a yes-or-no question in battle (only
+  happens with two enemies)
+--Brief garble when first picking a song at the Dark Concert
+--Sukiyapodes' house is sometimes garbled on a copier, maybe.
+  Can be fixed by opening and closing the subscreen.
+
+Otherwise, there are no known issues. If you find any, please post
+about them on The Pantheon (http://donut.parodius.com/agtp)
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+2.00MB (16mbit LoROM), No Header (2,097,152 bytes).
+
+Verbose:
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "madou.smc" make sure the patch
+is "madou.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 2.00 MB (2,097,152 bytes)". SNESTool can remove
+your headers for you easily, and you can find it at
+http://rpgd.emulationworld.com
+In the utilities section, click on the IPS Tools link.
+
+An easy way to tell if the game has a header or not is that if you do
+the above and the game does not run, it probably has a header.
+Use SNESTool to add one. And don't whine about SNESTool not working in
+Windows XP, it works fine for me and I'm running on XP Pro.
+
+-------------
+6.How to Play
+-------------
+This is a brief explanation of the game's systems, as they are slightly
+different from your average two-cent RPG.
+
+The Adventure Screen:
+The top... 75% of the screen is a view of the world Arle lives in.
+Typical RPG stuff.
+
+In the bottom is a fancy display featuring nine orbs, Arle's portrait,
+and (at the beginning of the game, at least) an empty window. The orbs
+represent Arle's experience; when all nine glow, she gets stronger.
+Arle's portrait serves as a visual display of how much health she has
+left. If she appears to be in distress, it'd behoove you to heal her.
+The window on the right, opposite Arle's portrait, will eventually
+fill with items that can be used to do different things, such as play
+a flute or shatter a loose floor. Only one can be used at a time;
+toggle through them with the L and R keys and use them with the Y
+button.
+
+Please note that you can also press the select button to bring up
+a map of the world the game takes place in. While it's displayed, you
+can also press the X button to toggle through three options for viewing
+the map -- one will show you where each of the Stones can be foud, another
+will show a some places you can visit, and the third will show different
+regions.
+
+Subscreen:
+
+In the top right, you'll see two icons, a little bag and a little circle
+with eyes. The number next to the bag tells you how many cookies (the
+game's currency) you currently have. The little circle is a Puyo Pie,
+and tells you how many Pies you currently have. If Arle is ever injured
+in battle, so long as she has at least one Puyo Pie, she will be restored
+to full health.
+
+The icons all along the bottom of the screen represent various commands
+you can perform in the subscreen. To view an explanation of any of them,
+place the cursor on top of it and press the "X" button.
+
+The Report Card:
+
+The Report Card shows how Arle's strength is progressing in relation
+to the game. Beneath her portrait is a textual description of how strong
+Arle's gotten; it will range from "So weak!" to, at least, "Kinda Scary"
+and perhaps even "Mad Munchkin", although I personally have never
+attained Mad Munchkin status and believe me, I've tried. Beneath Arle's
+name are bar-graph (flower chart?) readouts of how each of her main
+parameters are progressing, and beneath that are visual representations
+of all of the special items you've collected.
+
+The right-hand half of the report card shows how many of the Secret Stones
+that Arle's found, as well as which spells she's learned and, where
+applicable, how strong those spells have gotten.
+
+The Battlefield:
+
+Battle behaves similarly to most turn-based RPGs, although it never
+actually shows how much damage you do -- instead, it gives you a
+description of the monster's (and Arle's) current status and you have
+to judge for yourself how strong or weak you and your opponent are
+based on that. Again, if you're ever confused on what the icons do,
+simply press X when the cursor is over an icon to get a description
+of what it does.
+
+Occasionally, after you meet him, Carbuncle will show up in battle and
+do... something. Both his appearances and actions are random, and I
+have yet to figure out whether they actually serve any purpose other
+than to make the game that much cuter.
+
+SUPER BONUS FEATURE
+If you're strong enough and hold L or R when entering a battle,
+you'll be able to skip it and gain cookies and experience from it anyway!

@@ -1,0 +1,277 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Akumajou Special - Boku Dracula Kun 
+  Demon Castle Special - I'm Kid Dracula!
+  English Translation Patch
+  Version 1.04
+
+  Created by Vice Translations
+   part of Foxhack.net
+             http://www.foxhack.net/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CREDITS
+-----------------
+ Kitsune Sniper
+  Game hacking, font insertion and preliminary translation.
+  Email: kitsune_sniper [at] hotmail [dot] com
+
+ KingMike
+  ASM suggestions [also my personal savior]
+
+ Akujin
+  Main Translator
+
+ D-Boy, Ian Kelley, Tomato
+  Secondary translation
+
+ Scheurbert [http://www.lvl99.com/]
+  Title and ending screen design
+
+ORIGINAL EFFORTS BY:
+-----------------
+ Kalas [kalas@bellsouth.net] //Hacker & Translator
+ DarkMazda, Faraday          //Translators
+
+
+Project History:
+-----------------
+July 2, 2009
+ I received some information from an emulator coder who told me that
+ the hack that removed the protection from the game caused a crashing
+ bug in his NES emulator. This was back in 2008, I just uh, kinda sorta
+ forgot about it until earlier this month. Note that functionally there's
+ no real changes between 1.03 and 1.04 - the only difference between
+ both patches is two bytes. While the original patch worked on normal
+ NES systems (via flashcart or repro carts), there's no guarantee that the
+ same patch would work properly on clone hardware. Better safe than sorry!
+
+ I also updated Scheurbert's website info! He was the guy who
+ designed the English title screen and game ending screen. Go visit him,
+ he's an awesome graphic designer who works out of Australia.
+
+November 8, 2007
+ Fixed the missing Konami code message. Try entering it at
+ the title screen...
+
+December 24, 2003
+ I really, really, REALLY suck. GOD. I forgot one damn thing
+ in the last patch - the ending! Apparently I worked over
+ an older version of my work, and that did not include the ending I
+ had inserted.
+
+ Sooo, Dave DiGiorgio informed me of the problem on October 31.
+
+ Yes, I know it's been two months. Shut up. Go play Patlabor or something.
+
+October 11, 2003
+ Not all was finished in this patch.
+
+ Up Up Down Down Left Right Left Right B A Start.
+
+ That is all.
+
+January 5, 2003
+ Well, I'll be damned.
+
+ I'm done.
+
+ Everything has been translated! Special thanks to King Mike for telling
+ me about the ASM routine that was messing up the game when I hacked the
+ title. I also found the hidden text, which wasn't really encrypted, it
+ just used a -VERY- different encoding method. So, I spent all day
+ finishing up the patch. And here's the result!
+
+ There may be some bugs left; if so, please report them to the email
+ address above. Thank you all! :D
+
+October 31st, 2002
+ Two years later I churn out this crappy patch for ya'll. This new version
+ completely translates the bonus games, and all the text up to the fight
+ with Garamos.
+
+ Sadly, neither the ending nor the boss dialogue are done. Not enough
+ time to do this. Yes, two years weren't enough. :P Seriously, it appears
+ that the game uses... evil 6502 protection. So I can't hack the title
+ screen nor the text used in Garamos' speeches.
+
+ Eventually I'll get to that. But I decided to release this patch as thanks.
+
+ Believe it or not.
+
+August 1, 2000
+ I found the pointer table! ^^ Time to get that translation going!
+ 
+July 02, 2000
+ Kalas, the creator of the original patch contacted me, asking why I did not use
+ his original translation as a base for my own project. He has authorized that I
+ use his patch as a basis to help me understand the game. So now, some more parts
+ have been translated to english!
+
+June 27, 2000
+ I was wandering around The Whirlpool's "Dead NES Translations" section 
+ and I found that a person named Kalas had already made a patch for the game.
+ I had no idea that the game had been hacked previously, so credit will be given:
+ The original project was created by Kalas, DarkMazda and Faraday.
+
+ This patch does not contain anything from that original patch, mmkay? However, 
+ I'll try to contact the original author to inform him of my decision.
+
+June 17, 2000
+ I got bored. Really bored. So I started to play some roms that I had
+ obtained in one of my usual rom binges. I found this little jewel by 
+ mistake; I thought that it was Castlevania 2 Japanese! That game is being
+ translated by Gideon Zhi, so don't ask me about it.
+ Anyway, it's a really nice game in my opinion, so I started messing with it.
+
+Version History:
+-----------------
+ Version 1.04, July 2, 2009
+  Maintenance release - fixes a possible crashing bug on certain emulators
+  (and possibly on real hardware). See notes above for more details.
+
+ Version 1.03, November 8, 2007 [7947 bytes]
+  Fixed missing text that appears after entering the Konami code
+  at the title screen.
+
+ Version 1.02 FINAL, December 24, 2003 [8513 bytes]
+  I'm DONE, REALLY! GOD. I suck.
+
+ Version 1.01, October 11, 2003 [8380 bytes]
+  Up up down down left right left right B A noise if you're right Start.
+
+ Version 1.00a, January 5, 2003 [8352 bytes]
+  EVERYTHING'S DONE! GO PLAY! ... Also, I fixed the game over screen. Hee. ^^;
+
+ Version .65, October 31, 2002 [5345 bytes]
+  The bonus stages and the quiz level have been translated. Other than that...
+  nothing has been touched. Not the endings nor the boss text. Sorry.
+
+ Version .26, August 01, 2000 [2984 bytes]
+  This is just a small bugfix regarding some font editing, there's nothing new.
+
+ Version .25, July 04, 2000 [2972 bytes]
+  The 'Got X attack' messages have been translated. I also fixed the 'Continue' screen.
+  And finally, I fixed a display bug in the status screen. 
+
+ Version .15, July 03, 2000 [2724 bytes] *not released*
+  I have translated the 'Game Start/Password' screen and the Password Screen.
+  Nothing much, it seems... However, the game is now mostly cavespeaked!
+  Oh, and if you beat the game, wait until after the credits, and the Konami logo,
+  to find something from myself...
+
+ Version .101, June 23, 2000 [1115 bytes], released June 28, 2000
+  All of the original status bar editing has been replaced with a cleaner, nicer
+  font. [Pokémon Trading Card Game's 3x7 uppercase font]
+
+ Version .10, June 18, 2000 [1137 bytes]
+  I've added all the remaining attack names, and the word 'STAGE' in the
+  status bar.
+
+ Version .005, June 17, 2000 [733 bytes] 
+  *unreleased due to cancelled interview with Spinner 8*
+  The only things I've messed with are the "Game Over" screen and the attack
+  names. Don't worry, the game's text is intact. Nothing has been cavespeaked.
+
+
+
+What's left
+-----------------
+  Nothing... or so it would seem.
+
+
+Game Notes:
+-----------------
+  This is a game starring Kid Dracula. He appeared in a Game Boy game titled
+  Kid Dracula [What an original name, neh? =P]. The game itself got huge 
+  praises in Mexico's official Nintendo Magazine [Club Nintendo]. Hell, I even
+  had a poster of it! But I never saw it here. I haven't even found the GB rom yet! 
+
+  If you've played the Parodius or Wai Wai World series, you already know
+  what to expect. In this game, Konami makes fun of the Castlevania series,
+  by sending at you horrible enemies, like teenage witches, aliens, ducks in bath
+  robes, skating girls, an SD version of the Grim Reaper, and "The Little
+  Sister of Frankenstein's Monster". The first stage takes place in Count 
+  Dracula's castle, so you may find some parts familiar.
+
+  After you finish a stage, you get a new attack, and you can spend your coins
+  in 4 mini games: A slot machine, a lottery, one involving three girls dancing
+  Can-Can =D, and one that has something to do with a skeleton in a barrel?!
+
+Emulator notes:
+-----------------
+  FCE Ultra runs the game... but it seems to have some problems with it, it lags
+  sometimes when you run the game [even the unhacked version]. It still plays fine,
+  but it takes a while to get used to it. Famtasia Version 5.1 runs the game fine
+  as well. None of the Nester variants will run the hacked game. It may crash some
+  of them, so be careful!
+
+  And no, this doesn't work in Nesticle. Jeez.
+
+
+Game Controls:
+-----------------
+  Left     - Makes your character move to the left.
+  Right    - Makes your character move to the right.
+  Up       - Makes you aim/shoot upwards [with the B button];
+             Makes you climb up a ladder.
+  Down     - Makes you crouch.;
+             Makes you go down a ladder.
+  Select   - Changes the attack.
+  Start    - Pauses the game.
+  A Button - Makes you jump. Depending on the time held, you jump higher/farther.
+  B Button - Makes you shoot;
+             If held, you can shoot one of two special attacks: If you let go of it
+             before the face grins completely, you will shoot a big fireball, if you
+             let go of it when the face grins completely, you will get the Power Attack;
+             it is different depending on the attack.
+
+
+
+
+
+A very special thanks to:
+-------------------------
+Takasugi Shinji - Your tutorial got me started in learning japanese in an easier way, and those 
+ java programs that show how to write kana are excellent! 
+ Domo harigato, muchas gracias, thank you sooooo much!
+ http://www.sf.airnet.ne.jp/~ts/japanese/index.html.
+
+
+Copyrights
+-----------------
+ The original Kid Dracula patch was created by Kalas, DarkMazda and Faraday.
+
+ Akumajou Special - Boku Dracula Kun, and all related names
+ and characters are trademarks of Konami. 
+
+ SpiderMan is a trademark that Konami broke when they included him in the game.
+ Think I'm kidding? Wait 'till the city scene!
+
+ Nintendo Entertainment System, Famicom, Pokémon and all other related names
+ and indicia are Copyrighted to Nintendo.
+
+
+Usage License
+-----------------
+ You may host this patch on your website, provided that you do not charge
+ a fee to access it. You may not distribute this patch with any other files,
+ such as a website URL or a "Downloaded From" notification, or worse, the game
+ ROM image itself.
+ 
+ You may not modify the patch in any way, including using this patch as a
+ basis for another translation patch, without my express consent. (There's
+ nothing wrong with asking for permission!) I know I can't stop anyone from
+ doing this, but I'd prefer it if you asked me so I can provide some data
+ files and whatnot. My only request is that you credit the original script
+ translators first.
+ 
+ Game reproductions using this translation patch ARE allowed, as long as
+ there is very little profit involved. So selling copies of this game on eBay
+ isn't kosher, but making repros is fine.
+ 
+ Disclaimer
+-----------------
+  There is no videogame company or any other company associated with
+  Foxhack.net. In no event shall the patch creators be liable or responsible
+  for any damages that may occur from direct, indirect or consequential
+  results of the ability or disability to use or misuse any material it provides.

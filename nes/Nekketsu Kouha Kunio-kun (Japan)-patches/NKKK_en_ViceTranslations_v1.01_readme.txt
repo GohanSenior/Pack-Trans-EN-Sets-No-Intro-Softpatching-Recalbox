@@ -1,0 +1,105 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  River City Ransom ZERO (Nekketsu Kouha Kunio Kun) 
+  English Translation Patch
+  Version 1.00
+
+  Created by Vice Translations
+             http://vice.parodius.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CONTENTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1 - Version History
+
+2 - People who worked in this project
+
+3 - Notes
+
+4 - Standard Disclaimer Text
+
+5 - Trademarks
+
+--------------------------------------------------------------------------------
+1 - Version History:
+--------------------------------------------------------------------------------
+Version 1.01 [Size: 4494 bytes / CRC32: cebb2327
+             MD5: a9a2214c714236949a0c9635b362bdb9 /
+             SHA1: 4706408bdd38270b9882357349760483b3f0e037]
+             (January 26, 2005)
+ -Modified and centered title screen courtesy of z80 Gaiden.
+
+Version 1.00 [Size: 4413 bytes / CRC32: c97dd701
+             MD5: 0a6c15b9920275901e8697246858adcc /
+             SHA1: 8d21844de4a98cd0e82142a7651b7553ec4141e9]
+             (January 26, 2005)
+ -Everything's done.
+
+
+
+--------------------------------------------------------------------------------
+2 - People who worked in this project
+--------------------------------------------------------------------------------
+ Kitsune Sniper -
+  Game hacking, font insertion and preliminary translation.
+  Homepage: http://vice.parodius.com/
+  Email: kitsune.sniper[AT]Gmail[DOT]com
+
+z80 Gaiden -
+  Title screen hacking.
+
+ EienNiHen -
+  Main script translation.
+ 
+ Tetsuo, Tomato
+ Other translation.
+
+--------------------------------------------------------------------------------
+3 - Notes
+--------------------------------------------------------------------------------
+  This should be fully done. I'm fairly sure that everything is translated (and
+  by that, I mean the title, the little bit of text when you win or lose, and
+  the character names).
+
+  Note though that there are two signs in the background that I did not touch;
+  why? Well, the game takes place in JAPAN, people. This isn't a Funimation / 
+  4Kids-style translation, which changes everything in sight... no offense to
+  those that like those translations, it's just that I find their method of
+  translating signs a bit... ugly.
+
+--------------------------------------------------------------------------------
+4 - Standard Disclaimer Text
+--------------------------------------------------------------------------------
+  There is no videogame company or any other company associated with
+  Vice Translations [be it current or former members]. In no event shall
+  Vice Translations be liable or responsible for any damages that may
+  occur from direct, indirect or consequential results of the ability or 
+  disability to use or misuse any material it provides.
+  
+  In other words, you'd better own the cart for the rom that you're patching
+  [insert hysterical laugh here], and if something goes wrong, don't blame me!  
+
+  Also, this patch must never be distributed with the rom. The zip file must not
+  be modified in any way, including [but not limiting to] archive renaming,
+  adding a file to the original zip [like a file that indicates where you got
+  the zip file], and the like. And for Christ's sake, DO NOT DISTRIBUTE THE
+  FUCKING PATCHED ROM.
+
+  DO YOU HEAR ME, COWERING?!
+
+  If you post this file, or news pertaining to the file in your website [be it
+  an emulation news site, or a fan site] please notify me so that I may give
+  your site a visit! ^^
+
+
+--------------------------------------------------------------------------------
+5 - Trademarks
+--------------------------------------------------------------------------------
+
+ Nekketsu Kouha Kunio Kun, all related names, indicia and characters are 
+ trademarks of Technos. Copyright 1987 Technos Japan. All other names and
+ programs mentioned in this  document are trademarks of their respective owners.
+
+ Patch (C) Kitsune Sniper. Title screen hacking (C) z80 Gaiden.
+ Patch not for sale or rental.

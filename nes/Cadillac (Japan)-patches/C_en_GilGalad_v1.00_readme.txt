@@ -1,0 +1,85 @@
+===========================================
+=================Cadillac==================
+==========V 1.00 translation patch=========
+=============2009 Gil-Galad================
+============2009 Steve Martin==============
+=======http://gilgalad.arc-nova.org/=======
+===========================================
+
+Game Details
+---------------
+Cadillac is a playing card puzzle game featuring several
+women that try to take every last bit of money from you.
+The object of the game is to clear all of the cards from 
+the board at the end of the deck in order to win the level.
+You can continue to play even if you do not wish to win the
+level. In this case, you will earn and lose money on the same
+level.
+
+In order to play the game, you need to get poker hand combinations
+as the cards fall from the top. Such combinations include; flushes,
+straights, 3 of a kind, 4 of a kind. In order to get four to five card
+combinations, they need to be gotten horizontally and not vertically.
+
+This game can be somewhat challenging for a simple puzzle game.
+
+
+Update History
+-----------------
+Version 1.00 - First release. 02-15-2009
+
+
+Patching Details
+-----------------
+1.)Use Lunar IPS to patch the rom. Or your favorite patching application.
+
+2.)Make sure the ROM name is Cadillac (J).nes . The size of the ROM 
+should be 64 KB after being unzipped.
+
+Emulation Details
+------------------
+This game is a mapper 3. Use a NES emulator that supports this mapper. This
+game has glitches and flickering at times that is common for this game.
+
+Known Issues
+------------------
+This game is fully translated and shouldn't have any issues. If there are any issues, 
+contact me and state the issue. A savestate and snapshot would be great.
+
+Tools used
+------------------
+FCEUXDSP
+DCC6502
+Table Manager
+Tile Layer Pro
+Lunar IPS
+WindHex32
+EditPad Lite
+Atlas
+NJStar
+Cartographer
+
+Credits
+------------------
+
+Steve Martin - Japanese script translation.
+
+sqpat - Beta testing.
+
+Onyxyte - Beta testing.
+
+rveach - Cheat code to beat game.
+
+Authors of the above stated tools and emus.
+
+
+Contact Info
+-------------
+email: gil_galad752003@yahoo.com
+AIM: Klingo1000
+
+Futher Notes
+--------------
+This is a fan based game modification and is not affiliated with Nintendo, Hect, or any other company. 
+This patch is not for sale and must be included with the readme. Thanks and enjoy. 
+

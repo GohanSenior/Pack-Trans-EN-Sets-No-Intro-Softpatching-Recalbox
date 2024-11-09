@@ -1,0 +1,45 @@
+Panorama Cotton English Translation
+Version: 1.0
+Released: 2019-03-02
+
+Patch Instructions
+-------------------
+
+This is a standard IPS patch which you can apply with any IPS utility like LIPS or Floating IPS.
+Apply the patch to the correct ROM.
+
+ROM Info:
+	Name:  Panorama Cotton (Japan).md (or .gen)
+	CRC32: 9E57D92E
+	MD5:   422a285546a9755df77da2840fb2c817
+	SHA1:  63D9B71CFE0B7AAA6913AE06C1F2547D6D2AAE5C
+
+Known Issues
+------------
+
+-In the final ending message, if you press a button to show all the text right before the first screen, the text on that screen will not appear (present in the original game).
+
+
+Contact
+--------
+
+To submit feedback, either PM me or email me here with Panorama Cotton in the subject: green_jaed@yahoo.com
+
+Credits
+-------
+
+Hacking: Malias
+Translation: SamIAm
+Testing: Malias, SamIAm, lastdual, GHANMI
+
+Changelog
+---------
+
+Release 1.0.1
+-Fixed checksum
+
+Release 1.0.0:
+-Inserted new text routines
+-Inserted new text
+-Inserted replacement graphics
+-Changed behavior of ending messsage

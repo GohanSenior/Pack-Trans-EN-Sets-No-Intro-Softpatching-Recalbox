@@ -1,0 +1,70 @@
+  ==================================
+  |         PARALLEL WORLD         |
+  | English Translation Patch V1.0 |     
+  |        (C)2004 Pentarou        |
+  |       pentarou@gmail.com       |
+  |  http://www.pentarouzero.com/  |
+  ==================================
+
+
+  ================
+  | Introduction |
+  =============================================================================
+   Parallel World is an action/puzzle-ish game - if I tell you you can press
+   the select button to commit suicide, you've probably already got a decent
+   idea of what it's about. Overhead view, block pushing, that sort of thing.
+   You have to kill enemies by crushing them with blocks to get a key, then
+   use said blocks to create a path from one of the white blocks you can climb
+   on to the now-open exit. and that's it. there's 20 worlds of this, plus what
+   seem to be two unfinished ones you can only access by cheating. all the
+   worlds are based on some theme - there's a beach, one in space, and a bar,
+   none of which have any reason to be near each other, or within the castle
+   the kids just unquestioningly ran up to. hell, it's a parallel world, it
+   doesn't have to make sense.
+  ============================================================================= 
+   
+
+  ==================
+  | Status/History |
+  =============================================================================
+   Version 1.0
+   Title screen and credits done, that's it.
+  ============================================================================= 
+
+
+  =========================
+  | Patching Instructions |
+  =============================================================================
+   Download an IPS patcher from somewhere like
+   http://www.zophar.net/utilities/patchutil.html, and apply para-100.ips to 
+   a clean "Parallel World (J)" ROM image. Do not apply it to any other
+   translation or hack of this game.
+  ============================================================================= 
+
+  ================
+  | Known Issues |
+  =============================================================================
+   None.
+  ============================================================================= 
+
+  =================
+  | Patch Credits |
+  =============================================================================
+   Graphics & Translation by pentarou
+   Title screen font - SHOTARO 2go AL © 2000 Maniackers Design / Masayuki Sato
+   Special Thanks to Haeleth
+  ============================================================================= 
+
+  =========================
+  | Original Game Credits |
+  =============================================================================
+   Concept: Chappy Yamada
+   Director: Hiikun
+   Planner: Ma, Yoshikun, OKAPY, Vario
+   Graphics: Poo Yamada, Chodo AOyama, Fukuchan, Ichirou Kanno, IKEchan, NAKAJI
+   Music: Takayamasan
+   Map: Akiramenai
+   Bonus: Tagasan
+   Program: Saito, Myoou
+   (C) 1990 Varie Corporation
+  ============================================================================= 

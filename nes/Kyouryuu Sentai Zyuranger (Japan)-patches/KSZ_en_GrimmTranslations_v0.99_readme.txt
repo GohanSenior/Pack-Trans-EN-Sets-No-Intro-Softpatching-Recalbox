@@ -1,0 +1,21 @@
+Kyouryuu Sentai Juuranger
+Patch Version: 0.99
+
+How to patch:
+Grab your favorite patching program (I use Lunar IPS), as well as an
+unmodified original Japanese version
+(GOODNES name Kyouryuu Sentai Juuranger (J)).
+Once you have both, open up the program, and select Apply IPS.
+Select the patch (Zyu.ips) and apply it to the original ROM.
+
+Fire it up in your emulator, and enjoy.
+
+Note: This game has only been tested in the FCEU emulator. I can't garauntee it works in any other emulator.
+
+Special thanks to: Redcomet, and Eien ni Hen.
+
+
+
+Questions? Comments? Bugs? Typos?
+E-mail me at mefredbob@gmail.com
+http://danktrans.110mb.com/

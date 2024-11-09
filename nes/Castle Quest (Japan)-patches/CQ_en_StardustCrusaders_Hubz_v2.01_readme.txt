@@ -1,0 +1,146 @@
+=====================Castle Quest=====================
+====================Deluxe Edition====================
+=========================V2.01========================
+Genre: Strategy/Card/Chess
+
+Platform: Famicom
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Pennywise/Hubz
+
+E-mail: yojimbogarrett@gmail.com
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+Castle Quest
+======================================================
+Background: 
+
+This is an improved translation patch a few years in
+the making based on the work of a one Hubz, who took
+it upon himself to translate and provide a complete
+patch for the game a few years back.
+
+Finishing this patch was a long and arduous process
+due to the original programmer's insistance on
+redundant code and hard-coding the majority of the
+text's pointers into the code itself instead of using
+something normal like a table. On top of that, the
+programmer also put his name in RAM in another
+bizarre twist.
+
+Some technical details of the new patch include expanded
+text due to automatic pointer updating and text compression.
+The passwords were expanded from 8 to 10 characters and
+various expanded text boxes. The cherry on top of all this
+was figuring out how to access secret content that probably
+only the devs knew about until now.
+
+======================================================
+Version History
+======================================================
+V 2.0 - Initial release
+V 2.01 - Bug fix patch
+
+======================================================
+Hints, Secrets and Other Misc Crap
+======================================================
+After you beat each level, you are given a password.
+The english passwords are as follows:
+
+Level 1 : Daikon
+Level 2 : Cucumber
+Level 3 : Radish
+Level 4 : Potato
+Level 5 : Pimento
+Level 6 : Lettuce
+Level 7 : Taro
+Level 8 : Parsley
+Level 9 : Lotus
+Level 10: Wasabi
+Level 11: Cinnamon
+Level 12: BokChoy
+Level 13: Cabbage
+Level 14: Squash
+Level 15: Celery
+Level 16: Onion
+Level 17: S.Potato
+Level 18: Burdock
+Level 19: Asparagus
+Level 20: GreenPea
+Level 21: Pepper
+Level 22: Corn
+Level 23: Spinach
+Level 24: Cauilflowr
+Level 25: R.Radish
+
+There are also a number of special names you input on
+the name entry screen to access bonus/secret content.
+They are:
+
+Tarot
+Demo
+Cumin - Brings you the ending
+Morikyuu - Brings you to a special 26th level
+Portrait
+Pics
+Sound - Brings you to a sound editor mode
+Ohkubo - Brings you to a secret message
+Masato - Something weird happens
+You can also get something special by leaving your name blank
+
+======================================================
+Patching Instructions
+======================================================
+The patch must be applied to the Japanese version of
+the game. It's usually called:
+
+Castle Quest (J).nes
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+The final patch was not tested extensively, so if you
+find any errors, please let me know. If someone wants
+to provide me a full write up of the sound editor mode,
+I would appreciate it.
+
+=======================================================
+
+Credits go to:
+
+Pennywise - Hacking, editing
+
+Hubz - Original hacking and production
+
+John Rosewicki & Mathieu Charette - Original translation
+
+Eien ni Hen - Additional text proofing and editing
+
+Paul Jensen - Misc spot translations
+
+aishsha - Misc spot translations
+
+LostTemplar - Misc spot translations
+
+FlashPV - Title screen design
+
+DvD - Sound mode graphic help
+
+danke - testing, music mode write up
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. November 2012.

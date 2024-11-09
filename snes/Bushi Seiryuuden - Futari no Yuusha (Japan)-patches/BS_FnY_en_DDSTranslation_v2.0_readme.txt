@@ -1,0 +1,51 @@
+
+Warriors
+Legend of the Blue Dragon
+~The Two Heroes~
+
+Translation Patch (Version 2)
+
+
+Version Two
+  - Changes some tutorial dialogues from button pauses to delayed auto-closing,
+      which should fix player input not responding as expected.
+  - Fixes dialogue windows that may display incorrectly if every single tile is used.
+  - Rearranges load menu labels to account for the longest save location name.
+  - Adjusts text centering code to be better centered.
+
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+Target file specifications:
+Filename:  Bushi Seiryuuden - Futari no Yuusha (Japan)
+File size: 3.00 MB (3,145,728 bytes)
+CRC32:     62D31295
+
+
+This patch is for Warriors: Legend of the Blue Dragon on the Super Famicom.
+The text has been translated from Japanese into American English.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both formats of patches.)
+
+The target Japanese ROM must have a size of 3.00 MB (3,145,728 bytes),
+and have a CRC32 checksum of 62D31295.
+If not, the patch will not work as intended.
+
+
+
+-----------
+  CREDITS
+-----------
+
+Translation:
+Tom
+
+Graphics:
+FlashPV
+
+Programming:
+DDS
+

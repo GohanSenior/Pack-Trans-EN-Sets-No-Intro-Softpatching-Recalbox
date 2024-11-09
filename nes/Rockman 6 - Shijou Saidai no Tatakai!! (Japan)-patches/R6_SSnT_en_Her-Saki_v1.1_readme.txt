@@ -1,0 +1,31 @@
+=====================================
+              Rockman 6
+   The greatest battle in history!!
+ 
+   English version by Saki - 2019
+=====================================
+
+Bug report/contact: hersakiarc@gmail.com
+
+======================
+Description:
+======================
+While playing the game for the first time,
+I decided to do something with it, and this
+is the result. There wasn't too much to do,
+except maybe for the subtitle.
+Additionally to the translation, I changed some other
+things like "Mobile" to "Speed" and stuff.
+
+======================
+Patching:
+======================
+Open Lunar IPS and patch it
+to a headered Japanese rom!
+
+======================
+Changelog:
+======================
+1.0 First release
+1.1 Fixed logo (thanks FCandChill for the suggestion),
+changed a line

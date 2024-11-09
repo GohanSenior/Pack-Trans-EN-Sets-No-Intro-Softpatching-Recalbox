@@ -1,0 +1,154 @@
+==========================================================
+================The Legend of Double Moon=================
+===========================V 1.02=========================
+Genre: RPG
+
+Source language: Japanese
+
+Platform: NES
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: 
+aishsha@gmail.com
+antoniusblocko@protonmail.com
+
+http://aishsha.blogspot.org
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About The Legend of Double Moon
+======================================================
+Project History:
+
+This project is perhaps one of our oldest projects.
+aishsha originally translated the script for Bongo'
+sometime in 2008/2009, but the project lingered and
+eventually went dead. It was picked up by ourselves
+a few years ago and we have seen it through to completion.
+
+Some of the technical work is that of Bongo's doing like
+the title screen, which he wrote tools for to deal with the
+title screen graphic compression. He also implemented
+a dictionary compression routine for the text. The rest
+of the hacking was done by ourselves including numerous
+code hacks for the best possible translation.
+
+Eien ni Hen was also a great help with finishing this project.
+She played through the game and edited the script for us.
+
+I also fixed an original bug for the location warping of
+this game. If you warp to the last location, you are sent
+in the middle of mountains where you can't move instead
+of the location you're supposed to go. This has been fixed.
+There's also an original bug for item storage. The game allows
+for a max of 7 pages of inventory, but on the last page,
+the game starts to bug out. You'll only ever encounter this
+if you go crazy storing items as the max limit is 48 items.
+Instead of spending all my time trying to fix this, I decided
+to decrease the total numbers of items to 42, which is enough
+to fill up the 6th page and not allow you to go to page 7.
+There's also another bug that allows you to equip 2 weapons
+for 2 handed weapons if you equip them on the left hand.
+I'm still on the fence about fixing this one though since
+it's more of an oversight and doesn't affect the game too
+much.
+
+As for the game itself, it's your typical grindy DQ clone
+for the NES. It's hard as hell and not for the faint
+of the heart, but for those willing to give it a shot,
+they might come away surprised because this game is more
+than your average DQ clone.
+
+The story borrows some elements from the DQ, but ends
+up doing its own thing and becoming totally unique in the
+process. The battle system also adds its own twist making
+for a somewhat fresh experience. If you're not going to
+cheat, you're gonna have to make use of the Aim function
+to immobilize and weaken your enemies or else they'll
+kick the crap out of you.
+
+======================================================
+Game Hints
+======================================================
+*There are alternate dialogues for the different
+classes you can choose.
+
+*There are alternate dialogues based on when you
+recruit Kreutz.
+
+*There are alternate dialogues based on some of the
+decisions you can make.
+
+*You can get an alternate ending of sorts by killing
+the Black Knights on the left and right.
+
+
+======================================================
+Known Bugs
+======================================================
+* Occasionally you will notice a small sprite appearing
+on the battle screen. But it goes away and is minor.
+Similar instances of that may happen during certain
+battle stuff.
+
+The game has its fair share of original bugs.
+Below is a list of known bugs in the original game.
+
+*With the special 2 handed swords, if you equip them
+on the left hand, you can still equip something on
+the right.
+
+======================================================
+Patching Instructions
+======================================================
+The patch is IPS, BPS or xdelta format
+You can find a program to apply any patch from here:
+
+http://www.romhacking.net/utilities/893/
+http://www.romhacking.net/utilities/598/
+
+Apply the patch to the Japanese ROM:
+
+Double Moon Densetsu(Japan).nes
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+aishsha - translation, hacking
+
+Pennywise - hacking
+
+rainponcho - title screen graphic compression tools, original game bug fixes
+
+Eien ni Hen - editing, testing
+
+Bongo' - previous hacking
+
+Graphicus - title screen design
+
+Hubz, Lord Oddeye, cccmar - testing
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. January 2020.

@@ -1,0 +1,150 @@
+The Legend of Peach Boy
+(Momotarou Densetsu)
+v1.0
+December 12, 2012
+KingMike Translations (http://kingmike.emxuxhaven.net)
+
+***********
+INTROUCTION
+***********
+Once upon a time in the Heian era, there was a boy born from a peach.
+It was a time when Japan was ravaged by demons known as Oni.
+At the age of six, he stood up and said he was going to journey to Oni Island.
+Exterminate the Oni servants, but you won't make it if you don't find the loyal
+dog, monkey and pheasant companions.
+
+Heroes and heroines from folklore, like Kintarou, Urashima, the old man from Hanasaka
+and the Moon Princess are all performing in this together.
+
+Now, begin this side-splitting journey!
+
+(there is much more backstory to this, but I couldn't get it translated in time.
+If someone wants, I've got a transcription from the manual I can send.)
+
+****
+TEAM
+****
+ KingMike - tools, assembly, some graphics
+ snark - translation
+ FlashPV - title graphic
+ Moth - sign graphics
+ Paul Jensen
+
+***********
+WHAT'S DONE
+***********
+ Should be complete.
+
+************
+WHAT'S BUGGY
+************
+ None known.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+ I've included a program that will both expand the ROM and apply the patch.
+ Be sure to patch Momotarou Den(S)etsu, not Momotarou Den(t)etsu.
+
+ If you want to expand it manually, you will need to add an extra 256KB to the ROM with
+ a hex editor. Then copy the data at addresses $3C010-4000F of the original ROM over
+ $7C010-8000F of the expanded ROM (it must exist in both places).
+ THEN apply the IPS.
+
+****************
+EMULATION ISSUES
+****************
+ Not aware of any.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+ Start up the game, you will see the Hudson logo and then the title screen.
+ Afterwards, the Beginning and Continue options will appear.
+ Choose and option with Up/Down and press Start. (you can hold Left or Right to choose
+ Slow or Fast text speed by default on the next screen)
+
+ If you chose Continue, you can enter a Heavenly Word to continue your last game.
+
+ Using the Controller:
+  D-Pad : Move the cursor or Momotarou
+  A Button : In the field, press A to open the Command Menu.
+    In the Command Menu, press the A Button to confirm a selection.
+  B Button : Press to cancel.
+  Start Button : Press to view Momotarou's status. This will also pause the game.
+  Select Button : Same as the Start Button.
+
+  Field Map
+  Press the A Button to view the menu, and also Momotarou's status.
+  SPEAK : Select to speak to a villager or Jizo.
+  SPELL : You can use a spell after learning them from hermits.
+  ITEMS : You can use an item in your possession.
+    To equip an item, select it and then select "USE"
+  CHECK : Look for items under Momotarou's feet or in a basket.
+
+  Battle Map
+  FIGHT : Attack the enemy with your equipped weapon.
+  RUN   : Escape from the enemy if you're low on health. But if the enemy has a high
+   Agility, you may not be able to escape.
+  SPELL : Use a spell to recover or damage the enemy.
+  ITEMS : Use "USE" to throw an item at the enemy. "EAT" an item to recover health.
+  Defeat the enemy to earn Experience and Gold, and maybe even an item.
+
+ Field
+  House / Town : People or hermits live here.
+  Grass / Hills / Mountains / Forest
+  Sea / River : You can't move across these.
+
+  Press Start on the field map to view your strength.
+  AGE : You will grow in age every two hours (actually every 393,216 frames
+    or about 109 minutes)
+  LEVEL : Collect enough Experience to gain a level.
+  EXPERIENCE : Collect when you defeat an enemy.
+  MP : Needed to use the spells learned from the hermits.
+  MAX : Your maximum MP.
+  HP : Momotarou's current health. If you run out, you will faint and return to
+   the last shrine with full HP but also half your Gold.
+  MAX : Your maximum HP.
+  GOLD : Your money.
+  OFFENSE : Your attack strength.
+  DEFENSE : Your ability to withstand enemy attacks.
+  AGILITY : Your ability to run from enemies.
+
+  EQUIPMENT : Your weapon and armor.
+  OUTFIT : Other equipment besides weapon and armor.
+  TREASURE : You will need all these items to clear the game.
+
+  In the corner, you will see Momotarou. Under him, you will see the dog,
+  monkey and pheasant if you have found them.
+
+  SPELLS
+   Potent : Recover health. Usable in battle or on the move.
+   Hexagen : Attack the enemy with a powerful hit.
+   Lightning : Use to break rocks in your path. Use in battle to give the enemy
+    a strong hit.
+   Flight : Warp to places you've already been. Choose the town you'd like to visit from
+    the list. If you haven't spoken to the shrine master yet, you will not be able to
+    select the town.
+   There are other spells you will find on your journey.
+
+  ITEMS
+   Yeast Bun : Eat to recover a little bit of health.
+   Sushi : A little stronger than the yeast bun.
+   Millet Dumpling : The strongest food. The dog, monkey and pheasent will also join you
+    if you give them a millet dumpling.
+   Peach Twig : Use this to escape from an enemy.
+   Peach Nut : More powerful than the peach twig.
+   Invisibility Cloak : Use this to increase Momotarou's speed.
+   Angel Robe : Use this to return to the last shrine you visited.
+   Spider Web : Use this to escape from a cave or tower.
+   Hot Pack : Increases defense. Also protects you in cold areas.
+*********
+COPYRIGHT
+*********
+Original game (c)1987 by Hudson Soft
+English translation (c)2012 by KingMike and others above.
+I am not affiliated with Hudson or Konami.
+Do not distribute the game image ("ROM") and the patch.
+This patch is for non-profit recreational use.
+Use it if you have an original, but play on emulator or flash cart. Don't destroy donors.
+I do not support or condone reproductions.

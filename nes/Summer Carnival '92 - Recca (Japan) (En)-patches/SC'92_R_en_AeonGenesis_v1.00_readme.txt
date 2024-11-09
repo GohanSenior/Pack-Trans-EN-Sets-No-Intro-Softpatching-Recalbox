@@ -1,0 +1,64 @@
+RECCA - RAGING FIRE
+ENGLISH TRANSLATION V1.00
+Copyright 2002 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.  About Recca
+2.  Patch History
+3.  Patch Credits and Contributors
+4.  Application Instructions
+
+-------------
+1.About Recca
+-------------
+Recca is the most insane shooter I've ever played for
+the NES. This is QUALITY, people. It's fast, it's furious,
+it's bloody difficult, because by the time you see something
+and move to react to it, it's already killed you :D This game
+is GREAT! It also looks as if it was originally based on the
+Dezaemon FC engine; it perhaps originated as a contest entry
+of some sort. A few of the enemy graphics are similar, powerup
+progression behaves the same way, it starts out with that
+launch-off-the-platform thing that Dezaemon has.
+
+Oh well, whatever.
+
+---------------
+2.Patch History
+---------------
+The project started and ended on December 2, 2002.
+It originated out of a need to release something on
+the following Wednesday, and out of a need for this
+awesome game to get -some- recognition. It's a quick
+and dirty title hack, nothing more.
+
+December 4, 2002 - Initial version 1.00 Release
+
+---------------
+4.Patch Credits
+---------------
+THE RECCA TEAM
+Main Team:
+Gideon Zhi - Everything.
+
+Special Thanks to the #fefea boys for alerting me to
+the game's existance.
+
+-----------------------------
+4.Known Issues with the Patch
+-----------------------------
+There no issues, period.
+It's a title hack. Whaddaya want?
+
+
+--------------------------
+5.Application Instructions
+--------------------------
+Grab SNESTool from...
+http://rpgd.emulationworld.com
+In the utilities section, click on the IPS Tools link.
+Drop it into the same folder as the rom and patch, launch
+it, tell it to "USE IPS", pick the patch, pick the rom.
+Bing!

@@ -1,0 +1,267 @@
+MAGICAL DOROPIE
+ENGLISH TRANSLATION VERSION 1.00
+RELEASED 08-05-02
+BY VIDEO SMASH EXCELLENT
+http://www.flammie.net/vse/
+
+Contents:
+
+1.  About Magical Doropie
+2.  Credits
+3.  What's Done
+4.  Known Issues
+5.  Recommended Emulators
+6.  How to Apply the Patch
+7.  How to Play
+8.  The Krion Conquest and Some Ways In Which It Differs From
+    Magical Doropie
+9.  Contact Info
+10. Special Thanks
+
+------------------------
+1. About Magical Doropie
+------------------------
+
+Sometime in the late 80s, Vic Tokai released a really obvious Rockman
+(Megaman) wannabe on the Famicom called Magical Doropie, and it turned
+out not to suck as much as it could have.  It was actually a fairly
+decent platformer starring a little witch named Doropie, and it had
+fairly decent between-stage cutscenes to advance the plot.  Sometime
+after that, Vic Tokai's American branch decided to release an English
+version, which they called The Krion Conquest.  However, in some
+inexplicable random fit of malice, they decided to cut out all plot
+save the intro, as well as make other miscellaneous changes.  The
+game's new "ending" was a particular slap in the face.  Judging by the
+number of references on the Internet, The Krion Conquest (TKC) was
+apparently played by no one, including me.
+
+Things remained as such until March 22nd or 23rd or something, when I
+was tired and bored and avoiding real work and happened to click on the
+Magical Doropie (MD) ROM.  I recognized the cool intro as being part of
+TKC (briefly a target of my boredom earlier), but the next scene was
+new to me.  Once I realized the plot had been gutted, I decided to see
+if I could possibly reinstate it and give MD a second chance in
+English.  Through Just Enough Boredom and Just Enough Success, I got
+the whole thing done in about a week, upon which I let it sit for over
+four months until I finally got off my butt and found some web hosting.
+And so here we have MD's second incarnation in English, which I'm sure
+will also be played by no one.
+
+----------
+2. Credits
+----------
+
+Romhacking, translation, editing - Shih Tzu
+Beta testing - Gideon Zhi
+Fonts - toma
+
+--------------
+3. What's Done
+--------------
+
+Version 1.00 - First and hopefully only release!
+
+  - All cutscenes translated.  Everything else already in English.
+
+  - Pre-boss screens slightly adjusted for spelling and grammar,
+    because I'm anal.  Also so no one would think they were my fault.
+    Left alone otherwise.
+
+---------------
+4. Known Issues
+---------------
+
+  - There is one instance of a character's mouth not moving when it
+    looks like it should.  The original Japanese line didn't require
+    the character to open their mouth (it's not as interesting as it
+    sounds).  I chose a translation that fit the scene over one that
+    fit the mouth.  Theoretically, I or someone else could possibly
+    fix this by locating the cutscene data, but I'm not up to that.
+
+------------------------
+5. Recommended Emulators
+------------------------
+
+I tested this mostly in FCEUltra, but that has some graphical glitches
+in the intro.  Nester (official and unofficial) plays the intro fine,
+as does NESten.  All three do the same weird thing on the pre-boss
+screens, and I think it's actually supposed to look that way.  Pretend
+it's cool.  (Epileptics beware.)
+
+-------------------------
+6. How to Apply the Patch
+-------------------------
+
+Put the patch (the IPS file) in the same directory as an unpatched
+Japanese Magical Doropie ROM.  Use your favorite IPS patcher, such as
+IPS.EXE or SNESTOOL.EXE, to unite the two in feverish ecstasy.  If you
+know what you're doing, you don't need these instructions, and if you
+don't know what you're doing, these instructions probably don't help,
+so then go to the excellent patching FAQs at The Whirlpool
+(http://donut.parodius.com/) or J2E (http://www.j2e.org/).  If you
+really can't get it to work, email me.
+
+--------------
+7. How to Play
+--------------
+
+Gameplay controls:
+
+You control Doropie, the titular witch.  That last sentence is very
+serious and please do not laugh at it.
+
+  LEFT and RIGHT - Move left and right.
+  DOWN - Duck.
+  A - Jump.
+  B - Fire.
+  HOLD B - Charge the shot.
+  UP+B - Fire upwards.
+  DOWN+B - Fire while ducking.
+  START - Pauses and opens Doropie's spell menu.  Scroll up and down
+  and push START again to choose the current spell.
+
+The spells are all available from the beginning and cost nothing to use
+except as noted.  They are as follows:
+
+  NORMAL - Normal.  Doropie fires weak shots and can charge up to fire
+  a powerful one.
+
+  FIRE - Summons a firebird to kill all non-boss enemies on the screen
+  at the cost of some life.  Be careful not to select this by accident,
+  as its effect is immediate.  Cannot be charged.
+
+  FREEZE - Identical to NORMAL except the charged shot briefly freezes
+  enemies.  Frozen enemies thaw very quickly and can't be used as
+  platforms a là Metroid, so I don't find it all that useful.
+
+  BALL - Fires a ball at an angle that will bounce off three walls
+  before disappearing.  Invaluable for killing enemies in hard-to-reach
+  spots (the second screen is a good example).  Also note that you can
+  slightly adjust the trajectory by firing up.  Cannot be charged.
+
+  SHIELD - Identical to NORMAL except the charged shot briefly throws
+  up a shield against enemy shots in front of Doropie.  I find it too
+  brief to be more than occasionally useful, but you can always throw
+  it up anyway and pretend you're playing Out Of This World instead.
+
+  BROOM - Fire to summon Doropie's broom, a tricky-to-use but
+  all-important vehicle.  Hop on before it disappears, then fire in the
+  direction you want to go.  The broom will disappear if it touches a
+  wall.  You can safely jump if it's moving up, but if it's moving left
+  or right it will zoom away.  Note that since Doropie cannot fire
+  down, the broom cannot move in that direction.  Cannot be charged.
+
+
+Cutscene controls:
+
+  A - Speed up the text.
+  START - Skip the current cutscene.
+
+
+------------------------------------------------------------
+8. The Krion Conquest and Some Ways In Which It Differs From 
+   Magical Doropie
+------------------------------------------------------------
+
+Word on the street is that the original plans for MD's North American
+release would have left it pretty much intact, with the name changed to
+Francesca's Wand.  Why they dropped these plans is anyone's guess;
+perhaps this is around the time Vic Tokai decided to get out of games
+and the project's funding was cut.  Thanks for Skrybe for the info!
+
+Anyway, as far as TKC goes, there don't seem to be any core gameplay
+changes between it and MD, but nearly everything outside gameplay is
+different or (usually) gone.  To wit:
+
+  - TKC has all cutscenes save the intro completely excised.  The
+    pretty screens introducing each round are also gone.
+
+  - The intro is actually pretty much fully translated (the content is
+    actually closer to the original than mine--I had to fit it all in
+    twenty lines).  The Akudama Empire has become the Krion Empire,
+    and Doropie has become Francesca.  The background in the witch-
+    summoning scene has been lightened for some reason, and even more
+    bizarre is the new rendition of Doropie/Francesca.  It's not bad,
+    but what on earth was objectionable about the original?
+
+  - TKC has been given a standard ugly-NES-game title screen.  The
+    name is changed to The Krion Conquest, and the music has been
+    adjusted to something more likely to appeal to 10-year-old boys
+    (I guess).  The witch with the bare shoulders is of course out,
+    even though that has an even greater chance of appealing to
+    10-year-old boys.
+
+  - The hexagram or whatever that announces the end of each sublevel
+    is absent, of course.  I like the image of parents walking in on
+    that one.
+
+  - TKC lacks MD's continue feature.  You die, you die.  But that's
+    okay, as it just makes it more satisfying to finally reach the
+    ending, right?
+
+  - TKC's ending is HORRID.  I'll spoil it for you right now (without
+    spoiling MD) so that you don't have to wonder about it.  The
+    final boss goes down, and without even the decency to fade the
+    screen out, the words "YOU WIN!!" scroll up, followed by
+    "CONGRATULATIONS!", an abbreviated MD credits list, and then "THE
+    END".  I notice in particular they took out the part where they
+    thank you for playing.  I think they hate us.
+
+---------------
+9. Contact Info
+---------------
+
+The Magical Doropie Translation - http://www.flammie.net/vse/
+Shih Tzu's email address - intrabot@hotmail.com
+
+Please feel free to send any comments, suggestions, critiques, and
+(heaven forbid) bug reports.  I will not reply to ROM requests.  Sorry.
+Magical Doropie can be located in about four seconds using Google.  I
+probably can't help with any translation requests or romhacking
+questions, as I suck.  I'll try to respond to emails promptly, but I'm
+really terribly unforgivably bad at that, so if I don't reply and it's
+not a ROM request, try sending a follow-up guilt-trip email.  That
+works most of the time.  Ask my parents.
+
+If you understand the above, feel free to change "intra" to "inter" to
+get the correct email address.
+
+------------------
+10. Special Thanks
+------------------
+
+  - Vic Tokai for making the original game, as well as for dropping
+    the ball on the English release so I could come along and fix it
+
+  - toma for the excellent intro (SomeCrazyWackedOutFontBrotha) and
+    cutscene (HappyFroggies) fonts
+
+  - Mathonwy for hosting
+
+  - Gideon Zhi for beta testing
+
+  - SnowBro for Tile Layer, Tile Layer Pro, and Hexpose
+
+  - Januschan for Translhextion
+
+  - The Magical Kid's Doropie ImPerfect Guide
+    (http://www5c.biglobe.ne.jp/~SNAKE/doropie/doropieindex.htm)
+    for the kanji in a character's name
+
+    (side note: A number of Japanese sites refer to the game as
+    "Magical Kid's Doropie" for reasons I have yet to understand.
+    The odd thing is that there are even graphics for a title screen
+    that says "Magical Kid's Doropie" in the ROM, but they're unused,
+    unless there's some secret way to unlock them.)
+
+  - Skrybe for the info on Francesca's Wand
+
+  - Drahktar for giving me that one CD, without which this honestly
+    would not be happening
+
+  - AND YOU
+
+
+
+ ...except she IS titular!  I mean, check it out,
+      they gave her sprite cleavage!

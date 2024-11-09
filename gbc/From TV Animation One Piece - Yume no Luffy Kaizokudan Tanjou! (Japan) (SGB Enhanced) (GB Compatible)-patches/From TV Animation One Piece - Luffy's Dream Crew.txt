@@ -1,0 +1,18 @@
+From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! English Translation v10 Update
+
+I stumbled on this English translation randomly, and as far as I know, the translation is complete 
+(though I have not personally played through it entirely to confirm this).
+
+It appears to have been a translation made by someone called Star Trinket, so full credit to them.
+
+The version of the translation before it was seemingly removed from the internet was v9.
+
+Here is the source to v9:
+https://archive.org/details/onepiecev9
+
+v10 is a simple fix to the title screen. v9 has awful text for the subtitle of the game, so I fixed this
+by converting the official One Piece font to the title screen, as such "Luffy's Dream Crew" uses a pixelated
+One Piece font.
+
+V11 - Updated the title screen again to fix missing pixel on the artwork and added some extra pixels to the subtitle.
+    - Removed the japanese text from the One Piece logo on the Congratulations screen.

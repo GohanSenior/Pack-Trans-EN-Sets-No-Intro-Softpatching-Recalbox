@@ -1,0 +1,68 @@
+=========Saint Seiya: Knights of the Zodiac===========
+===========The Golden Legend: Final Chapter===========
+
+Genre: Action-RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Authors: aishsha, Djinn
+
+E-mails:
+	aishsha@gmail.com
+	magicdjinn@narod.ru
+Web-sites: 
+	aishsha.blogspot.com
+	www.magicteam.net
+
+================
+Versions history
+================
+v1.01 - 03.08.2010
+ Fixed password output after game over.
+
+v1.00 - 24.02.2010
+ Initial release.
+ 
+ 
+======================================================
+Saint Seiya: Ougon Densetsu Kanketsu Hen
+======================================================
+Saint Seiya franchise is probably one of the most well
+known (and long-playing) both in Japan and in the West,
+containing several manga tomes, animations and games.
+This one is the end of the so called "Gold Cloths
+Period" in Seiya's timeline and as I can guess - this
+is also continuation of the obscure RPG game released
+on NES a bit earlier.
+
+This time, it's a mix between a platforming action
+and RPG (as strange as it may sound). 
+
+It was a collaborative attempt when all the hacking
+work and some misc translation was done by Djinn
+(including huffman encoding, which allowed using a
+lot more space for our translated text), while I was
+responsible for major translation activities.
+
+Use a patching IPS utility of your choice to apply the
+patch (I do recommend Lunar IPS). 
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.   
+
+Enjoy the playing and do buy the game, if you like it!
+
+======================================================
+
+Credits go to:
+aishsha - major translation, testing.
+
+Djinn - hacking, graphics editing, misc translation, testing.
+
+======================================================
+
+End of file.

@@ -1,0 +1,59 @@
+  ====================================
+  |        BLOCK KUZUSHI GB          |
+  |  English Translation Patch V1.0  |     
+  |          ©2004 Pentarou          |
+  |        pentarou@gmail.com        |
+  |   http://www.pentarouzero.com/   |
+  ====================================
+
+
+  ============
+  | The Game |
+  =============================================================================
+   Block Kuzushi GB is a pretty standard Breakout/Arkanoid clone, and, well, 
+   it's hard to fuck that up. This particular game has a story featuring one
+   man in his quest to recover robot parts in exchange for a shitload of cash,
+   and OMG SURPRISE ENDING and yeah. I suck at writing these readme summaries. 
+   Also, rom has been expanded to 256kb, so I didn't have to shorten anything.
+  ============================================================================= 
+   
+
+  ==================
+  | Status/History |
+  =============================================================================
+   Version 1.0
+   Everything done - title screen, story text and credits.
+  ============================================================================= 
+
+
+  =========================
+  | Patching Instructions |
+  =============================================================================
+   Download an IPS patcher from somewhere like
+   http://www.zophar.net/utilities/genutil.html, and apply block100.ips to 
+   a clean "Block Kuzushi GB (J) [S]" ROM image. Do not apply it to any other
+   translation or hack of this game (it seems to work with the [BF] version,
+   but I can't guarantee compatibility with that one)
+  ============================================================================= 
+
+  ================
+  | Known Issues |
+  =============================================================================
+   Nothing yet. Some emulators don't seem to like the game's Super Gameboy
+   features (NO$ screws up the border a bit, and some tiles that shouldn't be
+   are coloured blue or green in VBA) but that's an issue with the original.
+  ============================================================================= 
+
+  =================
+  | Patch Credits |
+  =============================================================================
+   ROM Hacking, Title Graphic: Pentarou
+   Translation: Al LaPrade
+   Font: Toma
+  ============================================================================= 
+
+  =========================
+  | Original Game Credits |
+  =============================================================================
+   (C) 1995 Planning Office Wada. See the ending for the rest of it.
+  ============================================================================= 

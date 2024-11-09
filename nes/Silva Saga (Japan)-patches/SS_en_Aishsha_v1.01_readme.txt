@@ -1,0 +1,90 @@
+===============Silva Saga=============================
+==================V1.01===============================
+Genre: RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha
+
+E-mail: aishsha@gmail.com
+Web-site: aishsha.blogspot.com
+ 
+ 
+======================================================
+Silva Saga
+======================================================
+Background: This was one of my first works which was 
+constantly delayed and postponed due to various (mostly
+technical) reasons. It started more than a year ago
+and finally the ship has come to the shore. 
+
+The game itself is a DQ clone from the first sight but
+don't let it fool you. This a pretty solid work with
+kick-ass graphics (for NES, of course), rather deep
+story (for NES again) and even day/night cycle.
+
+This game is a spiritual successor of Minelvaton Saga.
+The story starts about 100 years later when a young
+prince named Kyral (by default) rushes for another
+"kill-a-bad-guy" quest which throws him and his
+ever-changing team into long-lasting struggle between
+light and dark gods. The only drawback I found was that
+the game is just fantastically easy so it won't be
+a challenge for veterans. 
+
+Use a patching IPS utility of your choice to apply the
+patch. 
+
+I would be highly grateful, if you find some time to 
+contact me with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.     
+
+Enjoy the playing and do buy the game, if you like it!
+(Although I know it's extremely rare :))
+
+======================================================
+IMPORTANT NOTE BEFORE YOU START PLAYING!!!!!!!!!!!!!!!
+======================================================
+The game was dumped very badly so DELETE ALL THE SAVE
+FILES ON THE TITLE SCREEN, THEN CHOOSE AN EMPTY ONE!
+If you don't do that, you'll stuck in the middle of
+nowhere!!!!!!!!
+======================================================
+CHANGES IN VER.1.01
+Some minor typos were corrected (thanks to Jame Coban
+for those), small bug in the Temple of Manus corrected
+and it also has a brand new better-looking 
+font (credits to klowner).
+======================================================= 
+
+Credits go to:
+ASchultz - my constant helping hand in editing and 
+proofreading activities.
+Thanks man, you're the best ;)
+
+ded302 - for ROM expansion work - without him this
+project would be a rough image of the final vatint -
+I owe you one, man ;)
+
+Djinn - for his patience and frequent consultings.
+Due to his help I was able to learn debugging and
+hacking (at least for my level). He's also 
+responsible for some boxes in the game.
+
+fuzzball, ryusui, BRPXQZME - for their professional
+help with Japanese in damn-hard cases.
+
+Jame Coban - for his comments on found typos and 
+errors. 
+
+klowner - for a new better font. 
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by aishsha. July 2009.

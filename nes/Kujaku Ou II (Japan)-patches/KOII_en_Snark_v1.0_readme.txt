@@ -1,0 +1,325 @@
+Peacock King II translation for NES/Famicom c. 2009 (Makoto Ogino's Kujayaku Ou II c.1989)
+Thanks from the snark. www.boojumsnark.com Please do not sell modify copy or distribute.Enjoy! :)
+
+
+
+Peacock King II partial walkthrough c. snark 2009 www.boojumsnark.com
+
+*This walkthrough gives the steps to complete the game in the two dungeon levels, which involve circular mazes, multiple spell options with party characters, and enemy battles.  The two overland levels which do not include battles , are straightforward and fairly linear. The purpose of this walkthrough is to provide 
+an overview of the stories and charcters, and directions to navigate the dungeon levels and defeat the game.
+ 
+
+Story:
+Peacock King returns to Mt Koya temple with Asura, his rival Jukindo master Onimaru, and Zen master Kou Kaifou. A kidnapping at an archaelogical site and an unearthing of a strange folding screen unleash the 6th Deva King, embodied by the reincarnation of Civil war general Nobunaga and the eight saints. Phoenix, an elusive rogue monk has threatened to destroy the entire Mt Koya sanctuary with an army of the dead. The hachiyou, the eight sages of the lotus leaf sect, have warped the light world with the dark world, and the theft of a sacred Grail threaten to further plunge the world into chaos. Peacock King learns of his history: his mother the deity Jizo Bosatsu and a monk Jikaku, and his evil twin sister Tomoko, the Snake King. Peacock Must battle himself as well as his twin in the climactic finish. 
+
+Stage 1:
+---------------------------
+
+Characters:
+Peacock King - (Akira) - Shingon buddhist monk
+Asura - a girl/spirit that is handy with fire, was rescued in PK I. 
+Kou Kaifou - Soto Zen Master of meditational Zen buddhism.
+Onimaru - Jukindo master ( a sort of Japanese black/magic martial art.) 
+
+Peacock returns from his last adventure with aSura in tow on the 
+Ropeway air tram, to the top of mt koya. 
+ 
+Tsukuyomi (moon) and nikko (sun) greet you with bad news at the gate. Dairokuten, the Deva King of the 6th sky -Hell realm is reincarnating the Civil war general Nobunaga Oda from the grave. This deity is also known for spreading religious confusion. The knights of mt koya are defeated and Nobunaga attacks! 
+
+Pal-->Use Asura 
+Spell--> Use fudo 
+
+Nobunaga taunts you and utters the mysterious word Honnoji whilst riding away. The goal of the first stage is is to find Nobunaga and defeat
+him. 
+
+Tsukuyomi can give you more hints and save your game. She mentions that the temple grounds of Mt koya are filled with the graves of civil war generals, and that Kannon is the link to the underworld. 
+
+Stage 1 walkthrough 
+--------------------------------------------
+This stage involves speaking to characters and visiting various locales until the party reaches the inside of Azuchi castle.  
+
+---------------------------------------------
+
+Azuchi castle hints:
+
+Dungeon 1: 
+
+Offense Circle hit button to increase magic allotment then --> cursor or hit button to skip to 
+the next circle. 
+Defense Circle hit button to increase magic allotment --> or skip. 
+b button goes back one. 
+a goes ahead one option. 
+
+Spells:
+---------
+Peacock -
+9 cuts: The nine cuts mudra also known as the "hayakuji"
+shin po to sha kai chen rezu za zen. Chants this to defeat evil or banish bad energy.  
+
+Fan: A handy astral monk's fan of light. 
+Dharani: Heals life power. 
+
+Onimaru -
+Rod: (winged rod a sort of demon familiar spirit)
+Raiden: Lightning attack of the lightning god.  
+
+Kou -
+Beam A beam of mind rays. 
+Torpedo A concentrated projectile of light energy. 
+
+Asura
+Fire: Gives enemies a burn.
+Fireball: Heavier 
+--------------------------
+ 
+The Group:
+
+Full strength offense:
+
+Most effective and costly strategies:
+
+***P+K+A Dharma Sutra heals life to everyone in the group. 
+
+***P +K + O +A = Crimson Torpedo (600+ damage on some boss enemies)
+
+strategies:
+
+taichi P offense +O defense
+sunray* p + o offense
+talons
+blaze * p +k offense
+fire
+flames* p +a offense
+torpedo (group all defense) p +k+ a+ o
+crimson torpedo*
+defeat evil 
+lightning* P + O + K = all offense
+sunburst
+dragm sutra* p k +o +a offense (all)
+*thunderbolt p off +k off +a (defense) +200 healing. 
+great peacock king!
+form circle 
+thundertower
+fire wall
+fire tapir
+plasma ball
+laser beam 
+barrier
+battering ram
+
+
+---------------------------------
+
+1st floor corridor:
+
+Go inside a room, it has a visible door. Use the rosary. Pray to Kannon and listen to the voice who tells you about the three relics guarded by the 8 saints, that are kan kon and ken. 
+  
+*Fight imp, with Onimaru, all others guard. Full circle magic offense.  do this until blue bar skill level increases.  
+
+*8 St. Gaspare - Fight gives 400 Mp and Kon Relic
+100 HP
+
+** St valignano - Fight guards the stairs 
+100 HP
+
+He chants the magic words "Lashtal Thelema Agape Om" for big damage
+and can hit twice. 
+
+
+**2nd floor corridor:
+Go inside a room, it has a visible door. Use the rosary. Pray to Kannon and listen to the voice who tells you about the room above which can be raised to reach the next floor. 
+
+Defeat vajrashaman (150 pts) gives 400 mp for key and (devil 60 pts) gives 400 mp for the orb. 
+
+Defeat sentry (200 pts) gives 300 pts to reach the orb.  Insert key and orn into urn and use urn. It rotates. Go down the stairs to defeat 8 st lorenzo (500)for kon relic. go up stairs, dinf next stair going up. Defeat the Shade guarding the stairs. (50 pts) gives 160 mp.
+
+
+defeat 8 st fransisco (500 mp) uses blaze attack -80 ken relic. Go up  defeat minos. use rosary listen to voice. it says that you must battle organtino first, and battle to use the relics. 
+
+organtino 300 hp uses firestar attack ( gives 500 mp) use group attack hang the kan relic
+
+frois kon hang the kon relic (500 pts) use group attack
+
+teresa hang the ken (500 pts) use group attack
+
+St ran speaks leaves flame sword. (400 mp) Asura takes it. 
+Peacock fight ran at full strength x 13.  
+need 2000 mp and 900 hp for peacock.  
+
+fight keruvim 1500 hp with asura at full fight mode   x 2  
+gives (400mp)
+nobunaga appears, 
+fight with asura full fight mode x 5
+ 
+Watch the autoplay of Nobunaga dying by the hands of Phoenix your new enemy. 
+
+----------------------------------------------------
+Stage 2:
+Dairokuten and Nobunaga are no more. Tsukuyomi says that Phoenix was 
+Nikkos brother, but converted to a very dark and strange religion. 
+Asura's esp power says that he is looking for aqua vitae or moon water for immortality. In this stage you must find and defeat Phoenix.  
+
+Stage 2 Walkthrough 
+-------------------------------------------------------------------
+Peacock Kign and company walk through Mount Koya, speaking and visiting various locales. 
+
+----------------------------------------------------
+Dungeon 2 hints:
+
+--------------------------------------------
+
+Spells:
+
+Marishi - Marishiten Shinto Goddess of war that gives you increased 
+offense. 
+ 
+Suijin - Goddess of the monsoons gives a selfuge of water. 
+
+Kannon - Goddess of the Underworld and compassion. May be use to flee the scene of lower enemies?
+
+Mayu - winged peacock king deity of Sri Lanka used to fly ( or flee from some enemies?) 
+
+9 cuts - hayakuji
+
+Fudo -fire
+
+Fujin - wind god
+
+Mantra (the shyokaijou) calms fear and lowers enemy defenses. 
+
+Indra - Vedic lightning god 
+
+Dharani - healing. 
+---------------------------------------------------------------------
+Start: Onimaru's winged rod awaits with bad news about Kou.  
+
+Defeat the demon and increase magic and skill level using the 9 cuts, 
+
+the demon (50 hp) gives 100 mp.
+
+Nagini a hindi snake deity - use suijin x 4 )400 pts) gives 400 mp
+
+**ghost houdou does fire attack, reflects fudos fire, use fujin x 2  
+**ghost amida , lightning attack reflects fire. use fujin x 2 
+
+on the ghoul (90 mp) use 9 cuts gives 150 mp
+
+Increase levels. 
+ 
+--------------------------------
+up stairs around, then down 
+
+get black onyx buddha from jizo bosatsu
+-------------------------------------
+kumala defeat  x 7 
+
+ghost kannon use indra x 2 
+dark fugen use indra X 2
+------------------------------------------
+go up stairs 
+go to another set of stairs
+talk to jikaku get beads
+
+saber 200 mp has 200 hp for leveling. 
+
+kundalini 500 hp gives 500 mp
+
+hits eye chakra can cause hallucinations!
+hits heart chakra can take off 150 hp!
+
+ghost buddha - 500 hp gives 400 hp he energizes and 
+use indra to defeat him. 
+
+*ghost sky drum reflects suijin can invoke thunder/
+use fudo x 2  gives 400 mp 
+*ghost lotus king uses suijin, reflects suijin /
+use fudo x 2 gives 400 mp 
+
+--------------------------------------------------------------
+defeat phoenix on the stairs blast him with fire or fan x 7
+he can call kalachkra for 100 hp damage. 
+He gives 600 hp 
+
+Go up stairs.  
+
+Ghost monju use suijin x 2 meditates for 100 hp damage
+Ghost miroku use suijin x 2 he invokes firestorm for 100 hp damage. 
+
+Boddhisattva 700 hp gives 600 mp has the octagon 
+
+---------------------------------------------
+inner corridor:
+
+Ogre use the 9 cuts and he suffers 700 damage and gives 200 mp
+before the main enemies are defeated!
+
+Level up to 8000 mp 
+
+1. amida throws lightning
+use fujin 600-800 pts gives 700 mp 
+
+2. kannon uses the light mantra 150 hp damage. 
+use indra or fujin or suijin x 2 700-800pts
+gives you 600 mp
+
+3. sky drum (invokes thunder)
+use fudo 800-900 pts
+gives you 700 mp 
+
+4. miroku (invokes firestorm)
+use sujin x 2700-800 pts gives taichi mirror
+
+5. houdou says (fire mantra)
+use fujin or indra x 2 gives 800 pts
+fives 700 mp 
+*reflects fudo
+
+6. lotus king 800-900 pts  invokes rain, reflects suijin 
+use fudo or fujin x 2 700 mp
+
+7. fugen uses wind mantra 800-900 point
+use indra x 2 reflects fire and fujin
+gives 700 mp 
+
+Kou is inside one of the rooms after all 7 are defeated. 
+Peacock senses something....
+Something attacks peacock and he loses 10 hp!
+
+use the octagon to see him. Be at full hp. 
+
+Use marishi and mantra.  
+ 
+and 2 of everything offensive.  
+kou can summon a storm - for 200 pts damage
+
+he has 1500 hp.
+
+After he is defeated restore your hp to full and use the mirror.
+He speaks to you of tomoko, the grail and snake king her alter ego. 
+He hints that destroying her may destroy peacock. Peacock then must travel to the Sun Buddha Daininchi Norai's realm to face his sister Tomoko.  
+
+
+---------------------------------------------------------------------
+Snake king Tomoko
+you must have over 8000 mp start at 999 hp
+
+cast marishi spell, 
+cast mantra
+
+use the longinus spear, and hit tomoko then use the dharani to heal up to 900 hp again. Hit again with spear. Heal to 900 mp.   
+
+Repeat this cycle 13+ times until the grail cracks and she no longer has control of it and watch the end story. 
+ 
+---------------------------------------------------------------------
+
+Notes about the historical names in the battles:
+
+***Organtino, Gaspare, Valignano, etc were missionaries who went to Japan in the time of Oda Nobunaga who aided him in his military conquests and in trade.      
+
+Azuchi castle was Nobunaga's stronghold. Honnoji is the site of his last battle. 
+
+Mt Koya is the site of Shingon monasteries and the Okunoin sanctuary. Kukai or Kobo Daishi of the sanctuary is one of the founders of this sect who wrote the Lotus sutra. Also Nobunaga Oda, his loyal page Ranmaru, and other notables Shingen takeda, Mitsuhide Toyotomi, and Hideyoshi are also buried there. 
+ 
+
+***Miroku, monju, amida, kannon, hodou, heaven's drum, lotus king, fugen, are names of eight Shingon deities that reside on the Lotus mandala, known as as the Kongokai -"Form world") diamond Manadala. The ghosts of these deities are their illusions. The inside is the Sun Buddha Dainichi.  
+

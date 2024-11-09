@@ -1,0 +1,51 @@
+CHESTER FIELD
+ENGLISH TRANSLATION V1.00b
+Copyright 2001 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Chester Field
+2.Patch History
+3.Patch Credits
+4.Known issues
+5.Application Instructions
+
+---------------------
+1.About Chester Field
+---------------------
+Chester Field's a sidescrolling action/RPG kind-of along the lines
+of Zelda 2 and Faxanadu. It's split into eight levels, each of which
+has a maze in it, and within each maze is a treasure which does
+something, or something. It has no relation to the cigarettes.
+
+---------------
+2.Patch History
+---------------
+Script got dumped some long time ago, and Akimaru spent most of that
+long time translating it. About three months ago, he finished it and
+I inserted it. Then I let the thing rot for about three months because
+LAL made me sick of updating my site, or something.
+
+March 7, 2002 - Initial version 1.00b Release
+
+---------------
+3.Patch Credits
+---------------
+THE CHESTER FIELD TEAM
+Gideon Zhi - Project leader, romhacker, ASM hacker
+Akimaru - Translator
+Special Thanks to Akujin for helping out Aki in tough spots ^_^
+
+--------------
+4.Known Issues
+--------------
+There are no known issues. The patch is beta because it hasn't been
+formerly tested. Please report any bugs, spelling errors, and such
+on The Pantheon (http://donut.parodius.com/agtp)
+
+--------------------------
+5.Application Instructions
+--------------------------
+Grab SNESTool from ZD or romhacking.org or something, pick "Apply
+Patch" from the gui, and follow the instructions. Yay.

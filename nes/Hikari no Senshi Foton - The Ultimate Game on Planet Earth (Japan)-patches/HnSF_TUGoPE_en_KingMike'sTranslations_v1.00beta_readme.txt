@@ -1,0 +1,61 @@
+Photon - The Ultimate Game on Planet Earth
+v1.00 beta
+January 8, 2003
+KingMike Translations (http://www.emuxhaven.net/~kingmike/index.html)
+
+***********
+INTROUCTION
+***********
+Photon - The Ultimate Game on Planet Earth, known to the Japanese as Hikari no Senshi Foton, and the rest of the world as Foton - The Ultimate Game on Planet Earh, is a Famicom game released by Takara Co., Ltd. on August 28, 1987. In this game, you play as Photon, who has traveled to a mysterious dungeon in space. Why? We don't know. If anybody knows of an actual plot to this game, let me know. Regardless of the lack of story, it's still a fun little 3D shooter, with some puzzle elements.
+
+*********
+THANKS TO
+*********
+Eien Ni Hen and Tomato for translating most of the Disks in the game.
+Gideon Zhi for letting me use his Shin Megami Tenshi font in the game. Go play SMT, and many of the other wonderful games he's translated. Oh yeah, and Gideon, your 16x16 doc helped another title hack get done!
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+Using IPSWin, select the Japanese ROM in the prompt "File to Patch:". Select the patch file "Photon.ips" in the "IPS Patch to Use:" prompt. Click "Patch!". Play the game.
+
+****************
+EMULATION ISSUES
+****************
+There are no known emulation issues.
+
+***************
+WHAT'S NOT DONE
+***************
+I'd also like to try and do a small ASM hack to the menu, to make the text fit, without options like "Passwrd", "Teleprt", and "Coordin".
+
+All other text should be translated, even a few items I found in the ROM, but not while playing the game (Radar, Sensor, Google A, Google B, and Receiver). If you find them, let me know. I've beaten the game already, so I know they aren't necessary.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+Your goal as the hunter Photon is to explore the caves. You want to make the most Cube. You want the ultimate catch, the boss Dakura. Move through the maze with the control pad. When you reach the edge of a screen, the game will progress to the next screen, rotating the viewpoint of the maze to show a frontal view of the corridor Photon is traveling down.
+You will meet many enemies throughout the game. Use your blaster (by pressing the A Button) to shoot the enemies.
+You begin each game with 200 units of health. Blast the enemies the increase your health, up to a maximum of 1000 units. Later in the game, you'll be able to increase this upper limit.
+At the top of the screen, you'll be able to detect your enemies coming. They'll show up on the screen as grey dots approaching the edges of the screen. As they come closer, they'll show up to attack. You will also be able to see your health level from here.
+Later in the game, you will obtain the Compass, which will show your direction of travel on the screen.
+Press START to pause the game, if you would like to take a break from fighting.
+Press SELECT to see the menu, where you have many options to choose from:
+ ITEMS - See the items you are currently holding.
+ MESSAGE - See the messages contained on the Disks found throughout the game (requires a Loader).
+ COORDINATES - See the coordinates of your current position (requires the Counter).
+ TELEPORT - Teleport to a place you've set a Marker before.
+ MARK - Mark a location to quickly teleport to later.
+ PASSWORD - Get a password to record your progress.
+
+You will find the following objects in your journey:
+ Stones - you will need these in order to make use of the passageways between floors (use A to ascend, B to descend).
+ Cards - you will need these to go through the hidden doorways.
+ Disks - these contain helpful hints.
+
+*********
+COPYRIGHT
+*********
+Foton - The Ultimate Game on Planet Earth is (c)1987 by Takara Co., Ltd.
+English translation provided by KingMike (c)2003.
+Do not distribute this patch with ROM, either included, or already merged together.

@@ -1,0 +1,139 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Armadillo 
+  English Translation Patch
+  Version 1.01
+
+  Created by Vice Translations
+             http://vice.parodius.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CONTENTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1 - Version History
+
+2 - People who worked in this project
+
+3 - Notes
+
+4 - Standard Disclaimer Text
+
+5 - Trademarks
+
+--------------------------------------------------------------------------------
+1 - Version History:
+--------------------------------------------------------------------------------
+Version 1.01 [Size: 8293 bytes / CRC32: 200237cc
+             MD5: 954019549f6bce20d0ad65d0aa6041a7 /
+             SHA1: 7a137256e7e0c87d9e3a300d5d8ecdebbf4ce54d]
+             (November 8, 2007)
+
+--- Second, hopefully final, release. The intro screen had some errors (Cheryl &
+    Sheryl?). These were pointed out to me by Skrybe. The game remains the same
+    otherwise.
+
+Version 1.00 [Size: 8293 bytes / CRC32: 5bccd579
+             MD5: d7c3def61f0e3e26fdaf11330fc28d79 /
+             SHA1: cf21769192a53243b9549c26af271d0fa074fae7]
+             (September 15, 2007)
+
+--- First release. Everything you can find in the game has been translated.
+
+
+--------------------------------------------------------------------------------
+2 - People who worked in this project
+--------------------------------------------------------------------------------
+ Kitsune Sniper -
+  Main hacker.
+  Homepage: http://vice.parodius.com/
+  Email: kitsune.sniper[AT]Gmail[DOT]com
+
+ Haeleth -
+  Main script translation.
+
+ Tomato, Niahak, Loek, Ian Kelley -
+  Additional / spot translations.
+ 
+ BMF54123
+  Title screen design and implementation.
+
+ Skrybe
+  Additional information and materials.
+
+--------------------------------------------------------------------------------
+3 - Notes
+--------------------------------------------------------------------------------
+  There's one thing you should know about the game - whenever you see a place
+  that says "SUSHI", press up when you're in front of it. The bartenders inside
+  will give you clues about things in the game.
+  
+  Please note that the game is 100% translated as far as I am aware. However,
+  there were several bits of text that I could not find in the game for some
+  reason. There were 53 messages in the main game script, of which less than
+  half are actually used. If you stumble upon a message with a number, please
+  send me an email at the address above as soon as you can with the location
+  where you stumbled upon the number, a screenshot, and a savestate of the
+  place where it happened if possible. I modified the unused parts of the
+  script, replacing bits and pieces with numbers to help me locate any messages
+  that I may have overlooked.
+
+  Furthermore, the game uses a currently unemulated peripheral called the Battle
+  Box, which was a sort of memory card for the NES created by IGS. This unlocks
+  a few features in the game, but as I mentioned, no emulator supports this as
+  of today. So the features remain untranslated. You may find more information on
+  this item over at the following site (link thanks to Skrybe):
+
+  http://nestopia.netfast.org/bbox.html
+
+  There also seems to be ONE small bug with the game: When you beat the final
+  boss, the game sometimes freezes. To prevent this, press A to scroll past the
+  final boss's death speech faster. If the game just stays in the same spot
+  and doesn't show the credits, you have to reload from a savestate to get past
+  that spot. I have no idea why this happens, and it's totally random, but I
+  have to make this known before anyone yells at me. :P
+
+  Oh, this happens on an unhacked game too, so it's very likely a bug in the
+  original game.
+
+  And another, final note - BMF54123 created the title screen based on the
+  original Armadillo title screen. The game was previewed in Nintendo Power, but
+  was cancelled. He adapted the screen, so give him your everlasting praise.
+  And Skrybe provided the scan where the title screen came from.
+
+  Sorry it took so long for me to release this.
+
+  (P.S. - I fixed the intro for this version. Aheh.)
+
+--------------------------------------------------------------------------------
+4 - Disclaimer
+--------------------------------------------------------------------------------
+  There is no videogame company or any other company associated with
+  Vice Translations [be it current or former members]. In no event shall
+  Vice Translations be liable or responsible for any damages that may
+  occur from direct, indirect or consequential results of the ability or 
+  disability to use or misuse any material it provides.
+  
+  In other words, you'd better own the cart for the rom that you're patching
+  [insert hysterical laugh here], and if something goes wrong, don't blame me!  
+
+  Also, this patch must never be distributed with the rom. The zip file must not
+  be modified in any way, including [but not limiting to] archive renaming,
+  adding a file to the original zip [like a file that indicates where you got
+  the zip file], and the like. And please DO NOT DISTRIBUTE THE PATCHED ROM.
+
+  Game reproductions using this translation patch ARE allowed, as long as
+  there is very little profit involved. So selling copies of this game on eBay
+  isn't kosher, but making repros is fine.
+
+
+--------------------------------------------------------------------------------
+5 - Trademarks
+--------------------------------------------------------------------------------
+
+  Armadillo, all related names, indicia and characters are trademarks of IGS and
+  AIM. All other names and programs mentioned in this document are trademarks of
+  their respective owners.
+
+  Patch (C) Kitsune Sniper.
+  Patch not for sale or rental.

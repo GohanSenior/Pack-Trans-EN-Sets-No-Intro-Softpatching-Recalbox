@@ -1,0 +1,286 @@
+﻿********************************************************************************
+* This file contains what could (somewhat charitably) be called "spoilers" for *
+* Bahamut Senki. They relate to a few secrets that you'd never normally find   *
+* out by playing the game normally, which were most likely included as bait to *
+* sell the accompanying official strategy guide.                               *
+*                                                                              *
+* While they're not going to destroy your enjoyment of the game and are quite  *
+* interesting, we received a request not to "spoil" them in the readme. So,    *
+* here they are in a separate file instead. Scroll down on your own            *
+* recognizance.                                                                *
+********************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    ****************************************
+                    *               Ell Wynn               *
+                    ****************************************
+
+You may have noticed that the manual makes mention of Ell Moir's sister Ell 
+Wynn, and even includes artwork of her, but she does not appear to be playable 
+in the game. Well, she's actually a hidden character. When "Press Start Button" 
+is flashing on the title screen, press the A Button three times, then press 
+Start followed by C to begin a new game. (Follow these instructions exactly. 
+This code will not work you move the cursor on the main menu before selecting 
+"New Game", or if you enter the code after opening the main menu and backing out 
+of it with B.)
+
+If done correctly, the game setup screen's background will be pink instead of 
+black and the "monster" that presents it will be replaced by a woman. Ell Moir 
+will then be replaced by Ell Wynn as both a playable character and a CPU 
+opponent. Though she shares her units, starting areas, and so on with Ell Moir, 
+Ell Wynn has different stats and abilities.
+
+This code was taken from this Japanese fanpage: 
+https://wepon.at-ninja.jp/bahamut.html
+
+                    ****************************************
+                    *       Secret Programmer Credit       *
+                    ****************************************
+
+This one was discovered by Mega Drive wizard andlabs years ago and is already 
+well documented, but it's included here for completeness' sake. After winning 
+the game under any configuration that would achieve a standard ending (with the 
+staff roll), hold A, C, and Down simultaneously as the game starts the ending. 
+All three buttons must be held at the moment the game begins fading in to the 
+image of Bahamut; start holding them as soon as you've met a victory condition 
+to be safe.
+
+If done correctly, the programmer's pseudonym in the credits, "Moomin", will be 
+replaced by his real name: Kenichi Kuratani.
+
+Note that this can't be done in Spectator Mode because it doesn't show the 
+endings.
+
+                    ****************************************
+                    *             True Ending              *
+                    ****************************************
+
+Rather unusually for a strategy game whose plot normally consists almost 
+entirely of backstory found only in the manual, Bahamut Senki actually has one 
+true ending. It's accessible only by playing the game in a very, very, _very_ 
+specific way. There is absolutely no information in the game or the manual that 
+would lead you to do any of this; again, this game had an official strategy 
+guide and they needed a way to sell it.
+
+Here are the steps to follow to get the true ending:
+
+  1. Start the game under Advanced Rules on scenario "The Bloodthirsty Bahamut" 
+as Sieg. Any difficulty level is fine.
+
+  2. Play until Turn 15 with Balmer, Klimt, and Vastral still alive.
+
+  3. Agree to Raymond's request to go on a journey to defeat Balmer alone; he 
+will do so after a few turns. Make sure no one else kills Balmer before this 
+happens.
+
+  4. Play until Turn 40, leaving Klimt and Vastral alive.
+
+  5. Agree to Raymond's request to fight as a Hero.
+
+  6. Assign Raymond to a squadron and send him into battle against Klimt; in 
+this battle, you need to get Raymond's squadron killed directly by Klimt 
+himself. If you did it correctly, you'll get a special message from Raymond at 
+the start of the next turn after the battle.
+
+     As a tip here: Raymond is absurdly overpowered, so the easiest thing here 
+is to assign him to a Holy Warrior squadron and just send him alone into battle, 
+regardless of how many troops Klimt has with him. Klimt's demons are basically 
+incapable of dealing anything beyond chip damage to Raymond, so use Raymond's 
+magic to keep him healed and the enemy will basically just run up to him and get 
+killed by his counterattacks. Once everyone except Klimt is dead, take him on in 
+single combat and lose on purpose.
+
+  7. Defeat all remaining Masters except for Vastral.
+
+  8. Have Sieg, and only Sieg, Invade the area where Vastral is.
+
+If done correctly, rather than the Tactical Screen, you'll get the true ending.
+
+This information was taken from this Japanese fanpage: 
+https://wepon.at-ninja.jp/bahamut.html

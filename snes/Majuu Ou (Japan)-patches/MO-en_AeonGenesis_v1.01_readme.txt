@@ -1,0 +1,103 @@
+KING OF DEMONS
+ENGLISH TRANSLATION V1.00
+Copyright 2003 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About King of Demons
+2.Patch History
+3.Patch Credits and Contributors
+4.Known Issues With the Patch
+5.Application Instructions
+
+----------------------
+1.About King of Demons
+----------------------
+King of Demons is a fun little sidescroller game with
+a very dark, gothic atmosphere and an equally depressing
+storyling. The wife and daughter of Abel, the main
+character, have disappeared along with his best friend,
+Bayer, and Abel heads to the Demon World to try to get
+them back. Upon arrival, he learns that Bayer has sold
+his soul, and that his wife was sacrificed to ressurect
+the King of Demons. His daughter is still alive,
+somewhere within the Demon World...
+
+Abel can, initially, shoot at enemies, charge a -strong-
+punch attack, roll forward (hold down and press A), do
+a double jump, and kick downwards (hold down during a jump
+then press attack.) After beating a boss, however, you'll
+have the option of morphing into one of three different
+forms, each with their own unique attacks and control
+styles. There's a fairly large plot twist at the end,
+too...
+
+---------------
+2.Patch History
+---------------
+I have -no- idea when I started this, quite possibly as
+far back as May '01. Akujin translated all of the text
+except for the "happy" ending, which I didn't find until
+a day or two ago, and the credits. Much of it was beyond
+my ability when I first started it. I went back to it
+in August '02 or so, and tried again, and failed again.
+Doh. Some nastiness with the way the window worked killed
+it that time. I just picked it up again this past Tuesday,
+and it's Thursday evening as I write this, with everything
+complete. It's about goddamn time.
+
+August 19, 2005 - Version 1.01 Release
+-Changes a mistyped word in the good ending.
+ Makes much more sense this way.
+
+February 14, 2002 - Initial version 1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE KING OF DEMONS/MAJUU-OU TEAM
+
+Main Team:
+Gideon Zhi - Project leader, romhacker
+akujin - Translation
+eikitty - "Happy" Ending Translation
+kurisu - Credits Translation
+satsu - Graphic design
+
+-----------------------------
+4.Known Issues with the Patch
+-----------------------------
+-The names in the credits might not be correct. Kanji-based name
+romanization is a shot in the dark at best, even for a native
+speaker....
+
+This patch has not been officially tested, although I did go
+through it yesterday and double-checked it, so it -should- be
+okay. If you find a problem, though, please leave a screenshot
+in The Pantheon, my forum (http://donut.parodius.com/agtp).
+
+--------------------------
+5.Application Instructions
+--------------------------
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "majyuuou.smc" make sure the patch
+is "majyuuou.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your **ROM DOES NOT HAVE**
+a header. If you right-click the ROM and select Properties, it
+should read "1.50 MB (1,572,864 bytes)". SNESTool can remove any headers
+for you easily, and you can find it at
+http://rpgd.emulationworld.com
+In the utilities section, click on the IPS Tools link.
+
+-----------------
+6.Troubleshooting
+-----------------
+--If the game does not run at all, read the above section on
+  application instructions (specifically on header addition.)
+  Make sure your ROM is not read-only when you remove its header.
+  Also make sure that if you previously hard-patched the ROM and
+  the game crashes as described, you will need to re-apply the
+  patch a clean, Japanese original ROM.

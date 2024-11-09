@@ -1,0 +1,24 @@
+*** Game Boy Wars               ***
+*** English Translation by Nezz ***
+
+Game Boy Wars is a strategy game in the Famicom Wars / Advance Wars series.
+
+*** How to patch ***
+Apply the included patch file (either BPS or IPS) to this ROM image:
+
+Name: Game Boy Wars (Japan)
+CRC32: F5D364DB
+
+*** Version History ***
+v1.0:
+Initial release
+
+v1.01:
+Fixed some messages
+
+*** Contact ***
+Please report any bugs, problems or suggestions on the project's GitHub page:
+https://github.com/HoratioVex/Gameboy-Wars-1-Translation
+
+- Nezz
+25th of March 2024

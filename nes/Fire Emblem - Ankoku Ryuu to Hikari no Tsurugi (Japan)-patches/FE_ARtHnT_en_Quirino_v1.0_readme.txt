@@ -1,0 +1,51 @@
+This is a full translation of Fire Emblem: Ankoku Ryu to Hikari no Tsurugi for the NES.
+Though this game has already been remade twice, it might still be nice for the real fans to play the original in English. Enjoy it!
+
+HISTORY
+--------------------------------------------------------------------------------------------
+As a Fire Emblem fan, I wanted to play all games, starting with the first. However, I can't read Japanese, so I wanted to use English patches. There were no complete patches of this game, so I decided to make one myself. I didn't have any experience in Rom Hacking, so I learned it on the way.
+
+I started this project around April 2010. However, in late May I stopped working on it due to a lack of spirit. However, on December 12, 2010 I returned working on the project. On January 14th, 2011 I released the first beta version of the patch and on February 20th, 2011 Version 1.0 was released.
+
+The translation is mainly tested on NEStopia. Also FCEUX emulates it fine. It hasn't been tested on other emulators.
+
+TEAM
+--------------------------------------------------------------------------------------------
+Quirino - Hacker
+HHHIII - Translator
+
+Special Thanks:
+-Artemis251
+-VincentASM
+-Flock of Geese
+-Everyone who supported me and enjoys this patch
+
+HOW TO APPLY THE PATCH (Soft-Patching)
+--------------------------------------------------------------------------------------------
+First download a Japanese rom (don't ask me where to find one as it's illegal). Then put it in the same folder as the patch. Then you must name the rom and the patch the same (for example FE1.nes and FE1.ips). If you've done that and you open the rom with an emulator it should display the patched rom. (Warning! Doesn't work for every emulator. If it doesn't work then you should use hard-patching).
+
+HOW TO APPLY THE PATCH (Hard-Patching)
+--------------------------------------------------------------------------------------------
+I suggest using Lunar IPS as it's free, simple, small and requires no installation. First you need to download a Japanese rom (don't ask me where to find one as it's illegal). Open up Lunar IPS, choose 'Aplly IPS Patch'. Now choose your original Japanese rom, then in the next window choose the patch and Lunar IPS should patch the game for you. The changes now made are irreversable.
+
+WHICH PATCH SHOULD I CHOOSE
+--------------------------------------------------------------------------------------------
+There are four patches within the zip file. One for Japanese roms and one to change the unfinished translations from other people to this one.
+
+1. FE1_JAP_TO_V10.ips - Use to patch a downloaded Japanese rom to Version 1.0.
+2. FE1_MAESTRO_TO_V10.ips - Use to patch the translation of Maestro to Version 1.0.
+3. FE1_GAJIN_TO_V10.ips - Use to patch the translation of Gajin Productions to Version 1.0.
+4. FE1_ANIMARTH_TO_V10.ips - Use to patch the translation of Animarth to Version 1.0.
+
+As you can see the patch of DarknessSavior is not included because you need to expand the rom for his patch and you don't have to do so for this patch. There may also be other projects of this game, but these are patches for the ones I know and I could find.
+
+KNOWN BUGS
+--------------------------------------------------------------------------------------------
+Currently none. If you find a bug, mail me please.
+
+--------------------------------------------------------------------------------------------
+Thanks for downloading the patch and I hope you enjoy it!
+
+~Quirino
+
+Mail: kd.sytsma@gmail.com

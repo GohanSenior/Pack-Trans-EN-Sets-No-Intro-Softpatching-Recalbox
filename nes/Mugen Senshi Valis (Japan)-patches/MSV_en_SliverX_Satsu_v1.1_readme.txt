@@ -1,0 +1,51 @@
+ 				   @@@
+  -----------------------------------@_________
+< Valis - The Fantasm Soldier v1.1   @*########|
+  -----------------------------------@~~~~~~~~~
+				   @@@
+
+
+About
+~~~~~
+This is a 100% complete translation of Valis (NES).
+Intially released ten years ago, I was informed of
+a game crashing bug related to two statues in the
+Ruins level when using the Hammer item. This
+update fixes that issue.
+
+Usage
+~~~~~
+This translation was based on the ROM known as
+"Valis - The Fantastic Soldier (J)" in the
+GoodNES set. Usage of any other ROM version
+may result in glitches or other strange errors.
+
+
+Misc.
+~~~~~
+I find this game to be pretty poor do to some terrible
+design flaws, so I took it upon myself to correct a lot
+of them. These hacks are a part of "Valis++", which
+contains the translation plus a multitude of hacks
+to make the game *FAR* easier to play.
+
+Please check either my homepage or ROMHacking.net
+(http://www.romhacking.net) for this version of
+the game.
+
+
+Credits
+~~~~~~~
+Translation: satsu
+ROM hacking/Programming: Sliver X
+Assistant Programmer: Disch.
+Beta testing: Onyxyte.
+
+
+Contact
+~~~~~~~
+If you find anything that needs fixed, I can be contacted by the
+following methods:
+
+Email: panicus@gmail.com
+Web: http://panicus.googlepages.com

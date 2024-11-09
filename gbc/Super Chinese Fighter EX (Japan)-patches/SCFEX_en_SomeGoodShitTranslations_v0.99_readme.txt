@@ -1,0 +1,47 @@
+SSSSSSSSSSSS GGGGGGGGGGGG SSSSSSSSSSSS TTTTTTTTTTTTT
+SSSSSSSSSSSS GGGGGGGGGGGG SSSSSSSSSSSS TTTTTTTTTTTTT
+SSS      SSS GGG      GGG SSS      SSS      TTT
+SSS      SSS GGG      GGG SSS      SSS      TTT
+SSS          GGG          SSS               TTT
+SSSSSSSSSSSS GGG   GGGGGG SSSSSSSSSSSS      TTT
+SSSSSSSSSSSS GGG   GGGGGG SSSSSSSSSSSS      TTT
+         SSS GGG      GGG          SSS      TTT
+SSS      SSS GGG      GGG SSS      SSS      TTT
+SSS      SSS GGG      GGG SSS      SSS      TTT
+SSSSSSSSSSSS GGGGGGGGGGGG SSSSSSSSSSSS      TTT
+SSSSSSSSSSSS GGGGGGGGGGGG SSSSSSSSSSSS      TTT
+
+Some Good Shit Translations
+Present
+
+SUPER CHINESE FIGHTER EX
+
+Ver.99
+
+
+It's done!  Let's party!  SUPAA CHINESE FIE-TAA EX (plus alpha)
+is, for a lack of a better term, DONE!  Only the Credits stand in the
+way, but that can be seen in the credits.txt file!   Whoopie!
+
+Here's the guys responsible for the english version.
+
+ROMhacking shiznit
+------------------
+EsperKnight
+Opus
+
+Translation Bum
+---------------
+DDS
+
+
+Okay...alright, it ain't too much of a README, and I expect that you
+all know how to USE THIS PATCH CORRECTLY...so enjoy the game,
+and we'll be back with another project...hopefully. =-}
+
+
+
+Super Chinese Fighter EX is copyrighted to Culture Brain
+Unnoficial English Translation 2000 SGST Translations
+SGST, King Archibald of Turkey 2000 Giraffe's Broken Ankle, inc
+All Rights Preserved

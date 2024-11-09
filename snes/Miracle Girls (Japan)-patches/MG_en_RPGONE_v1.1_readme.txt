@@ -1,0 +1,120 @@
+================================================================================
+ ######################                                             ###
+ ########################                                      ######## 
+ ##########################                                ############ 
+     #######        ########   ##########        #####     ############ 
+     #######       #########   ###########     #########         ######
+     ######################      ###    ###  #####    ###        ######
+     ####################        #########  ####                 ######
+     #######   ########          #####      ####     ######      ######
+     #######    ########         ###         ####      ###       ######
+     #######     ########        ###          ####    ####       ######
+     #######      ########     #######          ####### ##       ######
+     #######       #########                                    ########
+    #########       ########################################################## 
+  #############       ######################################################## 
+  #############          #####################################################
+  #############              #################################################
+
+    R   P   G   O   N   E      T   R   A   N   S   L   A   T   I   O   N   S
+================================================================================
+
+                                    Presents
+
+                         ==============================
+                         |                            |
+                         |        Miracle Girls       |
+                         |                            |
+                         ==============================
+
+                            English Translation v1.1
+                            Copyright 2019 by RPGONE
+
+		         http://rpgone.superfamicom.org
+
+================================================================================
+
+-----------------
+Table of Contents
+-----------------
+I.   About the Game
+II.  What's New
+III. Credits
+IV.  Application instructions
+V.   Playing the Game
+VI.  Disclaimer
+
+
+-----------------
+I. About the Game
+-----------------
+Miracle Girls is based on a manga by Nami Akimoto. It was later adapted into a 
+TV anime series.  The manga is about twin sisters Tomomi and Mikage Matsunaga, 
+and their love lives in high school. Tomomi is tomboyish and athletic, while 
+Mikage is feminine and intellectual. These twins have ESP powers but they try to
+hide this from their friends. Only Mr. Kageura knows their secret!
+
+In the game, the sisters and their friends are suddenly teleported to a strange 
+and magical world. You must help them find their missing friends and defeat 
+Majo-Majo's villains by throwing candy as your only weapon, and eventually find 
+the way back home.
+
+
+--------------
+II. What's New
+--------------
+v1.1 [10-02-2019] - New Title Logo graphic
+		  - Bonus station graphics updated
+		  - New demo screen mini-logo
+		  - Script revision
+v1.0 [02-10-2004] - Initial release 
+
+If you find any bugs, please contact Jonny on romhacking.net
+
+
+------------
+III. Credits
+------------
+Jonny - Project Leader, Romhacker
+Eien Ni Hen - Translator
+Rpgmaniac-No1 - English Voices
+
+Elf - Final Playtest
+
+
+----------------------------
+IV. Application instructions
+----------------------------
+You need to apply this patch onto an unmodified, non-interleaved ROM with NO
+Header (Rom checksum: 58AC, CRC32: AB82EBBE, Size: 1,048,576 bytes).
+
+
+-------------------
+V. Playing the Game
+-------------------
+This game is a typical platformer where you control either Tomomi or her
+sister Mikage. The controls are as follows:
+- D-Pad:                 Move Character Left or Right
+- A (or Red Button):     Jump
+- B (or Yellow Button):  Throw Candy
+
+If you have trouble getting past one of the mini-games, use the following 
+PAR code to always win: 7E00BE02
+
+
+--------------
+VI. Disclaimer
+--------------
+Miracle Girls is Copyright (c) Nami Akimoto/Koudansha, NAS, JT, and NTV. The 
+Miracle Girls videogame and all related images, names, and themes are trademarks 
+of Takara.
+
+RPGONE is in no way or form affiliated with Nami Akimoto or related persons, 
+nor with Takara or any other video game companies. It shall not be held liable 
+for any damages of any type arising out of, or in any way connected with your 
+use of this translation.
+
+This English translation is FREE and may NOT be sold.
+You may NOT distribute this translation applied to a rom. 
+
+We do NOT endorse piracy.

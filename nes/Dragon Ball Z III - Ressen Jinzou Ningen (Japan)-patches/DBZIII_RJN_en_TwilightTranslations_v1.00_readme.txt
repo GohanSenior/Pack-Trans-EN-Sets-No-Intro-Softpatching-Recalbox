@@ -1,0 +1,202 @@
+Dragonball Z 3: Killer Androids
+English Patch
+Version 1.00 IPS
+Current Release: Apr. 29, 2007
+Intial Release: Aug. 10, 2006
+by Twilight Translations
+copyright 2006
+--------------------------------------
+
+1. Introduction
+2. Development
+3. Notes
+4. Patch History
+5. Bugs
+6. Credits
+7. Acknowledgements
+
+--------------------------------------
+
+1. Introduction
+
+--------------------------------------
+
+Dragonball Z 3: Killer Andriods (known as Hot Battle! The Androids in some circles,
+more on this in a little bit) is the third DBZ RPG released for the Famicom. It was
+released in 1992 by Bandai. DBZ3, as I will refer to it from here on, is a
+continuation of the first two Dragonball Z RPGs for the Famicom:
+Dragonball Z: Assault of the Saiyans and Dragonball Z 2: Lord Freeza's Fury (an
+English patch is available for the former from Twilight Translations, while the
+latter is still in production).
+
+As far as RPGs go, DBZ3, like its predecessors, is a bit different. Instead of your
+traditional RPGs (read: Dragon Quest clones), your movement and battle options are
+decided entirely upon which of five randomly decided cards you chose. Some may allow
+you to do extra damage in battle, while others may replenish some health. This
+element of randomness associated with the card events adds a small amount of strategy
+to an otherwise straight forward game. It's decidedly not for everyone, but you
+should at least give it a shot.
+
+One thing that is interesting to note is the ending of the game, which I won't spoil,
+though you probably already know what happens if you're a DBZ fan. During the final
+few strings, "the next episode of Dragonball Z" is mentioned. Whether there were
+plans to make a sequel to this instead of Gaiden: Plan to Eliminate the Saiyans
+(we're working on that one, too) on the Famicom or in place of the Legend of the
+Super Saiyan on the Super Famicom (both of which were made after this game) is
+unknown. If anyone has any information, I would be interested in it. See below for
+contacting me.
+
+--------------------------------------
+
+2. Development
+
+--------------------------------------
+
+Originally I had only intended to translate Assault of the Saiyans, but the
+prospect of playing as Vegeta was just too titillating to pass on. Actually, I
+don't remember why I started working on this. But the story goes, I dumped the
+scripts and posted an Ad on the now defunct Whirlpool in the summer of 2005 and a
+man - no, a GOD answered: D.D.S.. He DESTROYED those scripts! In a matter of a
+week or two I had all 6 text blocks translated and ready to sit on my harddrive for
+the next year. Reason being, I wanted to take some time to invest in adding some sort
+of compression to the game so D.D.S.'s wonderful work wouldn't have to be cut down
+any. I went off to try adding this to Assault of the Saiyans, since, programming-wise,
+it was a much simpler game.
+
+Fast forward to about 6 months later and I slowly begin to resume work on DBZ3. Along
+the way, I hit a few snags, and ultimately stopped work around March 2006 due to bugs
+in my code, laziness, and my insertion tools needing an overhaul. I picked up the
+project again in late May when I started work on revamping my compression tools to be
+an all in one insertion tool. That took about a month, add in time to format the
+scripts, and tweak various things and we end up in late July, when Alpha testing began. Big
+thanks go out to snesmaster and mrfreeze for being such diligent testers.
+
+There were a lot of bugs, too. Most were due to the NES's limited memory, which lead
+to a number of things that I won't go into. For this reason, I'll have to really give
+any future NES projects serious thought before jumping in head first, as I had been up
+until now. Luckily a little "n00b" magic fixed the major problems. By that I mean, I
+wanted to do like I've done in every situation since I learned ASM: hack the rom to
+death. The solution was some meticulous use of a near-forgotten artificat: the squishy
+tile; I bet you can't guess where they're used either.
+
+Once Alpha testing finished, the bugs and glitches were fixed and the patch entered
+Beta testing. Which brings us to now.
+
+This has truly been one hell of a project. I've grown as a programmer and more, but
+most importantly, after all was said and done, I enjoyed playing the game once it was
+in English! The music, I think is really what helped though. Vegeta's theme and the
+tune that plays during his and Goku's training sessions mid-game, really kept me going.
+My only complaint is the track starts over when you open and exit a menu. Another thing
+that made this game fun to work on were the people. Everyone who has been in involved
+has been supportive (I bet D.D.S. thought for a long time his work was going to go
+unused) and enthusiastic.
+
+In the end, I hope the final product is a reflection of the many, many hours the team
+has invested in this project.
+
+--------------------------------------
+
+3. Notes
+
+--------------------------------------
+
+While I tried my best to avoid it, a few of the ideas I originally wanted to implement
+had to either be scrapped or reworked. But fortunately all of the major things were
+added. One thing you'll notice, though, is the KI window is slightly wider on the right
+side, giving the screen an non-symmetric look. Not much could be done about this without
+introducing a whole slew of bugs. There are a few other windows with this problem, but
+you probably won't notice it as much.
+
+As for the translation of the technique names, the same goes for this as with the patch
+for Assault of the Saiyans patch: they're translated how they're translated and nobody
+wants to hear about how they're "wrong" from the DBZ/Inu-Yasha (they evolved, heh)
+kiddies based on what some guy posted on his blog right before he coerced three thirteen
+year old little boys to have sex with him. If you don't like them, tough; get a live
+journal so you can whine about it.
+
+That out of the way, I would like to say something about our decision to translate the
+subtitle as "Killer Andriods" instead of the more popular, and widely known, "Hot Battle!
+The Androids". I personally love the crazy Japanese titles used in the DBZ games and
+movies, but there simply wasn't enough screen space to make it look as good as the
+"Killer Androids" ended up. Props to Elf for doing such a phenomenal job on the title.
+
+--------------------------------------
+
+4. Patch History
+
+--------------------------------------
+
+-Version 1.00 IPS
+
+ The patch is now available in both NINJA format and the more common IPS format. NINJA
+ can apply both or you can use LunarIPS. No changes have been made to the contents of the
+ patch.
+
+-Version 1.00
+
+ Everything is translated and thoroughly tested. That doesn't mean that there aren't
+ still bugs lurking around, just that we didn't find them. If you find any read
+ below in section 5 for reporting them.
+
+ The patch is in NINJA format, for information on this see the official site at:
+ http://ninja.cinnamonpirate.com/
+
+ Over all, I'm extremely happy with this patch, and do not see an update needing to
+ be made in the future.
+
+ Please note that the rom only works in FCEU (and its offshoots) and FWNES. Rocknes
+ won't play the game, nor will NEStopia. This isn't due to the translation; the original
+ unpatched roms will not play either. I suspect there are more than just these two that
+ won't play the rom, though. If you're emulator of choice doesn't work, you may consider
+ switching to FCEU temporarily.
+
+--------------------------------------
+
+5. Bugs
+
+--------------------------------------
+
+There are no known bugs. However, if you manage to find one, I would like the
+following sent to me: a screenshot, a save state in FCEU format before the bug occurs,
+a brief description of the bug (even if you think it's obvious), and the circumstances
+under which it occured. Send that to my email at redcomet at rpgclassics dot com with
+Dragonball Z 3 or something similar in the subject line (so I won't trash it with the
+mountain of spam I get every day).
+
+--------------------------------------
+
+6. Credits
+
+--------------------------------------
+
+Dragonball Z 3: Killer Androids
+Translation Team:
+
+RedComet - Programmer (me)
+D.D.S. - Translator
+Elf - Graphics
+
+Testing and QA Team:
+
+snesmaster
+mrfreeze
+
+--------------------------------------
+
+7. Acknowledgements
+
+--------------------------------------
+
+In addition to the people listed in the Credits section, a few people deserve a special
+mention, without whom, this project would have gone no where fast and ended up being
+"just another dead DBZ translation":
+
+* danke - helped me out with a few last minute translations and some odds and ends.
+* Crotanks - my go to guy for all things DBZ. Seriously, this kid needs a hobby. *ahem*
+* MO's Board & the many wonderful translators who frequented it.
+* ROMHacking.net - a great place for getting help, feedback, and spreading news.
+
+...And all the ones I cannot remember, which, knowing me, is a lot.
+
+I hope you enjoy this patch. Expect more great (even some non-DBZ!) things from
+Twilight Translations in the future! Until next time, enjoy!

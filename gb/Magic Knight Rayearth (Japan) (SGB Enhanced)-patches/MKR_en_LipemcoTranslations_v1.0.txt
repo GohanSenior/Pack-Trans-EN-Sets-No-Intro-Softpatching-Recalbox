@@ -1,0 +1,177 @@
+﻿********************************************************************************
+*                       Magic Knight Rayearth (Game Boy)                       *
+*                          English Translation Patch                           *
+*                              v1.0 (06 Jan 2023)                              *
+*                                                                              *
+*                        TheMajinZenki -- Translation                          *
+*                               Supper -- Hacking                              *
+*                               cccmar -- Editing and Testing                  *
+*                             Xanathis -- Testing                              *
+********************************************************************************
+
+One day, Hikaru, Umi, and Fuu – the three Magic Knights summoned from Tokyo to 
+save the magical world of Cephiro – come across a mysterious painting during 
+their travels. Startlingly, they find that none of them see the same image in 
+it, but no sooner do they realize this than they are sucked inside, each landing 
+in the scene they saw. Separated, the three must now search for a way to 
+reunite. What is the secret of the strange painting and its inhabitants?
+
+Magic Knight Rayearth for the Game Boy is a 1995 role-playing game based on 
+CLAMP's hit media franchise of the same name, developed by Pandora Box and 
+published by Tomy. Short and to the point (though with many hidden extras for 
+the inquisitive player), its RPG elements are heavily simplified with an eye 
+toward accessibility to the series' target audience, leaving most of the focus 
+on the story. One of no less than seven Rayearth games released in a one-year 
+span, its developer would go on to make both a sequel on the Game Boy and a more 
+ambitious and well-known Rayearth adaptation for the Super Famicom.
+
+This patch fully translates the game into English.
+
+                    ****************************************
+                    *          Table of Contents           *
+                    ****************************************
+
+  I.   Patching Instructions
+  II.  Authors' Comments
+  III. Version History
+
+                    ****************************************
+                    *       I. Patching Instructions       *
+                    ****************************************
+
+You'll first need a ROM image of Magic Knight Rayearth for the Game Boy. It 
+should match the following specifications:
+
+  No-Intro filename: Magic Knight Rayearth (Japan) (SGB Enhanced).gb
+  CRC32:             94838a81
+  MD5:               06b75e657debd1568f18d369cc2422dd
+  SHA-1:             4f77031946e62772a241a9b5b046d7fcf6a28ea8
+
+The patch itself is a standard IPS patch. Use a tool such as Lunar IPS to apply 
+the IPS file to the ROM. The patch will expand the ROM, so don't use ancient 
+patching utilities that don't support that.
+
+                    ****************************************
+                    *        II. Authors' Comments         *
+                    ****************************************
+  
+  -------------------
+  -- TheMajinZenki --
+  -------------------
+  
+  Now, it's pretty obvious that this game was written very shortly after the 
+anime had started airing, because the plot of the game begins after they start 
+traveling with Mokona and there is very little reference to the actual plot, 
+beyond the intro and the fact that everyone knows that Zagato is the villain. 
+Excluding that, the game does whatever it wants with the excuse of being set 
+inside an alternate world (no, I don't mean Cephiro).
+
+  The plot itself is nothing to write home about, but the charm of the game 
+comes from how the Magic Knights reacts to the world and the characters. Umi's 
+chapter is probably the funniest, followed by Hikaru's chapter. Fuu's chapter 
+suffers from being isolated from everything, being set inside a labyrinth, but 
+she does have her moments too.
+
+  If you're a Rayearth fan, I recommend checking it out, it's an early anime 
+tie-in, completely different from the famous Saturn version. If you're not a 
+Rayearth fan, you might be interested in this obscure Gameboy gem.
+
+  At any rate, I hope you enjoy it as much as I enjoyed translating it :)
+  
+  ------------
+  -- Supper --
+  ------------
+  
+  I have to apologize to the rest of the group for my handling of this project; 
+it really should have been out well over a year ago, but I managed to drag my 
+feet on it so hard that it's only just now finished. Sorry, everyone. I'll try 
+not to let it happen again.
+  
+  This project actually dates back to 2020, when my own studies of Japanese were 
+coming along a little bit and I started looking at this game as something I 
+might try out as a first solo translation project. It's relatively short and no 
+one really cares about it too much, as evidenced by the fact that nobody 
+bothered to translate it for 26 years, which made it seemed like a reasonable 
+candidate. So I did a preliminary script dump, intending to come back to it once 
+I felt sufficiently comfortable with the language.
+  
+  But at some point in 2021 TheMajinZenki really wanted a project to work on and 
+this script was the only thing I had on hand, so I ended up handing it over to 
+him instead. I guess my negai wasn't very yuzurenai. Honestly, it's probably for 
+the best, since (the fact that he's an incomparably superior translator to me 
+aside) he's actually watched the whole series and I've only seen the first 
+season.
+  
+  Anyway, Zenki knocked the script out in short order, but by that time I'd 
+gotten going on my actual first solo project, Galaxy Fraulein Yuna 2, and ended 
+up putting this aside for a while. I really should have started on it once that 
+was done, but I rather selfishly went for another one of my own projects 
+instead, and by the time that was over it had been half a year and Rayearth 
+didn't seem like much of a pressing obligation anymore. I finally got it 
+together at the very end of last year and cranked this out over the holidays. I 
+feel bad about the whole thing, so again, my apologies to everyone.
+  
+  Incidentally, it seems to be the fate of English Rayearth translations, 
+official or otherwise, to get horribly delayed, cancelled, and/or mangled. Plans 
+to air the anime in the US were ultimately scrapped (though that's probably a 
+mercy, given what magical girl show dubs were like at the time). The Saturn game 
+got delayed over three years, and when it finally did come out, it had a few, 
+uh, issues. The translation for the first Game Gear game, which I worked on with 
+filler some time back, was stalled for a good decade or so. The only previous 
+attempt at translating this game was an abandoned effort from 2000, which was 
+very…well, 2000. And now, there's this. Hopefully we've at least stayed clear of 
+the "mangled" category.
+  
+  So, for all the trouble it caused, how's the actual game? Eh, it's not bad. 
+It's not amazing, and I can see why no one bothered with it up to now, but it's 
+not an unenjoyable thing to drop a couple-three hours on if you're a fan of the 
+series. The RPG elements are so trivial that it's really closer to an adventure 
+game than anything else, but that suits me just fine. And the music is fantastic 
+– it takes a lot to impress me these days, but the battle themes are right up 
+there with the system's best, and "Alone in the Dark Labyrinth" is so good it 
+salvages Fuu's really dull dungeon!…almost. The composer also scored the more 
+famous Super Famicom Rayearth game and reused a few tracks, so if you've ever 
+played that, you'll recognize some of the tunes here.
+  
+  This was my first translation project on the Game Boy. I think it all worked 
+out pretty smoothly – hacking a game on a popular system with reliable emulators 
+available, what a novelty! It does snap my four-game streak of doing karaoke 
+subtitles for vocal songs, though. I half-considered adding some to the theme 
+song in the sound test just to keep it going, but in the end, sense (or more 
+likely laziness) prevailed.
+  
+  I'm sure some people will be wondering if we're also going to do a translation 
+for the other Game Boy Rayearth game, which technically has an existing 
+translation hack but seems to suffer from the dreaded "couldn't use more letters 
+than the original game" issue. Sadly, we have no plans for it at this time, 
+because I'd rather not have a repeat of what happened with this project. Also, 
+I've made Zenki suffer through far too many magical girl games already, even if 
+Rayearth does have a few giant not-robots to make up for it. Not that they're in 
+this game, mind you.
+  
+  In closing, I hope you'll give the game a try. It's not going to revolutionize 
+your life, but if you don't expect too much, you just might come away pleasantly 
+surprised. And be sure to bump into all the scenery and dead ends, because you 
+never know where you'll turn something up…
+  
+  ------------
+  -- cccmar --
+  ------------
+  
+  Magic Knight Rayearth is a late Game Boy game that's based on a famous 
+(especially in parts of Europe/South America) early isekai franchise. The story 
+here is unique to the game, so it should be quite interesting for the fans of 
+the series. The game itself is very simple; there are basic trappings of an RPG, 
+such as leveling/stats, but they are fixed. There are no usable items. The only 
+three commands are Attack/Magic/Run. Scenarios can be played in any order, the 
+only change is some flavour text though. The most interesting scenario in my 
+opinion is the last one, as it has some puzzles, not just comedic text and such. 
+Overall, the game is very short and simple, but fans of the franchise will find 
+that it's quite humorous, and a breezy playthrough at that. So, have fun, 
+whoever reads this!
+
+                    ****************************************
+                    *         III. Version History         *
+                    ****************************************
+
+v1.0 (06 Jan 2023): Initial release.

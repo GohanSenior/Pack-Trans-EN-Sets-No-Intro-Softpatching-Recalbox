@@ -1,0 +1,39 @@
+Hugo GB 2 and 1/2: English Translation
+Version 1.0
+9 April 2021
+-NikcDC
+
+This is an updated release of the sequel to the repeatedly reskinned Hugo GB. Did this game actually deserve remastering? Apparently so!
+This version adds beautiful 15-bit color, slightly improved gameplay, and a new aerial-themed mini-game - plus the same great music from the original.
+
+Once again, keep your eye out for bags of gold as you make your way through challenges like snowboarding, log hopping, scuba-diving, and more - *three* more, to be precise. Escape from the castle and rob Scylla blind in TECHNOCOLOR!
+
+v1
+------------
+*English translation added
+
+**************
+Future Updates
+*Fixing any missed dialogue or formatting issues
+*Adding a lowercase font
+*Fully decompress and translate one small HUD graphic (currently dummied out)
+**************
+
+How to patch:
+Get a copy of the Hugo GB 2 and 1/2 ROM, and an IPS patching program (Lunar IPS seems to be the standard).
+Run the program, click 'Apply patch', and viola! Enjoy.
+
+Tools Used:
+----------------
+BGB
+XVI Hex Editor
+TLP
+-----------------
+
+Special Thanks
+----------------
+Meine Tante Wanda
+----------------
+
+Questions? Glitches? Comments?
+nikcdc@gmail.com

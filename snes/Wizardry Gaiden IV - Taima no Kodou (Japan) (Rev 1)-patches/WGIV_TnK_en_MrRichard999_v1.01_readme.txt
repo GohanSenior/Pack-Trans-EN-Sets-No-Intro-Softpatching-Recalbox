@@ -1,0 +1,100 @@
+Wizardry Gaiden IV English Translation
+Version 1.0
+9/6/2016
+
+Project Staff
+
+MrRichard999 - Project Lead and hacking small font text.
+
+D.D.S. - Hacking & insertion of VWF font and scripts & 
+help with fixing small font issues & corrections. Also made sure this project was completed to the end. Very special thanks to you! 
+
+DackR - Hacking	Hacking & insertion of large font scripts.
+
+EsperKnight - Hacking dealing with large font scripts.
+
+FinS - Hacking, creating the table files, and script dumps of all the large font script.
+
+AgentOrange - Translation of all large font script dumps.
+
+Helly - Translation of locations in large font and small font dialogue.
+
+Eien Ni Hen - Translation of small font dialogue.
+
+Mark Patraw - Translation of small font dialogue.
+
+Jink640 - Spot & wrap up translation.
+
+GamerHenky - Game testing and reporting of all issues! Thank you! :D
+
+Here is a full English translation for Wizardry Gaiden IV - Throb of the
+
+Demon's Heart. 
+After 3 years of hard work the project is now finally
+
+completed! We hope you enjoy the release!
+
+PATCHING INSTRUCTIONS
+
+USE THE BEAT UTILITY TO APPLY THE .BPS PATCH TO AN UNHEADERED ROM.
+
+HERE IS THE ROM YOU SHOULD BE USING.
+
+    Wizardry Gaiden IV - Taima no Kodou (Japan) (Rev 1).sfc - NOINTRO
+    CRC32: 1703D522
+    MD5: 7BA541A38E7C5E86FB0D4519B490EFE8
+    SHA-1: F4B6B592442F395CE5284FFF02A9556F8B3D9FBF
+    SHA-256: BD5023F7FBF1E1D1C5C6B350506B7F727B4A8EC05ADD7281FFAF8F3016FD7099
+
+UPDATE NOTES
+
+Version 0.981b
+-Fixed game breaking bug in the Tower of Idleness which freezes the game when attempting to approach one of the pictures where you place a statue.
+-Fixed some spelling issues with Items/Enemies
+-Fixed some issues with the large font dialogue in some spots where garbling occured.
+
+Version 0.982b
+- Fixed pointer bug when at the inn the GIVE command was MAGIC before. Now GIVE is properly displayed.
+
+Version 0.983b
+-Fixed dialogues & spacings at character creation menus.
+-Proofread over the entire script and demoed it in-game to fix typos and adjust everything to fit on screen.
+-Converted 2-line dialogue windows to 3-line windows.
+-Added code to set the default language for all 4 settings to English on startup.
+-Fixed Item menu for Bishops to show all 6 options in the correct order, and full name for "Identify".
+-Fixed Identify for weapons since it was displaying random Japanese chars instead of "2-Hand".
+-Changed "Dragon" to "Dracon" for Wizardry series consistency.
+-Changed "Bootu" to "Boots" for Equip screen.
+
+Version 0.984b
+-Corrected Special Item Ability Invoking screen.
+-Cleaned up Battle Engine.
+-Fixed some typos.
+
+Version 0.986b
+-Looking at chests for traps should load the right names now.
+-Reworked the title screen and options menu ("Scarlet Lotus Castle", "Sound Channel", "Labyrinth Walls", "Battle Graphics").
+-Eliminated language selection in options as English is set by default.
+-Expanded the individual options ("Semi-Fast", "Normal", "Semi-Slow").
+-Changed "<name> changed alignment." message.
+-Changed "Waiting" to "Searching" and fixed the dots to use periods instead of the Japanese dot.
+-Expanded Bar window and options ("Add Member", "Remove Member").
+-Expanded Inn option ("Pool Gold")
+-Expanded Camp window ("Inspect Member", "Reorder Party", "Use Ability", "AbilityList", "Pool Gold")
+-Expanded Main Menu options ("Search", "Open Door", "Pick Lock", "Party Search")
+-Expanded Training Hall option ("Equipment")
+-Fixed Training Hall "Roll" counter (may or may not fix bug with random symbols appearing)
+-Fixed Button Config screen random jumble.
+-Changed chest looting messages to "<name> takes <item>!"
+-Changed message to "An Encounter!"
+-Trimmed leading and trailing spaces for some messages so they would center correctly.
+-Fixed typos for "Elvan Chain & Bandir Reader, & what was in the spell descriptions".
+-Redid all spell descriptions with corrected line breaks.
+-Discovered bard instrument actions weren't done and fixed them.
+-Added a header to the ROM after patching with a correct checksum.
+
+Version 1.0
+- Too many to list.. Lots of fixes done! Endings are all verified & done!
+
+Version 1.01
+- GamerHenky found that the race descriptions for Gnome and Hobbit are reversed. Fixed!

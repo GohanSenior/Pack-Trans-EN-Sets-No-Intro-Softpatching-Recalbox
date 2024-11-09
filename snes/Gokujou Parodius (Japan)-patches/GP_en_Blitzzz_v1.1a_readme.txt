@@ -1,0 +1,250 @@
+======================================================
+ Gokujou Parodius Fan Translation + SRAM
+   Authors:    blizzz, ReyVGM, FlashPV, Natori, Niz
+   Version:    1.1a
+   Date:       12 August 2023
+======================================================
+
+## Fantastic Parodius! ~ Pursuing the Former Glory ~ ##
+
+
+Introduction
+--------------------------------------------------------------------------------
+This hack translates all menu, story and in game text in the game. In addition
+it adds automatic saving for highscores and settings.
+
+
+Patching Instructions
+--------------------------------------------------------------------------------
+Apply Fantastic_Parodius_EN.bps to an unheadered Japanese copy of
+Gokujou Parodius for Super Famicom. To patch the ROM you can use a tool like
+Flips or the online patching utility at https://www.romhacking.net/patch/ .
+
+ROM information:
+Gokujou Parodius (Japan).sfc
+2048 KB (2,097,152 bytes)
+CRC32: 04EE98ED
+SHA-1: B3ABA222D356BEFF1443A1B7B95CC90CFF1D60B2
+
+The patch changes the file size to 2560 KB.
+
+# Alternative patches
+Fantastic_Parodius_EN_AltLogo.bps
+	Same as the main patch, except that the logo has a subtitle.
+
+Gokujou_Parodius_EN.bps
+	This patch only translates the story and boss attacks. It does not change
+	the title screen or background graphics.
+
+# Optional patches
+remove_sram_saving.ips
+	Disables SRAM saving, apply on top of one of the other patches if you don't
+	want to save your highscore.
+
+
+SRAM Saving
+--------------------------------------------------------------------------------
+Highscores and settings are automatically saved to SRAM and loaded at the start
+of the game. The game saves when exiting the settings menu and after the name
+entry screen after a game.
+
+To delete your save file, enter the Option screen, then hold Select and press
+Start to exit back to the main menu. The game will load the default settings.
+
+
+Story (from the manual)
+--------------------------------------------------------------------------------
+Once upon a time, there was something called "Glory of the Past", which was
+wonderful...
+
+It is now 1994 AD. Four years after a parent-child fight involving the whole
+universe, the world was once again at peace thanks to the four brave men who
+defeated Takobee, the evil master. However, the brave ones were not welcomed by
+the world, and lived a lonely life.
+
+One day, Mr. Parodius, who was lying on the cutting board of an octopus jar at
+home, having not yet healed from his wounds from the previous was, called his
+eldest son Takosuke.
+
+"Could you search for the "Glory of the Past" for me? I'd like to see the good
+old days once more before an eagle picks me up and cooks me."
+
+According to the rumors, an octopus named Yukari (also known as A-Ko Tako) in
+the "Parodius" Disco is hiding it. Upon hearing that, Takosuke took his favorite
+sun visor and ran out of home looking for the "Glory of the Past".
+
+And thus, the Parodius Legion was formed again. Counting with Takosuke,
+Vic Viper, TwinBee and Pentaro, along with seven new friends. In search of the
+"Glory of the Past", Takosuke left with his ten friends!
+
+Translation by:
+https://gradius.fandom.com/wiki/Gokuj%C5%8D_Parodius!_~Kako_no_Eik%C5%8D_o_Motomete~#Story
+
+
+Stages and Boss Names
+--------------------------------------------------------------------------------
+Stage 1	- Circo Porto Harborland
+	Anna Pavlova and Melora
+Stage 2 - Cat Battleship Forever
+	Eliza and Neil
+Stage 3 - Candy Land
+	Decoration Core
+Stage 4 - Traffic Signs
+	Crazy Core
+Stage 5 - Core Ship Parade
+	Capsule Monster Cappuccino
+Stage X - Moai Battleship
+	Yoshiko
+Stage 6 - The Moon
+	Cardboard Princess Kaguya
+Stage 7 - Disco
+	Chichibinta Rika
+	Tako's Cutie
+Stage EX - Shooting Memories
+	Pentaro X
+
+
+Translation Notes
+--------------------------------------------------------------------------------
+
+### Stage 3 Candy Land
+
+At the start of the stage, there's a relief of the Great Gourmet King Manjiri on
+the wall next to the entrance. The kanji on his belly is 玉 (ball or valuable),
+while the kanji for king is 王. Manjiri was a boss who was exclusive to the
+PC Engine release of Paroius Da! He appears in the special stage when the player
+arrives at the boss with between 900,000 and 1 million score.
+The slight change to the kanji for 'king' is most likely a pun to show that he's
+no longer respected enough to be the boss of the stage and maybe also that he's
+round as a ball (fat). 玉 is also the Japanese counting word for round food.
+A ¥ graphic was made to reflect the value / prosperity meaning of 玉, but since
+this is likely not the meaning the devs intended, the original kanji was left
+untouched instead.
+
+### Stage 4 Traffic Signs
+
+ぴよこ県警(秘)基地 (Piyoko Prefectural Police Secret Base)
+Piyoko (or Pyoko) is the name of the female bird enemies. The male version is
+called Kokekko.
+
+リカー○× (Liquor ○×)
+Liquor store with a placeholder name (○×).
+
+鳥商店通 (Bird Shopping Avenue)
+This sign is very hard to read and the first kanji (鳥, bird) can only be
+guessed. Since space is limited, we added a bird icon.
+
+大変ご迷惑をおかけいたしております。 (We apologize for any inconvenience caused.)
+A common sign at a construction site
+
+
+### Interruption Stage X (Moai Battleship)
+
+兄弟船 (Kyōdai Bune, Brother Ship) is a popular Japnese song by Ichirō Toba from
+1982. I encourage you to look it up, it's quite nice.
+
+一番星 (Ichibanboshi, First star on the night sky) and 御意見無用 (Go-iken Muyō,
+Don't give me your opinion, I just do what I want) are references to the
+Truck Yarō or Truck Rascals movies that came out in the 1970s in Japan.
+Go-iken Muyō is the subtitle of the first movie and Ichibanboshi is one of the
+main characters. The translation for this sign was tricky and changed a couple
+times. "Keep Your Opinions" (...because I don't want them) almost made it into
+the final version, but was replaced by "Save Your Breath" (...because you won't
+change my mind). Another alternative was "Unbreakable Spirit".
+More info: https://en.wikipedia.org/wiki/Torakku_Yar%C5%8D
+
+
+### Stage 6 Rabbit
+
+竹取家 月面4丁目 (House Taketori, Surface of the Moon, Block 4)
+Taketori Monogatari, The Tale of the Bamboo Cutter, is also known as The Tale of
+Princess Kaguya. The Ghibli movie by the same name is worth a watch if you're
+unfamiliar with the story.
+
+
+### Ending
+
+メンソーレ (めんそーれ, mensoore) means welcome in Okinawan dialect. The pixels make
+it look like メンソール (menthol), but mensoore is the more likely meaning.
+Another Konami game of the time, Ganbare Goemon 2, starts on an island near
+Okinawa.
+
+
+Hidden Message
+--------------------------------------------------------------------------------
+There's a hidden developer message in the ROM file at offset 0x30000.
+
+JP: iroiro atte iroiro arisugite yoku ironnakotogarawo kangaerukotoga dekimasen
+shibaraku boutto saseteoitekudasai gomennasai    
+EN: There's so much going on, there's too much going on. I can't really think
+about all the things that are going on, so please let me dwell on it for a
+while. I'm sorry.
+
+
+Dev notes
+--------------------------------------------------------------------------------
+The translation of the Cappuccino boss fight was remade three times from the
+ground up, which took many, many hours. This was the most complex part of the
+hack. The final version has slightly better optimization than the original
+Japanese fight, which lowers flicker a bit. I hope someone enjoys it.
+
+
+Credits
+--------------------------------------------------------------------------------
+blizzz - Production, hacking, graphics, compression, tools
+ReyVGM ( www.vgmuseum.com ) - Graphics
+FlashPV - Title screen logo
+Natori Youkai ( pixiv.me/youkai_natori ) - Translation
+Niz ( http://setsumei.html.xdomain.jp/superfamicom/ ) - Translation Check
+
+
+Thanks
+--------------------------------------------------------------------------------
+The Boat, especially Charro (and his sheep) and Ganonette
+Everyone from the RHDN forum thread who provided feedback; special shoutouts to
+	Magma MK-II and psp_revival
+ikari_01 (Repro testing)
+gooeyPhantasm (SNES Classic Mini testing)
+ProtonNoir, for their information on the compression method Konami used in
+	another title
+Optiroc, for making SuperFamiconv
+SourMesen, for making the Mesen-S debugger
+The Asar devs
+
+And thank you to everyone who sent me nice messages!
+
+
+Dont't forget to check out the awesome fan translation of Jikkyou Oshaberi
+Parodius by advancedpillow!
+https://www.romhacking.net/translations/6858/
+
+
+We love shooting games ❤
+
+
+Version History
+------------------------------------------------------------------------
+2023.08.12 - 1.1a
+	Fixed layering issue of title screen logo (reported by GaucheArtist)
+
+2023.08.11 - 1.1
+	Added option to clear SRAM save
+	Fixed palette issue on power up select screen when using shoulder buttons
+		(reported by Valkyrie)
+	Fixed black screen bug in the version of the patch that keeps the original
+		title screen (reported by Pau Suri)
+
+2023.07.30 - 1.0
+	Changed SRAM access for Canoe emulator support.
+
+2023.07.29 - 1.0 RC1
+	Added new title screen logo made by FlashPV.
+	Some minor fixes.
+
+2023.07.23 - Beta 2
+	Almost all graphics were remade. Under the hood the hack was completely
+	remade with a better understanding of the compression used in the game.
+	Translated text in the background with the help of ReyVGM.
+
+2022.10.09 - Beta 1
+	The initial release intended mostly for testing and to gather feedback.

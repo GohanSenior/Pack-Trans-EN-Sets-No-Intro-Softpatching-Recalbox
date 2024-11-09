@@ -1,0 +1,69 @@
+YS 5: KEFIN, LOST KINGDOM OF SAND
+ENGLISH TRANSLATION V1.00
+Copyright 2013 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Ys 5
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+
+------------
+1.About Ys 5
+------------
+The last untranslated game in Nihon Falcom's venerated Ys series, Ys 5
+is a bit of an odd duck. It marks the series's first foray into button-
+based combat instead of ramming-based combat. It ends up feeling slower
+than prior (and successive) entries in the series though, and was the
+last Ys game produced for several years before Ys 6 refined the formula.
+As such, the game is a bit of a black sheep in the series, but it is by
+no means bad - just average when compared to its larger collection of
+peers outside of Ys.
+
+---------------
+2.Patch History
+---------------
+November 28, 2013 - Initial V1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE YS 5 TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker, assembly hacking
+Jeff Nussbaum a.k.a. Deuce - Text translation, script edit
+g8z et al - Compression solution, text tools
+
+--------------
+4.Known Issues
+--------------
+--There are no known issues.
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://agtp.romhack.net/pantheon)
+Screenshots are preferred, as are savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+3.00 MB (24mbit LoROM) WITHOUT header. (*exactly* 3,145,728 bytes)
+No header.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "ys5.smc" make sure the patch
+is "ys5.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT
+HAVE A HEADER!. If you right-click the ROM and select Properties, it
+should read "3.00 MB (3,145,728 bytes)". TUSH will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net/utilities/608/
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+have a header.

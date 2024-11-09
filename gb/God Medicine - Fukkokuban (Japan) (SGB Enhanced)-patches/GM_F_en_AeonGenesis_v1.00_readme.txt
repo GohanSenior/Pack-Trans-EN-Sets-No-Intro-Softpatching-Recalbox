@@ -1,0 +1,79 @@
+GOD MEDICINE
+ENGLISH TRANSLATION V1.00
+Copyright 2004 Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About God Medicine
+2.Patch History
+3.Patch Credits and Contributors
+4.Known Issues
+5.Application Instructions
+6.Troubleshooting
+
+--------------
+1.God Medicine
+--------------
+God Medicine is a run-of-the-mill RPG for the gameboy by Konami. It
+takes a fairly unique approach to a fairly generic underlying story,
+alleging that the main characters are real-world folk transported
+into an RPG world. A lot of what God Medicine does has been done
+before, the only really interesting twists to combat coming about
+halfway through the game, but its generic-ness is precisely what
+allows it to take the occasional jab at RPGs and video games as a
+whole. It's a fun game though, even if it's not particularly tough.
+
+---------------
+2.Patch History
+---------------
+This started out a very, very long time ago, with akujin helping to
+dump the script and the actual text translation going nowhere for a
+while. I seem to recall someone having worked on it before Sogabe
+stepped up to translate the script a few years back, but I honestly
+don't remember who it was :( Anyway, long story short, Cidolfas
+worked on script polishing, then the whole thing sat by the wayside
+while I attempted to get text compression and/or text relocation
+implemented. When both fell through (aside from the game's built-in
+compression scheme) and after much deliberation I just hacked up
+the script to fit in the game, and here's the final result.
+
+November 13, 2004 - Initial version 1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE GOD MEDICINE TEAM
+Main Team:
+Gideon Zhi - Project leader, Romhacker
+Sogabe - Translation
+Cidolfas - Initial script polish
+akujin - Text dumping
+
+--------------
+4.Known Issues
+--------------
+--There are quite a few instances in the Yamima monster file where
+  move and magic text either runs into each other or overrides the
+  window border. There's not much I can do about this at this point,
+  unfortunately.
+
+If you find any other issues, please post about them on The Pantheon.
+(http://donut.parodius.com/agtp)
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+512KB (4mbit Super Gameboy)
+
+Simply apply the patch with a patching program of your choice.
+I personally recommend Lunar IPS (http://fusoya.cg-games.net)
+
+-----------------
+6.Troubleshooting
+-----------------
+--If the game does not run at all or displays strange glitchiness
+  shortly after you boot it up, make sure you're applying the patch
+  to the 512KB Super Gameboy edition and not the 256KB monochrome
+  release.

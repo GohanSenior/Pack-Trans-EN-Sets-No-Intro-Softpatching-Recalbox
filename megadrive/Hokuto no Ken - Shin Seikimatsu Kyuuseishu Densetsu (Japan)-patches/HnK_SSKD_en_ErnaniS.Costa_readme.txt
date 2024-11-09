@@ -1,0 +1,88 @@
+patch by Ernani da S. Costa
+apply
+*FONTS_ENG:
+ + original japanese to english translation
+ + dialog text box size increased
+
+*FONTS_REVISITED (latest version of the hack)
+ v1.0
+ + stage order rearranged and text curated to reflect the anime more closelly
+ + graphic changes to the map and its locations to reflect the stages more closelly
+ + air enemy bounce physics
+ + boss health and damage inflicted to kenshiro rebalanced
+ + some stages had enemy placement adjusted
+ + kenshiro attacks, jump and enemy hit and enemy hitting kenshiro sound fxs changed
+ + walking speed increased
+ + stage scroll when kenshiro is at the center of screen
+ + hyo/kaioh energy collumn now pushes kenshiro.
+
+ v1.1
+ + Kaioh name in intro fixed
+ + dungeon flying axe enviroment collision fixed
+ + chapter 2 dungeon skip bug fixed
+ + black line in front of arrow head removed
+ + weak kenshiro collision box was too big, fixed
+ + running pirate atack and dmg collision boxes readjusted
+
+ v1.2
+ + stage select numbering fixed
+ + dialog boxes increased and location of dialogue and intro in the rom, reflects the purist patch
+ + revised shorter intro
+ + revised dialogues no take advantage of the extra line.
+ + boss fight with names
+
+
+ v1.3
+ + trademark title text restored
+ + title sequence changed to sega > title > story > attract
+ + eagle dive stops at crouching height 
+ + added accent characters
+ + akashachi name bleed fixed
+ + some stage had enemy placement changed
+ + some enemy speed changed
+ + enemy recoil amount slightly increased
+ + akashachi boss screen scroll now only stops scroll back
+ + akashachi agressiveness increased
+ + sword throwing shura sprite positions fixed
+ + sword throwing shura ground collition logic fixed
+ + rolling rock speed slightly increased
+ + stage select shows stage 1 when activated
+ + asuka apears on the right of her stage now
+ + enter asuka stage from the right when coming from the dungeon
+ + entering boomerang shura stage from the right when coming from the 1st town
+ + entering shachi stage from the right when coming from the kaioh talk
+ + shachi position changed to left side of stage
+ + shachi, asuka and their dialog pics adusted to face the correct side due to changes
+ + bask forehead cross fixed
+
+ v1.3.1
+ + expanded chars for possible french translation in both purist and extended patches
+ + purist patch show chapt 1  when entering stage select cheat
+
+ v1.4
+ + boomerang enemy facing right collision detection fixed
+ + extra life system implemented (gained with score)
+ + kenshiro rebound in the air now acounts for gravity
+ + ken consecutive hits have increased reboung and dmg
+ + alph waterfall animation restored
+ + 2nd kaioh fight missing hud left corner fixed 
+ + kaioh red now takes less damage than kaioh normal
+ + kaioh def slighly increased 
+ + disapearing shura fixed hand animation
+
+ v1.5
+ + story wall now has music
+ + intro sfx and animation timing adjusted
+ + extra life and lost life sfx added
+ + game over sfx imlemented (lost sfx found in code)
+ + rebalanced bosses and enemies to account for life system
+ + falco and han attack paterns rebalanced
+ + final kaioh 2nd dialog pic start in correct pos (no rising pic behind)
+
+BOTH PATCHES INCLUDE:
+ + graphic fixes (broken mouth sprites/ arrow head sprite/ wrong max def value)
+ + graphic translations to pre-logo, pre-chapter text and ending background text
+ + logo fist of the north star subtext
+ + intro scrolling speed decreased,
+ + intro text shifted left to fit more characters per line
+ + hokuto pillar and kaioh's armor sprite fix

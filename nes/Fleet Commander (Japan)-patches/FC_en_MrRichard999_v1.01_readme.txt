@@ -1,0 +1,83 @@
+                                     |__
+                                     |\/
+                                     ---
+                                     / | [
+                              !      | |||
+                            _/|     _/|-++'
+                        +  +--|    |--|--|_ |-
+                     { /|__|  |/\__|  |--- |||__/
+                    +---------------___[}-_===_.'____                 /\
+                ____`-' ||___-{]_| _[}-  |     |_[___\==--            \/   _
+ __..._____--==/___]_|__|_____________________________[___\==--____,------' .7
+|                   FLEET COMMANDER ENGLISH V1.0 6/8/2014                     /
+ \_________________________________________________________________________|
+                         ASCII ART BY Matthew Bace
+
+
+
+Here is a full 100% English release for Fleet Command on the Famicom system.
+The game is based on a WWII battle but the names of the opposing forces
+were changed to Algon and Proton. They have been changed to U.S.A &
+Japan to reflect what it was originally supposed to be. Also the title screen
+has been redone to look more like what it is on the box art. Enjoy the release
+and if there are any issues please feel free to contact us on 
+http://www.romhacking.net
+
+
+UPPDATE 1.01
+Minor text alteration and fixed ERROR on Turbo File load.
+
+
+                                     # #  ( )
+                                  ___#_#___|__
+                              _  |____________|  _
+                       _=====| | |  CREDITS   | | |==== _
+                 =====| |.---------------------------. | |====
+   <--------------------'   .  .  .  .  .  .  .  .   '--------------/
+     \                                                             /
+      \_______________________________________________WWS_________/
+  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+   wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww 
+
+
+Hacking done by MrRichard999
+Translation work done by AgentOrange
+Title Screen Graphics by Pacnsacdave
+
+ 
+                                                                  
+                            !                                                  
+                            !                                                  
+                           /_\                                                 
+                    =====/` - '\=====                                          
+                        ( ( O ) )                                              
+ --______-------________/\  -  /\_______--------______-- -ast                  
+      ---------____***___/`---'\__***____--------   
+
+
+===========================
+BACKGROUND ON FLEET COMMAND
+ Done by StrategyWIKI.COM
+===========================
+
+Fleet Commander is a strategy game developed and published by ASCII Entertainment 
+for the Famicom in 1988. It is the first naval battle game ever released for the 
+system. While it supposedly depicts a battle between two fictional countries, the 
+game is largely recognized to be a recreation of one of the crucial naval battles 
+that occurred between Japan and the United States near the end of World War II. 
+Players control a Japanese fleet of heavy cruisers, battleships, submarines and 
+aircraft carriers.A couple of things set this game apart from typical Famicom 
+games. First, in addition to the cartridge and the manual, the game also came 
+packaged with a large map and plastic models which represented ships and 
+airplanes. The game never shows the entire state of the water, so it is up to the 
+player to use the information that he or she has to update the representation of 
+battle on the map using the plastic models. Second, no background music is heard 
+while playing this game. Finally, this game makes use of a device known as the 
+"Turbo File," which was manufactured and sold by ASCII as well. This device was 
+a hardware add-on for the Famicom which was used to save game progress. It was 
+compatible with a number of other titles. The game is similar to Midnight 
+Commander, released for a number of popular Japanese home computer systems in 1983.
+Fleet Commander was followed up with a sequel, Fleet Commander 2, released 
+exclusively for the MSX2 in 1990. In 1991, another version of the game was 
+released for Game Boy titled Fleet Commander Vs..

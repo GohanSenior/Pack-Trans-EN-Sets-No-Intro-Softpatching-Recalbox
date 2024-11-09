@@ -1,0 +1,11 @@
+http://akatranslations.9cy.com/
+
+Altered Beast aka Juuouki
+Notes:
+Rom Name: Juuouki (J).nes
+System: NES
+Patch: beastv10.zip
+Version: 1.00
+Translation by: akadewboy
+
+This is a simple translation that I made just for fun, and to bring attention to anyone that didn't know that Altered Beast was actually released on the NES. I always thought it was only released on the Sega Genesis.

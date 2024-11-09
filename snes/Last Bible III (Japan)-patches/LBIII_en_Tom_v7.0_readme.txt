@@ -1,0 +1,88 @@
+Last Bible III
+Patch Version: Seven
+English Translation Patch Information and Credits
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+This is a revised patch that includes a translation of Last Bible III on the Super Famicom. (The text has been translated from Japanese into American English.)
+
+* The version two patch fixed two windows of text in the game that refer to the main character as Ciel, even if the player changed his name.
+
+** The version three patch fixed an instance of word doubling "and and" in a dialogue window.
+
+*** The version four patch fixed a typo and improved some dialogue.
+
+**** The version five patch removed a bit of Japanese that was left in the game (in the alternate title screen that appears if you don't skip the intro sequence).
+
+***** The version six patch fixed two instances where your brother is called Rudy even if you changed the game, and it also fixed some glitching when you use symbols such as dashes or punctuation in a name.
+
+****** The current patch (version seven) fixes two typos ("due" instead of "die" / "Shop" instead of "Ship.") It also fixes the formatting of a few lines, and fixes all of the glitched text in Alon's satchel. Also, at the request of the person who reported these errors, all instances of Ms. Larsford have been changed to Mrs. Larsford.
+
+
+WARNING - If you are using save states and are in the middle of the game with an earlier patch, you should make a hard save (battery save) before updating. The game relies heavily on scripting and may break or freeze if loading an old savestate after patching.
+
+Two patching formats are provided, so use either .ips or .bps.
+(Do not apply both patches.)
+
+-----------
+  CREDITS
+-----------
+
+(In order of appearance)
+
+Translation:
+Tom
+
+Hacking and testing:
+DDSTranslation
+
+Font and graphics editing:
+FlashPV
+
+Beta testing:
+Zynk
+cccmar
+@catatomic_band
+Rython
+FrostAce
+GoldSaint
+Aleph
+alexcom
+meunierd
+Emmanuel Diaz
+DougRPG
+(and others)
+
+------------
+
+Comments from Tom, the translator:
+
+An English version of Last Bible III has been a dream of mine for quite some time.
+
+I'm so glad that this wonderful game will finally be shared with the world.
+
+And thanks so much to DDSTranslation, FlashPV, and the beta testers, for going the extra mile!
+
+------------
+
+Comments from DDStranslation, the hacker:
+
+I was glad to have the opportunity to work with Tom and FlashPV again, and on a game I've been waiting to play in English.
+
+Even though the project took 10 months, it felt like it went by so quickly.
+
+Hopefully everyone will be able to enjoy this amazing RPG by Atlus!
+
+------------
+
+Comments from FlashPV, the pixel artist:
+
+Once again I got a chance to work with DDS and Tom.
+
+I didn't do many things this time, but I'm always happy to help them.
+
+I've just designed two fonts and done some minor graphic work.
+
+This game deserved a translation and this one is very polished. Enjoy!

@@ -1,0 +1,40 @@
+_____________________________________________________________________________________________
+
+	This translation was created with care by me, Polinym.  Thanks
+for downloading it and supporting my work! I hope you enjoy playing through
+the original Dragon Quest!
+
+	 Included with the original patch is a hack that's exactly
+the same, only all enemies drop 255 experience and large amounts of Gold upon
+their defeat. This way, you have the option of skipping the hours of grinding and
+just seeing all the original game has to offer.
+
+	Curious what I decided to do with the localization choices I love like
+Erdrick, Dragonlord, Gwaelin, and all that? You'll have to play the game for yourself!
+
+	If you encounter any bugs that I didn't catch, paticularly those that make
+the game unplayable (the game should be 100% playable. I beat it myself twice), please
+don't hesitate to let me know! I'd perfer you just send me a PM through the ROMHacking.net
+forums so I can fix the issue right away.
+
+	Revision 1.1 - Fixed the typo "recieves" to "receives".
+
+	Revision 1.2 - Fixed typo ("Lailho" -> Laliho), lali!
+		    - Fixed text overflow error.
+	Revision 1.3 - Solved password issue once and for all.
+
+	If you liked this, also check out these other projects by Polinym! Also, be sure to
+leave a nice review on ROMHacking.net!
+
+Pop Star Debut localization! ( http://www.romhacking.net/translations/4972/ ) 
+(Seriously, it's hilarious! Not just a children's game!)
+
+Stardom Warriors localization! ( http://www.romhacking.net/translations/5321/ ) 
+(Wacky Dragon Quest clone!)
+
+EightBound ( http://www.romhacking.net/hacks/4874/ ) 
+(EarthBound/Final Fantasy crossover game of epic proportions!)
+
+Polinym's YouTube channel: (https://www.youtube.com/channel/UCJqSB4xw29TTKlia5E0NYtQ)
+
+_____________________________________________________________________________________________

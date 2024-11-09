@@ -1,0 +1,74 @@
+********************************************************************************
+*                   Bishoujo Senshi Sailor Moon (Mega Drive)                   *
+*                          English Translation Patch                           *
+*                             v1.0 (12 Apr. 2018)                              *
+********************************************************************************
+
+The Dark Kingdom has been resurrected by an unknown force. As one of the five 
+Sailor Senshi of love and justice, battle your way to the enemy's stronghold and 
+protect the earth!
+
+This is an English translation patch for the 1994 Mega Drive beat-'em-up 
+Bishoujo Senshi Sailor Moon (Pretty Soldier Sailor Moon), developed by MA-BA and 
+of course based on the popular franchise by Naoko Takeuchi. While loosely 
+similar to its SNES cousin (which as of this writing hasn't been translated to 
+English), this version features considerably different stages, gameplay, music, 
+and plot, so it's worth a look even if you've played that port.
+
+                    ****************************************
+                    *        Patching Instructions         *
+                    ****************************************
+
+To apply the patch, you'll need the no-intro verified dump of the game. For 
+reference:
+
+ROM name: Bishoujo Senshi Sailor Moon (Japan).md
+Size:     2097152
+CRC32:    5E246938
+MD5:      B5365025A46A2781C63E254345268BF1
+SHA-1:    7565B0B19FB830DED5E90399F552C14C2AACDEB8
+
+The patch itself is a standard IPS patch, so apply it using a patching program 
+such as Lunar IPS. The patch expands the ROM from 2MB to 4MB, so don't use some 
+ancient patcher that can't handle that.
+
+                    ****************************************
+                    *            Patch Details             *
+                    ****************************************
+
+* All text is translated to English.
+* The voice clips in the intro are subtitled.
+* The region lock is removed, so the game can be played on non-Japanese 
+Genesis/Mega Drive consoles. PAL systems will experience the usual slowdown.
+* A very minor and nitpicky change: In the original game, pressing Left on the 
+difficulty selection menu increases the difficulty, while Right decreases it. 
+While this is probably intuitive to the Japanese, it's not for most Westerners, 
+so the patch reverses it.
+
+                    ****************************************
+                    *               Contact                *
+                    ****************************************
+
+If you run into bugs or encounter other issues while using this patch, or 
+generally just want to complain, get in touch with Supper via the ROMhacking.net 
+forums or e-mail: suppertails66@gmail.com
+
+                    ****************************************
+                    *               Credits                *
+                    ****************************************
+
+                               Supper -- Hacking
+                          Eien Ni Hen -- Translation
+                               Filler -- Special Thanks
+
+The hacking, art edits, and overall project were handled by me (Supper). Major 
+thanks to Eien Ni Hen for translating the script, and to Filler for making the 
+arrangements for that to happen.
+
+Thanks to the developers of the KENS libraries, which were used to handle this 
+game's extensive Kosinski compression.
+
+Thanks as well to everyone on RHDN who gave feedback when I posted my initial 
+work there. You'll all (mostly) be pleased to note that I eventually caved and 
+went with "Pretty Soldier" instead of "Bishoujo Senshi" on the title screen. 
+Toughest decision of the entire project, honestly.

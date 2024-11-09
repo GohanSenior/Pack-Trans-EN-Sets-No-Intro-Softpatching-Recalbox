@@ -1,0 +1,111 @@
+SHIN MEGAMI TENSEI if...
+ENGLISH TRANSLATION V1.00
+Copyright 2018 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.  About SMT if...
+2.  Patch History
+3.  Patch Credits and Contributors
+4.  Known issues
+5.  Application Instructions
+6.  Translation Notes
+7.  Bugs in the Original Game
+
+-----------------
+1.About SMT if...
+-----------------
+The third and final Shin Megami Tensei title released on the SNES,
+if... is a bit of a sidestory. Rather than dealing with the war
+between a biblical heaven and hell, it follows a group of students
+whose high school gets pulled into the Expanse by angry teenager.
+It features four possible partners; three explore worlds based on
+the seven deadly sins, each with unique bits to their stories,
+while the fourth features ane entirely separate series of dungeons
+and follows a different game in its own right.
+
+In addition to the recruitment and fusion mechanics present in the
+older SMT titles, if... features greatly expanded demon conversation
+options, and each the human characeters get killed, they get a
+new "guardian" demon, granting them parameter changes and spells.
+
+---------------
+2.Patch History
+---------------
+
+October 25, 2018 - Initial version 1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE SMT if... TEAM
+Gideon Zhi       - Project leader, lead romhacker, assembly work
+Neil_            - Font tool
+byuu             - Text compression tool
+Ian Kelley       - Translation
+Ryusui           - Logo
+
+--------------
+4.Known Issues
+--------------
+There are no known issues.
+
+Please report any other bugs, spelling errors, and such on
+on The Pantheon (http://agtp.romhack.net/pantheon/)
+Screenshots are preferred, as are SRAM saves/savestates.
+Please provide repro steps when possible.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+2.00 MB (16mbit LoROM) WITHOUT header. (*exactly* 2,097,152 bytes)
+No header. No-Intro Initial Revision (Rev 0 or Rev 1 depending on source, but not Rev 2.)
+
+CRC32:  4DD73CBA
+MD5:    0301D2E518D991913F2B087E9E584ED9
+SHA-2:  478621935D3F0BF55A33FD5FC013CF8073D2B6F478317F7934CF3A84ED25DFD1
+(256)
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "smtif.smc" make sure the patch
+is "smtif.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT
+HAVE A HEADER!. If you right-click the ROM and select Properties, it
+should read "2.00MB (2,097,152 bytes)". TUSH will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net/utilities/608/
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+have a header.
+
+-------------------
+6.Translation Notes
+-------------------
+
+There are a few places where the translation deliberately deviates from
+official Atlus nomenclature. These were considered carefully and are
+noted below.
+
+Fairy->Fey
+--This was done primarily to differentiate between the standard image
+  of a fairy (see: the Pixie demon) as opposed to the wider Celtic
+  sphere of mythology encompassing characters such as Cu Chulainn.
+  We feel that "Fey" better encapsulates the concept being communicated.
+
+Girimehkala -> Girimekhala
+--Spelling source:
+  The Dhammayut Order in the United States of America (2013).
+    A Chanting Guide: Pali Passages with English Translations. p130
+
+---------------------------
+7.Bugs in the Original Game
+---------------------------
+The party obtains the Ring of Kindness at the end of the Sloth dungeon.
+If you re-enter the room where the Ring of Kindness was found, the game
+will tell you that it was where you found the Ring of Tolerance. We
+have confirmed that this occurs in the original game.

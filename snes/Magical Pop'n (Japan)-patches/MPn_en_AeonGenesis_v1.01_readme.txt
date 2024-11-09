@@ -1,0 +1,67 @@
+MAGICAL POP'N
+ENGLISH TRANSLATION V1.01
+Copyright 2003 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Magical Pop'n
+2.Patch History
+3.Patch Credits and Contributors
+4.Known Issues With the Patch
+5.Application Instructions
+
+---------------------
+1.About Magical Pop'n
+---------------------
+Magical Pop'n is a fun, spazzy little sidescroller game
+with a very light and cheery theme. I'm not going to
+describe it much here, the story isn't very deep, but
+it's fun and funny, so yeah! Fun!
+
+---------------
+2.Patch History
+---------------
+This was done in five days. Or so.
+Whee.
+
+March 7, 2003 - Initial version 1.00 Release
+March 7, 2003 (later) - v1.01 Release
+-Fixes super major crash bug (i.e. stupid mistake)
+-Fixes 2004 date in readme -_-;
+-Fixes incorrect game name in readme -_-;
+---------------
+3.Patch Credits
+---------------
+THE MAGICAL POP'N TEAM
+
+Main Team:
+Gideon Zhi - Project leader, romhacker
+Shih Tzu - Translation
+
+-----------------------------
+4.Known Issues with the Patch
+-----------------------------
+-The final screen of the ending might not show up on a copier.
+But it probably will. So don't worry 'bout it.
+
+This patch has not been officially tested.
+It worked fine after doing the ASM and replacing the text
+for the introduction, but something might've broken now that
+the ending's done, so if you find any bugs, let me know on my
+forum, The Pantheon (http://donut.parodius.com/agtp).
+--------------------------
+5.Application Instructions
+--------------------------
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "popn.smc" make sure the patch
+is "popn.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+a header. If you right-click the ROM and select Properties, it
+should read "2.00 MB (2,097,152  bytes)". SNESTool can remove any headers
+for you easily, and you can find it at
+http://rpgd.emulationworld.com
+In the utilities section, click on the IPS Tools link.
+Please note that your rom should be 2.12MB after the patch is applied.

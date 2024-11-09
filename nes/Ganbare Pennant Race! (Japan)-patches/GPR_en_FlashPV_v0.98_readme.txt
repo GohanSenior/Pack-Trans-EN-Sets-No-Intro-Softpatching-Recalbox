@@ -1,0 +1,20 @@
+GANBARE PENNANT RACE! - ENGLISH TRANSLATION PROJECT
+VERSION 0.98
+2/22/20
+
+MODIFIED BY MRRICHARD & PROVEAUX
+TRANSLATIONS BY THEMAJINZENKI & AGENTORANGE
+TITLE SCREEN & REDRAWING OF JAPANESE GRAPHICS BY FLASHPV
+
+Here is a patch which translates the players, menus, graphics with Japanese text, and basic lines in the game. Password screens were left as they were as save states can be used. 
+
+Apply to a clean ROM with the following hash info
+Ganbare Pennant Race! (Japan).nes
+CRC32: D15EDC9A
+MD5: 1F867BD9127A147391EF98B8A9165699
+SHA-1: 1F4D7665E5F8C5D5C7783A630308215AA51E93F6
+SHA-256: 5EFE8F930D8F052787D128FBA032438D1905DB7DE36E29C79A0F4475CE2DB3E9
+
+
+
+If any issues are present please contact @MrRichard999

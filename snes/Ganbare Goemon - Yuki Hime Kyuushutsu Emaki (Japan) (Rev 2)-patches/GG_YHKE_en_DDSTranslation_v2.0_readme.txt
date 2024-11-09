@@ -1,0 +1,73 @@
+Go for it!
+Goemon:
+The Rescue of Princess Yuki
+
+Translation Patch (Version 2)
+
+
+Version 2 Changes:
+ - Fixed the message for Area 8's king if you return and talk to him again.
+
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+ROM name: Ganbare Goemon - Yuki hime Kyuushuutsu emaki (J) (V1.2)
+CRC32: 6CD62399
+
+
+This patch is for the first Goemon game on the Super Famicom.
+The text has been translated from Japanese into American English.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both formats of patches.)
+
+The target Japanese ROM must have a size of 1 MB (1,048,576 bytes),
+and have a CRC32 checksum of 6CD62399.
+If not, the patch will not work as intended.
+
+
+
+-------------------
+  SRAM HACK PATCH
+-------------------
+
+In addition to the standard translation patch, there is also an additional patch
+included, based on the SRAM hack created by Akira76 for FlashPV's hack for
+Legend of the Mystical Ninja.
+
+If you would like this functionality, apply this patch to an unpatched Japanese ROM.
+
+This hack essentially takes out the tedium of writing down and entering in
+the passwords given by the Tourism agencies. Think of it as a password manager.
+
+When you visit an Oedo Tourism agency and ask them to write a journal entry for you,
+the password will be saved automatically to an .srm file instead of displaying
+the password on the screen.
+
+With this file, when you select Continue from the title screen and either of the
+options afterward, the password in the .srm file will be entered and submitted
+automatically.
+
+This hack only works for travel journal passwords. The shorter passwords used
+to skip to the start of an area are not supported in this hack.
+
+
+
+-----------
+  CREDITS
+-----------
+
+Translation:
+Tom
+
+Graphics:
+FlashPV
+
+Programming:
+DDSTranslation
+
+SRAM Hack basis:
+Akira76
+

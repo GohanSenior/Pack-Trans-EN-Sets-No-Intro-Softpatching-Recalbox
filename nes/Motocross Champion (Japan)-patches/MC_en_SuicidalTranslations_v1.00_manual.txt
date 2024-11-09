@@ -1,0 +1,117 @@
+  _______  ______ _________ ______  _______  _______  ______  _______  _______ 
+ (       )(  __  )\__   __/(  __  )(  ____ \(  ____ )(  __  )(  ____ \(  ____ \
+ | () () || (  ) |   ) (   | (  ) || (    \/| (    )|| (  ) || (    \/| (    \/
+ | || || || |  | |   | |   | |  | || |      | (____)|| |  | || (_____ | (_____ 
+ | |(_)| || |  | |   | |   | |  | || |      |     __)| |  | |(_____  )(_____  )
+ | |   | || |  | |   | |   | |  | || |      | (\ (   | |  | |      ) |      ) |
+ | )   ( || (__) |   | |   | (__) || (____/\| ) \ \__| (__) |/\____) |/\____) |
+ |/     \|(______)   )_(   (______)(_______/|/   \__/(______)\_______)\_______)
+     _______           _______  _______  _______ _________ ______  _       
+    (  ____ \|\     /|(  ___  )(       )(  ____ )\__   __/(  __  )( (    /|
+    | (    \/| )   ( || (   ) || () () || (    )|   ) (   | (  ) ||  \  ( |
+    | |      | (___) || (___) || || || || (____)|   | |   | |  | ||   \ | |
+    | |      |  ___  ||  ___  || |(_)| ||  _____)   | |   | |  | || (\ \) |
+    | |      | (   ) || (   ) || |   | || (         | |   | |  | || | \   |
+    | (____/\| )   ( || )   ( || )   ( || )      ___) (___| (__) || )  \  |
+    (_______/|/     \||/     \||/     \||/       \_______/(______)|/    )_)
+
+                               Motocross Champion
+                               Instruction Manual
+                                     v1.00
+                                    
+-------------------------------- INTRODUCTION ---------------------------------
+
+Motocross Champion is a motorcycle racing game released by Konami for the 
+Famicom game system in 1989. It was never officially released in English but
+was translated by Suicidal Translations and released on September 3rd, 2001.
+
+This file serves as an instruction manual for the translated game. It is not a
+translation of the original instruction manual but is an original work based on
+my experiences playing the game.
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+  I. Introduction
+ II. Table of Contents
+III. The Story
+ IV. Gameplay
+  V. Distribution Notes
+ VI. Conclusion
+
+---------------------------------- THE STORY ----------------------------------
+
+All of your life, you've dreamed of being the Motocross Champion. Ever since
+you were a child, you've been training hard for the moment when you could hoist
+the championship cup above your head in victory. It all comes down to the final
+8 races. Can you survive the challenge and emerge victorious or will you retire
+to the junkyard of has-beens and never-wills?
+
+---------------------------------- GAMEPLAY -----------------------------------
+
+As this is a racing game, gameplay isn't exceptionally difficult. There are two
+modes to choose from, Practice and Compete. In Practice Mode you can select any
+of the 8 tracks and race opponent free for as long as you want. Press select to
+return to the track selection screen. On the track selection screen, press down
+to scroll through the list of tracks.
+
+In Compete Mode you battle five other competitors for the title of Motcross
+Champion. In order to qualify for the actual race, you must first place 1st or
+2nd in an initial heat. Failure to do so will require you to race in a 2nd heat
+which you must complete in order to receive a second chance at the 1st heat.
+
+Once you've successfully completed the 1st heat, you enter the main race. You
+must place 1st in the main race to advance to the next track. Placing lower
+than 1st will return you to the first heat. When you successfully complete a
+main race, you will be given a password that will allow you to return to the
+next track at any time.
+
+In the later stages of the game, losing a race will cause you to receive the
+bad ending. You must complete the 8th race in first place to receive the
+super surprise twist ending which was somewhat stolen from Metroid.
+
+General play control is simple:
+
+Left/Right: turn your bike left/right
+      Down: ride a wheelie
+        Up: bring your front wheel down
+         B: brakes
+         A: gas
+     Start: pause 
+
+When I first started playing this game, I thought it was entirely too fast but
+I'm now used to it. It basically just takes a lot of practice to get used to
+the controls but once you do, they work as well as can be expected from such an
+old game. Frantically tapping A&B repeatedly when you crash doesn't seem to 
+speed up the recovery process but I know you'll do it anywayz.
+
+----------------------------- DISTRIBUTION NOTES ------------------------------
+
+This Motocross Champion translation should be distributed in a file named
+mxcv100.zip and should contain the following files:
+
+	  mxcv100.ips - the translation patch
+	motocross.txt - the readme file
+	   mc-man.txt - this manual
+
+All three files are (C)opyright 2001 by Suicidal Translations. All rights
+reserved. You may distribute this translation in any manner you desire as long
+as the original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Motocross Champion is (C)opyright 1989 by Konami.
+
+---------------------------------- CONCLUSION ---------------------------------
+
+So there you have it. Not a lot to this game but it's fun to play and the last
+couple of tracks are unbelievably challenging. I'm not sure how many attempts
+it took me to beat the 7th and 8th tracks so I could test the translation of
+the endings. I did eventually beat it, though, so it is definitely possible.
+
+If you have any questions, feel free to ask. The official site of the Motocross
+Champion translation is at http://www.pigtails.net/ST and you can find the most
+current contact information there as well.
+
+-InVerse
+
+-------------------------------------------------------------------------------
+Motocross Champion Manual     -     (C)opyright 2001 InVerse     -     09/03/01

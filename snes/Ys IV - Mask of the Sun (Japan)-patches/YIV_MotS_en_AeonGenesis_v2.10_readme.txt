@@ -1,0 +1,156 @@
+YS 4 - MASK OF THE SUN
+ENGLISH TRANSLATION V2.10
+Copyright 2013 by Aeon Genesis
+http://agtp.romhack.net
+http://legacyofys.classicgaming.gamespy.com
+
+ToC
+
+0. Before You Begin
+1. About Ys 4
+2. Patch History
+3. Patch Credits and Contributors
+4. Known issues
+5. Application Instructions
+6. Troubleshooting
+7. Mini-FAQ
+
+------------------
+0.Before You Begin
+------------------
+Do _NOT_ apply the new patch on top of the old one! Apply to a fresh,
+clean Japanese copy of the game. I cannot be held responsible for
+issues stemming from patching over the old translation!
+
+-------------
+1.About Ys IV
+-------------
+Ys IV is an Action-RPG/Adventure game by Nihon Falcom and published by
+Tonkinhouse.
+
+---------------
+2.Patch History
+---------------
+The Ys IV project started in October of 2000, and progressed quickly
+towards the final goal. There were slow points revolving around the
+reformatting of text and message windows (unlike Monstania which
+automatically generates windows, Ys IV has control codes.) Once that
+was out of the way, the project progressed fairly quickly to the end.
+
+After the initial release it quickly became apparent that the old
+patch was inadequate. The script was flat, and the font routine did
+not function properly on actual hardware. In this release, these issues
+have been fixed - the font routine should work fine on a real Super NES
+system, and the script has been given a marvelous facelift by Deuce,
+the local Ys junkie.
+
+November 28, 2013 - Version 2.10 release
+--In-game terminology standardized against Memories of Celceta
+--Fixed a few instance of too-long strings corrupting the game background
+--Fixed several other minor text-related bugs
+
+February 3, 2007 - Version 2.00 release
+--Fixes font print on real hardware
+--Complete script rewrite
+
+March 31, 2000 - Initial version 0.99 release
+
+---------------
+3.Patch Credits
+---------------
+THE YS IV TEAM
+Gideon Zhi - Project leader, lead romhacker, assembly hacker
+Deuce - Script edit/translation
+Shimarisu - Initial Translator
+LordTech - Assembly work (old VWF, compression)
+g8z et al. - VWF fix
+
+SPECIAL THANKS
+Dark Force - Pointed out some problems with the VWF
+TheFreak - Helped with some names of Mineans and Lancers ^_^
+Toma - Provided the font that is used in the game.
+
+--------------
+4.Known Issues
+--------------
+--The font did not print properly on the "special" background,
+  so I just disabled it. It was ugly as sin, anyway.
+
+Please report any other bugs, spelling errors, and
+such on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are (ZSNES format) savestates.
+
+--------------------------
+6.Application Instructions
+--------------------------
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "ys4.smc" make sure the patch
+is "ys4.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 1.50 MB (1,572,864 bytes)". SNESTool will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net
+In the Utilities section, simply search for snestool.
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+not have a header.
+
+-----------------
+6.Troubleshooting
+-----------------
+--If the game does not run at all, read the above section on
+  application instructions (specifically on header removal.)
+  Make sure your ROM is not read-only when you remove its header.
+  Also make sure that if you previously hard-patched the ROM and
+  the game crashes as described, you will need to re-apply the
+  patch a clean, Japanese original ROM.
+
+-------------
+7.How to Play
+-------------
+DEFAULT CONTROLS:
+
+ARROW KEYS - Move Adol
+A BUTTON - Accept a choice.
+B BUTTON - Cancel out of a menu.
+Y BUTTON - Use an item.
+X BUTTON - Cast magic, when standing still.
+L/R BUTTON - Not used.
+
+To talk to a villager, just walk into them and conversation will begin.
+
+COMBAT
+
+Combat in Ys IV is not like combat in most action-RPGs. Be sure you're
+viewing this document in a fixed-width font before reading the next
+section.
+
+In order to do damage to an enemy, you have to run through it. But if
+you ram it head-on, you'll take damage instead (unless you're really
+strong.) Instead, run into the enemy half a "block" to the left or
+right of it.
+EXAMPLES
+Let us say that "EE" is the enemy, and "AA" is Adol.
+
+GOOD:
+
+ EE
+AA
+
+ EE
+  AA
+
+BAD:
+
+ EE
+ AA
+
+It's kinda hard to describe... but it's really neat once you get used
+to it. Fighting bosses is pretty much the same, except that the bosses
+won't hurt you unless you actually stand still on top of them. So long
+as you're moving and you don't get hit by any of the boss' attacks,
+you'll be fine.

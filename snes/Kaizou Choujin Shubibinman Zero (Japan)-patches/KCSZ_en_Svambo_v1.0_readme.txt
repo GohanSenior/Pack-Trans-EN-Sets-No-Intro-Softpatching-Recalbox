@@ -1,0 +1,22 @@
+SHOCKMAN ZERO English patch 1.0 / 01.2023 
+
+Compatible rom:	Kaizou Choujin Shubibinman Zero (Japan).sfc 
+Note:		This patch is not compatible with the BS (SFC Satellaview) rom
+Patch name:	Kaizou Choujin Shubibinman Zero.ips
+
+
+Shockman Zero (aka 'Kaizou Choujin Shubibinman Zero' or 'Kaizou Choujin Schbibinman Zero' in Japan) was first released in 1997 for the Satellaview addon for the Super Famicom. It is a side-scrolling beat-'em-up developed by Masaya. In 2017 Columbus Circle gave the game a Japan-only limited release on a physical Super Famicom cartridge. This translation-patch is for the 2017 version of the game. The patch translates all the texts to english. If all worked fine, the internal checksum should be correct. 
+
+We hope you have as much fun playing the game as we had localising it 🙂
+
+
+Hacking:	Svambo
+Translation:	Anonymousse
+Gametesting:	Anonymousse, Nokia3310, Svambo
+
+
+Greetings to everyone who still loves the SNES in 2023. 
+
+If you find any bugs, untranslated texts or other mistakes, please send me a message on romhacking.net. 
+
+Svambo

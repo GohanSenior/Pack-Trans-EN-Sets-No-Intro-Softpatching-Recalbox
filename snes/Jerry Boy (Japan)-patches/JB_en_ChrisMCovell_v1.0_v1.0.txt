@@ -1,0 +1,82 @@
+Jerry Boy: English Translation (8-8-2001)
+-----------------------------------------
+
+By:       Chris Covell (ccovell@direct.ca),
+          with lots of help from Mina Takahashi.
+
+Status:   101%  (I changed "CONSTLUCTION" to "CONSTRUCTION".  :-)
+
+Required: ROM of "Jerry Boy" for the SFC;  NO HEADER, ie: 1048576 bytes.
+          IPS patching utility (such as IPS, SNESTOOL...)
+          The included IPS file.
+
+Instructions: Learn what IPS patches are and do the patching yourself!
+
+
+This is an English translation of a fun little platform game for the
+SNES/SFC, called Jerry Boy.  It came out in America as "Smartball";
+however, the US version had had several scenes taken out of the game.
+The Japanese version of Jerry Boy  had an introductory sequence which
+established the story.  In addition, there are towns throughout the
+game that you can visit, including a desert town, angel village, ice
+town, and forest cabin.  You go through these towns and talk to people,
+who carry the storyline along.  There's even one scene where you can
+get swallowed by a huge whale and talk to the folks trapped inside.
+All this was taken out of the American version.   X-(
+
+(Incidentally, a sequel to Jerry Boy, called Jelly Boy 2 (don't ask) was
+almost released in Japan.  Beta versions of the ROM are floating around
+the Internet, so check it out!  Not a bad sequel.)
+
+So, I managed to get a cartridge of Jerry Boy for the Super Famicom.
+It was so fun and engaging (in a simple platformy way) that I decided
+to translate it to English.  This is my first translating project ever,
+but it wasn't that hard to do.  I started by locating the game's font
+and Japanese text.  I then wrote a quick little program (in C) that
+converted the encoded Japanese characters into a romanized alphabet.
+This helped the translation out, so that I could print out the text and
+take it with me on my vacation.  :-)
+
+Next, I started translating the text (with many references to a Japanese
+dictionary), and I enlisted the help of my friend, Mina Takahashi.
+I got ahold of a suitable 16x16 Roman font, colourized it and gave it an
+outline, and bunged it into the CHR space.  After that, it was just the
+laborious task of putting in the text and re-wording it to make it fit
+in the constrained space of the screen.  Last, I tried to find some place
+to add my name briefly.  (The game is programmed tightly, so it was a
+little difficult.)  I eventually decided to put it on the title screen,
+and so I had to figure out how THAT text was stored.  The text is a bunch
+of sprites, so I had to experiment with a few things until I gave up and
+simply changed the CHR graphics again.
+
+I've given the game a couple of runs through, so it should be error-free.
+I even fixed up a couple of graphics bugs that were in the original game.
+There is a bit of text (which I've also translated) that I never encounter
+playing the game.  There seems to be an alternate ending; does anybody know
+how to access it?  Or, was it taken out of the production version?
+
+If you spot any errors or problems in my translation, please let me know.
+
+---
+BONUS: Here are some SNES Game Genie (and Action Replay) codes which I've
+       made for Jerry Boy.
+
+Invincibility:  GG: C2C0-DDAD   AR: 00A043AD
+Infinite Lives: GG: C2BB-076D   AR: 00919EAD
+Mega-Jump:      GG: E1C4-07AD   AR: 00A12FF6
+
+---
+You should be able to find the latest version of this translation patch
+at my homepage: http://mypage.direct.ca/c/ccovell.
+If my homepage isn't working, e-mail me at ccovell@direct.ca.
+
+Feel free to check out my homepage!  It has lots of things that might
+interest you.
+
+--
+Thanks: To Epic/Sony/Game Freak/System Sacom for a cute and fun game!
+        Mina Takahashi, for all your help.  Ai shiteru!
+Anti-Thanks: To Sony Imagesoft for cheaping out on us Westerners.
+             Nintendo, for your censorship which rears its ugly head again.
+
+That is all...  EOF.

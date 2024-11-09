@@ -1,0 +1,73 @@
+=========================================================
+================The Samurai Lord Musashi=================
+=========================V 1.00==========================
+Genre: Action
+
+Source language: Japanese
+
+Platform: Gameboy
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About The Samurai Lord Musashi GB
+======================================================
+Background: 
+
+While we were in the process of translating the NES game,
+we realized that there was a GB game as well. So we looked
+into it and saw that it would be very easy to translate.
+Thus this additional project was born. There's nothing
+really noteworthy to say about the game or translation.
+It's way inferior to the NES game and is more along the
+lines of a Goemon clone without the charm or personality.
+
+======================================================
+Patching Instructions
+======================================================
+If using the BPS patch, you need to download beat in order
+to patch the game.
+
+http://byuu.org/programming/
+
+Apply the patch to the Japanese version of the game:
+
+Karakuri Kengouden Musashi Road (Japan)
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking, editing
+
+aishsha - translation
+
+FlashPV - title screen design
+
+Pikachumanson - testing
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. November 2013.

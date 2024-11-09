@@ -1,0 +1,45 @@
+The Acala Legend AKA Fudou Myouou Den
+English Translation V 1.0
+Copyright 2009 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About The Acala Legend
+2.Translation notes by snark
+3.Patch History
+4.Patch Credits
+5.Known Issues
+6.COntact
+------------------------------
+1.About The Acala Legend
+------------------------------
+Acala was a game that was released in America in a heavily watered-down form. The removed a bunch of stages, spells etc. and there's no more cool Buddhist intro/outro. This is now fixed of course.
+
+---------------
+2.Patch History
+---------------
+It's done
+
+---------------
+3.Patch Credits
+---------------
+Me- Hacking
+FlashPV - Graphic design/hacking
+Snark - Siddham translation
+Special thanks to DarknessSavior and zera
+
+--------------
+4.Known Issues
+--------------
+You will notice that the intro flickers a tiny bit. There is nothing I can do about because it's a hardware limitation. Find anything else wrong with the game, please let me know.
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or check out my site at
+
+yojimbo.eludevisibility.org

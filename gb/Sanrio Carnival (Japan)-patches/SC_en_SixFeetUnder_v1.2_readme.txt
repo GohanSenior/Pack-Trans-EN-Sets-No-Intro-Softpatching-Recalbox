@@ -1,0 +1,102 @@
+***********************************************************************
+SANRIO CARNIVAL
+Gameboy
+English Translation version 1.2
+April 6th 2000
+Get the latest version at http://come.to/sixfeetunder
+Translation & Hacking : Six Feet Under
+
+Introduction
+------------
+
+Sanrio Carnival is an addicting puzzle game much like Puyo Puyo, 
+Kirby's Avalanche, or Dr. Robotnik's Mean Bean Machine.  
+It offers several modes of play as well as a 2 Player link mode.
+
+This is my first attempt at a translation, and I chose it because 
+there wasn't a whole lot to translate, and it's not a bad puzzle game.
+
+Use ips.exe or snestool to patch the rom.
+
+
+What's New
+----------
+
+4/6/2000 Version 1.2
+
+And a year and a day later, the patch gets an update :)
+
+Basically just made a few cosmetic changes to change a few things that were bugging me.
+
+I fixed a few words that I didn't like due to having to abbreviate them to get them to fit, so I squished 'em down onto a few tiles to make them fit.  Also the word "KITTY" was shortened to four tiles because to make it fit I let it run over one tile of the picture of Hello Kitty to the right of the word.  So now, it only takes up four tiles, and the picture isn't obscured anymore.  Also the word "XHARD" has been changed to "HARDEST".  XHARD was in there because it was the only thing I could think of to fit 5 tiles, so basically like the rest of my changes, I just squished the word "HARDEST" onto 5 tiles.
+
+I also removed any Nintendo Mafia references, from the game and this readme, since I'm the only one that ever did anything on this project, the Nintendo Mafia is long gone anyway, and besides a release by InVerse, and what I did on my own, I think all that ever came out of anyone in the Nintendo Mafia were a few Mario hacks to add drug references, and the "leader" of the group, Headhunter, constantly asking me to make table files and various other simple tasks due to his apparent inability to learn how on his own.  So fuck 'em. :)
+
+
+4/5/99 Version 1.1
+
+Just a quick bugfix release.  
+
+Fixed a bug in the BGM menu where the last letter of a songname would carry over to the next songname.
+
+Fixed some menu spacing a little to make menu items line up better
+
+Fixed an "a" in the word "Carnival" on the title screen.  The middle of the "a" was filled in for some reason, so I unfilled it. (if that's a word...)
+
+
+Progress
+--------
+
+4/3/99
+
+Done!  This will be the first and last patch unless there are major 
+bugs, or if there are any untranslated words I missed
+(haven't found any yet...)
+
+Inserted all text into the rom
+
+Changed pointers to fit some of the English text better.
+
+Finished translating all text
+
+Translated 2P mode text
+
+4/2/99
+
+Translated all the 1P mode text, except for a few stubborn katakana 
+words that I haven't figured out yet.
+
+Added English title screen.
+
+Made some graphic changes to translate graphical Japanese text
+into English.
+
+4/1/99
+
+Decided to translate the game...
+
+Made a table and ripped all the text.
+
+Didn't need to replace the font, since there was already an English 
+font in the rom.
+
+Contact/Thanks
+--------------
+
+Special thanks to Musashi for minor translation help.
+
+Well... I'd like to thank everyone that helped out, but due to the small 
+size of this translation, I didn't need any help, other than the few words 
+Musashi was kind enough to help me with.
+
+Thanks to Zophar's Domain for the rom hacking message board and documents, 
+they helped out a lot.
+
+Please contact me at s1xftunder@hotmail.com with comments, feedback, bug 
+reports, etc...  Also, if you are working on a hacking/translation project,
+I'll more than likely be happy to help out as long as I'm not already 
+involved in something.  I welcome all feedback, positive or negative, but 
+if you send negative feedback, please give me a reason why it sucks, 
+so I can fix it...
+
+-Six Feet Under (http://come.to/sixfeetunder) (email: s1xftunder@hotmail.com)

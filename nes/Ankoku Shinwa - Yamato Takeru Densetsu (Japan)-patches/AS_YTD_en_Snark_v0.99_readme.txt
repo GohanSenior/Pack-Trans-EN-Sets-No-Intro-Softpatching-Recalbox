@@ -1,0 +1,216 @@
+Ankoku Shinwa - The Dark Myth for Famicom / NES c. 1988
+Original Story and Game Design c. Tokyo Shoseki 
+and Daijiro Moroboshi
+
+Translation patch by Boojum Snark.  c. 2010 
+www.boojumsnark.com
+
+***Beta Patch***
+
+Please do not modify, distribute, or copy this patch or walkthru without
+permission. Currently some of the word bank choices will be abbreviated or truncated but should 
+not affect game play. The Title Screen is: Ankoku Shinwa /The Dark Myth/ Yamato no Takeru
+/Yamato the Brave. Thanks to Pennywise and Gil Galad for extra technical info, 
+and  to everyone interested in this game! :)
+
+Story: An exciting Murder mystery  with esoteric Buddhism and Japanese history and legend.
+1600 years ago Yamato the Brave dressed in woman's disguise defeated the Kumaso chief, who
+swore vengeance upon Yamato and His descendants. 1600 years later, the Dark God and his minions
+are manifesting to fill Kumaso's curse.In this graphic and text adventure, 
+you are Takeshi, Yamato's descendent, a young man, who sets out to solve his father's murder 
+at the hands of a  mysterious assailant. Your goal is to receive the eight chakra marks of the 
+Serpent from the God Brahma,retrieve mystical items of the past, and fight horrifying Minions 
+in order to solve the murder.  
+
+Passwords: 
+
+Receive Words of Brahma after defeating the Minions of the God of Darkness at the end
+of every chapter. There are eight chapters in all. Enter the words at the title screen. 
+ 
+Weapons: Takeshi will discover an Ancient sword(from a skeleton), Totsuka Sword 
+(from Takeuchi as a priest) Bronze Sword (in a coffin), Asura Sword (from an idol of Asura) 
+and finally the Kusanagi Sword (in front of Susanoo as a stone horse.) Each sword shoots
+out stars at the enemy, and the Kusanagi shoots the most stars.
+
+1.Nagano Museum/Tateshina Mountain
+Takeshi as a young boy watches his father's murder. Years later he discovers
+a letter inside his father's journal, marked from the Nagano Museum. 
+At the museum, he meats Takeuchi the archaeologist. Speak with him about the 
+Letter, Father, Murder at Tateshina Mountain, and go with him to the forest.
+Move the Middle Buddha, to enter the cave. Examine and take the snake headed Gorgon 
+figurine. Take the Skeleton's sword. Talk to Takeuchi about the door, 
+look at the symbols. Ask about Atman, and consult the journal 
+to open the door. Defeat the ancient armless creature. 
+
+Password PJUSCF'LJYUFs
+
+Items: Journal, Serpent Figurine, Ancient Sword
+
+
+2. Izumo Shrine
+Recieve the 1st Serpent Chakra Mark on the right shoulder from Brahma and go to Izumo, sacred
+to Yamato and Susanoo.in the Past.  Enter talk to the crying woman, Princess Oto Tachiba
+-whose name means Bouquet of Citrus Flowers.Talk to her about the mirror.  Talk to the Priest 
+about the Totsuka sword, the Yamata serpent and your identity, as Yamato. Take the sword 
+and defeat the Yamata serpent. 
+
+Items:Totsuka Sword - a sword that places illusions into the minds of the enemy. 
+
+Password: BEPM'TIiPCQQz'U
+
+Boss: Yamata Serpent 
+
+3.Tateshina Forest/Yamatai Land/Suffering Shrine/Mounds/Chibusan/Takehara/Hinooka
+
+2nd Serpent Chakra Mark: Right Knee
+
+Takeshi awakes confused at the Tateshina Mountains. He meets Miya Ooga the archaeologist.
+Ask her questions about what you see, (she is impatient). Explore and talk to her about 
+the pattern, the Horse Buddha, the jewel, the Yamatai, and the Yamatai Queen Himiko. 
+Take the jewel. Consult the journal with Miya present. Place the jewel into Hayagriva
+the Horse Buddha and enter the cave. Miya will accompany you, and be concerned about 
+Himiko and the secret of immortality. Move ahead, move the casket lid, talk to 
+Miya and take the seal half of Hiumiko and the bronze sword. Go ahead and examine the 
+door. Look at the Door. (Try moving it for a laugh) and consult the journal. After the door 
+is opened, talk to Miya first (If you want the game to end move up before talking to her.)
+She will enter the spring. Move up, and then watch her transform into a hideous hungry ghost! 
+Use the sword to stave her off and run to Takeuchi. Talk to him and enter the Shrine of 
+Hungry ghosts. Leave and talk to him (if you want him to scold you), and re-enter. Dont 
+fall in the hole. Look in the Hole and talk to Takeuchi about the Dark God and Dark Minions
+and the hungry ghosts. Leave, look at his map and talk to him about Kikuchi. Go to the 
+Kumamoto Burial  grounds. Move the rope, read the charcters, and go up. Talk to Takeuchi. 
+Go down to Chibusan burial crypt. In the tomb look at the figure, the wall, and the pot. 
+Take the parchment from the pot, talk to your trusty guide. Go to Takehara Tomb, talk and 
+go to Hinooka. Look at the hypnotic rock swirls, talk, and go up into a trap. 
+Defeat Spawning Minion.
+
+
+
+Password:Qajb'YeKEPsFB
+
+Items:  Jewelled Eye,Half of Seal, Bronze Sword, Parchment
+Boss: Spawning Minion
+
+4. Asuka/ Shiratori Tomb/Underworld
+
+3rd Serpent Chakra Mark: Right Ankle
+
+Talk to Takeuchi, and he tells you to find the other half of the seal in Yamatos tomb at 
+Shiratori. Go up, Up and look at the mural of Princess Oto Tachibana. Look at the comb, Crown, 
+and Peach, they will be handy later. Go right look around, and DO NOT enter the cave with 
+the warm breeze and and someone lurking inside (unless you want the game to end). Go until you 
+find an old bronze bell and take it. Go until you find a passage that goes deep into the tomb. 
+Look at the rock fissure, and the rock, knock the rock in with your sword. Look and go down. 
+look at the wall, the figure and consult your journal. Take the magic protective Helm!
+Toll the bell. Go forward. Talk to Kikuchi, and give him the seal. Run from the Underworld 
+Hell Hag. Talk to the Princess Oto Tachibana take the crown and throw it at the Hag. Go forward, 
+,talk to the Princess abput the legend of Izanagi and Izanami, take the bamboo comb and throw 
+it at the hag. Go up, talk to her again, take the peach, take the flowers if you want and use 
+the peaches. As the Hag goes for them, go forward. Talk to the mural of the princess, and 
+Go to fight the Hag.  
+
+
+Password: LlmfTnHnVlC
+Items:  Helm, Bell, Crow, Comb, Peach, Flower Bouquet
+Boss Underworld Hag 
+
+5. Nara, Kofukuji Temple 
+4th Chakra Mark -Thigh 
+
+From Brahma, venture to Nara, to the Kofukuji Temple, which contains sacred artwork, and 
+mysteries to solve. Enter and look at the ink painting of Izanagi which contains his story 
+about escaping Izanagi's frightful form, leaving the Underworld and washing himself in the River. 
+Go back to the next painting of his three children the Sankishin: Amaterasu of the Sun, 
+Tsukuyomi of the Moon, and Susanoo the Dark one. Go to the next door and spring the lock with 
+the sword. Go forward. Look at the picture of the Horse Buddha and the Sun and Moon Buddha.
+Go back and see the painting of Rahu, the celestial dragon of India that destroys the 
+Sun, Moon, and Stars.Use the parchment to complete the painting. Read the caption. 
+Go to the door with the broken knothole and use the figure. Go forward to the scroll. 
+Look at the scroll which looks like Orion. Go to the painting of calligraphy which is 
+similar to Hell Rock at Kumamoto. Look at it, and read the journal. Learn the word Rahu, 
+and go to the next door, which should open. Look at the the Taizokai /Lotus World mandala, 
+and  go to the mandala and move it. Look at the idol of Asura, and its jewelry. 
+Take the Sword of Asura and watch it spring to life! Defeat the Asura Avatar. 
+
+
+Password:JAeCLsbkP'Hmml'
+Items:Asura's Sword
+Boss: Avatar of Asura 
+
+6.Kiyo/Mountains of Mystery 
+
+Go to Kiyo and talk to the fortune teller, about your identity, lunar mansions,
+and all topics. Take Genbu the turtle and go to the Mountains of Mystery. 
+On the trail go ahead until the turtle vibrates, and then on the path to the man.
+It is Kikuchi, the descendant of Kumaso again. Talk to him about the seal, 
+and why he is fighting Takeshi.  When he places both halves of the seal into the 
+statue, the earth will quake. Leave and face the Susanoo Horse statue. Take the 
+Kusanagi sword and defeat the Dark Horse. 
+
+
+5th chakra mark Abdomen
+Items Turtle, Kusanagi Sword
+Password
+Boss: Susanoo Stone Horse
+GfMllKCCYTIEsK's
+
+7. Yaidzu Coast 6th Chakra Mark Abdomen 
+
+Talk to Takeuchi about the Horse and Kikuchi and go to the shrine of Rocks. 
+(or are they?) Look at the door and use the snake figurine to open it. 
+Go inside, go to the left and right rock capsules, and crack them with a 
+sword. Talk to Takeuchi about the skeletons for weirdness, and go forward.
+Crack open the large boulder to reveal the princess Oto Tachibana. Talk to her
+until she disintegrates (gruesome!) and take her mirror. Talk to Takeuchi 
+about the Atman and the three treasure, Kusanagi Grass-cutter Sword, Mirror, 
+and the Moon Jewels. Go To Mt Hiei Enryakuji Shrine. Go inside. Talk to Takeuchi, 
+use the mirror, talk to him again and shine the figurine to awaken the Dark Horse
+God that lives in Orion's nebula. Defeat it, and dodge fireballs. 
+
+Password: jEABTDR'PBPK'ZsU
+
+Items: Mirror 
+Boss Dark Horse /Dark God
+
+8. Musashino, Depot /Home /Park 
+7th chakra mark: Left Shoulder 
+Items: Moon Jewels 
+Boss: Kikuchi 
+
+Return to your home at Musashino. Talk to the smoking man at the Depot station, 
+and go to your house. Look at the picture and talk to the smoking man. Go into 
+your fathers room, talk to your mother about your fathers murder and his 
+destiny to be the Atman. and take the crescent moon jewels. 
+Leave. At the station, Go up, and talk to your mother who staves off the smoking 
+Mr Ogata  who is wielding a knife. Go into her room. Take her scarf and coat.
+Go to the Park/Depot to face your uncle Kikuchi. Go up and use your sword. 
+Watch him transform into a three faced demon and defeat him for the finale. 
+
+There is a bad ending if you take the coat but not the scarf. 
+Kikuchi will see through the disguise and kill Takeshi. 
+
+Good Ending:
+
+After Defeating Kikuchi's green three headed form, Brahma speaks to Takeshi and 
+takes him into the cosmos, giving him the 8th chakra mark and reveals the mysteries. 
+
+8th Chakra mark -Head 
+
+Kikuchi is defeated by Takeshi in the present day.  
+Yamato defeats Kumaso in the past. Yamato and Oto Tachibana
+are reunited. The Dark God roars in the volcano, Mt Hinomoto.   
+Yamato and Takeshi merge as the same being. 
+Takeshi nows understands the mystery of his father, his mother, 
+Orion, the Dark Horse, the Dark God, and other mysteries in the game. 
+
+There are numerous computer jokes and references to books and Japanese pop culture
+which have been retained and rendered in English throughout the game. For 
+example if you try to move the moat in Chapter four a message reads "Paging Ultraman 
+7?" or in Chapter 3 trying moving the largest rock at the Kumamoto burial Mounds 
+"The Rock is Sumo sized!" Find as many as you can! :)
+ 
+Feel free to send corrections, any hidding endings or secrets, typos, or feedback on 
+this beta patch or walkthru! Enjoy! :)
+
+
+

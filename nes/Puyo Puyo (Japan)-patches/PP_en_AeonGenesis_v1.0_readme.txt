@@ -1,0 +1,90 @@
+Puyo Puyo English Translation
+AGTP Version 1.0
+http://www.pcpages.com/agtp/
+draw_omega@yahoo.com
+
+-----------------
+NOTICE!!
+-----------------
+Do yourself a favor and pick "Puyopuyo" as your character. If you pick
+"Human" not only does it look totally retarded, but the game still calls
+them Puyopuyo :P
+
+-----------------
+Those Responsible
+-----------------
+Gideon Zhi - Romhacker, Translator
+Musashi - Advice :)
+
+-----------------
+Stuff Done
+-----------------
+Mission objectives.
+
+-----------------
+Stuff Not Done
+-----------------
+Nothing, I hope.
+
+-----------------
+Patching Instructions
+-----------------
+Go to your favorite emulation site and download SNESTool. Drop it, the
+patch, and the Japanese Puyo Puyo ROM into the same directory. Then
+open SNESTool. If it's missing some extenders, you'll have to find 'em
+on your own. Once you get SNESTool running, select (Use IPS) then the
+puyopuyo.ips patch file, then the Japanese Puyo Puyo ROM. You should
+now be patched.
+
+-----------------
+If you find a bug
+-----------------
+More than likely, it's untranslated text. Send a savestate or screenshot
+(preferably the former, in NESticle format) to Gideon Zhi, and I'll try to
+fix it.
+
+-----------------
+How to Play
+-----------------
+Puyo Puyo is FUN!#!*(#!(*#!(*#!(*
+It plays like Dr. Mario, but all of the pills are gelatinous blobs that,
+while they require 4 to clear, can connect both sideways and vertically at
+the same time. The directional pad move your puyopuyo, while the a and b
+buttons will rotate your puyopuyo.
+
+The Endless mode plays like Tetris -- as you clear puyo, you progress.
+The Mission mode plays like Tetris 2 -- you have to complete certain
+objectives before you can advance to the next mission. Here's a description
+of the different objectives...
+
+ GET X
+ PUYOPUYO
+
+This means that you have to clear X number of puyopuyo. If X is 23, it
+will decrease every time you clear puyopuyo, and when it reaches zero, the
+mission is complete.
+
+  GETX AT
+      ONCE
+
+This objective requires you to clear X puyopuyo at the same time.
+
+ X
+  CHAINS
+
+This objective is perhaps one of the toughest ones -- it requires you to
+chain together puyopuyo eliminations. So you eliminate some, and some fall,
+connecting with others and disappearing in the process. You just created
+a "Chain". This objective requires you to complete X consecutive chains.
+
+() COLOR
+    CLEAR
+
+This objective requires you to clear all of the puyopuyo of a specific color
+which is shown by the puyopuyo to the left of the word "COLOR".
+
+    XPUYO
+ PUT PUYO
+
+This objective requires you to place X puyopuyo (or X/2 columns of puyopuyo.)
+So if X is twelve, you have to place 6 columns of puyopuyo.

@@ -1,0 +1,303 @@
+	______ _____   _____                   _       _   _                 
+	|  _  \  _  | |_   _|                 | |     | | (_)                
+	| | | | | | |   | |_ __ __ _ _ __  ___| | __ _| |_ _  ___  _ __  ___ 
+	| | | | | | |   | | '__/ _` | '_ \/ __| |/ _` | __| |/ _ \| '_ \/ __|
+	| |/ /\ \/' /   | | | | (_| | | | \__ \ | (_| | |_| | (_) | | | \__ \
+	|___/  \_/\_\   \_/_|  \__,_|_| |_|___/_|\__,_|\__|_|\___/|_| |_|___/
+                                                                 
+			 ___  ___   ___  ___  ___  _  _  ____  ___ 
+			(  ,\(  ,) (  _)/ __)(  _)( \( )(_  _)/ __)
+			 ) _/ )  \  ) _)\__ \ ) _) )  (   )(  \__ \
+			(_)  (_)\_)(___)(___/(___)(_)\_) (__) (___/
+
+			  _____ _                           __ 
+			 / ____| |                         / _|
+			| |  __| | ___  _ __ _   _    ___ | |_ 
+			| | |_ | |/ _ \| '__| | | |  / _ \|  _|
+			| |__| | | (_) | |  | |_| | | (_) | |  
+			 \_____|_|\___/|_|   \__, |  \___/|_|  
+			                      __/ |            
+			                     |___/             
+			 _    _                     _             ____  
+			| |  | |                   | |           |___ \ 
+			| |__| | ___ _ __ __ _  ___| | ___  ___    __) |
+			|  __  |/ _ \ '__/ _` |/ __| |/ _ \/ __|  |__ < 
+			| |  | |  __/ | | (_| | (__| |  __/\__ \  ___) |
+			|_|  |_|\___|_|  \__,_|\___|_|\___||___/ |____/ 
+
+
+
+Herakles no Eikou III - Kamigami no Chinmoku
+The Glory of Heracles 3 - Silence of the Gods
+English Translation patch version 1.1
+
+Japanese Game Release Date: April 24, 1992
+Patch Release Date: December 22, 2009
+
+http://www.dqtranslations.com/
+
+NOTE: THIS PATCH HAS BEEN COMPLETELY REHACKED AND IS OF MUCH HIGHER QUALITY THAN THE BETA
+________________________________________________________________________________________
+
+Table of Contents:
+
+0. Version history / What's new
+1. Game history and getting started
+2. Patch features
+3. Known issues
+4. Translation patch credits
+5. Patching the game
+6. How you can help out!
+7. Things to look forward to
+8. FAQ section
+
++---------------------------------------------------------------------------------------+
+|                                                                                       |
+|			0. Version history / What's new                                 |
+|                                                                                       |
++---------------------------------------------------------------------------------------+
+
+06/24/2015, Version 1.1a:
+- More minor fixes.
+- A few overflows.
+- Fixed some more translation mistakes in the diary which had crept in due to limitation issues.
+
+12/28/2013, Version 1.1:
+
+- Fixed various grammar, spelling and translation mistakes. Some might remain in 
+rare dialog instances. 
+- Added missing text translations. 
+- Brushed up on style in many places. 
+- Fixed most overflows. Some might still be caused by unexpected character name 
+length or in rare dialog instances. 
+- Fixed wrong status messages. 
+- Updated known issues. 
+
+nanashi
+
++---------------------------------------------------------------------------------------+
+|                                                                                       |
+|			1. Game history and getting started                             |
+|                                                                                       |
++---------------------------------------------------------------------------------------+
+
+	While trying out various games for the Super Famicom a couple of years ago, I 
+stumbled upon a spectacular find: Glory of Heracles 3. Immediately I took a liking to
+the Dragon Quest feel of the game with it's unique Greek twist. Although most English
+gamers have never heard of the series, the games has an enormous amount of fans in 
+Japan. 
+	The story of Glory of Heracles 3 consists of the protagonist who wakes up in 
+a village of pixies without even remembering his name. Throughout the game the protagonist
+(which is named by you) is continually brought to a dream world while he sleeps. Along
+the journey he finds others whom he saw in the dream and searches to reveal his true 
+self and his past. Companions gather along the way and overcome many great tribulations
+together. Some of these include being swallowed by a giant sea monster, using the great
+Trojan horse, flying daedalus' kite, speaking with the divine Lord Zeus, and much much
+more. 
+
+Some features of the game include.
+- 5 party member system
+- Customizable windowing system
+- Jumping off cliffs!
+- Use of a ship for transportaion
+- Use of Pegasus for flying
+- Great unique spell names
+- Dress your main character up as a woman!
+- 116 enemies
+- Dictionary of the gods
+- Reion's Diary
+- Bury and store items almost anywhere
+- Learn to be a master harp player with the minigame
+
+	So I hope your looking to enjoy another classic. For me, this game provided 
+some great unexpected feature around every corner. For more information visit
+
+http://en.wikipedia.org/wiki/Glory_of_Heracles
+
++---------------------------------------------------------------------------------------+
+|                                                                                       |
+|			2. Patch features                                               |
+|                                                                                       |
++---------------------------------------------------------------------------------------+
+
+This that I have implemented into this patch include...
+
+- Cracked dictionary compression 
+- Implemented DTE (Dual Tile Encoding)
+- Customized DQ Translations intro
+- 200+KB of english script 
+- Expanded item names from 8 to 16
+- Expanded enemy names from 8 to 16
+- Expanded spell names from 6 to 12
+- Expanded skill names from 3 to 6
+- Reprogrammmed and relocated all game menus
+- Expanded main textbox and recoded text routine
+- Game now loads all english text straight from ROM instead of RAM.
+- New pointer system for all text
+
+
++---------------------------------------------------------------------------------------+
+|                                                                                       |
+|			3. Known Issues                                                 |
+|                                                                                       |
++---------------------------------------------------------------------------------------+
+
+Here's some things I still have yet to work out. 
+
+- The battle text seems to jump a few lines sometimes. 
+- Cursed status doesn't have a message, only a different color for the afflicted 
+character. 
+- The game is supposed to check the names you give to your characters against the ones 
+used in game so you don't call them Zeus, Poseidon or the same name as your other party 
+members. This doesn't work in our version.
+- Some overflows might remain in the current version.
+- In the end sequence, the dialog causes several minor graphical corruptions in the 
+background.
+
+That's about it for now. The game should be completely playable from start to finish. 
+
+
+
++---------------------------------------------------------------------------------------+
+|                                                                                       |
+|			4. Translation patch credits                                    |
+|                                                                                       |
++---------------------------------------------------------------------------------------+
+
+These are the people who helped put this patch together:
+
+nanashi - Main translator (complete script translation with battle dialogue), QA
+DaMarsMan - All hacking, menu translation, intro screen, this readme.txt
+toma - Glory of Heracles 3 title screen translation
+Haeleth and Gillian Seed - various spot translations
+Wrath - main beta testing
+
+Beta Testers:
+
+Wrath
+LightWorker2012
+Covanca
+Faolan
+Atticus
+VaAllstar
+Exlike27
+Kojiro
+FoxStar
+toma
+Matthew Calis
+
+
+Other people who helped out in some way include:
+
+rveach, byuu, Nightcrawler, Gideon Zhi, KingMike, D, Bongo, and others I'm sure.
+
+
+Utilities used:
+
+Atlas - Klarth
+xkas v0.06 - byuu
+NINJA Patcher - D
+Geiger's Debugger Snes9X1.43.ep9 - Geiger and snes9x team
+bsnes v013 with debugger - byuu
+WindHex - Bongo
+Translhextion 1.6C - Brian Bennewitz
+Lunar Expand - FuSoYa
+Lunar Address - FuSoYa
+Pic2Snes - Paul
+DarkTabler - Dark Schneider
+Tile Layer Pro - Kent Hansen
+
+
+Greetings:
+
+The rest of our team, Jason and Chris, Brian, Spencer, strag0, satsu, lavonne riley, 
+REdComet, Djinn, and Dragon's Den, Pendy, everyone at romhacking.net, all my friends 
+at W.B CoC.
+
+
++---------------------------------------------------------------------------------------+
+|                                                                                       |
+|			5. Patching the game                                            |
+|                                                                                       |
++---------------------------------------------------------------------------------------+
+
+	Patch on a headerless unexpanded rom. Softpatching won't work because my patch 
+expands the game. If you want to softpatch, hard patch first and than make an ips 
+against an expanded rom. 
+
++---------------------------------------------------------------------------------------+
+|                                                                                       |
+|			6. How you can help out!                                        |
+|                                                                                       |
++---------------------------------------------------------------------------------------+
+
+	I need someone to translate these pages. They pretty much contain all the 
+information about the game. Very useful for writing an FAQ. Anyone interested in 
+translating Glory of Heracles IV let me know as well. 
+
+http://www.rpgdl.org/sfc/hera3.html
+http://www.din.or.jp/~koide/game/hera3/hera3.htm
+http://osaka.cool.ne.jp/gonsan/hera3_start.html
+
+Please post bugs in the DQ Translations forums.
+
+Anyone available and open to helping email me at DaMarsMan@gmail.com. 
+
+
+
++---------------------------------------------------------------------------------------+
+|                                                                                       |
+|			7. Things to look forward to                                    |
+|                                                                                       |
++---------------------------------------------------------------------------------------+
+
+- DQ5 for PS2 release soon :)
+- Sansara, Aretha, and some other games getting more attention from me. 
+
++---------------------------------------------------------------------------------------+
+|                                                                                       |
+|			8. FAQ section                                                  |
+|                                                                                       |
++---------------------------------------------------------------------------------------+
+
+-How can I save?
+	Talk to the statues of Hermes in the cities.
+-My armor rusted... What do I do?
+	Bring it to the boy in Eus to have it polished.
+-What is the reward for becoming a pro harp player.
+	You can then win money by performing in Troy. 
+-I'm stuck in bed.
+	Try tapping down twice.
+-I can't get into Knossos.
+	Put on the Daughter Memento
+-The screen keeps shaking, is that normal?
+	This is just the part of the game where the sun stands still. 
+-The stats on the screen won't go away
+	Hit select (Or whatever you have configured)
+-I'm in prison with Kurin... How do I get out?
+	Check the wall to the upper left.
+-The Persian king told me to talk to the king of Athens about the sun not moving. Where is he?
+	To find New Athens, go west of Athens and up the slope and then south west.
+-The king in New Athens told me to consult the men. What next?
+	Head west of Therma and up the slope. 
+-How to get past the second debris mountain pass? 
+	Jump down certain spots and finally jump down to the ground again at the very right.
+-How do I get to Drad? 
+	Jump off the edge north of Logosis. 
+-I got to Troy but I don't know what to do now.
+	Exit Troy and go into the water south. Make sure you're not missing the giant horse.
+-I jumped with the kite but it didn't work.
+	Jump off the tower in Troy instead.
+-How do I get Stheno's Blood?
+	Go to the volcano island and defeat the boss. 
+-How do I get Eurayle's Blood?
+	Return to Driskos and take the ship south west to the island with a cave.
+-The world flooded... What next?
+	Keep flying off the map with Pegasus.
+-I'm caught in the time loop.
+	Just defend instead of fighting.
+-I have another question you didn't cover.
+	Check out the FAQ Ultpaladin at gamefaqs.com
+
+
+

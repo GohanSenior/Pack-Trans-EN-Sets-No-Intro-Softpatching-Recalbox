@@ -1,0 +1,135 @@
+                               Super Star Force
+                          English Translation Patch
+                 by GAFF Translations (pluvius3 @ gmail.com)
+                      v1.00 (Created October 26, 2015)
+--------------------------------------------------------------------------------
+
+
+*TABLE OF CONTENTS*
+ -----------------
+
+I.    VERSION HISTORY
+II.   INTRODUCTION
+III.  INSTRUCTIONS FOR USE
+IV.   KNOWN BUGS
+V.    CREDITS
+VI.   TECHNICAL NOTES
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+
+
+********************
+I.  VERSION HISTORY
+********************
+
+v1.00 (10-26-15):  First release.
+
+
+******************
+II.  INTRODUCTION
+******************
+
+This is an English translation patch for Super Star Force, a shoot-'em-up
+developed and published by Tecmo in 1986 for the Nintendo Famicom.  It was the
+sequel to the earlier Star Force, which was an endless vertical shmup that was
+massively popular in Japanese arcades and was also released in America to less
+success.  Unlike its predecessor, Super Star Force has an in-game plot and two
+possible endings, is somewhat non-linear, and includes Zelda-like on-foot
+sequences and NPC encounters.  All of this makes it highly similar to the later
+NES game The Guardian Legend, though Super Star Force does not quite reach that
+level of quality.
+
+As with my last translation (and likely the translations I do for the
+foreseeable future), I came to this game by way of the excellent Chrontendo
+8-bit Internet gaming show.  This will probably be unlike my previous
+translations in that this game may actually be of interest to a sizeable chunk
+of the retrogaming community.
+
+
+***************************
+III.  INSTRUCTIONS FOR USE
+***************************
+
+1.  Download and install Lunar IPS or a similar IPS patcher if you haven't
+    already.
+	
+2.  Get a copy of the Super Star Force ROM.  No, I don't know where.
+    The correct ROM is identified by GoodNES 3.23 as the verified good dump.
+	
+3.  Apply the desired patch to the ROM using the aforementioned IPS patcher.
+
+
+****************
+IV.  KNOWN BUGS
+****************
+
+None at this time.  I did see some weird glitches where you can blow up
+invisible objects on the ground, but I'm pretty sure those were in the original
+game.  If anyone can figure out how to trigger the Engrish intro mentioned
+below, let me know and I'll hack it back in.
+
+
+***********
+V.  CREDITS
+***********
+
+Rob "Pluvius" Browning: Hacker, translator, tester
+Thanks to Ivan Rorick for translation help with a few unusual sentences.
+
+
+********************
+VI.  TECHNICAL NOTES
+********************
+
+The hacking for this game was fairly straightforward.  The text in most places
+was printed using a standard text routine with dakuten being printed separately
+in the space above each line of text.  This made editing the dumped script in
+preparation for translation a bit of a pain, but it also wasted a lot of ROM
+space which I was able to reclaim.  In addition, there was a lot of free ROM
+space outside of the text blocks (including an Engrish intro text that was
+unused), so inserting the script was essentially painless.  Beyond that, I only
+had to hack in an English font (most of which was already provided by the game)
+and change the graphical Japanese text on the status screen.  The only real
+problem which caused me to edit the script down a little (but not so anyone
+would really notice) was the limited amount of space in the text window.  And
+I was probably still being a bit conservative in my editing.
+
+The hardest part really was just the translation itself.  I was able to
+translate most of the text to my satisfaction by myself, but it was slow-going.
+Thankfully most of the sentences were fairly simple and had context clues.  If
+anyone with better skills in Japanese than I notices anything egregiously wrong
+with my translation, please feel free to drop me a line.
+
+
+****************************************
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+****************************************
+
+Thanks to:
+
+Tecmo, for developing and publishing this game.
+
+Nintendo, for making the system this game runs on.
+
+Chrontendo, for being an informative show about the 8-bit era and giving me the
+idea to do this hack.
+
+Klarth and RedComet, for creating Atlas and Cartographer, two script utilities
+that made editing the main block of text very much less tedious.
+
+The developers of FCEUX, the very useful debugging emulator which I used for
+this entire project.
+
+Romhacking.net, for hosting this hack and many others like it, as well as
+providing useful hacking information.
+
+The NESDev Wiki, the premier resource for NES hacking information.
+
+And, of course, you for reading and playing.
+
+Questions, comments, criticisms, and bug reports can be sent to
+pluvius3 @ gmail.com (without the spaces obviously).  Please put "Super Star
+Force" or something similar in the subject line so I will know what the email is
+about.  If you alert me to a bug, I will fix it in a future update and give you
+credit.
+
+Copyright 2015 GAFF Translations, all rights reserved.

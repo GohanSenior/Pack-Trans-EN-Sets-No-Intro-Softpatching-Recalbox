@@ -1,0 +1,70 @@
+Lost Word of Jenny: Ushinawareta Message
+Hacked & Translated by Zynk Oxhyde
+2013
+
+---------------
+Date Completed:
+---------------
+June 11, 2013
+
+------------
+Description:
+------------
+This is an English translation of Lost Word of Jenny: Lost Message for the NES!
+
+--------
+Changes:
+--------
+Only the fonts were changed in the game, so no modified graphics this time from Zynk!
+
+---------
+Controls:
+---------
+D-pad = Move
+A = Jump/Pickup Items/Jet propulsion
+B = Kick/Shoot
+Down+B = Punch/Shoot
+Select = Switch weapons
+Start = Pause
+
+---------
+Gameplay:
+---------
+On the map, enter each stage by pressing Up. The stage selection is random.
+In every stage, you need to collect 6 keys before entering the Musical Theater.
+To get the keys, defeat the enemies that appear on items like coffins & jars. Jumping next to those will make them appear.
+Take note of the Letters & Numbers that appear when you defeat the enemies. You will need those in the Musical Theater.
+
+In Cow Head Stage, collect the J-e-N-n-Y letters by jumping at the beginning on the upper floor (around two screens),
+then kick the fire pot to get the dagger. Press Select to use. It is strong against Cowheads, but it has limited use.
+After clearing all the Cowheads, run at the bottom floor towards the right wall.
+
+Whomanchun is just a weird fortune-teller with a Chinese verbal tic. Nothing special.
+
+---------
+ZIP file:
+---------
+1. This readme
+2. Lunar ips patch
+
+----------------
+ROM Information:
+----------------
+File:   Lost Word of Jenny - Ushinawareta Message (Japan).nes
+Length: 131088 Bytes (1 Mbit)
+CRC32:  0FDF683A
+MD5:    90064451 2B3A1201 4F0ECB7F 74CD5AEB
+SHA1:   502C6E7C CB6FC735 4A501C92 18FD6046 91EF5EC2
+
+--------
+Contact:
+--------
+Email: zynkoxhyde@yahoo.com
+
+-----------
+Disclaimer:
+-----------
+Zynk Oxhyde is not related/affiliated with Nintendo & Takara in any way.
+Takara owns this game, all rights reserved.
+This patch is not for profit! This patch is free! Don't distribute this in pre-patched ROMs!
+Don't ask me for ROMs. Get your ROMs from anyhow you like.

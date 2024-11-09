@@ -1,0 +1,150 @@
+                            Super Monkey Daibouken
+                          English Translation Patch
+                 by GAFF Translations (pluvius3 @ gmail.com)
+                      v1.00 (Created September 15, 2015)
+--------------------------------------------------------------------------------
+
+
+*TABLE OF CONTENTS*
+ -----------------
+
+I.    VERSION HISTORY
+II.   INTRODUCTION
+III.  INSTRUCTIONS FOR USE
+IV.   KNOWN BUGS
+V.    CREDITS
+VI.   TECHNICAL NOTES
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+
+
+********************
+I.  VERSION HISTORY
+********************
+
+v1.00 (09-15-15):  First release.
+
+
+******************
+II.  INTRODUCTION
+******************
+
+This is an English translation patch for Ganso Saiyuuki: Super Monkey Daibouken
+("Original Journey to the West: Super Monkey Adventure"), a game released for
+the Nintendo Famicom in 1987 by VAP.  As the name suggests, it's an adventure
+game of sorts based on the classic Chinese novel, Journey to the West.  In it,
+you have to guide Son Goku and his band of pilgrims across Asia to the mystical
+land of India, where the Buddha awaits to show them the way to total
+enlightenment.  On the way, there are a number of obstacles, including the
+game's soul-crushingly low movement speed and bad hit detection.  Chrontendo
+named this game the worst game released for the system before 1988, beating out
+such luminaries as Takeshi no Chousenjou and Hoshi wo Miru Hito.
+
+I decided to translate this game because it had a relatively low amount of
+Japanese in it which was appropriate for my skill level in the language.  I was
+inspired by the Japanese gaming show GameCenter CX spending a whole season's
+worth of short segments on it.  This hack provided some neat challenges,
+including my first DTE routine.  I estimate the patch took me a few weeks to
+do in my free time.  Please enjoy.
+
+
+***************************
+III.  INSTRUCTIONS FOR USE
+***************************
+
+1.  Download and install Lunar IPS or a similar IPS patcher if you haven't
+    already.
+	
+2.  Get a copy of the Super Monkey Daibouken ROM.  No, I don't know where.
+    The correct ROM is identified by GoodNES 3.23 as the verified good dump.
+	
+3.  Apply the desired patch to the ROM using the aforementioned IPS patcher.
+    The patcher should automatically expand the ROM for you if it's anything
+	like Lunar IPS.
+
+
+****************
+IV.  KNOWN BUGS
+****************
+
+None at this time.  I tried to stick to unused ROM space for my hacks but this
+may lead to unexpected behavior that I did not encounter in my testing.  I also
+hacked the title screen in a very ugly way and anyone who can do a better job
+should feel free to do so.
+
+
+***********
+V.  CREDITS
+***********
+
+Rob "Pluvius" Browning: Hacker, translator/editor, tester
+
+
+********************
+VI.  TECHNICAL NOTES
+********************
+
+There were two main problems that had to be solved in order to do a decent
+translation hack of Super Monkey Daibouken.  The first was an issue of screen
+space while the second was an issue of ROM space.
+
+Text in the game is displayed by itself on a blue screen in between events. The
+text is only printed one line at a time, even in the ending, but there were some
+instances where I needed two lines for a reasonable translation.  Fortunately,
+for whatever reason, the text routine actually outputs two lines worth of data
+to the screen, the second one being blank.  So all I had to do was add code that
+forced the game to recognize a second line and save it in the appropriate
+location.
+
+For the ROM space problem, I had to implement a DTE routine.  I only had space
+for twelve entries, and even with the DTE I had to edit the translation down
+considerably to get it to fit in the limited space available (I literally did it
+with only one byte to spare).  However, just about everything there should be at
+least as comprehensible as the original Japanese, and I think the terse English
+fits this kind of game pretty well.  I also had to tweak the game's routine for
+auto-centering text to make it work properly with the DTE.
+
+There were two blocks of unused ROM that I utilized for the code.  One block at
+$71A3 (address $F193 in the debugger) appeared to be raw assembler code probably
+left behind during the game's coding process, and certainly wasn't used by the
+game in any way.  The other block is at $49E8 ($C9D8 in the debugger) and seemed
+to be unused map data, probably somewhere in the middle of the ocean where you
+can't reach.  I moved the code in the latter block as far to the end as possible
+to minimize the chance that a determined player might cause it to be loaded
+improperly.
+
+
+****************************************
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+****************************************
+
+Thanks to:
+
+VAP, for developing and publishing this game.
+
+Nintendo, for making the system this game runs on.
+
+GameCenter CX, for being a great retro gaming show and inspiring me to do this
+hack, and SA GCCX, for translating the show.
+
+Klarth and RedComet, for creating Atlas and Cartographer, two script utilities
+that made editing the main block of text very much less tedious.
+
+The developers of FCEUX, the very useful debugging emulator which I used for
+this entire project.
+
+Romhacking.net, for hosting this hack and many others like it, as well as
+providing useful hacking information.
+
+RedComet again, for his helpful DTE tutorial.
+
+The NESDev Wiki, the premier resource for NES hacking information.
+
+And, of course, you for reading and playing.
+
+Questions, comments, criticisms, and bug reports can be sent to
+pluvius3 @ gmail.com (without the spaces obviously).  Please put "Super Monkey
+Daibouken" or something similar in the subject line so I will know what the
+email is about.  If you alert me to a bug, I will fix it in a future update and
+give you credit.
+
+Copyright 2015 GAFF Translations, all rights reserved.

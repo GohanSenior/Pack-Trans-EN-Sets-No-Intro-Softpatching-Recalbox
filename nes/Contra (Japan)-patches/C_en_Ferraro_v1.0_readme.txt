@@ -1,0 +1,106 @@
+======================================================
+Why another English translation?
+======================================================
+This was built on top of the excellent work of the
+Stardust Crusaders patch by Pennywise.
+
+I wanted a better title screen, and I wanted the
+translated text to be more clear to read and have the
+overall timing of the Japanese to avoid dragging down
+the pace of the game.
+
+The translation was too verbose in places, taking too
+long to type itself onto the screen and making it
+harder than neccessary to comprehend. For example the
+translated attract mode text takes 19 seconds to
+appear vs the Japanese original taking only 6 seconds.
+I made the text more succinct across the board and
+type way faster in the attract mode specifically.
+The opening cinematic I finessed the text and between-
+line pauses so the cinematic ends in sync with the
+music like the Japanese version. Margins were cleaned
+up everywhere.
+
+I wasn't a fan of the title screen logo having a
+little turd of fire flying across the C in Contra
+so I reanimated it from scratch as fire and embers
+from below like the Japanese original.
+
+I also wanted an option to keep the original Japanese
+title screen and only translate the text. More like
+a subtitled version of the Japanese game, rather
+than a 'director's cut' of the English game. It's up
+to you which version you want to use, they're both
+included here in both .ips and .bps format.
+
+
+======================================================
+Patch Instructions
+======================================================
+
+Choose which single patch version you want to use, and
+apply it to the 256kb Japanese ROM (not the 128kb USA
+version)
+
+Contra (J).nes
+aka Contra (Japan).nes
+sometimes called Gryzor(J).nes
+
+
+======================================================
+Background On Contra
+======================================================
+The Japanese version of Contra used custom hardware in
+the cartridge to give it animated backgrounds, and had
+a little skippable cutscene and progress map between
+levels.
+In North America, Nintendo manufactured the carts and
+didn't allow custom hardware, so the animated
+background feature was removed, and the rom was
+squeezed to half the size, also removing cutscenes and
+final boss completion music sting.
+This makes the Japanese version the intended version,
+like a director's cut (especially note the living
+background in the final level and falling snow in the
+snow level), but the cutscenes are in Japanese so a
+patch is needed for English speakers to understand the
+story.
+The gameplay is identical between Japan and North
+America except for slightly increased difficulty in
+the English version (the enemies shoot more).
+
+* 30 lives: The Konami code is in all versions
+  At the title screen press
+    Up Up Down Down Left Right Left Right B A
+  before pressing Start for a 1 or 2 player game.
+  You can press Select at any time during code entry
+  to switch between 1 player and 2 players, plus it
+  resets the menu timer to give you more time to
+  enter your code!
+
+The Japanese version also has some unique codes:
+
+* Stage Select:
+    Hold Up+Left+A, Press Start to begin the game,
+	then immediately hold Select.
+  You can also do this after the Konami code to get
+  30 lives + stage select.
+
+* Secret Ending: before the credits start rolling
+    Hold Start+Select and keep them held
+	until the credits are over.
+  The screen will flash and a secret message will
+  appear.
+
+
+======================================================
+Credit goes to:
+
+Pennywise
+ - all the original and difficult hacking
+MFerraro (@mferraro.bsky.social)
+ - new title screen animation
+ - new translated text for pacing and clearer story
+ - some additional hacking of a couple pointers
+ and timers, and reverse-engineering the original hacks
+ to build over them and separate the title screen.

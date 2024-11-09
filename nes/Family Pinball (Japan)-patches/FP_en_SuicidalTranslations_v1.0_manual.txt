@@ -1,0 +1,176 @@
+         _____               _ _         ____  _       _           _ _ 
+        |  ___|_ _ _ __ ___ (_) |_   _  |  _ \(_)_ __ | |__   __ _| | |
+        | |_ / _` | '_ ` _ \| | | | | | | |_) | | '_ \| '_ \ / _` | | |
+        |  _| (_| | | | | | | | | |_| | |  __/| | | | | |_) | (_| | | |
+        |_|  \__,_|_| |_| |_|_|_|\__, | |_|   |_|_| |_|_.__/ \__,_|_|_|
+                                 |___/                                 
+
+                                 Family Pinball
+                               Instruction Manual
+                                     v1.00
+                                    
+-------------------------------- INTRODUCTION ---------------------------------
+
+Family Pinball is a 4 player pinball/pachinko game released by Namco for the
+Famicom game system in 1989. It was never officially released in English but
+was translated by Suicidal Translations and released on February 14th, 2008.
+
+This file serves as an instruction manual for the translated game. It is not a
+translation of the original instruction manual but is an original work based on
+my experiences playing the game.
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+  I. Introduction
+ II. Table of Contents
+III. The Story
+ IV. Gameplay
+  V. Distribution Notes
+ VI. Conclusion
+
+---------------------------------- THE STORY ----------------------------------
+
+Several Namco characters do battle in pinball-based combat. Why? Your guess is
+as good as mine.
+
+---------------------------------- GAMEPLAY -----------------------------------
+
+This is a pinball game, so there's not much depth to the actual gameplay.
+
+General play control is as such:
+
+      Left: operate left flipper
+     Right: bump table to the right
+        Up: move flippers up in battle game
+      Down: move flippers down in battle game / pull back plunger to shoot ball
+         B: bump table to the left
+         A: operate right flipper
+     Start: pause
+
+
+MODES
+-----
+There are 4 different modes in Family Pinball. Additionally, 3 of these 4 modes
+contain different submodes. They are as follows:
+
+Pinball Mode: This is a standard pinball machine with a Pacman theme. The goal
+is to score as many points as possible. If you light up all three of the mini-
+lanes on the lower level, a ramp will open up in the upper left corner of the
+top level. Going up this ramp will launch you into a mini-game in which Ghost
+Monsters will travel around the screen. Killing all 4 ghost monsters (they each
+take two hits) will cause the large Pacman at the top of the screen to open his
+mouth for a short time. Shooting the ball into his mouth will net you 10,000
+points the first time, with the point value doubling for each successive shot
+before he closes his mouth. 
+
+                                   §-§-§§-§-§
+
+Battle Mode: A combination of Pinball and Pong, Battle Mode pits two opponents
+in a one-on-one battle for supremacy. There are three different tables that are
+available in Battle Mode.
+
+Bomber - Each end of the table has two plungers on the right side. When the
+ball hits one of these plungers, it changes the adjacent picture. When these
+pictures match up, something occurs.
+
+         Skull: Opponent's flippers become invisible (but function normally.)
+     Lightning: Opponent's flippers are briefly paralyzed.
+          Exit: An exit door appears. Put the ball through for a cheap win.
+          Bomb: The ball begins to flash, signalling a countdown. When time
+                runs out, the ball explodes, killing the player who controls
+                the side of the table which the ball is on.
+
+Thunder - There are no special features of the Thunder table. However, this is
+          the only table on which you can advance both of your flippers to your
+          opponent's side.
+          
+Attack - In the Attack level of Battle mode, there are 3 plungers on each side
+         of the table labeled Stop, Help and Attack. When your Stop plunger is
+         activated, a barrier raises up on the side of the table, preventing
+         your opponent from sending the ball to your side through the chute.
+         When Help is activated, a large bumper raises up between your flippers,
+         making it very difficult for you to lose the ball down the center. When
+         your Attack plunger is activated, a device begins to move from side to
+         side on your opponent's side of the table, blocking their attempts to
+         send the ball back to your side.
+
+                                   §-§-§§-§-§
+
+Sports Mode: Sports mode is similar to Battle Mode except that the table
+features either a soccer or hockey theme. In Sports Mode, the A & B buttons
+each rotate your flipper in a different direction, whereas the left/right
+buttons control your goalie. You are unable to bump the table in Sports Mode.
+
+                                   §-§-§§-§-§
+
+Pachinko Mode: Pachinko is a game that is wildly popular in Japan but is
+virtual unknown in America except for the bastardized version known as Plinko
+on The Price is Right. In Pachinko, your goal is to sink the balls into the
+holes in the table. A win consists of three in a row (horizontally or
+vertically), five in a row (diagonally) or filling all four corners.
+Additionally, certain holes will be marked with a 1 or 2. This multiples the
+value of any wins including those numbers. At the beginning of each round, you
+wager an amount of money. The amount you win is determined by the number of
+wins you collect multiplied by your wager. Each game consists of five rounds.
+You win a game by finishing with a total within the range indicated by the
+level that you select at the beginning.
+
+
+CHARACTER SELECTION
+-------------------
+Regardless of mode, each player selects one of six characters from other Namco
+produced NES games. Which character you select does not affect gameplay. It is
+simply a fun way to keep track of who is who. In Battle Mode and Sports Mode,
+each character does have their own unique winning and losing quotes. The
+characters are as follows:
+
+Pacman from, well, Pacman (And a dozen sequels.)
+
+Tarosuke from Youkai Douchuuki
+
+Kagekiyo from Genpei Touma Den
+
+MoMo from Mahou no Princess Minky Momo
+
+Valkyrie from Walkuere no Bouken - Toki no Kagi Densetsu
+
+Ki from The Quest of Ki
+
+Due to space constraints, Tarosuke was shortened to Taro, Kagekiyo to Kage and
+Valkyrie to Valkyre.
+
+
+----------------------------- DISTRIBUTION NOTES ------------------------------
+
+This Family Pinball translation should be distributed in a file named
+fpine100.zip and should contain the following files:
+
+	  fpine100.ips - the translation patch
+          fpine100.txt - this readme file
+          fpin-man.txt - a manual for the game
+
+These files are released under a Creative Commons Attribution-Noncommercial-
+-Share Alike 3.0 license. This means that you are free to copy, distribute and
+transmit these files in any manner you see fit, as long as you do so in a non-
+commercial manner and attribute the author. Additionally, you are permitted to
+modify this work as long as you release your modifications under the same
+Creative Commons license.
+
+For more information, see http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Family Pinball is (C)opyright 1989 by Namco Ltd. & Artman Inc.
+
+---------------------------------- CONCLUSION ---------------------------------
+
+So there you have it. Not the most complex game of all time but I rather enjoy
+it. It won't take you hours on end to defeat like some other games but it's
+well worth playing when you're just out to have a little fun.
+
+If you have any questions, feel free to ask. The official site of the Family
+Pinball translation is at http://suitrans.studiosouzou.com and you can find the
+most current contact information there as well.
+
+-InVerse
+
+-------------------------------------------------------------------------------
+Family Pinball         -          (CC) 2008 InVerse          -         02/14/08

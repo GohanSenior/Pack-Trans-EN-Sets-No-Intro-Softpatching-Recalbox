@@ -1,0 +1,70 @@
+RADICAL NINJA YANCHAMARU 2 IN KARAKURI LAND
+Hacked & Translated by Zynk Oxhyde
+2020
+
+---------------
+Date Released:
+---------------
+v1.0 May 30, 2020
+
+------------
+Description:
+------------
+This is an English translation of Kaiketsu Yanchamaru 2: Karakuri Land for the NES.
+
+--------
+Changes:
+--------
+(v1.0 - 05/30/2020) - initial release
+Aside from translation, here are some note-worthy to trivial changes:
+*The Title screen is hacked & translated! YAY!
+*The "2" is a sprite that was easily moved
+*Weapons/Transformation menu
+*Map area layout
+
+
+---------
+ZIP file:
+---------
+1. This readme
+2. YANCHAMARU2(EN).ips patch
+
+--------
+Contact:
+--------
+Email: zynkoxhyde@yahoo.com
+
+
+----------------
+ROM Information:
+----------------
+Database match:	Kaiketsu Yancha Maru 2 - Karakuri Land (Japan)
+Database: 	No-Intro: Nintendo Entertainment System (v. 20180803-121122)
+File SHA-1: 	C588F134D9A4BF79F8D7E8D487DDA410147ABDE3
+File CRC32: 	459C9E31
+ROM SHA-1: 	ABBC28A37F328D99F3CF2BF11D8D1633967F5635
+ROM CRC32: 	B979CAD5
+
+
+--------
+Credits:
+--------
+Zynk Oxhyde - Hacking and Translation
+
+---------------
+Special Thanks:
+---------------
+Romhacking.net - for hosting the patch
+
+--------
+Contact:
+--------
+Email: zynkoxhyde@yahoo.com
+
+-----------
+Disclaimer:
+-----------
+* Zynk Oxhyde is not related or affiliated with Nintendo and the publisher of the original game.
+* Do not sell this patch and the contents with it.
+* Do not sell the pre-patched ROM into reproduction cartridges.
+* You may distribute or host this patch provided that all files that come with it are intact.

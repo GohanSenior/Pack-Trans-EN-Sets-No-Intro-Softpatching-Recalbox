@@ -1,0 +1,49 @@
+-=Fuzzical Fighter Readme File=-
+File by [Vonpleck]
+Readme v1.00b
+Written January 10th, 2000
+-------------------------------------------------------------------------------------------------
+WakdHacks is proud to present an English translation patch of Fuzzical Fighter!
+-------------------------------------------------------------------------------------------------
+
+Fuzzical Fighter Story:
+
+"Planet Funny is a strange world. You can go place to place instantly! And everyone here lives in
+peace.. But bad luck came as sudden as the wind.. The Dimension Stone, which is used to protect
+Funny, was stolen. The space around Funny has always been unstable When the stone was lost,
+space around the warp towns were then twisted.. While in chaos, a young boy was sent to find this
+stone. His name is Mark, he lives outside of town.. The king was impressed by his courage, and
+allowed him to use the FUZZICAL FIGHTER to find the stone.. Mark's long journey will now begin.."
+
+-Text from the opening sequence in Fuzzical Fighter
+
+Summary:
+You are Mark and you must use your trusty spacecraft called "FUZZICAL FIGHTER" or "Fuzzy" to find
+the dimension stone and save the planet of Funny from evil.
+-------------------------------------------------------------------------------------------------
+About this patch:
+Fuzzical Fighter was translated and hacked by WakdHacks romhacking and translation...
+The following people worked on this project...
+
+Translation:Greywords
+Romhacking: Vonpleck and Bongo`
+Readme file: Vonpleck
+Project leader: Vonpleck
+Support: The WakdHacks Team
+Group Leader: Nagash`
+Beta Testing: The WakdHacks Team
+Special thanks to Nagash`, Crono Silver, Blues_, and Necromason. 
+Special thanks to you, the player and supporter of emulation!
+-------------------------------------------------------------------------------------------------
+Original Family Computer program (c) 1991 Sigma
+English translation patch (c)2000 WakdHacks Romhacking and Translation
+-------------------------------------------------------------------------------------------------
+****WARNING!****This patch is not to be sold or distibuted. For personal use only!****
+Neither WakdHacks or its members will be held responsible for what you do with this patch.
+-------------------------------------------------------------------------------------------------
+	History:
+January 16, 2000 version 1.00b is released
+-------------------------------------------------------------------------------------------------
+Any bug reports or comments about this patch? Please check out our website at wakdhacks.cjb.net 
+or you can e-mail WakdHacks at wakdhacks@hotmail.com
+-------------------------------------------------------------------------------------------------

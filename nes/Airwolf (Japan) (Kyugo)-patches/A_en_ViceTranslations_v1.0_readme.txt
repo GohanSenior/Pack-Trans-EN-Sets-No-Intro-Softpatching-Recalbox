@@ -1,0 +1,58 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Airwolf 
+  English Translation Patch
+  Version 1.0
+
+  Created by Vice Translations
+   part of   Kitsune's Den
+             http://vice.parodius.com/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CREDITS
+-----------------
+ Kitsune Sniper
+  Game hacking
+  Email: kitsune_sniper [at] hotmail [dot] com
+
+ a_nevels666
+  Main translator
+
+ EienNiHen, satsu, Tetsuo, filler
+  Additional translation support
+
+
+Project History:
+-----------------
+
+October 11, 2003
+ So everything's done. Go play. But be warned... listen to St. John.
+
+What's left
+-----------------
+  Nothing... or so it would seem.
+
+Very special thanks to:
+-------------------------
+Airwolf.org - For providing me with information on the series, long after I'd
+ forgotten about it. I was 8 years old at the time!
+
+
+Copyrights
+-----------------
+ Airwolf [series] is copyright of Universal City Studios, LTD.
+
+ Airwolf [game] is copyrighted 1998 Kyugo.
+
+ Nintendo Entertainment System, Famicom, Pokémon and all other related names
+ and indicia are Copyrighted to Nintendo.
+
+
+Disclaimer
+-----------------
+  There is no videogame company or any other company associated with
+  Kitsune Sniper. In no event shall Kitsune be liable or responsible for
+  any damages that may occur from direct, indirect or consequential results
+  of the ability or disability to use or misuse any material it provides.
+
+  In other words, you'd better own the cart for the rom that you're patching,
+  and if something goes wrong, don't blame me!

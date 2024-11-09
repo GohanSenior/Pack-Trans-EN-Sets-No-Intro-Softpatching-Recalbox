@@ -1,0 +1,103 @@
+a  
+   /\  ___  __ __ ___
+  /  \/ _ \/ // //  / 2
+ / /_\\/_//     \  /         
+/_____/__/___/\__\/
+  d o k i d o k i
+T R A N S L A T I O N
+- - - - - - - - - - -
+*HELLO KITTY PUZZLE COLLECTION : MAGICAL MUSEUM
+ gbc, imagineer, 1999
+ rom released by menace
+- - - - - - - - - - -
+
+100% translation patch
+-use SNEStool (included in this zip) to apply this .ips patch-
+
+ABOUT THE GAME
+this is a cool little puzzle game with helo kitty (:D)  i just thought
+i'd do the project becuase i had a spare day and needed a break 
+from big scripts ^^; anyway, it had more text than i expected and 
+annoying space saving schtuff, so it took four days instead ^^;
+but *i* think it was worth it :P
+so all the text and graphics are translated, even the pocket printer 
+stuff which no one is probably ever gonna see. hab fun kidz :P
+i hacked this game listening to masami okui. ph33r.
+
+CONTRIBUTORS
+celes (Hacking & Translation)
+
+UTILITIES USED
+thingy 
+[http://members.aol.com/sabindude/]
+hexpose
+[http://home.sol.no/~kenhanse/nes]
+table manager
+[http://www.emucamp.com/CBT]
+tile layer
+[http://home.sol.no/~kenhanse/]
+no$gb
+[http://www.work.de/nocash/]
+njstar communicator
+[http://www.njstar.com]
+SNEStool
+[none]
+(all on oldskool p133 w95 :P)
+
+DOKIDOKI TRANSLATIONS
+http://celes.8m.com/dokidoki
+http://celes.emusource.net/dokidoki (up soon kthx)
+...and this patch came from http://celes.emusource.net/hkmme.zip
+
+SHOUT OUT TO :D
+prez
+spinner_8
+blah
+lee chaolang
+satsu
+and (almost) everyone else in hax0ring and emulation
+those l33t people than fansub anime 
+
+***********************************************************************
+
+DIARY OF PROGRESS
+(or: "FOR BORED PEOPLE ONLY")
+
+24 April
+made table
+did all graphics hacking
+made and inserted english uppercase font
+
+25 april
+inserted options menu text
+inserted pocket printer text
+inserted all ok/no choices
+added "st" tile (for 1st etc)
+inserted museum titles text for rooms 1-3
+inserted museum info text for room 1-2
+did last graphics hack - "oshimai" from end sequence into "fin~" :D 
+did option categories (graphical schtuff)
+
+26 April
+after much tile editing, finished options menu - perfect ^^
+inserted museum info text and tidied up titles for room 3
+made dual-character font (for end-game credits)
+fixed "return?" text in museum
+fixed last(?) bug (OK/KKN in game to OK/NO ^^;)
+*finally* inserted museum room 3 picture headings (thx to hexpose)
+
+27 April
+inserted credits
+inserted "new"(from pokemon :P) font inc. lowercase tiles
+updated tables
+inserted all lowercase text
+tidied up some stuff
+finish ^^
+
+**********************************************************************
+DISCLAIMER
+ALWAYS DISTRIBUTE THIS PATCH IN THE ZIP *WITH* THIS .TXT DOC, AND 
+WITH/WITHOUT SNESTOOL. DO NOT ALTER THIS DOC IN ANY WAY OR THE .IPS 
+PATCH EVER.  HELLO KITTY IS A REGISTERED TRADEMARK OF SANRIO, AND 
+THIS PATCH IS PROVIDED SO PEOPLE OWNING THE ORIGINAL GBC HKMM CART CAN 
+PLAY IT IN ENGLISH, BLAH BLAH BLAH.

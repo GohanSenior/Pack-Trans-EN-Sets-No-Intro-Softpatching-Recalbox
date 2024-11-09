@@ -1,0 +1,43 @@
+Captain Silver
+English Translation V 1.0
+Copyright 2009 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Captain Silver
+2.Patch History
+3.Patch Credits
+4.Known Issues
+5.COntact
+------------------------------
+1.About Captain Silver
+------------------------------
+Captain Silver is an all around crappy NES game that was ported very poorly and by very poorly, I mean everything from the graphics to the code was pretty bad. Not much to say other than that.
+---------------
+2.Patch History
+---------------
+Everything's done!
+
+---------------
+3.Patch Credits
+---------------
+Me- Hacking
+Eien ni Hen- Translator
+ReyVGM- Tester
+
+--------------
+4.Known Issues
+--------------
+None
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or check out my site at
+
+yojimbo.eludevisibility.org

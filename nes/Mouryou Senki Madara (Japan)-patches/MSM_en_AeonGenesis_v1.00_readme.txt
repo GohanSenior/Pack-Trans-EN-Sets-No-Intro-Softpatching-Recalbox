@@ -1,0 +1,67 @@
+MADARA
+ENGLISH TRANSLATION V1.00
+Copyright 2006 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1. About Madara
+2. Patch History
+3. Patch Credits and Contributors
+4. Known issues
+5. Application Instructions
+
+--------------
+1.About Madara
+--------------
+Madara is a nifty RPG for the Famicom/NES. It features sound
+powered by the Konami VRC6 sound processor, and has one of the
+best musical scores on the system. It's also a fairly lengthy
+and challenging game! Do be sure to read the mini manual I've
+packaged with the patch for a general explanation of the game's
+systems.
+
+---------------
+2.Patch History
+---------------
+
+I don't even remember when I started working on Madara... years
+ago, certainly. I remember groaning at the data storage (and I
+still do, when I think back on it.) It's kind of nasty, but even
+though the text dumped into over 120 individual files, Tom/DDS
+stepped up to the plate, after years of no translation support
+and failed translation support. Once he finished the script, I
+wrestled the game into submission, and managed to produce a
+fantastic-looking patch in a fairly short amount of time.
+
+September 26, 2006 - Initial version 1.0 release.
+
+---------------
+3.Patch Credits
+---------------
+THE MADARA TEAM
+Main Team:
+Gideon Zhi - Project leader, Romhacker, Translator
+DDS - Japanese Translator
+
+Special thanks to Kya and anyone else who worked on script before
+Tom signed on!
+
+--------------
+5.Known Issues
+--------------
+There are no known issues.
+
+If you find anything wrong, please say so on The Pantheon
+(http://donut.parodius.com/agtp).
+Screenshots and savestates (FCE Ultra format only, please!) are
+preferred.
+
+--------------------------
+6.Application Instructions
+--------------------------
+Quick ROM Info:
+512KB (4mbit NES; 2mbit PRG/2mbit CHR)
+
+Simply apply the patch with a patching program of your choice.
+I personally recommend Lunar IPS (http://fusoya.panicus.org)

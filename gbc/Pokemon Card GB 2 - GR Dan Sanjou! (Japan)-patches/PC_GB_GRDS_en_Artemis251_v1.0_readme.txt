@@ -1,0 +1,135 @@
+     Pokemon Trading Card Game 2:
+       The Invasion of Team GR!
+
+        Unofficial Translation
+      v.1.0 by Artemis251, Jazz
+-----------------------------------------
+
+Welcome to my second game translation! This one was quite a lot more difficult
+than my first, but hopefully things turned out just fine! I figured that since
+all attempts to translate the game have gone dead, I'd take a stab at it
+myself. Now, I'll admit that I really don't know Japanese, but I've done a
+'best-effort' with the best online translators and context clue ad-libbing
+that I could. The story isn't that deep to begin with, so it shouldn't be a
+huge problem. Hopefully it'll all still seem good enough to you while you play!
+
+Also, I will note right off the bat that this translation was developed using
+Jazz's work as a basis. His ASM hack to get the English lettering workin' was
+integral to getting the script manageable. Thanks much!
+
+
+
+VERSION CHANGES
+---------------
+1.00 -- Initial release. (14 Jun 2012)
+
+
+
+APPLICATION
+-----------
+Use an IPS patcher alongside a fresh Japanese ROM to apply the translation patch.
+For reference, the Japanese ROM I used has the following checksums:
+
+   MD5:  1134862e84110443190df460351d4575
+   SHA1: a7e12bcc5f514e3aad8de570fd511aab0a308822
+
+You likely don't have to worry about these unless you're having problems patching.
+My excursions with Pokemon Emerald revealed that sometimes same-language dumps of
+the ROMs sometimes exist out there, which screws up patch application. If you
+tried patching and something went horribly awry, please make sure the base ROM
+you're using agrees with the one I went off of!
+
+
+
+(IMPORTANT?) NOTE:
+------------------
+A few areas of the game read text saved to save files. Thus, if you're using a save
+file from a Japanese version of the game, a couple areas will remain untranslated for
+that save game. Those areas are:
+
+  1) Card Pop! records
+  2) Challenge Machine default records
+
+There may be others like player/deck names, too, though the latter can be fixed in-game.
+These bits of info will act normally for fresh game save files, though, so I implore you
+to start a new file with this patch.
+
+
+
+SPECIAL THANKS
+--------------
+Jazz - As I mentioned before, he supplied a base for me to use. This base was pretty
+       much the reason the English lettering could fit in so nicely.
+
+CruxianAzelf - The only one of my beta testers to actually communicate with me! She
+               caught a few typos and inconsistencies that I hadn't in my first run
+               through the script.
+
+Chewy & Tomato - Both friends of mine that I asked a question or two to about translation.
+               
+
+
+REMAINING BUGS
+--------------
+Well, this was my first bout with ASM hacking. I did fix a few things after learning
+the ropes, but due to time constraints and an inability to properly fix a few things,
+there are still some bugs I'm aware of. None are game-breaking, thankfully. If anyone
+would like to offer solutions or their own patch to fix these, I'd be grateful!
+
+  1) Space issues with names:
+        When the game loads some text from the script, it sometimes calls additional
+        entries (like card names, NPC names, decks, etc.). When these load, an
+        additional space may be appended to the end of odd-length entries. The change
+        is purely visual, but may end up creating a flurry of extra spaces, most notably
+        in a later GR Fortress where the members name specific cards at random.
+          This change is also the reason pokemon card names have double spaces when
+        used in the '(name) Lv#' format. Additionally, I think it hides the card level
+        for specific instances of pokemon cards with single-number levels for an
+        opponent's active pokemon (in the top right of the screen while duelling).
+          I'd suggest nullifying the added space, but I'm not sure what it would do
+        for loading the rest of the message -- would it break the message box lineup
+        or other menus?
+
+  2) Names cannot be in lower case:
+        I'm really not that experienced in ASM hacking or how Jazz set up the smaller
+        lettering code. So, player names and deck names are restricted to all caps at
+        the moment. It'd be great to be able to have decks with names longer than 10
+        letters, for sure.
+
+  3) Pokemon Species Info:
+        This is really getting exact, but I've noticed a couple of pokemon get their
+        species info from attack names instead of new text entries. This is likely
+        to save space on the ROM. Those I've noticed are:
+
+          a) Abra/Kadabra/Alakazam: should be 'Psi Pokemon', but reads its data from
+                                    Golduck Lv27's first attack (Psyshock).
+          b) Electabuzz/Zapdos: should both be 'Electric Pokemon', but reads its data
+                                from Pikachu Lv14's second attack (Thunder Jolt).
+
+        I may have been able to locate and fix these, but I really didn't think it was
+        that important.
+
+
+
+FINAL THOUGHTS
+--------------
+I hope you anjoy the game! If you find a typo or some game-crashing bug, please check
+the FAQs on my site below before contacting me:
+
+    http://artemis251.fobby.net/pkmntcg2/
+
+Otherwise, shoot me an e-mail at Artemis251(at)yahoo.com . Depending on whether your
+issue is in this readme or on my page, I may ignore you. Harsh, yes, but if you can't
+even take the time to read a couple lines below an e-mail address, I don't think I can
+take the time to respond to you. Fair's fair!
+
+In any case, I hope you have fun playing the game! Go grab your decks and start collecting!
+
+
+
+
+
+
+
+
+

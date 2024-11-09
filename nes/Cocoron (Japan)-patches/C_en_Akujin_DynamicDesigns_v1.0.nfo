@@ -1,0 +1,38 @@
+Cocoron Translation version 1.0 Info
+------------------------------------------
+
+Translation & Hacking by  
+      akujin (akujin_@hotmail.com)
+
+------------------------------------------
+
+Patching instructions for those who need
+them:
+
+1)Unzip the ROM, patch, and Snestool into
+the same directory.
+2)Run Snestool
+3)Press the "u" key on your keyboard (For
+"U"se IPS)
+4)Highlight COCORON.IPS in the left-hand 
+pane and press "enter"
+5)Highlight COCORON.NES in the left-hand
+pane and press "enter"
+
+There! It's patched! Now play it in the
+Emu of your choice.
+
+------------------------------------------
+
+A big "Thank You!" to Spinner 8 for
+helping out with beta-testing.
+
+------------------------------------------
+
+Translation Project Homepage:
+http://members.xoom.com/akujin_/index.html
+
+------------------------------------------
+Feel free to put this patch up on your
+webpage, but please leave this file in the
+.zip so people know where it came from.

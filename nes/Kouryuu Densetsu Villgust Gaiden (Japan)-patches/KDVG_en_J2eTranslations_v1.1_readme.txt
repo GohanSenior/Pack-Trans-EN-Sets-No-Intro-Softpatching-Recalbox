@@ -1,0 +1,142 @@
+Armed Dragon Fantasy Villgust
+1993 - PLEX/ANGEL
+
+Translation by J2e Translations, 1998
+version 1.1
+
+----------------------------------------
+TRANSLATION STAFF
+
+Luke Drelick	-Japenese Translator
+
+Anus P.		-Script Formatting
+		-Manual Rom Hacking
+		-Title Graphics
+		-Font Graphics
+		-Script Insertions
+		-Pointer Calculations
+
+Necrosaro	-Script Insertions
+		-Pointer Calculations
+		-Utility Programmer
+
+Bahamut		-Icon Graphics
+
+---------------------------------------
+Whats New
+
+version 1.1
+-fixed the pallet to eliminate those highlighting problems
+-translated that one word that wasn't translated before
+  (thanks ballz)
+-corrected a few other things
+
+version 1.0
+-initial release; complete translation
+
+----------------------------------------
+WARNING:
+
+This translation contains explicict
+language (including the all famous "F" word),
+and is highly not recommended for anyone
+who cannot handle the language factor.
+
+This is NOT a result of our adding in
+a few words here or there, but is infact
+part of the translation directly from
+the Japenese scripts!
+
+and please do NOT ask us to tone down
+the language because we will NOT do
+so any time soon.  Thank you.
+
+----------------------------------------
+RUNNING VILLGUST
+
+Nesticle is NOT the best emulator to use
+for this game! Use the newest version of
+FwNES for best compatibility!
+
+
+CONTROLS IN BATTLES:
+
+A=Jump
+B=Attack
+Select=Menu
+Start=Pause
+Up+B=Uses Magic
+
+the rest of the controls are fairly straight forward
+
+----------------------------------------
+VILLGUST INFO
+
+The main text in Villgust is stored
+in 4K blocks.  Also the way the rom is
+it wont allow us to use any space for
+the main text that exceeds this 4K bank.
+So this posed to be a slight problem.
+We were looking to expand out the text
+but because of this restriction we had
+to make use of the space we had.  Which
+meant shortening the scripts as much as
+possible, yet keeping in the whole story.
+
+Then we get to the menu texts and items
+and stuff.  Now this text was easy to
+utilize the space we needed for it.
+The only problem with this text is
+each string must be an exact size.  If we make
+some of the things stored here too big
+or too small they will not display correctly
+so we had to use a couple of those
+doubled up tiles (you know.. like 3 letters
+squished into 2 tiles on the font table),
+but don't worry, it still looks great!
+We also designed some Icons for the
+weapons and Items to allow us to use
+longer names for them.
+
+-------------------------------------------
+Known Bugs:
+
+There's always gotta be some!
+
+Anyways, when talking to an Innkeeper,
+the small window in the top left reads as
+"Innk".  For some reason its displaying
+the k from when it says "Talk" and we
+can't get rid of it.  Another small bug
+is some of the command selections are
+not highlighted correctly.  This is
+because those commands are longer than
+the original Japenese commands.
+And finally, after you win a battle the
+characters who earn any EXP are displayed
+at the top of the window.  And Since these
+character names are longer than they are
+in the japenese they will overlap each
+other and don't look all that great.
+You'll see what we mean by playing
+this great translation.
+
+------------------------------------------
+Other Mumbo Jumbo:
+
+If you think you could help make this translation
+better in any way, please feel free to contact
+us and offer your help! anyways.. have fun and
+enjoy this great adventure never seen in english before!
+
+-----------------------------------------------------------------------------
+Copywright notice:
+
+Thanks for downloading our translation patch, and we hope you enjoy it!
+after all, we're doing this for free!  If you wish to distribute this
+patch you may, but you MUST include this text file here with the patch
+that you distribute!
+
+J2e translations
+http://members.aol.com/j2etrans/
+j2etrans@aol.com

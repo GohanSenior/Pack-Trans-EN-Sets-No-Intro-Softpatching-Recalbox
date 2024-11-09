@@ -1,0 +1,49 @@
+_________________________________________________________________
+This translation/localization was created with love and care by Polinym
+ of the Woolsey Fan Company (W.F.C.). The original version was finished on 12 / 20 / 2019. 
+This patch ( "Stardom Warriors (USA).ips" ) is to be applied to an ordinary, 
+headered "LaSalle Ishii's Childs Quest" (often mistakenly referred to as 
+"Rasaru Ishii no Child's Quest") ROM file. 
+
+Please note that your original ROM file may have an incorrect header. 
+You do not need to worry about this, as this IPS patch automatically applies 
+the correct header for the game to work as intended. When this patch is used, 
+the graphical errors are GUARANTEED to be fixed. If for some reason this is not the case,
+ then contact Polinym as soon as possible.
+
+I, Polinym, have rigourously tested this game over and over to ensure that no errors
+ occur in gameplay. As of this release, there are no known issues what-so-ever. The only
+ exception to this is a minor easter egg of the "hidden suits". A formating issue causes a 
+few extra letters to be printed along with the item name / adjective. This, again, 
+has no impact on gameplay. It is also possible that one or two lines have the "bleeding text" 
+issue where a few letters of text print outside the window, but there are none that I can recall. 
+If you spot one, let me know as soon as possible.
+
+Also included with the USA Version patch is the "Manager's Handbook", an imitation
+ of a Nintendo Player's Guide for this game. It gives you advice and tips on how to play the game.
+ While not necessary, the guide will greatly help you to beat this.
+
+I hope you enjoy Stardom Warriors, and that you check out other localizations 
+by the Woolsey Fan Company. If you've got a game in mind that you'd like to see
+ localized like an official 80's NES release, please let me know! If you have any feedback
+ as to what you liked, didn't like, or want to know how/why the WFC made "its" 
+localization decisions, also let me know. You can reach me on ROMHacking.net 
+at http://www.romhacking.net/
+
+You can also see what I, Polinym, am up to on YouTube at
+
+https://www.youtube.com/channel/UCJqSB4xw29TTKlia5E0NYtQ
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"Spring Cleaning" Revision
+This version fixes a variety of text issues, a palette mistake involving portraits,
+revises some lines, and improves one of the last images in the game.
+
+Special thanks to user "Fray" for pointing out the errors and offering feedback to
+improve the game!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Thank you for downloading Stardom Warriors, and 
+"may the light of the RNG shine on thee forever!"
+_________________________________________________________________

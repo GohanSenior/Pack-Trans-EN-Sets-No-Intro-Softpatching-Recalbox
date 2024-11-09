@@ -1,0 +1,48 @@
+---------------------------------------------------------------------------------------
+Wizardry Scenario #1: Proving Grounds of the Mad Overlord (WonderSwan Color)
+English Translation by Hengki Kusuma Adi
+---------------------------------------------------------------------------------------
+
+Description:
+This is the complete English (re)translation of Wizardry Scenario #1: Proving Grounds of the Mad Overlord for WonderSwan Color. The game is not just simply remake just like the previous (NES, SNES, GBC, PSX, Windows), It introduced exclusive new features such as showing pictures for related items and events, new exclusive versions of weapons and items that weren't originally available, a free automap feature, the ability to download New Maze and Shopping via Wonder Gate, and finally a new unlockable Survival Mode once the game is cleared. The Survival Mode is basically defeating waves of monsters without getting wiped out and achieving the high score. However the rest of other scenarios (Knight of Diamonds and Legacy of Llylgamyn) was never released on this system.
+
+While the game itself still had an english option available just like in previous other ports, but it was buried in the Japanese option and had total of 4 different switches for changing different parts of the text's languange. This hack translates the option screens (with some string limitations) as well re-translates everything that was wrong with it, such as many typos and grammar errors particularly for English mode that was still present in the original game now fixed.
+
+Note that before playing for the first time, it is recommended to set all switches in Option Menu to English (ENG) manually because this patch itself makes Japanese mode less playable than original or otherwise displays all Japanese only for the rest
+
+What's Left?
+- Transferring/Wonder Gate related text strings about 90% re-translated (only leaving "Is it good though the stock of the net shopping is deleted?" remainined due to technical inaccessibility for testing)
+- Adding bold and lowercase fonts for quality of life improvement, however it's not currently possible yet due to technical ROM compressions, also the game only limited with capital letters only
+- Others such as modifying strings for option menu, battle related messages, etc.
+- Game data error related strings still untranslated (データがこわれています Aボタンでしょきかします)
+
+Changelog:
+1.0
+- Initial release
+
+1.1
+- Camp: Reverted "INSPECT WHOM?" back to "INSPECT WHO?", This changes (for the moment) may causing using items outside battle doesn't work or unusable
+- Fixes small typo such as "AUGUMENT -> AUGMENT" that was still present in original
+- Repointered some strings and moved question marks after space to after letters
+- Changed "Equipped Item -Sell It?" to "Equipped Item, Sell it?"
+
+Applying Instructions:
+The first thing you do is to download an IPS patcher tool (https://www.romhacking.net/utilities/240/), or go to alternative ROM patcher online (https://www.marcrobledo.com/RomPatcher.js), or download UniPatcher if you have an Android phone (https://play.google.com/store/apps/details?id=org.emunix.unipatcher). Second make sure you have unmodified Wizardry Scenario #1: Proving Grounds of the Mad Overlord ROM, please do not ask for help how to get it otherwise I would refuse to do such a thing. Last step run a patcher program, then apply it on a clean rom you already provided, it should get indicating successful message (see "EN TRANSLATION [VERSION NUMBER]" on the title screen).
+ 
+Here are the following requirements to get the translation patch to work properly:
+
+Wizardry 1 (WSC) - English (1.1).ips
+---------------------------------------------------------------------------------------
+Filename: Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).wsc
+CRC32: 15e55706
+MD5: f0ba64cd7b88eab7add0f7af02080072
+SHA-1: c1ad383d337dba8a63295cfb8c7ca8470c893c67
+
+For report any issues and suggestions, I'd recommend you to contact me over at my social medias such as Facebook, Twitter, Discord server or even YouTube channel. Always provide some screenshots/videos and save files (.srm) if possible with detailed explanations.
+Links below:
+https://linktr.ee/Gamerhenky
+
+Enjoy!
+-Hengki Kusuma Adi
+
+*ANYTHING ELSE, NOBLE SIR?*

@@ -1,0 +1,113 @@
+Vixen 357 MD Translation
+
+Contents:
+
+1. Foreword
+
+2. Game description
+
+3. Translation notes
+
+4. Hacking notes
+
+5. Weapons - proper naming
+
+6. Disclaimer
+
+7. Staff and special thanks
+
+8. Contact
+
+-----------------------------------------------------------------
+
+1. Foreword
+
+Hello everyone!
+
+So, this here is a translation of a little SMD gem called Vixen 357. We decided to tackle this game for a couple of reasons. Firstly, it's just a good game. The gameplay is solid, the presentation is quite decent, and the plot is fairly interesting. Secondly, this is a game by Masaya - 'nuff said. :) They've got a good track record as far as strategy games are concerned. Last, but not least, it was one of the best SMD exclusives without an English patch available. We wanted to change that. 
+
+
+2. Game description 
+
+(some parts taken from the Wikipedia article: https://en.wikipedia.org/wiki/Vixen_357)
+
+Vixen 357 is a Sega Mega Drive war-related video game that takes place in the late 25th century.
+
+An interstellar war takes place and Earth emerges victorious thanks to secretly developed robots. The game was released on October 23, 1992 and was developed by Masaya and published by Nihon Computer System. The release-date retail price was set at 8,880 Japanese yen. Many of the characters that are provided to the player provide character development and losing them could mean losing the game, resulting in a game over. The game uses a battery save to help players regain lost characters in case one of them dies. 
+
+Combat in Vixen changes the rules of tactical SRPGs in some ways. For instance, a unit can undertake any action, even if it had already made a move. It is possible to move the maximum allowed distance and then use a long-range weapon to attack, or to have a unit use the Vacuum Wall on itself and its allies after attacking and taking counterattack damage in order to shield them from damage, or attack with an attack skill and escape to the ship in order to get repaired/recover MP/ammo. It is also possible to recover the ammo by using the "resupply" command near the Dread/base. 
+
+Anime-style cutscenes help advance the plot as the story develops. There are some plot twists and interesting events involved. Overall, it's a pretty strong point of the game.
+
+All in all, this game is a great treat for all who want to experience a slightly different take on the usual SRPG formula. 
+
+
+3. Translation notes
+
+Some names were a bit ambiguous. Those are: the main villain, Dieter Weimar (his name in Japanese was Jitor/Jitoru, which felt like an incomplete romanization), Curry Goat (Carey Goat, sounds less like a dish), BOWMAN - whose name for some reason is all in caps, likely because he's an alien and that's a callback to the prequel - and Boyd, who could as well become Void (but the latter sounds more like a cryptonym than an actual name, so we went with the former). One thing we also changed in this regard was the name for the four strongest enemy generals. In Japanese they were called Four Heavenly Kings (which is a common trope in Japan), and this didn't really fit into the setting of this game, since it's all sci-fi. We decided to change it to a more generic Four Grand Arcs, because of the faction of the villains (although they could as well be called simply Four Great Generals, or something like that). Some weapon names had to be abbreviated because of space issues, so we've added a list with full names below. It's also worth noting that VECTOR officially stands for Versatile Combat Trooper Of Robot. It obviously sounds rather Engrishy this way, so we changed it to VErsatile Combat Tactical Operations Robot in the manual. 
+
+
+4. Hacking notes 
+
+Almost everything of interest is compressed in this game. The compression author is even mentioned in the credits. All the dialogues get uncompressed in the RAM and stay there for the whole mission, which allows one to come up with an easy hack - just savestate during every mission and get those uncompressed text bits dumped. Then you can reinsert them in the ROM, changing the calling address from the RAM space to ROM. This naturally works in its own right, but requires additional ASM hacking, because uncompressed text resides in the same address, and the ROM addresses are different (obviously), as they select text block in the ROM for each mission.
+
+In-game menus were changed from 16x16 to 8x8 using the in-game font. I thought it was better to have the same font size everywhere. I hope you will think so too.
+
+That reqired another ASM hack, but not the hard one this time - just NOP-ing (NOP - No OPeration, MC68000 ASM instruction) all the code that makes 16x16 characters from the addressed 8x8 one.
+
+The hardest hack by far were those 16x16 kanji hieroglyphs from the opening, pre-mission text, and the ending. The game gets fonts decompressed in the RAM, placing four 1bpp kanji hieroglyph layer sets on top of each other in the 4bpp resulting tiles. Each hieroglyph is addressed with two bytes - one for the layer selection (0x00, 0x20, 0x40 and 0x60) and one for each hieroglyph itself. So, when the game does the reading of those, it reads each addressed hieroglyph from the RAM, comparing bytes to the selected layer with its bit mask, saving the results to other place in the RAM. Subsequently, it reads those from RAM to the VDP, thus forming a string.
+
+So, to make the text look decent in English, each letter has to be 8x16. There were numerous choices concerning how to make this work, but we've chosen the simplest one - just writing two 8x16 letters in the one 16x16 block. For this letter reading subroutine were dissassembled, two bytes for layers and characters were changed to be used for two letters, font layers were hardcoded to be always 0x00 (there was more than enough space for ASCII table with 8x16 letters on one layer), and then reassembled back in the game. This part was coded with invaluable help from Miralita.
+
+
+5. Weapons - proper naming 
+
+B.Rifle   = Beam Rifle
+
+M.Gun     = Machine Gun
+
+S.Rocket  = Scan Rocket
+
+H.Claw    = Hard Claw
+
+L.Whip    = Linear Whip
+
+L.Saber   = Laser Saber
+
+H.Axe     = Hand Axe
+
+
+6. Disclaimer
+
+This translation is a non-commercial and unofficial project which is in no way affiliated with the game creators or distributors. We don't own anything here and have no copyrights.
+
+We release this translation in the form of an IPS patch, not the actual ROM. Please, don't ask us to send you the ROM, or where you can find it - we can't help you with that.
+
+You can redistribute this translation freely as long as you don't ask money for it and include this readme.txt file with it. We don't condone any form of commercial redistribution. Please, keep that in mind.
+
+
+7. Staff:
+
+Celcion       - hacking
+
+Miralita      - additional hacking
+
+TheMajinZenki - lead translator 
+
+cccmar        - initial testing/spot translation/script editing
+
+Special thanks go to:
+
+- beta testers: Sanedan56, NurseTorture, kain611 and Gamerhenky
+
+- guys from the Sega-16 forum
+
+- guys from the ROMhacking.net forum 
+
+
+8. Contact:
+
+celcion - celcion@gmail.com
+
+cccmar  - cccmar111@gmail.com
+

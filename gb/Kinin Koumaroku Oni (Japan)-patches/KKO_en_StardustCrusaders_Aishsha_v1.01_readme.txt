@@ -1,0 +1,110 @@
+===================Kininkou Maroku Oni====================
+=================Oni Chronicles -Genesis-=================
+===========================V 1.01=========================
+Genre: RPG
+
+Source language: Japanese
+
+Platform: Gameboy
+
+Patch language: English
+
+Author: Pennywise/aishsha
+
+E-mail: yojimbogarrett@gmail.com
+		aishsha@gmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Kininkou Maroku Oni
+======================================================
+Project History:
+
+This is the very first Oni game, a Japan-only RPG series
+that saw about 10 sequels. There were a total of 5 games
+on the GB, 2 on the SNES, 1 on the PSX, and 1 on the NDS.
+There were also a few novels and an anime series based
+on these games.
+
+What's perplexing is how a mediocre first game made all
+this happen. Make no mistake this game is quite flawed,
+but it's also a decent game. I was initially harsh on the
+game thinking it was a piece of crap, but as I played
+through the game, it began to grow on me.
+
+The translation started maybe about two years ago and
+was fairly straight-forward to hack. The ROM was expanded,
+items were expanded to 16 characters, and you can name your
+character up to 6 letters.
+
+The script was fairly basic Japanese, but with plenty of
+enemies that were Oni, Yokai and other various things
+from Japanese folklore. Only a few things in the game
+were localized, the rest has been left as-is.
+======================================================
+Game Tips
+======================================================
+*The main character's default name is Tenchi. If you
+leave his name blank, that's what it will appear as.
+
+*Some of the best equipment in the game is obtained
+from enemy drops. Be on the lookout.
+======================================================
+Known Issues
+======================================================
+I ran into a few random issues that I've had trouble
+replicating. Chances are you won't notice them or that
+they are only temporary and not that big of a deal.
+
+======================================================
+Patching Instructions
+======================================================
+I've included two patch formats for this translation.
+IPS and BPS. For BPS, you will need to download the
+program from one of the links below.
+
+http://byuu.org/programming/beat/
+http://www.romhacking.net/utilities/893/
+http://www.smwcentral.net/?p=section&a=details&id=5917
+
+Apply the patch to the Japanese ROM:
+
+Kininkou Maroku Oni(Japan).gb
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking
+
+aishsha - translation
+
+Ryusui - spot translations
+
+FlashPV - title screen design
+
+Keyblade999 - testing
+
+
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. January 2015.

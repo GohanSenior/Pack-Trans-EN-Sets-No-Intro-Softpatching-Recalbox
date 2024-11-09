@@ -1,0 +1,162 @@
+TWINBEE RAINBOW BELL ADVENTURE
+ENGLISH TRANSLATION V1.01
+Copyright 2013 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About TwinBee
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+6.Gameplay Tips
+7.Liner Notes
+
+***PLEASE SEE KNOWN ISSUES IF YOUR SAVE FILE NAMES APPEAR GLITCHY!***
+
+--------------------------------------
+1.About TwinBee Rainbow Bell Adventure
+--------------------------------------
+This is the first and only platformer based on Konami's TwinBee property,
+and story sequel to Detana!! TwinBee (Arcade and PC Engine.) You control
+TwinBee, WinBee, or GwinBee through several stages with tons of secrets
+to find, plenty of humorous dialog, and six different endings. Fans of
+the series will note that this was released in the UK, but had all of
+its text, secrets, and all but one ending removed. It straighted out the
+world map into a straight line (no more secret exits) and removed the
+battery save functionality. This translation, when applied to the Japanese
+version of the game, will allow the player to experience the game the way
+it was originally meant to be experienced.
+
+---------------
+2.Patch History
+---------------
+November 28, 2013 - V1.01 Release
+-Fixes cavespeak in Battle Mode screen.
+
+November 14, 2013 - Initial V1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE TWINBEE TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker, assembly hacking, tex edit
+TheMajinZenki - Text translation
+Kitsune Sniper - Title Screen
+
+--------------
+4.Known Issues
+--------------
+--The title graphics are *briefly* scrambled as the screen fades in. They
+  fix themselves in a few frames, but it's noticeable.
+--If you have any saves in the Japanese version of the game (SRM or savestate)
+  the names of the save files on the save selection screen will be scrambled.
+  This is because I've rearranged the game's 8x8 font, and the game stores the
+  names of the files to SRAM. The only time they're loaded from the ROM (which
+  is where my changes are) is when the game first initializes them. This is
+  expected behavior; you can manually rename your files "SaveFile A" through
+  "SaveFile D" using the in-game name editor, or you can delete your saves and
+  start from scratch.
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://agtp.romhack.net/pantheon)
+Screenshots are preferred, as are savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+1.00 MB (8mbit LoROM) WITHOUT header. (*exactly* 1,048,576 bytes)
+No header.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "twinbee.smc" make sure the patch
+is "twinbee.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT
+HAVE A HEADER!. If you right-click the ROM and select Properties, it
+should read "1.00 MB (1,048,576 bytes)". TUSH will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net/utilities/608/
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+not have a header.
+
+---------------
+6.Gameplay Tips
+---------------
+--On the world map, a red dot signifies a level you have not cleared yet.
+  A gold dot signifies a level where you've found one but not all exits.
+  A gray dot signifies a level where you've found all the exits, but not
+  all of the secrets.
+  No dot signifies that the level has been cleaned out completely.
+--If you can clear a level in under the target time, the game will reward
+  you with a full kit of powerups.
+--Your ending rank is based entirely on your completion percentage, which
+  is calculated based on fairies rescued, goals found, and doors opened.
+  The little bells in each level do not count for completion percentage,
+  but the counter can be useful if you're looking for a last hard-to-find
+  secret.
+
+-------------
+7.Liner Notes
+-------------
+This isn't something I normally include with a translation, but as TwinBee
+is an established series with expected terminology, and as we're deviating
+from that terminology somewhat, I wanted to talk briefly about how we chose
+names and the changes we made. Note that this section has some spoilers for
+boss names.
+
+-TwinBee, WinBee, and GwinBee are anthropomorphic robots. In the original
+game, they AND their pilots were referred to simply as TwinBee, WinBee, and
+GwinBee, with the robots themselves being specifically "Mecha TwinBee" etc.
+However, in established series continuity (and, indeed, in the OVA that
+Konami put out to advertise the game) the pilots each have actual names:
+Light, Pastel, and Mint for TwinBee, WinBee, and GwinBee respectively. We
+made the editorial decision to change references to TwinBee, etc to Light,
+etc when appropriate, and shortened the one reference to "Mecha GwinBee"
+to simply "GwinBee." Neither Zenki nor I are sure why the pilots aren't
+named in this, but this seemed like the most appropriate course of action
+givent he circumstance.
+
+-The enemy doctor's name, in kanji, is literally "warumon" - which is what
+most places (including Wikipedia and HG101, at least as of this writing)
+call him. However, as none of the other names in the game are particularly
+Japanese, Zenki and I thought that leaving it as a straight-up romanization
+would have been doing the game a disservice. Instead, we looked at the
+meaning behind the name - literally, it's basically The Bad Doctor. But that
+was kind of... bland, boring, whatever. Didn't really fit! I forget who
+exactly suggested it, but since he's Cinnamon's arch enemy, and given the
+series's penchant for naming people after herbs and spices, I went looking
+for bitter-flavored herbs, and came up with "Wormwood." Not only does it
+sound somewhat sinister, it serves as a reasonable antithesis to the
+friendly Cinnamon.
+
+-The boss "ByonBee" was changed to "Boingbee" as "byon" is onomatopoeia
+for the sound a spring makes.
+
+-The boss "Pakapon" was changed to "Egghead." This is more onomatopoeia;
+in this case, it describes the sound that the boss makes when cracking its
+head open.
+
+-The boss "DebunBee" was changed to "BumblBee." Again, more onomatopoeia;
+in this case, it's the buzzing noise flapping wings make, which makes
+sense in the context of this particular boss, which flaps its arms wildly
+in an attempt to fly.
+
+-The boss "DelnBee" was changed to "BiggBee" in reference to its size.
+
+-The area "Hekopon Island" was changed to Sodaspring Island, again for
+onomatopoeic purposes.
+
+-The area "Kirarin Dungeon" was changed to "Sparking Caverns" - kirarin
+being onomatopoeia for a sparkling noise.
+
+-The area "Gachapoko Zone" was changed to "Toytanic Zone." Not 100% sure
+on this one, but given the theme of the area (it's a giant toy fantasyland)
+I was thinking that its name might be a reference to gachapon toys. Again,
+not sure, but it's the best anyone could come up with!

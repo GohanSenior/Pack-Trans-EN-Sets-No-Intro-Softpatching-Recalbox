@@ -1,0 +1,79 @@
+-----------------------------------------
+-BlackPaladin's Requiem for Battle Patch-
+-----------------------------------------
+
+******************
+*Tatakai no Banka*
+******************
+
+I was bored one night while waiting for some other projects, so I came up with this quick patch.  This translate the Japanese game "Tatakai no Banka" (Requiem for Battle) in English.  For those in the English-speaking regions, this game was releaed as "Trojan".
+
+Patching Instructions:
+
+This translation patch comes in four flavors:
+
+Requiem for Battle (English).ips
+--This patch requires a clean and unaltered Tataki no Banka ROM (IPS format)
+Requiem for Battle (English).bps
+--This patch requires a clean and unaltered Tataki no Banka ROM (BPS format)
+
+Requiem for Battle B (English).ips
+--This patch requires a clean and unaltered Trojan ROM (IPS format)
+Requiem for Battle B (English).bps
+--This patch requires a clean and unaltered Trojan ROM (BPS format)
+
+I recommend using Lunar IPS for IPS patches.  Flips can be used to apply IPS or BPS patches.
+
+To apply whichever patch, use either the IPS or BPS patch (not both) on the following ROMs...
+
+For the patches...
+Requiem for Battle (English).ips
+Requiem for Battle (English).bps
+
+Use either patch on the ROM with the following hashes...
+
+File SHA-1: D4C92FCE8AA9E2A69C5176112ADE760F5BEF6F6E
+File CRC32: 8D9C612D
+ROM SHA-1: 563786BE12F4C37C774FE1CAB41F362606211277
+ROM CRC32: BE95B219
+
+For the patches...
+Requiem for Battle B (English).ips
+Requiem for Battle B (English).bps
+
+Use either patch on the ROM with the following hashes...
+
+File SHA-1: C524441B09EFA27B00F1A9DAEC8D6082A977B95A
+File CRC32: 3FC93654
+ROM SHA-1: 4ABE6B51844F9A884BD5ECE64AB0D2B5DBE0E16B
+ROM CRC32: FC3E5C86
+
+Using whichever patch will result in an English translated rom with the following hashes...
+
+File SHA-1: D07F3BD5C91D08FA9E6D8212C16CC79698A9C472
+File CRC32: 17C1410D
+ROM SHA-1: 11B0B1862699F1E70A70555CB567E3E4071D61BF
+ROM CRC32: 24C89239
+
+What changes has been done:
+
+-Brand new title screen
+-Ending text translated
+
+v1.0
+
+Initial release
+
+v1.01
+
+Fixed translated title screen
+
+Special thanks:
+
+Windhex32 Team (This hex editor was used in the patch)
+YY-CHAR Team (This graphic editor was used in the patch)
+Capcom (They released the game in the first place)
+Bunkai (Checked the translation for the ending)
+Ryu-SENPAI (Checked the translation for the ending)
+
+All credit for "Tatakai no Banka" belong to Capcom and their respective creators and programers.  This patch is mainly used for pure enjoyment for those who cannot enjoy this game.  All rights reserved.  (Please, don't come after me, Capcom!)

@@ -1,0 +1,362 @@
+Background and general info for Gegege universe.
+
+The whole GeGeGe universe is based on adventures of a ghost (or rather "yokai") boy
+in the modern Japanese surroundings. Kitaro is a half-yokai boy born at the cemetery
+and being the last survival of his kin (well, we don't take into account his dad
+who is just an eyeball now). His whole life deals with battling with evil forces 
+along with his friends to save those stupid and decrepit mortals (and the whole 
+world along with them). 
+The word "yokai" means a sorta "spirit" in Japanese but usually it's a concept of 
+practically all "lower-level" creatures from the ghosty-world including neutral, 
+good and evil types so it's not just a ghost, demon or spirit - no. 
+Retelling the whole script would be just useless - it's one of the oldest and
+most long-running manga/anime series so you can imagine that the ammount of 
+info contained in it is just huge. Brief review of the creatures met during
+the game follows these paragraph.   
+
+================================================================================
+
+Kitaro's Team:
+
+Kitaro - protagonist of the game, one-eyed survival of Yurei Zoku tribe armed 
+with remote Geta (traditional shoes), flying fingers, shooting hair and other
+strange weapon.
+
+Neko Musume - one of Kitaro's closest friends. Werecat-girl masked as a harmless
+Japanese schoolgirl.
+
+Sunakake Baba - yokai looking as an old hag from slavic folklore and throwing
+sleeping sand at its enemies.
+
+Konaki Jijii - another yokai looking as a pile of rocks. This old man likes to
+cry and turning himself into stone.
+
+Ittan Momen - yokai resembling a flying rag or carpet based on the ghostly 
+phenomenon from the folklore of Kagoshima Prefecture in Japan, which flies 
+through the air at night and attacks humans.
+
+Nezumi Otoko - rodent-like yokai-human half-breed. He's not that kinda of a 
+helpful ally who just giving your pieces of advice in the course of the
+game.
+
+Nurikabe - large, sleepy-eyed wall-shaped yokai, who uses his massive size 
+to protect Kitaro or trample enemies. Based on the folkloric creature who
+impedes or misdirects walking travelers at night.
+
+Yumeko - another "princess in need". Human girl and Kitaro's friend from
+the real world which needs to be saved this time.
+
+==============================================================================
+
+Enemies, bosses, NPCs and Items.
+
+Aka-Ei - legendary giant fish known as a creature of fables in Eastern Japan.
+It's shaped as an island and hence can't be noticed by people.
+
+Aka-Oni - red oni (devilish creature). 
+
+Bakejizo - guardian deity of children.
+
+Bishamon or Vais'ravana- is the name of the chief of the Four Heavenly Kings 
+and an important figure in Buddhist mythology.
+
+Byakko - or "White Tiger" - During the Han Dynasty, people believed the tiger 
+to be the king of all beasts. Legend had it that when a tiger reached 500 years old, 
+its tail would turn white. In this way, the white tiger became a kind of mythological
+creature. It was said that the white tiger would only appear when the emperor ruled 
+with absolute virtue, or if there was peace throughout the world. Because the color 
+white of the Chinese five elements also represents the west, the white tiger thus 
+became a mythological guardian of the west.
+
+Chanchanko - special Japanese vest.
+
+Chi - strong Chinese yokai (probably spirit of a sorcerer) strangely associated with
+Kitsune. (this also means an concept of "demons" or "dragons").
+
+Daidarabotchi (Botchi) - a giant responsible for creating many geographical features in Japan.
+Kitaro fights several of his body parts (brain, nose, etc) all over Japan.
+
+Danzaburo - tanuki servant of Gyobu. One of possible Kitaro's rivals.
+
+Datsueba - is an old woman who sits at the edge of the Sanzu River in the Buddhist underworld.
+At the river, she has two primary duties.
+According to Japanese Buddhist folklore (mostly from Japan's Pure Land sects), when a child dies
+its soul has to cross the Sanzu River. Traditionally, when a person dies, it is believed that
+they can cross the river at three different spots depending on how they lived their lives.
+Since children have not accumulated enough experiences, however, they are unable to cross.
+At the river's edge, the souls of deceased children are met by Datsueba. There, she strips 
+the children of their clothes and advise them to build a pile of pebbles on which they can 
+climb to reach paradise. But before the pile reaches any significant height, the hag and 
+underworld demons maliciously knock it down. The Buddhist Bodhisattva-Jizo saves
+these souls from having to pile stones eternally on the bank of the river by hiding them in
+his robe. When a soul is that of an adult, Datsueba forces the sinners to take off their clothes,
+and the old-man Keneo- hangs these clothes on a riverside branch that bends to reflect the
+gravity of the sins. If the sinner arrives with no clothes, Datsueba strips them of their skin.
+Various levels of punishment are performed even at this early stage. For those who steal,
+for example, Datsueba breaks their fingers, and together with her old-man consort, she ties
+the head of the sinner to the sinner's feet.
+
+Enma - God of the Underworld and master of the Dead. Kitaro meets him during his travels.
+
+Futakuchi-Onna - characterized by her two mouths - a normal one located on her face and
+second one on the back of the head beneath the hair. There, the woman's skull splits apart
+forming lips, teeth and a tongue, creating an entirely functional second mouth.
+
+Futakuchi-Rouba - older variant of Futakuchi-Onna.
+
+Gama - toad-yokai of demonic nature.
+
+Gashadokuro - giant skeletons, often fifteen times taller than an average person. If a gashadokuro 
+sees a human, it will grab it and bite its head off if it does not flee quickly. Gashadokuro are 
+created from gathering bones from people who have died of starvation. The only way a gashadokuro 
+can be detected before it appears is by hearing a ringing in one's ears.
+
+Genbu - black tortoise god said to rule over the northern heavens in Chinese mythology.
+
+Geta - are a form of traditional Japanese footwear that resembles both clogs and flip-flops. 
+
+Gyobu Tanuki - In Japanese folklore the Tanuki has great physical strength and supernatural powers.
+Like the kitsune (fox), it is a master of shapeshifting and disguise and is a mischievous creature
+taking all sorts of disguises to deceive or annoy travellers. It will perform various tricks to get
+such things as sake', food, or women to the point of turning itself into inanimate objects, such
+as the tea-kettle in the famous story of the Bunbukuchagama. Here Gyobu is the king of Tanuki
+cave tribe battling against Kitsune and helping Kitaro on his way forward.
+
+Gyuki - is a creature which appears in the folklore of Japan. There are various kinds of gyuki,
+all of them some sort of monster with a horned, bovine head.
+
+Haritsuke-Tenko - or just Tenko. Main villain of the game, leader of Kitsune tribe.
+
+Hone-onna - like her name suggests, her true form is that of a skeletal woman.
+Under the guise of a beautiful woman, she lures unwitting men into having sex with
+her while she sucks the life force of her targets dry.
+
+Ido-Sennin - an immortal wizard, one of Kitaro's arch-rivals.
+
+Isonade - is an enormous, shark-like sea monster said to live off the coast of Matsuura
+and other places in Western Japan. When it appears, fierce winds blow.
+
+Iso-Onna - is the most evil yokai living in the sea. She looks very strange: as a woman from the
+front and as a cliff from the back. Looked as a human to from her waist and to the head. 
+Lower part of her body was very vague (as a ghost). She likes to sink ships just at harbors.  
+
+Jinchu - spirit of revenge and earthly justice.
+
+Jiraiya - ninja who uses shapeshifting magic to morph into a gigantic toad. The heir of a
+powerful clan in Kyu-shu- of the same name, Jiraiya fell in love with Tsunade, a beautiful
+young princess who masters snail magic. His arch-enemy was his one-time follower, Orochimaru,
+who mastered snake magic.
+
+Jizo statue - or Ojizo-sama as he is respectfully known, is one of the most loved of all 
+Japanese divinities. His statues are a common sight, especially by roadsides and in graveyards.
+Traditionally, he is seen as the guardian of children, particularly children who died before
+their parents. Since the 1980s, the tendency developed in which he was worshipped as the guardian
+of the souls of mizuko, the souls of stillborn, miscarried or aborted fetuses. In Japanese
+mythology, it is said that the souls of children who die before their parents are unable to
+cross the mythical Sanzu River on their way to the afterlife because they have not had the
+chance to accumulate enough good deeds and because they have made the parents suffer.
+It is believed that Jizo saves these souls from having to pile stones eternally on the bank
+of the river as penance, by hiding them from demons in his robe, and letting them hear mantras.
+Here it's the statue met all over the game which either provides you with neat items or just
+goes for a fight, if not praised enough.
+
+Kamaitachi - wind yokai looking a trio of weasels with sharp claws, riding
+on a gust of wind and cutting peoples' skin on the legs.
+
+Kamikiri - hair-cutting spirit slightly resembling a crow.
+
+Kappa - are legendary creatures, a type of water sprite found in Japanese folklore. 
+Supposedly inhabit the ponds and rivers of Japan and have various features to aid them in 
+this environment, such as webbed hands and feet.
+
+Karakasa - or Kasa Obake, are a type of Tsukumogami, a form of Japanese Spirit that originate 
+from objects reaching their 100th year of existence, thus becoming animate. Karakasa in 
+particular are Spirits of Parasols (umbrellas) that reach the century milestone. 
+They are typically portrayed with one eye, a long tongue protruding from an open mouth, and 
+a single foot, generally wearing a geta.
+
+Karasu-tengu - devil crows, bird-like yokai. Buddhism long held that the tengu were 
+disruptive demons and harbingers of war. Their image gradually softened, however, 
+into one of protective, if still dangerous, spirits of the mountains and forests. 
+Tengu are associated with the ascetic practice known as Shugendo-, and they are usually 
+depicted in the distinctive garb of its followers, the yamabushi.
+
+Kasha - cat-like and gargoyle-like yokai in Japanese mythology. Appear amidst stormy weather 
+to bear the bodies of sinners to Hell. They are said to be cats that have turned into youkai 
+(e.g. through long life). Sometimes temples near places where kasha are said to live will hold 
+two funerals for the dead: in the first, the coffin is filled with rocks so that the kasha won't 
+disrupt the funeral to carry off the deceased. In Buddhism, a kasha (more often kasha-bo) 
+is a fiery chariot which carries dead sinners to hell.  
+
+Keiten - sacred book, sutra. 
+
+Kyokotsu - spirit of people who drowned inside wells. Now they hunt down those who are stupid
+enough to get close.
+
+Kubire-Oni - strangling demon in Japanese mythology. 
+
+Kuko - "nine-tail" fox, one of the foxy foes in the game.
+
+Kumonbi - spider-like yokai. 
+
+Kurokumonushi - one of the bosses in the game. Big cloud-like yokai that can't be killed by
+physical strength and sucking life energy out of mere mortals.
+
+Kyubi Kitsune - One of Tenko's avatars. The main villain of the game - many-tailed fox-yokai
+willing to conquer the whole world. 
+
+Miage-Nyudo - a spirit which grows as fast as you can look up at it.
+
+Miira-Otoko - usual mummy.
+
+Mitsume-Yakki (Desperate Gaze) - specific "Kitaro" series yokai not found 
+in folklore.
+
+Moryo - corpse-eating shadow demons that live near cemeteries. In the past, 
+they would appear during funerals to eat the livers of the deceased. 
+
+Mujina - Like the tanuki and the fox, the mujina of Japanese folklore is an avid
+shapeshifter and deceiver of humans. One of the forms the mujina is purported to take,
+as popularized in a story by Lafcadio Hearn, is that of a "faceless ghost".
+This particular sort of monster is often referred to by English speakers as a mujina,
+but the Japanese know it as noppera-bo.
+
+Nimen-Yasha - another demonic warrior. Kitaro series specific.
+
+Nisearari - one more invented monster.
+
+Nue - legendary creature found in Japanese folklore. It is described as 
+having the head of a monkey, the body of a raccoon dog, the legs of a 
+tiger, and a snake as a tail. The Chimera in other words. 
+
+Nurarihyon - a strange character who sneaks into houses on busy evenings.
+One of Kitaro's arch-rivals of all times.
+
+Nure-Onna - an amphibious creature with the head of a woman and the body of a snake. 
+While the description of her appearance varies slightly from story to story, she has 
+been described as being 300 m in length and has snake-like eyes, long claws, fangs 
+and long, beautiful hair. She is typically spotted on a shore, washing her hair.
+
+Okami-Otoko - wolf-man or just werewolf.
+
+Onamazu - is a giant catfish who causes earthquakes.
+
+Onigashira - demon-head monster.
+
+Rayun-Henge - yokai-shapeshifter. One of Tenko's forms shaped as
+a thundercloud.
+
+Rasetsu - is a demon or unrighteous spirit in Hindu and Buddhist mythology. 
+
+Rokurokubi - yokai looking like normal human beings by day, but at night they
+gain the ability to stretch their necks to great lengths. They can also change 
+their faces to those of terrifying oni to better. 
+scare mortals. 
+
+Ryoshitsu - another specific monster.
+
+Ryujin or Ryojin also known as O-watatsumi - tutelary deity of the sea in Japanese 
+mythology. This Japanese dragon symbolized the power of the ocean, had a large mouth, 
+and was able to transform into a human shape. Ryujin lived in Ryugu-jo, his palace 
+under the sea built out of red and white coral, from where he controlled the tides 
+with magical tide jewels. Sea turtles, fish and jellyfish are often depicted as Ryu-jin's 
+servants. Ryu-jin was the father of the beautiful goddess Otohime who married the 
+hunter prince Hoori. The first Emperor of Japan, Emperor Jimmu, is said to have been 
+a grandson of Otohime and Hoori's. Thus, Ryu-jin is one of the ancestors of the Japanese 
+imperial dynasty.
+
+San'yo - not sure about this one but San'yo Region is an area in the
+south of Honshu-, the main island of Japan.[1] It consist of the southern
+part of the Chu-goku region, facing the Seto Inland Sea. The name San'yo
+means "southern, sunny (yo-) side of the mountains" and contrasts with
+the San'in or "northern, shady (in) side of the mountains". Probably 
+another GeGeGe personal monster...
+
+Senki - usually means "war chronicle" or "holy energy" and another specific
+GeGeGe yokai in my opinion.
+
+Shinigami - is the personification of death that evolved in Japan, having 
+been imported to Japan from Europe during the Meiji period. It's the King
+of the Underworld in the game.
+
+Shokuin - is the spirit of China's Purple Mountain. It appears as a red, 
+man-faced dragon, a thousand tall.
+
+Soryu - blue dragon spirit.
+
+Suiko - chinese water-goblin similar to Japan's Kappa, but larger and a 
+little more malicious. They may lure humans into the water and drain their 
+lifeforce.  	
+	
+
+Suzaku - or Suzaku-tenno - one of Japanese emperors.
+
+Tenome - the ghost of a blind man, with his eyes on his hands.
+
+Tennyo and tenshi - spirits found in Japanese Buddhism that are similar to 
+Western angels or fairies. They were imported from Chinese Buddhism,
+which was influenced itself by the concepts of heavenly beings found 
+in Indian Buddhism and Chinese Taoism. Tennyo is the one who sends 
+Kitaro for another quest of his life.
+
+Tsuchigumo - also called Yatsukahagi, were a people of ancient Japan,
+believed to have lived in the Japanese Alps until at least the Asuka
+period. The name means "ground spider", likely due to perceived 
+physical traits that were later exaggerated or embellished.
+A spider-limbed monster of the same name appears in some Japanese folktales,
+which possibly were mythical retellings of battles against these peoples. 
+This is the monster or rather "boss" from GeGeGe.
+
+Tsuchinoko - legendary snake-like cryptid from Japan. The name tsuchinoko 
+is prevalent in Western Japan, including Kansai and Shikoku; the creature 
+is known as bachi hebi in Northeastern Japan.
+
+Tsurubebi - is a fireball dropping out of a tree. It may be related to the 
+tsurube-otoshi (another yokai). It actually one of Kitaro's tools.
+
+Tsutsugamushi - bug-like yokai said to bring terrible plague with it.
+
+Ubagabi - Will-o-wisp like yokai with the face of an old woman. 
+
+Ubume - spirits of women who have either died in childbirth, or died 
+without making sure that their children have been provided for. Ubume 
+address a common concern in Japan; that of a mother's duty toward her 
+children, and the stories of ubume are many. Appearing in the form common 
+to most Japanese ghosts, they are clad in robes of white, and have long, 
+unbound, and disheveled hair.
+
+Umibozu - this yokai's name, which combines the character for "sea" with 
+the character of "Buddhist monk," is possibly related to the fact that the 
+Umibo-zu is said to have a large, round head, resembling the shaven heads of 
+Buddhist monks. Alternatively they are enormous Yokai that appear 
+to shipwreck victims and fishermen. They are believed to be drowned priests, 
+and exhibit the shaven head and typically appears to be praying. It is usually 
+reported as having a grey, cloud-like torso and serpentine limbs.
+
+Yako - another word for a "fox".
+
+Yama-otoko - the giant mountain man.
+
+Yasha - is the name of a broad class of nature-spirits, usually benevolent,
+who are caretakers of the natural treasures hidden in the earth and tree roots.
+
+Yoki Stone - floating stone containing demonic energy. You need to destroy those
+in order to lift the veil off the area. 
+
+Yuki-onna - appears as a tall, beautiful woman with long hair on snowy nights. 
+Her skin is inhumanly pale or even transparent, causing her to blend into the
+snowy landscape (as she is most famously described in Lafcadio Hearn's Kwaidan:
+Stories and Studies of Strange Things). She sometimes wears a white kimono,
+but other legends describe her as nude, with only her face, hair, and pubic region
+standing out against the snow. Despite her inhuman beauty, her eyes can strike terror
+into mortals. She floats across the snow, leaving no footprints (in fact, some tales
+say she has no feet, a notable feature for many Japanese ghosts), and she can
+transform into a cloud of mist or snow if she is threatened.
+
+Yuki-otoko - snowman in Japanese folklore slightly resembling of a Yeti.
+
+Zunbera - faceless ghost, Japanese legendary creature. They are sometimes mistakenly 
+referred to as a mujina, an old Japanese word for a badger or raccoon dog. 
+Although the mujina can assume the form of the other, usually humans. 
+Such creatures were thought to sometimes transform themselves frighten humans. 
+

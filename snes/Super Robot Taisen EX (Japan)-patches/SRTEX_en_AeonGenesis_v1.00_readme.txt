@@ -1,0 +1,133 @@
+SUPER ROBOT WARS EX
+ENGLISH TRANSLATION V1.00
+Copyright 2018 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.  About SRW EX
+2.  Patch History
+3.  Patch Credits and Contributors
+4.  Known issues
+5.  Application Instructions
+6.  Translation Notes
+7.  Optional Patches
+
+--------------
+1.About SRW EX
+--------------
+After the end of the Third Super Robot War, three people find themselves in
+the mysterious subterranian world of La Gias. Masaki Ando is returning to
+his second home, Lune Zoldak has been pulled into La Gias against her will,
+and the disciples of the evil god Volkruss have brought Shu Shirakawa back
+from the dead. Super Robot Wars EX follows their three stories concurrently,
+detailing the civil unrest in La Gias that occurs both between SRW3 and SRW4,
+and between the first and second half of SRW Gaiden: The Elemental Lords.
+EX lets the player experience each story serially, making choices at their
+intersections that will optionally affect playthroughs of the other chapters.
+As an example, a decision made early in Masaki's scenario will determine
+which of two battleships will serve as his squad's carrier; if clear data
+is carried over into Lune's scenario, she will automatically get the
+battleship he did not. Some scenarios, characters, and endings are only
+accessible using this system.
+
+As an aside, if you played The Elemental Lords and were curious about the
+events discussed in the Memorial Day chapter, during the time skip between
+parts 1 and 2, this is the La Gias segment of that recap.
+
+EX's development has been full of fits and starts. The last big technical
+problem was solved over the summer and its development surged forward;
+a script check and edit happened over the next several months to make
+sure that the text translation was solid. The result looks great; I'm
+quite proud of what we accomplished.
+
+---------------
+2.Patch History
+---------------
+
+Dec 24, 2018 - Initial Version 1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE SRW EX TEAM
+Gideon Zhi       - Project leader, lead romhacker, assembly work
+TheMajinZenki    - Translation, translation check + fix, proofread
+Tyria            - Original script translation
+Miles Vaugn      - Initial script edit
+SSJCyberSonic    - Final script edit
+optiroc          - Music persistence patch + helped with a menu
+Mugi             - Title screen logo
+
+--------------
+4.Known Issues
+--------------
+There are no known issues.
+
+Please report any other bugs, spelling errors, and such on
+on The Pantheon (http://agtp.romhack.net/pantheon/)
+Screenshots are preferred, as are SRAM saves.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+1.50 MB (12mbit LoROM) WITHOUT header. (*exactly* 1,572,864 bytes)
+No header.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "srwg.smc" make sure the patch
+is "srwex.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT
+HAVE A HEADER!. If you right-click the ROM and select Properties, it
+should read "1.50MB (1,572,864 bytes)". TUSH will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net/utilities/608/
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+have a header.
+
+-------------------
+6.Translation Notes
+-------------------
+So it turns out that "Zoldak" is actually a real Polish surname; given that
+Bian is supposed to be Polish and Lune is supposed to be Polish-American,
+we've updated the name for the SRW EX release. Other SRWs will have their
+patches updated to reflect the name change as well.
+
+------------------
+7.Optional Patches
+------------------
+Included with the translation is one optional patch, and an additional
+"undo" patch which will remove the patch's effects from your ROM should you
+decide you don't like it. The patch is entirely standalone and does not
+require the translation, so if for instance you decide you want Music
+Persistence in your Japanese copy of the game, you can apply that one patch
+and be on your way.
+
+MUSIC PERSISTENCE
+Super Robot War titles are strategy games, characterized by units moving
+around a map and attacking one another in special animated sequences, during
+which music plays from the player's (or boss's/Elzam's) unit's TV show,
+movie, OVA, etc. It's usually a theme song from the show's opening sequence,
+but since Masoukishin does not contain any licensed properties, they're all
+various theme songs written for the original characters that appear in the
+game.
+
+In later SRW titles, the unit's theme music will continue to play
+after the animated sequence ends and the game returns you to the map. This
+tends to make the games feel more exciting, as the music is generally
+designed to get the viewer invested in the show. Older SRW titles, however,
+would stop the theme music as soon as the animated sequence ends, and would
+start the map music over from the beginning. As a direct result, you never
+heard much of the robot's themes OR the map music unless you deliberately
+stuck around and waited to listen.
+
+The Music Persistence patch changes the music behavior in SRWEX to be more
+like the later games in the series. Once an attack sequence begins and a
+theme song starts playing, the theme song will continue to play until either
+the turn ends or a unit from a different series takes part in a battle
+sequence.

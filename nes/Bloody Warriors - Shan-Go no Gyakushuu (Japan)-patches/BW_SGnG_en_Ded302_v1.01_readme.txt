@@ -1,0 +1,8 @@
+﻿Game Name: Bloody Warriors
+Main Programmer: Ded302
+Main Translator: Snark
+
+Here is a patch for Bloody Warriors which makes the game fully playable. Not too much text had to be cut out. All main dialog that I know of has been translated and inserted. If I missed any, just let me know. I will do a follow up patch. There is no rom expansion necessary to apply the patch to this game. I used the ingames Mte to insert lots of text. Any patching program will work for this game.
+
+This version of the patch fixes the bug on the naming screen.
+

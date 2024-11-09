@@ -1,0 +1,70 @@
+Kyuuyaku Megami Tensei
+Megami Tensei: The Old Testament
+English Fan Translation
+Courtesy of The Romhacking Aerie
+http://http://aerie.wingdreams.net/
+Version 1.1, released September 6, 2014
+=====================================
+
+
+Foreword
+========
+This is an unofficial work and is not supported by Atlus, Namco or Nintendo.
+Please do not sell, trade or rent this translation for money, goods or services.
+This translation is the result of many years of volunteer work,
+and is being provided for free as a gift to all Megaten and gaming fans.
+
+
+Version History
+===============
+v1.1 - September 6, 2014
+- Fixed bug where the game would lag and not display load/save screens correctly
+  if the partners' character names were the max length of 8 characters long.
+- Fixed a typo in dialogue.
+
+v1.0 - August 27, 2014
+- Initial release
+
+
+Instructions
+============
+The patch file included in this archive is in the IPS format.
+It is meant to be applied to an image file of Kyuuyaku Megami Tensei
+that has a CRC32 checksum value of: C8D286C9.
+If patched to a file with a different checksum,
+various unsupported bugs may occur during play.
+
+If you are using an emulator that supports "soft-patching", which allows
+a file to be modified in memory during run-time but leaves the original
+file intact, please follow the instructions that should be included with
+that emulator in order to do so.
+
+In order to apply the patch directly, you will need an IPS file patcher.
+I have personally used Lunar IPS and find that it works very well.
+Upon executing Lunar IPS:
+ - Select "Apply IPS Patch"
+ - In the dialog window, select the "kmt_v1.ips" file and click "Open"
+ - Select the Kyuuyaku Megami Tensei image file and click "Open"
+If everything was successful, it should display a window saying
+"The file was successfully patched!"
+
+If using another IPS file patcher, please follow the instructions
+included with it.
+
+
+Credits
+=======
+[Japanese to English Translation]
+Iriliane
+Fernando Garcia
+
+[Programmer and Editor]
+DDSTranslation
+
+[Special Thanks to]
+Atlus and Namco, for creating this game in the first place
+The Romhacking Aerie, for giving this project a home
+All the alpha and beta testers, for making this translation the best it could be
+And anyone else that I missed
+
+

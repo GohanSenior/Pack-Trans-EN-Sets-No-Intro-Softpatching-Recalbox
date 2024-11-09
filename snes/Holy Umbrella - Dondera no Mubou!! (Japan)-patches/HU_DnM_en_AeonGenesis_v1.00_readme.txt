@@ -1,0 +1,80 @@
+HOLY UMBRELLA
+ENGLISH TRANSLATION V1.00
+Copyright 2009 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Holy Umbrella
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+
+---------------------
+1.About Holy Umbrella
+---------------------
+Holy Umbrella is a quirky little sidescroller with a lot of
+heart. In between action stages, you explore towns in an
+overhead perspective. There are quite a lot of hidden pickups
+for your character - you can get a total of twenty hearts,
+eight empty bottles, and I'm not even sure how many attack
+and defense powerups. That said the game is perfectly beatable
+without all that! It's silly, as befits the premise of a holy
+umbrella. Hope you enjoy!
+
+Note that your character DOES get more abilities as you play,
+including the ability to run.
+
+---------------
+2.Patch History
+---------------
+This is a pretty old project, unbelievably so for something
+so SIMPLE. I dunno quite why it took so long, but it did.
+But it's done, so!
+
+November 2, 2009 - Initial V1.00 release
+
+---------------
+3.Patch Credits
+---------------
+THE HOLY UMBRELLA TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker, writer,
+             assembly hacker
+Hexafire - Translator
+
+Special Thanks
+Klarth, g8z et al - Utilities
+
+--------------
+4.Known Issues
+--------------
+--Title screen is still in Japanese.
+--There's a small issue with the Armorshark Flute item not
+  erasing properly in the menu. Purely cosmetic.
+--When entering the Gastric Sea area before you're supposed
+  to, a scene occurs. A little bit of the area name stays
+  superimposed over the character portraits.
+
+These are all purely cosmetic and are barely noticable. Enjoy!
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+2.50MB (20mbit LoROM), WITHOUT Header (*exactly* 2,621,440 bytes)
+*DEINTERLEAVED* If you need to deinterleave your ROM, use NSRT.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "umb.smc" make sure the patch
+is "umb.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 2.50 MB (2,621,440 bytes)".

@@ -1,0 +1,166 @@
+MAHJONG (NES)
+Translation by Psyklax
+v1.0 (20170705)
+
+CONTENTS
+1. Intro
+2. ROM Information
+3. Background
+4. Gameplay
+5. Final Thoughts
+
+INTRO
+This is a 100% English translation of Mahjong for the
+Famicom (NES). All Japanese text has been either translated
+or transliterated, therefore some knowledge of mahjong
+terminology is required.
+
+ROM INFORMATION
+This patch will work with either revision identified in the
+GoodNES set: the only difference between the two revisions
+is that someone at Nintendo clearly didn't like the number
+8, and its design was modified. Literally nothing else is
+different between the two, and since the numbers weren't
+touched in this patch, it doesn't matter which you use.
+
+Furthermore, I have included two patches: one
+(mahjong-arabic.ips) adds Arabic numerals to the Wan tiles
+(those which normally have just Chinese numerals) as they're
+the only tiles that might cause people problems with forming
+Chii (a sequence of tiles). However, if you are familiar
+with mahjong and want to keep the tiles as they were, I have
+included a second patch (mahjong-original.ips) which doesn't
+change them.
+
+GoodNES name: Mahjong (J) (REVA) [!].nes
+CRC32: CB99AFE8
+GoodNES name: Mahjong (J) (REVB) [!].nes
+CRC32: 41C49409
+
+BACKGROUND
+Released on 27 August 1983, Mahjong is the joint fourth game
+ever released on the Famicom, along with Gomoku Narabe Renju
+(also translated by this author). It portrays a slightly
+different version of Japanese mahjong, the key difference
+being that it uses two players, rather than the traditional
+four. Other than that it plays very much like regular
+mahjong, and fitting it all in just 24KB is quite
+impressive. Nevertheless, this lack of space meant that
+explaining the mahjong terminology in this translation was
+impossible, so prior knowledge is essential.
+
+GAMEPLAY
+Unlike most 8-bit games, Mahjong cannot be played without
+some prior knowledge. There are many excellent resources
+available should you need to know more. I recommend the FAQ
+by Adamant on GameFAQs, and Barticle's Japanese Mahjong
+Guide (links at the end of the document). Here I will limit
+explanations to the game screen, given that it may not be so
+obvious. If you want to know what Honba, Yaku and all the
+other terminology means, please refer to those other
+documents, or just do a web search.
+
+When you begin a game, you will see a black rectangle with
+information inside. On the left is the Wind of the round, or
+who is the dealer in this hand (East or South in this game).
+Next is the number of the Honba. Below them is how many
+Reaches have been called. Next is the Dora tile for that
+round. In the centre is the hand being dealt (again, only
+East and South are used). Finally, you can see the scores
+for this match (beginning at 30,000 each). There are two
+East hands and two South hands before the match ends, but
+certain criteria must be met for the second hands to end
+(refer to the links at the bottom).
+
+Next, the tiles are dealt, and in the centre the CPU level
+is written (1, 2 or 3) along with a green box saying
+"Agari". This is an action to declare a winning hand, and by
+pressing up or down you can cycle through the other actions:
+Kan, Chii, Pon and Reach. Each action can be done with the B
+button. If you perform Agari on Level 2 or 3 without having
+a Yaku, you will be penalised.
+
+The box at bottom-right can say six things: discard (to
+choose a tile to discard); Tsumo, Pon, Chii, Kan (to declare
+one of these actions with the B button before drawing a new
+tile); No Win (if neither player gets a Yaku); Ryansi (after
+5 Honba, a winning hand now needs at least 2 Han, not 1);
+Choose (if you can make multiple melds and you must choose
+which to make); or Can't (if you declare Agari in Level 1).
+
+Upon winning a hand, a score table will appear. First you
+have the Yaku along with the Han value of each, then the
+detail of whether it was Dealer or Non-dealer (D or N). The
+total Han and Fu are shown, followed by the calculated final
+points for that hand. These are deducted from the opponent's
+score. In the centre you can also see the Ura Dora, if Reach
+was called. The person with the most points after 2 rounds
+(4 hands) wins the match, and the first to win three matches
+wins the series.
+
+FINAL THOUGHTS
+This translation was an interesting challenge. Most
+translations involve a lot of preparation work extracting
+the script and translating it all in one go, but due to the
+nature of this game (a board game, relatively little text,
+only 24KB ROM size) I had to work through every little bit
+of text, byte by byte. A bit of ASM hacking was required to
+get things working right, though nothing really major (there
+wasn't a single spare byte to put any new routines or
+whatever). The biggest problem (maybe) is that very little
+is actually translated: mostly I just wrote the Japanese
+names of things in Roman letters, but it seemed appropriate
+given that these names are recognised by English-speaking
+mahjong players, and as previously mentioned there are an
+abundance of resources to learn what it all means.
+
+I must confess I never understood mahjong itself much before
+translating, but now I see that it's even more hideously
+complicated that I imagined, and I was still learning new
+things and modifying the translation after I thought it was
+finished. the 4x8 font used for most of the names of things
+is obviously not ideal, but in the circumstances there was
+little else I could do. The low resolution of the Famicom
+combined with such long names of Yaku and other things meant
+I had to resort to this. On a modern emulator on an HD
+display it won't cause much of a problem, but I'd like to
+see how it looks on a real NES through a CRT, though I don't
+have a cart that can do that (yet).
+
+The one thing that looks a little untidy is the winning hand
+table where the headers aren't perfectly lined up, but this
+is because every character is a sprite, and the NES has a
+limit of 8 sprites per line, so putting them all on the same
+line was impossible. Other than that, everything looks
+pretty good. The title was surprisingly easy to make, and
+although some of the notation isn't so obvious at first
+glance, there wasn't much more I could do on this.
+
+Overall, I'm happy with the result, and it's certainly nice
+to complement Gomoku Narabe Renju since they were the joint
+fourth games released on Famicom (that board game is much
+easier to understand, by the way). Internally the games are
+quite similar - they were clearly developed by the same team
+- so I wouldn't say I learnt a great deal, but any
+experience is helpful. So, if you like mahjong, or are
+willing to learn, give this game a try and see why it proved
+so popular in Japan. Enjoy!
+
+Tools I used for this translation:
+FCEUX (best NES emulator for debugging and hacking)
+HxD (general hex editing)
+WindHex32 EX (checking text)
+Thingy32 (typing in the yaku)
+Tile Molester (graphics)
+
+Other games I used for this translation:
+Tennis (Nintendo logo)
+
+Useful links:
+Mahjong (Famicom) FAQ by Adamant
+https://www.gamefaqs.com/nes/578219-mahjong/faqs/45452
+Barticle's Japanese Mahjong Guide
+http://www.uspml.com/japanese_mahjong_guide_v103.pdf
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

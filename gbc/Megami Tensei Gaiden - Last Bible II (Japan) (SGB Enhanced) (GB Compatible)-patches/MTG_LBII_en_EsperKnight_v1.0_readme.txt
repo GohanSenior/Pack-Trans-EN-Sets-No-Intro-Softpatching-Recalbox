@@ -1,0 +1,32 @@
+		Megami Tensei Gaiden: Last Bible 2
+
+Hacking by: EsperKnight
+ * With support from: Prez
+
+English Translation by: Tom
+
+(Please note that this patch is for the Japanese Gameboy Color re-release of Megami Tensei Gaiden: Last Bible 2.)
+
+A Message from Esperknight:
+
+This game has been in the works for a long, long time and finally it's finished.  I had an enormous amount of fun hacking this one as this is the first time I finally dived into the deep end and started learning and using my 1337 (hah!) ASM hacking skillz.  If it wasn't for Tom, I would never had learned so much.  I owe it all to him.
+
+For this project we definitely went above and beyond to bring the best I think.  It's setup for automatic banking switching for loading text (allowing us 0x8000 bytes of space).  The monster names were lengthened (by one whole extra letter, w00t! :) and I even got to work with the OAM to have it blank/display that whole extra letter (so much for one whole letter... it better be happy...)
+
+This one also warranted me writing my own custom tools as it's pointers were duplicated and there were non normal end of lines (a taste of what's to come I found out... I swear anything Digital Devil Saga related is insane in how they do things, I'm looking at you Giten Megami Tensei! and Shin Megami Tensei If...!  And all the rest!)
+
+And all through this Tom was there.  Without him I don't know how I would have made it these long years (gah, way to long...)  I look forward to working with him on projects to come.
+
+A Message from Tom:
+
+Years ago, I played Revelations: The Demon Slayer in English for the Gameboy Color. I fought long and hard to beat the game, and I loved every second of it... But after I had beaten the last boss, I stopped to reflect on the experience. What had actually happened? What was the story about? I couldn't say. I really had no idea. It didn't make any sense.
+
+Still, I enjoyed the game and began to wait for a translation of the sequel. Eventually, it became clear that the Japanese version of the game was the only shot I had at playing it. It was obvious that an English release wasn't coming, so I got together with some friends of mine online (Prez and Esperknight) to make an English patch. I eventually lost interest in the project, not being mature or experienced enough to see it through to the end. I became sidetracked and the translation was never finished.
+
+Years later, after completing the Persona 2: Innocent Sin translation, I got together with my good old friend Esperknight to finally finish the project we'd started so long ago. Prez had since left the scene, but he made major contributions and definitely deserves a big thank you.
+
+One of the trickiest things about dealing with a Gameboy Color translation is the width of the screen. You can only fit a few letters on each line of text, and for every pause or line break, you need to add a seperate line of code, or it would break the window. This was very time consuming, to say the least. I struggled, but I managed to create a complete, working script in the end.
+
+Also, I tried my best to make sure that the script met today's higher standards while still fitting within the Gameboy's limitations. I think that you'll also be pleased that the storyline actually makes sense this time around. My hope is that when people play it, they'll think it's one of the best Gameboy Color translations available. (Not that there's much in the way of competition with this particular system.)
+
+I hope that people will enjoy MegaTen Gaiden: Last Bible 2 as much as I did. I also want to thank EsperKnight for hanging in there and being an all-around good guy. I hope to do more projects with him in the future.

@@ -1,0 +1,94 @@
+at tees tyme o ritin, the patch haveth beeneth updateh on
+
+July 17th, 2006
+
+Translation for Fire Emblem 6: Fuuin No Tsurugi
+Done by Dark Twilkitri Net Translation Division
+
+People hoped for years that Nintendo would deign to release Fire Emblem 6 Fuuin No Tsurugi (FE6) on shores outside of Japan.
+
+They didn't.
+
+Now that a conveniently long amount of time has passed,
+it's up to us to take matters into our own hands.
+And thus the Fire Emblem 6 translation project was started. 
+
+Current Progress for IPS Verison 2.1 -
+    * Opening Movie: 100%(Or 0%, depending on how you look at it.)
+    * Prologue: 100%
+    * Rolling Class Demo: 90%(Graphics have to be changed)
+    * Tutorial: 95%(Requires revision...)
+    * Chapter Script: 100%
+    * Support Conversations: 95%(Requires revision...)
+    * Menus: 100%
+    * Character Names: 100%
+    * Enemy Names: 100%
+    * Class Names: 100%
+    * Items: 100%
+    * All Descriptions: 100%
+    * Status Screen: 100%
+    * Link Arena(All): 100%
+    * Command Instructions: 100%
+    * Song Names: 100%
+    * Death Scripts: 100%
+    * Shop Dialogue: 100%
+    * Arena Dialogue: 100%
+    * Preperation Locations: 100%
+    * Trial Map Descriptions/Names: 100%
+    * Character Endings: 100%
+    * Triangle Attacks: 100%
+    * Status Effects: 100%
+
+
+
+Installing the Fire Emblem 6 IPS patch.
+---
+
+Windows Users - 
+Go on a search engine and locate IPSWin.
+
+HOW TO USE IPSWIN
+Simply select a file to patch and a valid IPS file to patch it. Click on Patch! Button and enjoy the progress dialog box!
+The program will notify you when the patching completes.
+The option "Backup Copy" will create a backup of your file.
+Keep in mind that even if IPSWin is generally able to recover your original files if the patching goes wrong,
+it's highly raccomended to make a backup copy just to be sure...
+"Log File" can help to find some malfunction either
+in the IPS file or in the program. 
+
+
+Autopatching(Visual Boy Advance)
+
+example;
+if your Fire Emblem 6 ROM is named FE6.GBA
+and you downloaded the patch
+Place both in the same directory
+and rename them so that their names are identical
+
+FE6.GBA
+FE6.IPS
+
+And simply run FE6.GBA in Visual Boy Advance and it will automatically patch!
+If it does not, try checking under the Options/Tools menus to see if Autopatching for IPS is enabled.
+
+
+
+Credits:
+
+* Script Editor: PrinceLeaf, Eaichu, Jet Enduro
+* Graphics Editor: Princeleaf, Twilkitri
+* Technical: Twilkitri
+* Main Translator: FireLizard
+* Other Translators: kyuusei, Darkslime
+* Tester: Eaichu, PrinceLeaf
+* Patch dumper: Eaichu, Twilkitri, PrinceLeaf
+
+Visit these links for more information.
+http://darktwilkitri.thegreatbeyond.net/dtntd.php
+http://www.livejournal.com/users/dtn_fe6trans
+http://eaichu250.superbusnet.com/fe6trans.html
+http://romhacking.deadbeat-inc.com/
+
+
+Fire Emblem Fuuin no Tsurugi is under copyright by Nintendo and Intelligent Systems.
+This translation is not to be sold under any means. If anyone does see it being sold or given away infriged... Please contact us from one of the above links given.

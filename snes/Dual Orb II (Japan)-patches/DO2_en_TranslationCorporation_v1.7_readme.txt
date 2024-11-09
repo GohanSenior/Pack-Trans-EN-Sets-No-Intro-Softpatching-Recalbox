@@ -1,0 +1,308 @@
+  _______________                          ________                   
+ / _____   _____ \                        / ______ \               
+/ /     | |     \ \    Nightcrawler's    / /      \ \
+\/      | |      \/                     / /        \ \
+        | |                            / /      ____\/ /\___  /\_____
+        | |  /\___   ___/\ /\___    /\ | |     //--\\  |/--\\ |/----\\
+        | |  |/--\\ //--|| ||--\\  / / | |     ||  ||  ||   ` ||    || 
+        | |  ||   ` ||  || ||  || / /  | |     ||__||  ||     ||____|| 
+        | |  ||     ||__|| ||  || \ \  | |     \____/  ||     ||_____/
+        | |  ||     \___|| ||  ||  \ \  \ \          /\\/     || 
+        | |  \/         \/ \/  \/  / /   \ \        / /       ||
+        | |                        \/     \ \______/ /        ||  
+        \ /  (c)2016 All rights reserved.  \________/         \/
+         `                                  
+***********************************************************************
+                             Dual Orb 2(c)
+                        English Translation Patch
+                             presented by:
+
+                             Nightcrawler's
+                         Translation Corporation
+                      http://transcorp.romhacking.net
+
+
+                       Version 1.7 February 26th 2016
+***********************************************************************
+
+
+
+Table of Contents
+
+1.0 Information
+	1.1 Patch Information
+	1.2 Distribution and Licensing Information
+	1.3 Copyright Information
+	1.4 Disclaimer
+2.0 Introduction and words about the project
+3.0 About the Game
+4.0 Credits of who worked on this Patch
+5.0 What you will find in the Patch
+6.0 Known Issues in the Patch.
+	6.1 Original Game Bugs
+	6.2 Known Patch Issues
+	6.3 Non Issues to Note
+7.0 Special Thanks
+
+
+
+1.0	Information
+
+
+1.1		****Patch Information****
+
+	This patch when hard patched correctly will result in a VALID checksum.
+
+	This patch was created for use on an original ROM that has:
+
+	  * NO header
+	  * CRC32: 0xE8798F65
+	  * NSRT (http://www.romhacking.net/utils/400/) identified as:
+	    Dual Orb II, Version 1.0, 0x7868 Checksum
+
+	The 'TransPatch.exe' custom patching application can be used to ensure 
+	you have the correct ROM and patch, and apply the patch to headered or 
+	non-headered ROMs automatically. This is the recommended way to apply 
+	the patch for novice patchers.
+
+	The patcher should work on Win95/98/ME/2000/XP/Vista/7/8, as well as 
+	Linux under Wine. It should be self explanatory to use. You will be 
+	asked for your ROM file and your IPS patch file. The program will alert 
+	you if any errors are found or upon a successful patching job. 
+
+	An xDelta format patch is also provided for reliable patching in all other
+	cases. xDelta patchers are available on all platforms. Popular choices are:
+		
+	  * MultiPatch (MacOS X)  - http://www.romhacking.net/utilities/746/
+	  * Delta Patcher (Win/Linux) - http://www.romhacking.net/utilities/704/
+	  * xdelta UI (Win .NET/Linux Mono) - http://www.romhacking.net/utilities/598/
+
+	Patch History:
+	
+	  * 1.0  - December 20th 2002
+	         - Initial Release
+	  * 1.01 - May 7th 2004
+	         - Fixed Hilandia Church crash and other more minor issues. 
+	  * 1.5  - June 4th 2008 
+	         - Big bug fix/polishing release. Over 25 issues addressed or fixed
+	           including crash fixes, graphical glitches, script errors,
+	           mistranslations,and other improvements.
+	  * 1.6  - October 30th 2014
+	         - Scan Text Translated.
+	         - Fixed 8x16 menu 'blipping' issue.
+	         - Fixed reported minor inconsistencies.
+	  * 1.7  - February 26th 2016
+	         - Fixed Karina's 'Stab' command 1st turn appearance issue.
+	         - Fixed level 20 'Tech' command appeareance issue.
+	         - Changed naming screen to a more sane layout. (Thanks mziab!)			 
+
+1.2		****Distribution and Licensing Information****
+
+	This patch is licensed under the Creative Commons Deed as:
+		
+	Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+	This means you are free to share, copy, or distribute the work under the
+	following conditions: 
+	 
+	  * Attribution:
+		You must give appropriate credit and provide a link to the work's
+		website.
+
+	  * NonCommercial:
+		You may not use the material for commercial purposes.
+
+	  * NoDerivatives:
+		You may not alter, remix, transform, or build upon the work and
+		distribute the modified work.
+	
+	A full copy of the license (CC BY-NC-ND 4.0) can be found at:
+
+	http://creativecommons.org/licenses/by-nc-nd/4.0/
+		
+	The only files found in the official distribution archive are 
+	'readme.txt', 'do2v16.ips', 'do2v16.xdelta', and 'TransPatch.exe'. If 
+	anything else has been found in this archive, this is not an official 
+	distribution. Only official distributions may be distributed freely for 
+	public use per the license.
+
+1.3		****Copyright Information****
+
+	Dual Orb 2 is a 1994 trademarked, copyrighted property of I'MAX company. 
+	Nightcrawler's Translation Corporation is not affiliated with any of the 
+	above companies in any way. 
+
+	Nightcrawler's Translation Corporation title, melodies, and all logos 
+	are not to be used under any circumstances without the expressed written 
+	consent of the original creator/s. 
+
+1.4		****Disclaimer****
+
+	No warranties are given. The license may not give you all of the 
+	permissions necessary for your intended use. Nightcrawler's Translation 
+	Corporation, Nightcrawler, nor any affiliates of the aforementioned shall 
+	be held liable or responsible for any losses, damages, injury, and/or 
+	legal consequences due to the misuse, or illegal use, of any of the files 
+	contained within this archive. 
+
+
+2.0		Introduction and words about the project
+
+
+	Finally! At long last, I give to you Dual Orb 2 in full English glory! 
+	It's been a long year and a half. I know there are other projects out 
+	there that have taken longer, but I have worked almost entirely, and 
+	exclusively on Dual Orb 2 for the full year and a half. I never really 
+	took any extended breaks either! Alot of work has gone into this 
+	project. I have been a one man team aside from Akujin. 
+		
+	When Akujin came on board, he translated the entire script, 
+	retranslating what was already done and continuing right to the end. I 
+	think he did a wonderful job, and with a final edit done by himself and 
+	David Mullen, the story came out very well written and very enjoyable! 
+	It was a pleasure working with Akujin, and I think you'll be very happy 
+	with his work. 
+		 
+	I think this project was one of fairly high magnitude. With 343 text 
+	blocks, multiple methods of evil compression, and all around general 
+	evilness, it was definitely a challenging feat to hack/translate. Others 
+	tried and failed, but this time we were successful! I say 'we' because 
+	it was a team effort. The romhacking community for the most part is a 
+	team. I couldn't have done it without the help and support from my 
+	fellow hackers! =) Because of that, I give this translation to the scene 
+	as my contribution, for all the hard work they have done for many of the 
+	translated wonders we can now play because of them. And for the respect, 
+	friendliness and help that many of those individuals have shown me. I 
+	also give this translation to the public, for their support in hopes 
+	that they will give this little gem of a game a chance, and so they may 
+	enjoy a game that would otherwise not been accessible for them to play. 
+
+	I believe this quality of this project has turned out to be amongst the 
+	best of fan translations. It may not be a Square game, or Tales of 
+	Phantasia, or Star Ocean, but it is a good game in it's own regards and 
+	has received what I believe to be a quality translation approaching that 
+	of the aforementioned games. So, without further delay, I present to you 
+	Dual Orb 2 in English brought to you by Nightcrawler's Translation 
+	Corporation! Enjoy! 
+    
+
+3.0		About the Game
+
+
+	I think this is a very good RPG. It is rather linear, but it has great 
+	music, pretty nice looking graphics, and a very nice story. The 
+	characters are light-hearted and it simply a fun game to play! It has a 
+	very rare weapon system for RPG's. The weapons are upgradeable and have 
+	19 levels. You can upgrade them in the blacksmith, or find them in 
+	treasure chests. Sometimes you can even get a cursed weapon at level -1! 
+
+	The game is HARD! When I say hard, I mean HARD! You will be begging for 
+	mercy from the bosses later in the game. The first half isn't that bad, 
+	it's the second half that'll get ya. If your sick and tired of today's 
+	cheesy easy RPG's, this game is for you! You'll definitely get a 
+	challenging experience. I'm definitely excited to be able to share my 
+	work with the rest of you and give you a chance to play something you 
+	otherwise wouldn't be able to! The patch is 100% and fully translated, 
+	but does have a few glitches mentioned in this readme! 
+
+	So enjoy the patch!! If you have any questions, comments, concerns or 
+	anything to say at all, feel free to post on my message board. If you 
+	get stuck in the game, the message board is the best place to go for 
+	help! You can find it all at: 
+			
+			http://transcorp.romhacking.net
+		
+	Oh yeah, hey feel free to send me some supportive e-mails! It's tough to 
+	work on projects when you feel unappreciated sometimes. Appreciation 
+	gives us Rom hackers inspiration to continue! 
+
+
+4.0		Credits
+
+
+	These are pretty short being I've been basically a one man team! haha
+
+	Project Coordinator:    Nightcrawler
+	ROM hacker:             Nightcrawler
+	Translator:             Akujin
+	Script Editing:         Akujin/David Mullen 
+
+
+5.0		What you will find in this patch:
+
+
+	It's complete now, so you SHOULD find everything 100% translated!
+	There are a few known issues though, mentioned below. 
+
+	You will also find myself, Nightcrawler, hidden in the game somewhere. 
+	I didn't change the sprites, so I am identifiable by text only. :) I 
+	will speak some humorous dialogue having to do with my 'wife' in the 
+	game, also in that location. I am married in real life for anyone 
+	wondering :) I have a wife whom has been very understanding over the 
+	past year and a half competing with Dual Orb 2 for my time! haha =) 
+
+	Sorry, there really aren't any other Easter eggs that I have put in the 
+	patch. I think the game speaks for itself and doesn't need any 
+	'additions'. 
+
+
+6.0		Known Issues:
+
+	
+6.1		Original Game Bugs:
+
+
+	1. Kardosa Castle, Empty Windows after Sindra fight - After defeating 
+	Sindra, you may try to 'talk' to the lift control panel or ledge by the 
+	lava. The original game crashes here. The patch does not, but text 
+	windows are blank instead. 
+
+
+6.2		Known Patch Issues:
+
+
+	None!
+
+
+6.3 	Non-Issues to Note:
+
+
+	1. Treasure Chest Weapons - Say you open a treasure chest and it says 
+	you got a Spear. It doesn't specify what level Spear it is. It's NOT 
+	supposed to. When you go to equip it, it will say Atk: ?. It's a mystery 
+	UNTIL you equip it and its identity is revealed! (Watch out for cursed 
+	weapons) 
+
+
+7.0		Special Thanks
+
+
+	Special Thanks go out to these people for contribution and help in this 
+	project. Without you guys, this patch may not have been possible! 
+
+	(in no particular order)
+
+	Special Thanks to:
+
+	Princess
+	Bongo'
+	Byuu
+	Jay
+	Neil_
+	Koitsu
+	ChrisRPG
+	Gideon Zhi
+	Wraith
+	Draken
+	Antiraid
+	DarkForce
+	Deathlike2
+	mziab
+
+	All the guys who support me and my project on my message board!
+	The guys at the Whirlpool!
+	The guys on MO's Translation/Japanese board (on donut.parodius.com/mo/)
+	And of course Mom and Dad! = ) For without them I wouldn't be here! :P
+
+	I'm terribly sorry if I forgot anyone. I didn't mean to! I hope you can 
+	forgive me! I'll be sure to put you in the next patch release! : )

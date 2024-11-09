@@ -1,0 +1,50 @@
+Yakuman English Translation v1.2
+
+Released in 1989, Yakuman is the only Japanese Game Boy launch title not to be released outside of Japan.
+Yakuman is a basic Riichi (Japanese style) Mahjong game in the arcade style 1v1 arrangement.
+
+== Patching ===================================================================
+
+ROM Information:
+  - CRC32:  3134EA60
+  - md5sum: 2ACFC8D0213B186552124FB8B3085FA1
+  - SHA-1:  3FDB9EA690C0F035DD0DCC98B1DCC83AC5154E17
+
+Apply the patch using an IPS patcher such as Lunar IPS.
+
+== Settings ===================================================================
+
+Some... creativity was required to fit the english text on screen. Here is a description for each setting.
+
+  1. Kuitan         - This setting controls Kuitan and Atozuke. https://riichi.wiki/Ari-ari
+  2. Furiten Riichi - This rule controls permanent furiten in Riichi. https://riichi.wiki/Furiten#Permanent_furiten_during_riichi
+  3. Swap on Draw   - This rule controls noten oya nagare, or swapping seats/dealers after an exhaustive draw. If this option is set to 'O', then the dealer will change if both players are in noten, or if the dealer is in tenpai.
+  4. Full Game      - This controls the game length. If this is set to 'O', a full game of both East and South rounds will be played, otherwise a half-game of only the East round will be played.
+  5. Tsumo Pinfu    - If enabled, pinfu can only be completed on a self-drawn tile.
+  6. BGM            - Controls background music during gameplay. 'O' for on, 'X' for off.
+
+== Opponents ==================================================================
+
+Each of the computer controlled oppenents in Yakuman have a unique attribute.
+
+  1. Humble Taro    - Taro is just your average mahjong player. He isn't great, but he isn't bad either.
+  2. Hidden Hanzo   - Hanzo will never call Pon, Chi, or Kan. He always keeps his hand concealed (hidden).
+  3. Riichi Himeko  - Himeko will go for Riichi no matter the odds. She prefers high risk/high reward plays.
+  4. Weeping Joe    - Joe is quick to open his hand. He will call Pon, Chi, or Kan at the first chance.
+  5. Yakuman Wizard - The Yakuman Wizard always starts with excellent hands that set him up for a Yakuman. The only way to beat him is to win early.
+
+== Credits ====================================================================
+
+While trawling through the code, I noticed the developers names following the word Programming. I suspect this was intended to be a basic credits screen, but as far as I can tell, the code can never be reached.
+I will list the names of the developers here in the order that they appear in the code:
+
+  - Naohiro Shiotani
+  - Yoichiro Sobajima
+
+== Version History ============================================================
+
+V1.0 - Initial release
+
+V1.1 - Cleaned up Dora and Ura Dora indicator text
+
+V1.2 - Fixed incorrect global checksum

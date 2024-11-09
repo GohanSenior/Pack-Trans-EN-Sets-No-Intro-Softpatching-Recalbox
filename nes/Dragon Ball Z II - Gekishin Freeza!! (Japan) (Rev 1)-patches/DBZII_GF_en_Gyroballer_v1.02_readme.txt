@@ -1,0 +1,363 @@
+Dragonball Z: Evil Freeza
+English Patch
+Version 1.02
+Current Release: Feb. 19, 2019
+Intial Release: Feb. 1, 2019
+by Gyroballer
+copyright 2019
+-------------------------------------------------
+
+1. Introduction
+2. Patch History
+3. Known Bugs
+4. Acknowledgements
+
+-------------------------------------------------
+
+1. Introduction
+
+-------------------------------------------------
+
+DBZ II for the Famicom is a card-based RPG and
+the sequel to DBZ: Assault of the Saiyans.
+The game improves upon its predecessor by
+starting you off with 5 Z-Fighters and it's a
+lot less of a grindfest. Besides the powerup Guru
+gives to the warriors on Namek, you can train on
+Goku's gravity ship during the final showdown with
+Freeza. Additionally, you can input the 7
+passwords from the first game to start with
+stronger fighters and some free items.
+
+This is my first ever rom translation project. 
+As of v1.02, my patch is nearly completely
+distinct from Saiya Translations'.
+In v1.01, I cleaned the script up and replaced
+inaccurate translations. 
+In v1.02, I looked at every single line and pointer 
+doing my best to accomodate my script with the space 
+available. I also did some really fun graphical 
+changes, like with the title screen and some 
+card icons, to name a few. These were largely done 
+for the  sake of consistency with source material,
+like changing Freeza's scouter to red.
+
+I have a complete script prepared for any
+interested hackers that can take advantage
+of handakuten line space with ASM.
+
+There are very few truncated portions of the script 
+due to lack of ASM hacking knowledge, etc., but it's 
+much better than v1.00 or v1.01.
+
+I'm considering putting in the extra work for the
+QoL ASM hacks that will give my script its ideal
+form, but I don't think this is a bad way to play
+the game.
+
+Barring ASM hacks, etc., I consider this a polished
+and complete translation. If you find any graphical
+glitches, text that is truncated or doesn't make
+sense, or anything like that, send a screenshot and
+savestate to maruku115@gmail.com.
+
+"Use your favorite IPS patching program and apply this
+to a CLEAN copy of the Japanese rom."
+- Quoting RedComet here
+
+-------------------------------------------------
+
+2. Patch History
+
+-------------------------------------------------
+
+-Version 1.02
+ - Oh boy, I'm really proud of this release.
+   As far as I know, maybe barring an inspired
+   line or two, there are no traces of Saiya
+   Translations' work in this patch.
+
+ - There's a new font based on M-Tee's
+   Elnark Short. Thanks, Romhacking.net and
+   www.MTEEGFX.com
+
+   All I added was shadows and a bunch of
+   extra ligatures based on this font's style.
+
+   I feel this font better uses the width of
+   the 8 pixels so letters in words feel 
+   less disjointed.
+   
+ - There's a new title screen that restores
+   the "DO-RA-GO-N-BO-(-)-RU" on the DBs,
+   changes Freeza's scouter color to the
+   proper red, and a new title created by
+   me based on Space Age font. It now looks
+   cool, in my opninion, and has a closer
+   meaning to the Japanese source with
+   "TYRANT FREEZA".
+
+ - Speaking of Freeza's scouter color, it's
+   been changed everywhere else in the game,
+   too, as far as I'm aware. I also opted to
+   color-correct Bulma, ChiChi, Roshi, Senzu,
+   Scouter, and a few others in their item icons. 
+
+   Gohan's gi in the stat page was pink, so I 
+   corrected it to its dark navy color.
+
+   In a few of the cutscenes, I corrected some
+   things, like Gohan's wristbands in the first
+   plot being red instead of green.
+
+ - Interestingly, there were some strange
+   glitches with Piccolo's hands when damaged
+   and Goku's elbow and knee when charging
+   Kaioken-based moves. There may have been
+   others, but this was another reason to
+   become independent of Saiya Translations'
+   former translation. The original doesn't
+   have this issue and my v1.02 doesn't have
+   it because it's based off the original
+   now.
+
+ - Changed bottom Dragon Balls from stars to
+   roman numerals to be consistent with
+   RedComet's works and because text references
+   stars or numerals, not ATK or DEF.
+   
+ - The prior version was completely combed
+   through with my original script to check
+   for extra errors or places where things
+   could make more sense. This took quite
+   a lot of hours, but I'm mostly happy
+   with the results.
+
+ - I made some difficult choices with the tiles
+   that allowed me to make something like 30
+   ligatures (two characters per tile). These
+   include il, li, ll, of course, but also many
+   others that would normally go into a DTE
+   routine. The reason I did it visually is because
+   there's not much screen space, regardless of
+   rom space I could free up.
+
+ - Fixed a minor glitch with Piccolo sparring
+   where his name would look like:
+   Picc1lo Picc2lo
+   They now both say Piccolo because expanding
+   the original 4-tile name to 6 or 7 is beyond
+   the current scope of this project.
+
+ - Corrected "slow text" Senzu Bean. The [EB] tag
+   usually used to signify that a choice selection 
+   is coming up also happens to speed up the text 
+   and is used in every item, but was removed probably 
+   for rom space in the Saiya Translations hack.
+
+-------------------------------------------------
+
+-Version 1.01
+ - Nearly completely rewrote the script.
+   The prior version mostly translated the
+   missing Japanese/Cavespeak sections, but
+   this version has double-checked the original
+   translation by Saiya Translations.
+
+   In the prior version, I'd left their work
+   largely alone, though I did change a few
+   areas. In this version, however, I went
+   line by line with their work compared to
+   the original Japanese and changed quite a
+   few paragraphs as a result.
+
+   For example, the dialogue when landing on
+   Namek was basically just fan guesses.
+   Bulma isn't calling Krillin an idiot about
+   bringing the radar, but rather she's upset
+   that they stepped out into a planet with
+   unknown atmosphere.
+
+   Krillin and Gohan note that it reminds them
+   of Earth instead of getting excited about
+   the DBs. Bulma and Gohan have a conversation
+   about strong ki in the area.
+
+   Gupley on Kanassa wasn't sick, but looked
+   like a bad guy.
+
+   Speaking of Kanassa, I tried to remove
+   the "reading between the lines" that the
+   lack of space caused. It says this planet
+   is in trouble, but the Japanese text
+   references that the planet was sending out
+   a distress signal. I had to call this SOS 
+   for space, but that's better than not 
+   mentioning it.
+
+   These are just a few examples and that's by
+   no means an exhaustive list of the changes.
+
+
+ - Using the debug code and some playtesting, 
+   I couldn't find any untranslated sections.
+
+   I also tested Continue Z and it works as expected.
+
+
+ - Title Screen Main Menu is now in English.
+
+
+ - Battle text about countering fixed.
+   It was saying, "Gupley1 countered Gupley"
+   because a variable declaring the defending
+   character's number was missing. It will now 
+   correctly state something like:
+   "Gupley2 countered Gupley1".
+   You can see this quickly in the first few 
+   battles, the Battle Royale mode,
+   or when Piccolo is sparring.
+
+
+ - Graphical glitches mostly fixed (Dodoria
+   selecting a card will still cause a
+   trailing "!" but most of the others
+   should be gone).
+
+   This includes healing on Freeza's ship, 
+   which was somewhat hacky-looking but now
+   looks like a proper selection menu.
+
+   Even with moving pointers around, there was only
+   room for 6 lines of 23-24 characters each, visually.
+   Space-wise, you could insert F9 as a dictionary entry
+   for Namek, etc., but it will still take 5 spaces and
+   cause a glitch if it's the 24-25th character on a
+   line.
+
+   My script was still limited by these space constraints, 
+   but it's better than it was.
+
+
+ - Consistency checks (all dialogue should be
+   using the Japanese parentheses now instead of 
+   some using colons and no parentheses).
+
+-------------------------------------------------
+
+-Version 1.00
+ 90-100% of the text has been translated.
+ Compared to the release this is based on,
+ I'd say they were around 40% complete.
+ I also made sure that most names were
+ localized to fit the American dub and that
+ they were accurate. (The final boss had
+ "Doctor" as his name instead of "Freeza").
+
+ Again, there are a lot of space contraints
+ that cause this patch to just be a playable
+ one. Having said that, I'd be happy to work
+ with RedComet or anyone else as a translator
+ who's also interested in the code!
+
+-------------------------------------------------
+
+3. Known Bugs
+
+-------------------------------------------------
+
+If a character is written in the last blank
+space, or if a line is written past the
+expected amount, there will be graphical
+glitches that persist until the next screen
+or set of text. (As of v1.02, most of these
+are eliminated.)
+
+This isn't the game's fault as much as it's
+an issue based on the space constraint 
+(As of v1.01, I've utilized pointers better and 
+space is only an issue in the longest paragraphs). 
+
+If I could use RedComet's ASM hack to
+write on the dakuten/handakuten lines, I
+could keep my original script intact.
+
+Additionally, the Senzu Bean item's text
+scrolls much slower than any other item's.
+I'm not sure why this happens, but you can
+press the (A) button to speed it up.
+(As of v1.02 this is corrected).
+
+There is some text that seems unreachable,
+but I've still translated it.
+
+For instance, there's a debug menu and I've 
+translated it, but it's likely turned off
+and inaccessible, though you can use most of
+the features with a Game Genie code and a
+second controller.
+
+Also, there's an early section
+similar to the anime filler where the mirror
+ship can pull you in with a tractor beam.
+I've tried saying No and reloading a lot of
+times but couldn't reach this text/event.
+
+If you can reach the debug menu or the ship
+event, please contact me. Additionally, if
+you somehow find some untranslated text or
+gibberish, let me know, especially with a 
+screenshot, so that I can track it down and
+translate it.
+
+These sections are likely dummied out and
+inaccessible without lots of hex/asm hacking.
+Therefore, I've dummied out their pointers
+and used the extra text space. If you find
+these in v1.01 or below, 
+Saiya Translations' 0.70, 
+or in the Japanese original, let me know.
+However, there's no mention of them in any
+of the Japanese resources I looked through.
+
+-------------------------------------------------
+
+4. Acknowledgements
+
+-------------------------------------------------
+
+I definitely have people to thank:
+
+-Myself(Gyroballer): Most of the translation,
+ localization, hex-editing, tile-editing, etc. 
+ was done by me.
+
+-Saiya Translations: The original translation team whose
+ work allowed/inspired me to finish this translation.
+
+ As of v1.02, there should be no relation to the
+ Saiya Translations release. If you find any, let me
+ know, and I'll take them out, if necessary.
+
+ I will still credit them even now and even in the event 
+ of a v2.00 or something like that utilizing ASM hacks, etc.
+
+-Romhacking.net: Inspiration, documents, tools, 
+ publishing this translation, Elnark Short font, etc. 
+
+-M-Tee/www.mteegfx.com: Elnark Short font used heavily
+ as base for my font. Only added shadows and ligatures.
+
+-RedComet: Extreme inspiration from some of the best rom
+ translations next to AGTP. I modeled this readme after
+ them as well! I tried to use the ASM source code, but
+ failed to make it work for DBZ2, but I'd be happy to
+ provide script translation services if interested, or
+ work more with the ASM code in the future, especially
+ with guidance.
+
+-My fiance: For supporting my selfish work habits
+ while I was preparing this for the public! <3
+
+Thanks to all the fans of DBZ because without you, I
+made this patch for no one but me! Enjoy it!

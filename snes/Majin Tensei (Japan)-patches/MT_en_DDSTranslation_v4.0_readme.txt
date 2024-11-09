@@ -1,0 +1,56 @@
+Majin Tensei
+American English Translation Patch (Version 4)
+General Information and Credits
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+This version three patch is for Majin Tensei on the Super Famicom.
+The text has been translated from Japanese into American English.
+
+The patch has been updated to fix a line in the Heretic's Manor that had a small chance of appearing as garble, an incorrect stat description for one of the items, a word that was left off of one of the Game Over screens, and an unformatted line in a fusion screen.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both patches.)
+
+Note: Not all of the Majin Tensei roms are compatible with this patch.
+It is only compatible with the version 1.0 Japanese rom.
+
+-----------
+  CREDITS
+-----------
+
+Hacking and testing:
+DDSTranslation
+
+Translation:
+Tom
+
+Title screen graphics:
+FlashPV
+
+Beta testing:
+surt_r
+ZyloWolfBane
+Phantomknighttv
+CdMega
+
+------------
+
+Comments from DDStranslation, the hacker:
+
+It was good to work with Tom and FlashPV again on this last MegaTen game for the SNES.
+I tried to keep the modifications simple with this project, which should hopefully result in fewer bugs and stay in line with the minimalist style of the original game.
+
+------------
+
+Comments from Tom, the translator:
+
+Some people were disappointed that I chose to translate Majin Tensei II even though part one hadn't been translated, so I did this first entry in the series too (for the sake of completion).
+
+------------
+
+Comments from FlashPV, the pixel artist:
+
+I just had to draw a new title screen so it was not a big deal for me, but it's always a pleasure to work with DDS and Tom. Can't wait for the next project!

@@ -1,0 +1,141 @@
+SHIN MEGAMI TENSEI 2
+ENGLISH TRANSLATION V1.00
+Copyright 2004 Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Shin Megami Tensei 2
+2.Patch History
+3.Patch Credits and Contributors
+4.Known Issues
+5.Application Instructions
+6.Troubleshooting
+
+----------------------------
+1.About Shin Megami Tensei 2
+----------------------------
+Shin Megami Tensei 2 is interesting in that it is both
+a direct sequel to SMT1 and yet really does not require
+familiarity with SMT1's story to play. In the end, Shin
+Megami Tensei's hero decided on a neutral path, defeating
+both Archangel Michael and the Ashura Lord in the great
+Cathedral, and went on to establish a neutral republic.
+It lasted for maybe ten years, but was overtaken by a
+Mesian revolution lead by an elite squad of Temple Knights.
+
+As the decades passed, the post-nuclear environment slowly
+became more and more hostile, and the Mesians took control
+of the government, making worship of any "false" god illegal
+and employing the Temple Knights as an inquisitorial police
+force. As the habitability of Earth's environment decayed,
+the Mesians began the "Millennium Project" at the site of
+the Cathedral, creating an enclosed, domed city atop the
+ruins of old Tokyo. This city came to be known as "Tokyo
+Millennium."
+
+Following a mass migration into Millennium, the Mesians
+established a caste system of sorts. The more elites within
+Mesianic society were allowed to live in the district known
+as the Center, free of worry and with want for nothing.
+The lower second-class citizens lived in the other districts
+around the Center. It is in one of these, the Valhalla area,
+that a man with no name is found fighting off a pack of
+demons. Taken in by an old, failed gladiator and trained to
+fight in the arena, he was given the name "Hawk" and has
+made it to the finals...
+
+As a note, you -can- opt to have the game enter the default
+names for the characters, but this skews you heavily towards
+Law. Here are their default names; if you input them normally,
+the game will not penalize you for using the defaults.
+
+Aleph  - The main character.
+Beth   - A Temple Knight from the Center who is assigned to be
+         Aleph's partner.
+Gimmel - An extremely intelligent man, Gimmel is the overseer of
+         the Arcadia area.
+Daleth - Aleph's approximate equal, Daleth is your main rival.
+Zayin  - Of all of the major players, Zayin is the strongest. His
+         role is a special one...
+Hiroko - Hiroko's relation to Aleph is special. She initially
+         shows up in the Valhalla area searching for a child who
+         was kidnapped from the Center by a scientist...
+
+---------------
+2.Patch History
+---------------
+SMT2 was started only a few months after SMT1 was finished. Thanks to
+someone who has requested to remain nameless for a huffman decompressor
+for the text, and thanks to myself who managed to rig up a small
+byte-swapper program, a script dump (one which was MUCH nicer than the
+SMT1 dump) was obtained in the late summer/early fall of '02. A few
+low-level programming problems persisted, but those were fairly easily
+conquered and a beta was ready after about a year.
+
+The problem was that due to some folk (who will also remain nameless) the
+board on which the betatest was being run got wiped, and the explanation
+of bugs and links to savestates were lost. I did manage to recover most
+of the screenshots, corrected what I could, and launched a second test.
+What you see is the product of that.
+
+May 7, 2004 - Initial version 1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE SHIN MEGAMI TENSEI 2 TEAM
+Main Team:
+Gideon Zhi - Project leader, Romhacker
+Ian Kelley - Translation
+
+--------------
+4.Known Issues
+--------------
+--Some of the demons are, as Ian likes to say, still speaking pidgin. For
+  example, there's one that says "Are you really Don't you think?" There's
+  not much I can do about this, due to the nature of how the demon dialogue
+  is stored. On the whole though, it should work pretty well.
+--Demon dialogue when using bronze boxes does not behave in quite the same
+  manner as it does in the original Japanese version. It doesn't crash the
+  game, though.
+--The end of game credits are stored as sprites. Too many of 'em display
+  on-screen at any given time, so some of the names will probably be missing
+  letters. Not much I can do about this, unfortunately...
+
+Otherwise, there are no known issues. If you find any, please post
+about them on The Pantheon (http://donut.parodius.com/agtp)
+
+--------------------------
+5.Application Instructions
+--------------------------
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "smt2.smc" make sure the patch
+is "smt2.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 2.00 MB (2,097,152 bytes)". SNESTool can add
+your headers for you easily, and you can find it at
+http://rpgd.emulationworld.com
+In the utilities section, click on the IPS Tools link.
+The answers to the questions it asks you do not matter unless you're
+using a copier to play the game.
+
+An easy way to tell if the game has a header or not is that if you do
+the above and the game does not run, it probably does have a header.
+Use SNESTool to remove it. And don't whine about SNESTool not working
+in Windows XP, it works fine for me and I'm running on XP Pro.
+
+-----------------
+6.Troubleshooting
+-----------------
+--If the game does not progress past the ATLUS splash screen at startup,
+  read the above section on application instructions (specifically on
+  header removal.) Make sure your ROM is not read-only when you remove
+  its header. Also make sure that if you previously hard-patched the ROM
+  and the game crashes as described, you will need to re-apply the patch
+  a clean, Japanese original ROM.
+--If you jump to level 99 at the very beginning of the game, you ROM has
+  been hacked, and not by me. Find another. Thank you.

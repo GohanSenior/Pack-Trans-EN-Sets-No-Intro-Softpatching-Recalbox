@@ -1,0 +1,24 @@
+Toukon Club English Translation 1.1 by Eric Engel
+http://thadead.com/blog/projects/toukon-club-nes-famicom/
+
+
+
+Instructions:
+1) Download the original Toukon Club ROM. (http://www.google.com/search?q=Toukon+Club+NES+ROM)
+2) Download the Lunar IPS patching utility. (http://www.romhacking.net/utilities/240/)
+3) Download the Toukon Club Translation Patch and unzip it. (http://thadead.com/blog/projects/toukon-club-nes-famicom/) (http://www.7-zip.org)
+4) Open the Lunar IPS patching utility, and click "Apply IPS Patch."
+5) Select the translation patch that you downloaded and unzipped in step 3.
+6) Select the original Toukon Club ROM that you downloaded in step 1.
+7) Load up the newly patched ROM in your favorite emulator and enjoy Toukon Club! (http://fceux.com/web/home.html)
+
+
+
+change Log:
+11/24/2011 - Fixed a missed translation. (Incorrect password)
+11/16/2011 - Initial release.
+
+
+
+Special thanks to:
+Pennywise of the ROMHacking.net forums

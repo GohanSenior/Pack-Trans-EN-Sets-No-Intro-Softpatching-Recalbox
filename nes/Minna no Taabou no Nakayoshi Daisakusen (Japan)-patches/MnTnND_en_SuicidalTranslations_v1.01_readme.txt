@@ -1,0 +1,211 @@
+           $$$$$                                          $                $   
+         $$$$   $           $$               $$          $$               $$   
+       $$$$$                 $                $          $$               $$   
+      $$$$$                                              $$               $$   
+       $$$$$     $        $ $     $$$$$$$    $     $$$$$$$$    $$$$$$$$   $$   
+         $$$$$   $$      $$ $$   $$      $$  $$   $$    $$$   $$     $$   $$   
+           $$$$  $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+         $$$$$   $$      $$ $$ $$$           $$ $$        $ $$$      $$   $$   
+   $   $$$$$     $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+    $$$$$         $$    $$  $$   $$      $$  $$   $$    $$$   $$     $$$  $$   
+                   $$$$$$   $$    $$$$$$$    $$    $$$$$$$$    $$$$$$  $  $$   
+  $$$$$$                                                                       
+$$$$$$$$$$                            $            $   $$                      
+$   $$   $                            $$          $$    $                      
+    $$    $$$$$   $$$    $$$$   $$$$$ $$  $$$   $$$$$$      $$$   $$$$   $$$$$ 
+    $$   $$    $ $   $  $    $ $      $$ $   $    $$   $   $   $ $    $ $      
+    $$   $$    $ $   $  $    $  $$$$  $$ $   $    $$   $$  $   $ $    $  $$$$  
+    $$   $$      $   $  $    $      $ $$ $   $    $$   $$  $   $ $    $      $ 
+   $$$$  $$       $$$ $ $    $ $$$$$  $$  $$$ $   $$   $$   $$$  $    $ $$$$$  
+
+                                Tabo's Tactics
+                             English to Japanese 
+                                 Translation
+                                   v. 1.01
+
+                   
+
+
+-------------------------- DEDICATION & INSPIRATION ---------------------------
+ 
+This translation is dedicated to Blossom, Bubbles & Buttercup. If everyone were
+more like the Powerpuff Girls, the world would be a much happier place because
+we could all fly and shoot kewl laser beams from our eyes and the lucky ones
+would have the mutant ability to speak Spanish fluently.
+
+I started working on this project in 1998. I released the first patch in 1999,
+over a year later. I released the first (believed to be) completed patch in 
+2001, over 2 years after the first. Now, nearly a year and a half later, I'm
+releasing what will hopefully be the final patch for this game. In other words,
+I have no idea what music inspired me during most of the hacking of this game.
+So for lyrics, we'll stick to the song that's inspired me the most in the last
+few weeks:
+
+	I seen some children / Crossing the bridge 
+	What kind of life did / they get to live? 
+	What kind of choice do / they get to make?
+	What if it was a / child's mistake?
+
+	- Insane Clown Posse "Crossing the Bridge"
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+    I. Dedication & Inspiration
+   II. Table of Contents
+  III. Introduction
+   IV. Version History
+    V. Distribution Notes
+   VI. Technical Notes
+  VII. Staff
+ VIII. Tools
+   IX. Patching Instructions (** READ THIS BEFORE ASKING QUESTIONS!! **)
+    X. Contact Information
+   XI. Closing
+
+--------------------------------- INTRODUCTION --------------------------------
+
+Tabo's Tactics is actually two games in one. The first is similar to the old
+card matching game Memory. The second is similar to a Rubic's Cube. The twist
+is that both games have enemies and power ups! There's also a 2 player death
+match mode!
+     Tabo is another kawaii character from Sanrio, makers of Hello Kitty and
+Keroppi. The games are actually rather challenging for what one might assume
+was a kids game. There are 25 levels in each and some of the later levels are
+nearly impossible.
+
+-------------------------------- VERSION HISTORY -------------------------------
+
+v. 1.01 - January 06, 2003
+What's Changed
+ - fixed credits that were broken in the last release
+ - fixed a broken card graphic
+ - fixed display bug from certain levels of the cube game
+ - included save states for compatibility (see Technical Notes)
+
+v. 1.00 - September 03, 2001
+
+What's Changed
+ - graphics bug from previous version finally fixed
+ - credits modified to be slightly less immature
+
+
+v. 0.95 - April 29, 1999
+
+What's Complete
+ - all text translated (I believe.)
+ - minor graphics hacks (Title & Ending Screens)
+
+What's Incomplete
+ - One block in the 2nd level of the Cube game has a messed up
+   graphic which I can't seem to fix. It still plays fine, though.
+
+------------------------------ DISTRIBUTION NOTES ------------------------------
+
+This Tabo's Tactics translation should be distributed in a file named
+tabov101.zip and should contain the following files:
+
+	 taboev101.ips - the translation patch
+ 	 taboev101.txt - this readme file
+	  tabo-man.txt - a manual for the game
+     FCEUltra-Tabo.fc0 - FCE Ultra save state
+       Nesten-Tabo.ss0 - Nesten save state
+       Nester-Tabo.ss0 - Nester (and all varients) save state
+
+The first three files are (C)opyright 2003 by Suicidal Translations. All rights
+reserved. You may distribute this translation in any manner you desire as long
+as the original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Tabo's Tactics is (C)opyright 1991 by Konami.
+	
+Minna no Taabou no Nakayoshi Dai Sakusen is (C)opyright 1991 by Character Soft
+
+------------------------------- TECHNICAL NOTES -------------------------------
+
+The translation is 100% accurate to the original meaning, to the best of my
+knowledge. The original title of this game is Min'na no Taabou no Nakayoshi Dai
+Sakusen which translates to something along the line of Everybody's Close 
+Friend Tabo's Big Strategy.
+
+As for emulators, therein poses a slight problem. For some reason, Nesticle
+seems to be the only emulator capable of running the ROM correctly in both it's
+hacked and unhacked forms. Nesterj & NNNesterJ will run the unhacked ROM but not
+the patched ROM. FCE Ultra and Nesten fail to run either version. When you start
+up the ROM in any of these emulators, you get nothing but a grey screen.
+However, some experimentation has proven that the ROM will run in these
+emulators if you can get beyond the startup. So I have enclosed save states for
+FCE Ultra, Nesten and Nester. This save state will start the game at the very
+beginning and the game runs just fine. You just need to take the appropriate
+save state (they're labeled by emulator, all versions of Nester use the same
+format) and rename it to match your ROM and place it in the appropriate save
+state directory. Load the state and then you're ready to play.
+
+GoodNES calls this ROM Minna no Taabou no Nakayoshi Dai Sakusen (J).nes. The
+original name the ROM was released under was Sanrio2.nes and it was originally
+incorrectly identified by myself as Nakayoshi Daibouken at the time of the
+initial release. Your best bet for locating the ROM is to check a full GoodNES
+archive, though you should import the original cartridge from a shichiya
+(Japanese for pawn shop) for legalities sake.
+
+------------------------------------ STAFF ------------------------------------
+
+    Hacking - InVerse - http://www.pigtails.net/ST
+Translating - Musashi - http://gaijin.parodius.com
+
+Special thanks to _Bnu for a couple spot translations when  Musashi wasn't
+around and I was too impatient to wait and to Spinner 8 who managed to complete
+the Cube game, allowing us to verify the 100% translation. Bonus thanks to Dave
+of Gaijin Productions for the retranslation of the title.
+     Thanks to the other people who helped beta test the translation. I'm sorry
+that I'm too lazy to look up your names right now, but you're all listed in the
+credits and more ppl read those than the readme anywayz. :p
+
+------------------------------------ TOOLS ------------------------------------
+
+The following tools were used for this translation:
+
+  Hexposure: hex editing for translation and graphic maneuvering
+ Tile Layer: graphics hacking & font insertion
+   Nesticle: some graphic hacking
+  SNES Tool: patch creation
+     
+Most of these tools, as well as ROM hacking tutorials, can be downloaded from
+The Repository (http://www.romhacking.com).
+
+----------------------------- PATCHING INSTRUCTIONS ---------------------------
+
+Patching a ROM is extremely simple. You need three things. A ROM, the patch and
+a patching program. To patch with ips.exe, you simply type:
+
+	ips <ROM name> <patch name>
+
+So if your ROM was named tabo.nes and the patch was named taboev101.ips you
+would type:
+
+	ips tabo.nes taboev101.ips
+
+Make sure you have the ROM, the patch and IPS in the same directory.	
+	
+To patch with SNES Tool, simply select USE IPS, choose the patch and then 
+select the ROM to which you wish to apply the patch. It's self explanatory. If 
+you can't figure it out, the game is probably too hard for you anywayz.
+
+To patch with IPSWin, you simply select the ROM you want to patch, the patch
+you wish to apply and then click Patch. Once again, if you can't figure it out,
+the game is probably too hard for you.
+
+------------------------------ CONTACT INFORMATION ----------------------------
+
+ The official Tabo's Tactics home page is currently located
+ at http://www.pigtails.net/ST
+
+ E-Mail addresses concerning the project can be located on the official page.
+
+ Do NOT, under ANY circumstances, ask for ROMs. You will not only be denied,
+ you will have your request for illegal files forwarded to your ISP.
+ 
+------------------------------------- CLOSING ----------------------------------
+
+ So there you have it. Have fun and remember, it's just a game.
+
+ -InVerse

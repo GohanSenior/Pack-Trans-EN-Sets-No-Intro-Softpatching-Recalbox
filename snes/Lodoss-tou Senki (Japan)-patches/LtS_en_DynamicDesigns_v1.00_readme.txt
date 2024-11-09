@@ -1,0 +1,534 @@
+Record Of Lodoss War (Patch Version 1.0)
+
+Introduction:
+	Japanese Developer:					Hummingbird Soft
+	Japanese Publisher:					Kadokawa Shoten
+	Japanese Release:					December 22, 1995
+	English Patch Production:				Dynamic Designs
+	Original English Patch Translation and Production:	LNF Translations
+
+Dynamic Designs Project History:
+	V1.0: Initial Dynamic Designs release:            February 26, 2014
+
+
+Dynamic Designs Production Credits:
+
+	Misc. Translation:		Eien Ni Hen
+	Beta Testing:		4ph, Wagner
+	Bugfixing/Hacking:		Bongo'
+	English Story Writer:	Wildbill
+	Project Coordination:	Recca, Red Soul 
+	Story Consultants:		Draken, Taskforce
+                English Title Pages:	FlashPV and Red Soul
+
+
+Dedication:
+                Red Soul
+                 and
+                The memory of Lina` chan
+
+
+
+Issues:
+Below are issues not caused by the patching process; instead, they stem from emulation problems or oversights made by the original programmers.
+•	Kashue Spar Glitch.  In chapter 4, the player has the opportunity to spar with King Kashue from Blade, much like in the OVA. However, the event cannot be triggered properly during dialogue, and hence the player misses out on a +5 strength bonus that should have been awarded.
+•	Sprite Color Glitch. During certain dialogues, sprites might be colored incorrectly.
+This is a limitation of the game's paletting which loads the colors of the active dialogue mugshot and mistakenly attributes them to one of the onscreen sprites.
+•	Transparency Glitch. Due to VRAM limitations, when fighting against enemies represented by particularly tall or wide sprites, the player may find that parts of the command window bleed over and seem to disappear as transparent gaps. This doesn't seriously hamper gameplay but we decided to make note of it anyhow. As a corollary to this issue, when the battle screen has several sprites being displayed at one given time, parts of the characters and/or monsters might disappear from view temporarily (most often the lower half of the sprites). 
+Again, it is merely a visual issue.
+
+Initial Translation Notes:
+Dynamic Designs chose this project with the simple objective of producing a complete translation.  LNF Translations released a partial patch some years ago, one that converted most of the game's dialogue to English but left much of the menu work and certain other features undone.  Using the story in the LNF's work as a guideline, we translated the remaining Japanese and went to work.  Unfortunately, some time after releasing the original LNF v0.90 patch, project coordinator Lina` chan was tragically killed in an automobile accident, and the remaining members of LNF Translations never completed the patch.
+Selection of this project came about as the result of a random conversation between Recca, Wildbill, and Red Soul - while that trio was working on Burning Heroes.  Recca mentioned how nice it would be to have a complete translation of this game, Red Soul agreed, and Wildbill asked Bongo` how feasible it would be to just insert some English menus.
+No one knew how to contact the remaining members of LNF translations, but Bongo` quickly deduced that the most efficient way to "finish" this game would be to design a dedicated insertion system with full assembly support and re-load a complete English translation from scratch.  Using the critical dialogue translation work of LNF's original patch as a guideline, in 2013, the D-D team re-wrote the story and inserted it into this patch that we built from the ground up.  Red Soul assumed lead coordination duties, and as always, the remainder of the D-D team contributed in their various areas of expertise.
+However, without the original work of LNF Translations, completing this project would have required considerably more time.  Accordingly, the spirit of LNF's work is still woven into the fabric and tone of this saga.  And a special thanks goes out to Eien ni Hen who fleshed out the numerous miscellaneous files' translations that were missing in the LNF release.
+We hope everyone involved in the original project realizes that our patch is as much LNF's as ours.  We have paid proper homage to those players and their work in our translated and redesigned ending credits for this game.  If anyone discovers that we left out (a) key player(s) who deserves to be listed in the ending credits, report this information so we can modify our file and release an updated patch. 
+
+Game Description:
+Note: Henceforth, for simplicity, Record Of Lodoss War will be referred to as ROLW.
+At its core, ROLW plays much like a traditional RPG released during the SNES's golden era.  The player pursues quests, procures supplies, and improves armaments whilst advancing the story - all the time battling increasingly challenging odds to reach the lair of the main adversary.  One could argue that this description is rather sweeping, and thus, ROLW could come across as cookie cutter fare.  However, certain charming aspects of the characters and their story push this offering well beyond the dreaded "generic" moniker that some of our more jaded brethen occasionally apply.
+At first glance, battlefield architecture sets ROLW well apart from the usual feel of most JRPGs from this era.  Characters and monsters wage war on isometrically slanted fields that convey a general feel akin to a section of a chess board.  This creates attack formations and battle flows similar to SRPG's, borrowing various additional elements such as areas-of-effect for spells (making it possible to hit both enemies and allies in the process), as well as row and column placements.
+Characters in the back row have an easier time escaping battle, so positioning a highly mobile party member or spell-caster in the rear area has merit.  Another aspect borrowed from SRPGs is that enemy parties have leaders (denoted by a crown icon above their heads once damaged) that can be killed first to eliminate the whole gang and thus speed up the actual fighting.  Once leaderless, enemies lose morale and flee.  Finally, the battle board always contains a void space on the enemy side.  Impacting an enemy leader in a manner that thrusts him, her, or it into that void space will trigger a “Checkmate” flag, awarding bonus experience and ending the battle immediately in favor of the good guys!
+Despite being rather novel, the interesting battle system is marred somewhat by an infuriatingly high encounter rate.  Avoiding battles excessively, however, puts a player at risk of entering key boss battles at levels too low to garner victory, or else it leaves your team ill-prepared to enter new areas with stronger foes.  Such a miscalculation can even thrust you into a quick "Game Over" status the next time you're ambushed!
+The isometric aspect is also employed in dungeon maps, while overworlds present the ever-familiar top down viewpoint.  However (here comes the bug in that ointment!), the D-Pad registers player dungeon input in the same isometric manner (a feature that combines with rather sluggish movement in these areas), to make even simple corner turns a challenge for the most manually adroit! The easiest way to negotiate right and left turns in dungeons, therefore, is to halt your movement completely and consider which diagonal maneuver you must execute in order to set your character's position before trying to move in a straight line in any direction.
+Item and equipment management should be straightforward to anyone familiar with traditional console RPGs, but an interesting aspect is how the game treats shields.  Shields increase DG (Dodge Rate) rather than defense, so they can be surprisingly beneficial for speedy and/or frail characters.  Depending on the type of weapon the player is carrying (i. e. two-handed sword), equipping shields may not be possible.
+Graphically the game is well-designed (although walking and running animations leave something to be desired).  Main characters speaking dialogue frequently display face graphics, constructed directly from manga cels commissioned from the ubiquitous anime studio GONZO.  The tiles used to build towns and dungeons, while serving their basic functions well, tend to be somewhat bland and repetitive.
+The sound department is possibly the least remarkable aspect of ROLW.  The music is functional, and while not bad, it is not what some of us consider memorable.  While working on the project, few of us found ourselves whistling of humming ROLW tunes while mowing the lawn or plugging for bass.
+
+As for story, the game offers surprisingly high coverage, embellishing character development in the main story (as told by the ROLW OVA) and backdrops that lead up to various subplots.  The Japanese writers loosely modeled elements of this saga from the The Lady Of Pharis manga, spanned across four periods in game chapters, something rather uncommon for anime licensed games.  Therefore, fans of the series not particularily initiated into the RPG-playing community might find this game a proper first foray into this realm.
+
+
+
+
+
+
+
+
+Production and Alpha/Beta Testing:
+Remarks by Red Soul:
+ROLW is a game that lingered in a form of limbo for many years. Originally a project under the wing of LNF (Lina Chan, Nuku-Nuku and Filia)'s Translations, they were responsible for a patch that had reached a state of roughly 90% completion, circa 2000. With Lina Chan's tragic passing in a traffic accident the project was obviously put in an indefinite hold at that point. In honor of Lina's memory, we are releasing this complete patch so that the community may both enjoy the game and never forget how fickle life itself is, and that legacies must be perpetuated responsibly.
+As far as beta testing, this game presented a whole new dimension of challenge to Red Soul personally, as this was his first time acting as a coordinator for a D-D project.  Recca also sat in a coordinator’s seat beside him.
+Due to the game’s theme, we took special care to research all aspects of the Lodoss mythos that spanned several media by reading the manga as well as watching the OVA.  (The TV series that chronicles Spark's adventures aren't part of this game, so we omitted this material from our story, as we also did that of Rune Soldier, despite their legends occuring in the same overall milieu.)
+
+Script checks and bug tracking were rather intensive (at times even tiresome) but thanks to Bongo's hacking mastery, the technical hurdles were rather minor in comparison to previous releases such as Mystic Ark.  The game still had its quirks, especially the battle text syntax and item descriptions.  A two-line routine was added to the menus to make truncation as minimal as possible.  (Although a few were unavoidable, I did try to make them sensible and standardized.)
+Draken and Taskforce were instrumental in giving the script another important layer of QA, making sure it did not stray from the ROLW style and form.  Due to their efforts, Red Soul says that "many of his brain neurons were spared" from becoming frayed during this process!
+
+In the final stages of production, Wildbill, with his well known wit, lighthearted style, and penchant for easily digestible, savory writings, applied when appropriate his own lively twist to both characters and the general populace of Lodoss Island. Beta went rather smoothly thanks to the efforts of 4ph of Silva Saga 2 (French) fame and Wagner, a forum denizen who possesses an energetic disposition.
+Final touches were applied by FlashPV (our friend who built the English title page for Burning Heroes and sent us redesigned English title pages for ROLW) and the ever-meticulous Bongo`.  Using the combined graphics design work of Red Soul and FlashPV, Bongo` painstakingly reworked color palettes and layers intricacies until he could insert fully translated title pages into D-D's patch for this game.
+
+Patching:
+Contained within this archive is an IPS (international patching system) file that when used in conjunction with a ROM file, preferably one extracted from an original, legally bought Super Famicom Record Of Lodoss War cartridge, will make the game playable in English.
+
+Do note that this patch is a result of countless hours of love and labor across many years, both by LNF and ourselves.  Hence, this is not meant to be sold at any price under any circumstance, be it in digital form or burnt into a donor cart's ROM chip.
+
+To patch the ROM file, one needs to procure an IPS patcher, a widely available class of programs, many of which can be found at www.romhacking.net/ for one source.
+
+At some point, ROM sites may upload pre-patched ROMs of our ROLW translation.  Obviously, D-D cannot endorse playing these versions, nor will we support resolution of any associated problems.  Moreover, prepatched ROMs may float around the web for years.  Only by downloading patches containing just our original work from D-D's web site may gamers obtain revisions to this patch - if any - and take advantage of possible bug-fixes and corrections.
+
+Below is the information pertaining the ROM file our patch requires, 
+according to Nach's SNES ROM Tools:
+
+NSRT v3.4 -  Nach's SNES ROM Tools
+
+---------------------Internal ROM Info----------------------
+Name: ﾛｰﾄﾞｽﾄｳｾﾝｷ			Company: BEC
+Header: None				Bank: LoROM
+Interleaved: No			SRAM: 64 Kb
+Type: Normal + Batt			ROM: 20 Mb
+Country: Japan			Video: NTSC
+ROM Speed: 120ns (FastROM)	Revision: 1.0
+Checksum: Good 0xC623		CRC32: 1B3E22C3
+MD5: 318FE70EF8F291DC3C3090AE7B84FE50
+
+
+
+--------------------------Database--------------------------
+Name: Lodoss Tou Senki
+Country: Japan		Revision: 1.0
+Port 1: Gamepad		Port 2: Gamepad
+Genre 1: RPG			Genre 2: Unknown
+
+
+
+
+Size before patching: 2,50 MB (2.621.440 bytes)
+
+Size after patching:    3,00 MB (3.145.728 bytes)
+
+Alternatively, most emulators support a feature called soft patching, which keeps the ROM file intact, merging the patch data only during run time. To make use of it, make sure both the ROM file and the IPS are on the same directory as your emulator of choice and have the same name, but not the same extension. Do note that this is case-sensitive.
+
+e.g:  Lodoss.smc and Lodoss.ips will trigger soft patching at the emulator's run time.
+
+Emulator Compatibility:
+
+The game behaves itself properly in a wide range of emulators such as Higan, SnesGT and SNES 9x (although some parts of the introduction sequence can look glitched in outdated versions of some of the mentioned emulators), so the user is free to use whichever they are most comfortable with. However, as it is the case with several games, especially timing sensitive ones, Zsnes should be avoided; ROLW has been found to hang at random on this emulator even in its unpatched state.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix – LNF's Original Readme
+
+Below follows a verbatim transcript of the readme contained in the original LNF patch, both for reference and out of respect for those involved in the project at the time.
+
+____________________________________________________________
+
+ Record of Lodoss War (SNES)
+ English Translation Patch
+ Version 0.90
+
+ Created by: Lina`chan, Nuku-Nuku and Filia's Translations
+             http://translations.animangarpg.org/
+____________________________________________________________
+
+ CONTENTS
+____________________________________________________________
+
+ 1. Credits
+ 2. Project History
+ 3. Translation Notes 
+ 4. Legal Notice
+ 5. Contact Information
+
+____________________________________________________________
+
+ 1. Credits
+____________________________________________________________
+
+
+ WEBMISTRESS:             Lina`chan
+
+ MAIN HACKER:             aziwoqpd (James Perry) 
+ 
+ ENGINEER NOTES,
+ SCRIPT DUMP AND
+ BASE HACKING:            F.H.     (Frank Hughes)
+ 
+ TRANSLATION COORDINATOR: Lina`chan
+
+ MAIN TRANSLATOR:         Filia 
+
+ AUXILIARY TRANSLATOR:    Nuku-Nuku
+
+
+ BETA TESTING:            Dantares/Drakkhen
+                          Johansen Quijano
+                          Nanoblaze
+                          Spinner 8
+
+
+
+____________________________________________________________
+
+ 2. Project History
+____________________________________________________________
+
+On the summer of 1999 we held a translation poll at our site
+(http://translations.animangarpg.org) and Record of Lodoss 
+War arrived in 3rd place. On November 25, 2000 F.H. released
+a Record of Lodoss War Technical document which contained 
+information on how the game's text was stored as well as a
+dumped script and an extremely well detailed Engineer notes
+document. With all this done we had a fair advantage at our 
+sight and we were able to carry out a very smooth translation 
+job. Filia claimed this translation project for herself and 
+got quickly into the business. After a few months she finished
+the first translation of the script. Meanwhile at the same time
+hacker aziwoqpd had revised F.H.'s documents and had written
+a new VWF routine for the game. After a couple of weeks the 
+script was inserted and everything was fine, the first beta patch
+was sent to the Beta Testers and they played through the game.
+
+They noticed the lack for translation of townfolk, items and other
+assorted things. At this stage Filia decided to go over the script
+again as she had mis-translated a few bits of the dialogue. After
+she finished the main game script she covered the items and townfolk
+and the newly translated script was sent to the main hacker.
+
+So here is where we are, this time, we are releasing an uncomplete
+beta patch, which will eventually be finished, to the public. Please
+refer to the Translation Notes to see various notes on what the patch
+has and what it is missing.
+
+____________________________________________________________
+
+ 3. Translation notes.
+____________________________________________________________
+
+                      *****WARNING!*****
+This patch is not complete and it has several things that are not
+translated.
+                      ******************
+
+System Requirements:
+        A SNES Emulator.            (Zsnes or Snes9x are recommended.)
+A fresh Record of Lodoss War rom. (Don't e-mail us asking for one.)
+An IPS patching utility.    (Find it on http://www.zophar.net)
+        
+Translation Progress:
+
+            Main Dialogue:              100% translated and inserted
+        Townfolk Dialogue:              100% translated, a few 								    misinsertions (The
+                                        character will not say a thing.)
+                    Items:              100% translated and inserted.
+                   Spells:              100% translated and inserted.
+              Battle Text:              100% translated and inserted. 							    (A few are misaligned)
+              Battle Menu:              Not translated.
+              Status Menu:              Not translated.
+             
+      Overall Translation:              90%
+
+____________________________________________________________
+
+ 4. Legal Notice
+____________________________________________________________
+
+ Lina`chan, Nuku-Nuku, Filia's Translations' Record of Lodoss
+ War RPG English Translation patch is not official or supported 
+ by Nintendo or any other entity associated  with the "Record of 
+ Lodoss War" trademark or franchise.
+
+ The Record of Lodoss War Patch is freeware thus it can be 
+ distributed freely provided the following conditions hold:
+ (1) This document is supplied with the patch and both the 
+ document and patch are not modified in any way (2) The patch 
+ is not distributed with or as part of any ROM image in any format,
+ and (3) No goods, services, or money can be charged for the
+ patch in any form, nor may it be included in
+ conjunction with any other offer or monetary exchange.
+
+ The Record of Lodoss War RPG Patch is provided AS IS, and its 
+ use is at your own risk.  Aziwoqpd, F.H., Lina`chan, Nuku-Nuku, 
+ Filia and anyone mentioned in this document will not be held 
+ liable for any damages, direct or otherwise, arising from its use
+ or presence.
+ 
+
+____________________________________________________________
+
+ 6. Contact Information
+____________________________________________________________
+
+ Lina`chan, Nuku-Nuku and Filia's Translations Domain 
+   www:   http://translations.animangarpg.org/
+
+ Aziwoqpd
+   email: azip@lfx.org 
+
+ Lina`chan
+   email: abner@lfx.org 
+	 Nuku-Nuku
+   email: canal@geocities.co.jp
+
+ Filia
+   email: filia@valgarv.freeservers.com
+
+ F.H.
+   www: http://travel.to/fh
+   
+____________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special Walthrough Addendum
+
+As a bonus to this patch release, Wildbill created a walk-through of a segment of this game.  If someone obtains a copy of a partial walk-through of ROLW that's been floating around the web for years, WB's document may fill in a few gaps.  As a general rule, D-D encourages playing our English version of this game without cheats of tips of any kind.  Thus, everything written beyond this point contains major...
+
+SPOILERS!!!
+
+Everything written from here on was authored by Wildbill who is solely responsible for its contents.  The foregoing does not necessarily reflect the views and attitudes of any other member of Dynamic Designs or the team as a whole.
+
+Oh, and WB hereby authorizes the original FAQ author to add this or an edited version to his work.  The important goal here, from WB's standpoint, is to put information into the hands of those who want it.  Like it or not, how he goes about presenting that data will subject one and all to his warped sense of humor!
+
+Oh, at the very end, he threw in a segment that covers the Dwarf Mine sub-quest in Chapter 4 - Town of Tarba.
+-------------------------------------------------------------------------------+
+Wildbill's wild finish to an incomplete SFC/SNES Record of Lodoss War Walk-through that's floating around the web - is on the air!
+-------------------------------------------------------------------------------+
+
+(Spoiler City - My gawd - you've been warned! Spoiler Police, turn back before it's too late! You're on Wildbill's owl-hoot trail now, and I'm armed to the teeth with a virtual Sharps 50 caliber buffalo rifle, fitted with a virtual sniper's scope!!)
+
+(You see, this document doesn't conform to anyone's stupid dictated guidelines for writing game-FAQs. If someone doesn't like the way I go about it, tough dirty kitty litter, Kemo Sabe! Make your own, and go kiss the rusty tails of the videogame gods while I'm enjoying playing games - the very purpose for which they are dynamically designed!  So, if deleting threads on your board that discuss the enjoyment many people derive from playing the translation community's products is your bag, you're in the wrong place.  Go back to your narrow-minded, egomaniacal, ante-diluvian, self-imposed corner of Hell.)
+(Heh, someday, I'll tell folks how I really feel!)
+
+Okay, just to get game-lovers back on task, those of you who don't have bad attitudes and pouty-faces, all of you free-spirited mavericks out there who are not members of the club and can think-outside-the-box:
+
+We are in Chapter 4, late in the game, following the Battle of the Heroes. We've gone to Alania and entered the final dungeon in the game, only to discover on the second floor that the SNES Lodoss FAQ floating around the web has suddenly petered out.
+
+If D-D has released its English version patch of Lodoss, and you're playing it, and that petered-out FAQ has turned out to be right handy up 'til now, this crazy document will either help you, piss you off, or both!
+
+So, moving right along...
+
+At the intersection just past the entrance to this final dungeon's second floor, you will get blasted in the cabeza with the following message:
+
+"Trust magic? Go right.
+Trust blade? Go left."
+
+If you turn right, you'll wind up in the extreme NW room with the Iron Golem that was described in the last entry of that nice-but-incomplete FAQ floating around the web.
+
+Ergo, if you made it this far:
+
+· Whip the tail off that pesky Iron Golem in the NW room.
+· Seize the magic Key 1 from the treasure chest.
+· Dash back to the intersection where you turned NW to reach the NW key room.
+· Proceed SW until you reach an intersection.
+· Zip SE to a corner.
+· Start to walk SW, but take an immediate right turn to NW.
+· Follow this path until you hit the western boundary.
+· Zigzag southerly to a door on the SW building.
+· Press the A button to enter that door.
+· You will receive a message that tells you the door contains two keyholes.
+· Never fear… Having just one key worked wonders for me.
+· Enter the building if you have Key 1 from the Iron Golem room.
+· If not, go back and get it, you fearless bloodhound!!
+
+
+
+
+
+-------------------------------------------------------------------------------+
+(Or maybe you have an equivalently functioning key from taking the brute-force route(southerly) from the left side building at the entry point of floor 2 in this dungeon. In that case, you’re probably using your Vision spell or viewing items to help you navigate. If that’s what you chose to do, you’re on your own. I’ll talk to you again after you enter and emerge from the large “keyhole” room at the southwestern corner of this floor.)
+
+Note: I made screen captures of whole dungeons while in Vision mode and printed them. It helped throughout the game.
+-------------------------------------------------------------------------------+
+
+If you walked the “trust magic” route:
+
+· Head through the right-hand door of the “keyhole” room, bearing SW.
+· Zigzag southerly along the bottom of the western wall.
+· Turn easterly and zigzag along the southern wall to your third possible left turn.
+· Take that third possible left turn to the NW a short distance and turn NE immediately.
+· Follow this path in multiple directions until you reach a door on the SE border.
+· Pass through the door to reach the closed-in SE corner of the 1st level of the dungeon.
+· Zigzag NE a few times and enter the only door available.
+
+Before you blow outta here, Killer, some of the side rooms have nice treasures, if you're interested, but I'm not gonna take ya by the hand, Sherlock!
+
+Whoa! A Lich King is blocking the exit. Lot's of HP on that bad boy, so spread your party as a countermeasure to zoned magic attacks and pound this sucker with your own strongest magic, and/or power up your blunt-trauma and flesh-piercing aresenal.
+
+Ah, over-world - finally!
+
+But the town, boat dock shack, and other abodes to the west are like splits-ville, Jack! You can't buy anything or sleep in the town, unless I missed a well-hidden refugee buried under a rock - some local rube tryin' to make a fast, albeit, safe buck.
+
+Yep, you're now on Karla's Fantasy Island from Chapter 1 - Part-I, so...
+
+
+
+
+
+
+Retrace Karla's steps from her original beddie-bye mansion - in reverse.
+
+· You will arrive at that coastal sub-scene area that features useless stairs into the water.
+· Remember? Where Karla absconded with the thief's body - her first astonished victim.
+· Saunter down the obvious trail NE and cross into the next screen.
+· Stroll through the front door into Mistress Karla's dubious fun-house.
+· Charge your little buns upstairs to Mistress Karla's Pleasure Palace (her bedroom, Slick).
+
+The bed will rest your weary bones and save your game - if you can sleep. I mean - the satin sheets still harbor the lingering scent of Karla's haunting perfume from an old Ancient Kingdom secret formula. Or is it Leylia's? Either way, it's win-win, you lucky sailor! But stay out of her/their dirty clothes hamper, you unrepentant fiend! You need to focus, Bubba!
+
+You have a major challenge looming.
+
+· Tippy-toe through the north door of the bedroom.
+· Skitter to your right and try to descend the stairs without falling on your tuchas.
+
+You already know the generic RPG line: "You're quite special to have made it this far."
+
+HOWDY, KARLA...! WE'RE BAAAAAACCCCKKKK!!!!
+
+Red Soul says to be above Level 70. I can tell you that at level 65, you're probably toast! But if you're in a big hurry, Safeway has a special on peanut butter and jelly all week!
+
+As for moi, I did a little more exploring of the dungeon (AKA "grinding") and confronted Karla at level 72. It was still a dicey battle, one of the toughest final boss encounters I've faced. It's a good thing I took plenty of the most powerful healing and MP-replenishing items along, 'cause I needed 'em.
+
+Here is a game-winning strategy that I used to bop Karla (in my dreams!) at level 72:
+·	Equip Ghim with Regen armor.
+·	Start each round by choosing Woochuck’s Haste skill every danged time.
+·	Use Woodchuck’s turns to heal party with items and replenish Etoh’s and Deed’s MP.
+·	Blast Karla and the Iron Golems with your best magic until they close in on you.
+·	Use Slayn’s Meteostrike, Etoh’s Punish, and Deed’s  Earthquake, maybe two rounds.
+·	Have non-magic attackers employ attack magic scrolls from a safe distance.
+·	Use the other fighters’ turns to heal the party, buff up, etc.
+·	 When you finally zap the golem on your left, start dispersing your party, Sir Knight.
+·	Spreading the board is the best countermeasure to Karla’s devastating zone magic.
+·	Use Deed’s Blink spell to disperse her to a far remote corner all by her little lonesome.
+·	At all costs, keep Etoh alive and full of MP, and use his Punish magic every round.
+·	Have Slayn heal people with items, and cast Body Ward and Quick on people when he can.
+·	Try to keep every swinging Harry and Harriet's LP above 200 at all times.
+·	Once you squash the second golem, surround Karla with Parn and Ghim and flail away.
+·	Bring Woodchuck close to Karla, but use him as a decoy - and a healer - as needed.
+·	Keep Slayn, Etoh, and Deed in opposite corners – maneuvering out of harmful squares.
+·	Basically, Etoh pounds Karla with Punish, and the other five keep everyone alive.
+·	If you brought enough Refresh Potions and Magic Crystals, time should be on your side.
+·	Slayn’s Spider Web worked on Karla - after she lost her precious toy golem buddies!
+·	Other methods may work.  I know these tactics did – at least once.
+
+After Karla slumps down, Woodchuck attempts to steal her circlet. Karla starts to strike Woodchuck, and he’s weak, so Ghim rushes in and shoves Woodchuck aside in order to save him. Karla and Ghim strike each other with fatal blows, then; Woodchuck rushes back in and grabs the circlet.
+Karla gasps her final breath, and her body transforms back into Laylia. (No, you can't lay Laylia - too late!)
+Meanwhile, Woodchuck backs away to the right of the party, attempting to steal the circlet and usurp its power. Slayn spots Woodchuck and yells at him to halt. Parn rushes away from the dying Ghim and confronts Woodchuck. Woodchuck babbles something about how the group is really his dear pals, then; he races away, like a pack of phantoms were hot on his tail!
+Deed joins Parn, and the two of them rush off to collar Woodchuck and regain the circlet.
+Leylia revives. Slayn, Etoh, and Laylia linger near Ghim’s body for a while, discussing the consequences of their ordeal.
+Etoh return to Valis. The princess is relieved, and the two of them face a bright future together.
+Slayn delivers Leylia to her mother, but they bear sad tidings concerning the heroic Ghim.
+The game slams to a close with Deed essentially declaring to Parn:
+“Whither thou goest, I will go… for all eternity!” 
+(I'll bet they cook-up some cute babies together, but trust me. Makin' kids is more fun than raisin' kids, who sometimes grow up and turn into people!!)
+Speaking of turning, Parn and Deed rotate their bods to face breathtaking mountain scenery.
+The screen fades.
+Ending credits roll.
+* * *
+Congratulations! You have just conquered the Super Famicom "Record of Lodoss War"!
+If you played it in English, the Lodoss team at Dynamic Designs hopes you enjoyed our patch. If you played the really ancient translation patch, you missed the boat, Rip Van Winkle!
+(Lodoss walk-through no longer to be continued... Hee-hee...!)
+
+
+-------------------------------------------------------------------------------+
+
+(End of Wildbill’s wild ride through the Lodoss end-game)
+-------------------------------------------------------------------------------+
+
+-------------------------------------------------------------------------------+
+The Dwarf Mine sub-quest in Chapter 4 - Town of Tarba
+-------------------------------------------------------------------------------+
+As I recall, this side-quest is not mentioned in that incomplete Lodoss FAQ/Walk-through that's floating around the web. I am including it in my addendum because taking the time to play it after you return from the ice cave encounter with the white dragon, Bramd, results in a nice weapon for Ghim, who has just joined the party.
+In the build up to this side-quest opportunity, Parn travels to Tarba following the goblin attack on his home village. With more injuries than Etoh can handle, Parn, Etoh, and Slayn conclude that asking the priestess at the Temple of Marfa in Tarba, the Lady Neese, to help heal the wounded, is a worthwhile reason to travel to Tarba.
+Upon arriving in Tarba, the trio leans that Lady Neese - one of the Six Heroes - has gone to the northern moutains alone to ask legendary white dragon, Bramd, to stop harming humans by causing earthquakes and such. Upon entering the ice cave where Bramd lives, the threesome rescues the dwarf, Ghim, who joins them and helps continue the search for Neese.
+The foursome finds Neese speaking to Bramd. Following the cutscence, everyone returns to Parn's village, and Neese begans treating the casualties of the goblin attack. Parn leaves the village, striking out on his own. The others catch up, Parn saves a girl in the countryside, Ghim join permanently, and Deedlit reveals herself again and also joins permanently.
+Once the party has expanded to five, and you are able to take full control of the game, this is an excellent time to return to Tarba and enjoy the Dwarf Mine side-quest.
+Upon entering Tarba, save your game, buy supplies at the item store, and...
+·	Walk up the stairs to the left and behind the item shop
+·	Enter the house to the right of the steps and talk to the dwarf inside.
+·	Exit the house, walk east to the next screen, and cross the bridge.
+·	Enter the cave and break the first rock.
+·	Parn will tire quickly, so pick your route carefully.
+·	Walk to the right (SE), turn NE, break another rock, and enter the building.
+·	Grab the nice treasure, pass through the opposite side, and walk NW.
+·	Break the rock at the intersection and walk NW.
+·	Enter the large building at the top of the dungeon, and heal the trapped dwarf.
+
+The grateful miner will give you a nice weapon for Ghim, one that will be quite useful for him early in the game. Once Etoh heals him, the fellow races away to help his friends.
+I checked the other building, the one just below the big building. I had to walk out of the dungeon and back inside because Parn was too fatigued to break any more rocks. When I reached the third building, it was empty. I don’t know if this would have been different if I visited the left side small building first, but I obtained the nice weapon for Ghim, and that’s what matters.
+Now, you may leave Tarba and head southwesterly to visit the city of Alan.
+-------------------------------------------------------------------------------+
+End of the Dwarf Mine sub-quest in Chapter 4 - Town of Tarba
+-------------------------------------------------------------------------------+

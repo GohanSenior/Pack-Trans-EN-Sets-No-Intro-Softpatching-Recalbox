@@ -1,0 +1,29 @@
+
+Cotton 100% english patch 1.1 / 12.2021
+
+Cotton 100% is a colorful shoot-'em-up game that was released 1994 on the Super Famicom and is the second game of the franchise. You play the witch Cotton, fight lots of enemies and search for your loved sweeties called willows. 
+
+This patch translates the cutscenes. If all worked fine, the internal checksum should be correct.
+
+
+Hacking:		Svambo
+Kanji transkription:	TundraG3ckO 
+Translation:		Ellen & Sven
+Proofreading:		ReyVGM, Antimatzist
+Char provided by:	ReyVGM
+
+
+Greetings to all the great guys on snesfreaks.de, SNES-Projects.de, romhacking.net, from Twisted Phoenix and everyone who still loves the SNES in 2021.
+
+Stay home,
+stay safe,
+play SNES,
+fuck Corona!
+
+------------------------------------------------------------------------------
+Version history:
+
+V1.1 - 12.2021 - Complete script revision by native english speaker. 
+
+V1.0 - 11.2021 - Initial release
+

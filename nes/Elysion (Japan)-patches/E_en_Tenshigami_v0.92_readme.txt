@@ -1,0 +1,65 @@
+--------------------------
+Elysion English Beta Patch
+--------------------------
+
+This patch translates the NES version of Elysion into english.
+
+Both ElysionE.ips and ElysionE_SRAM.ips:
+
+- 100% of the text, granted I haven't missed anything, is in english.
+
+ElysionE_SRAM:
+
+- The game's original password system has been replaced with saving and loading a password from SRAM. Only one file may be saved at a time.
+
+SRAM saving for this beta version is not perfect and has not yet been fully tested. For this reason, the game will still tell you the password even though it's been written to SRAM. The password screen, which I have hijacked for a file corrupt/empty message, also still has the password character table displayed, as blanking that out would remove the game's ability to display passwords. I suggest making a savestate when you save at an inn, just to make sure. If you encounter a password that does not save/load correctly, let me know.
+
+Currently, the code assumes if the first byte of the password is NULL, that SRAM is empty, and backs out of the loading subroutine. But it's possible that legitimate passwords that the game gives you could start with that value, although I have yet to encounter it doing so. oddly enough, empty SRAM loads just fine, but you end up with a level 1 Minos character with an invalid name that crashed the game upon NPCs trying to use it to address you. This 'valid password' and crash bug was originally in the Japanese version as well, if you entered a password completely using only the 'a' japanese hiragana character.
+
+The main reason I included a version of the English patch without my SRAM routine is so you can still continue onwards with the password you are given, if for some reason my SRAM code fails to load your game.
+
+--------------------------
+A Look Back...
+~ A Note From Tenshigami ~
+--------------------------
+
+I'm actually kind of embarrassed by the project, but proud at the same time. I worked on the project because I wanted to learn and experience rom hacking, and I wanted to challenge myself. Most importantly, I wanted to prove to myself that I could do it.
+
+And I succeeded. But the quality is far, far, FAR from professional. I should be, and indeed am embarrassed by the quality. I suppose if I ever even CONSIDER doing something like this again, I need to keep in mind that I should get someone who fluently knows Japanese to translate the script. I did ALL the work on Elysion. I had help from all the guys on the IRC channel when I hit major roadblocks that more experienced hackers wouldn't even bat an eye at. But I did all the ASM hacking, translating, and script insertion myself. And it shows. Oh GOD does it show. It may be embarrassingly amateurish, but it's finished, I did what I set out to do. And that's all that really matters.
+
+--------------------------
+Patch Revision History
+--------------------------
+0.92:
+ - Fixes a few graphical bugs caused by my meddling.
+ - My extra code should no longer barf all over the inventory when certain conditions are met.
+
+0.91:
+ - Some text was inaccurately translated.
+ - Some text in areas were improperly formatted.
+ - End game text for all 4 races has been properly formatted and text window expanded. Viskam's ending should no longer crash.
+
+0.9:
+ - Initial release
+
+--------------------------
+Legal stuff
+--------------------------
+
+Do not ask me for the ROM. Find it yourself.
+
+Elysion is Copyright 1986 Systemsoft (original PC98 version) and Copyright 1988 Tokyo Shoseki (Famicom port).
+
+English translation for the Famicom port Copyright 2008 Tenshigami Translations
+
+--------------------------
+Special Thanks
+--------------------------
+
+Klarth - Without his Atlas and ScriptCrunch utilities, this translation would have been impossible.
+
+Gideon Zhi - Elysion's DTE routine is in essence, entirely identical to his Megami Tensei DTE source code. I merely changed RAM locations and other values to suit Elysion.
+
+DarthNemesis - Helped me translate a few lines of Elysion's text.
+
+And everyone on the #ROMHacking.net IRC channel for their moral support. Without it, I would probably have given up numerous times along the way.

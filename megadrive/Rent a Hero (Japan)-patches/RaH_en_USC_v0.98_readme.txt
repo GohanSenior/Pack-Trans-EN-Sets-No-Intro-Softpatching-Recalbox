@@ -1,0 +1,78 @@
+Rent a Hero
+Patch Version: v0.98
+7th January, 2021
+
+------------------
+Continuing the work done by Paul Jensen, RedComet, and more, this is a translation of Rent a Hero!
+
+When your dad gets a new job, you move to Aero City - a place where crime runs rampant, people are suffering, and cafeterias rent out powerful armor to aspiring heroes for hire. Wait, what?
+
+After receiving a combat suit while trying to order takeout, you decide to become a Rent a Hero and use your new powers to make the world a better place... while earning some spending money on the side. You'll face the mafia, killer robots, cats with upset stomachs, guys in Godzilla suits and much more on your quest for justice. Good luck - make us proud!
+(Just remember to pay your rental fee on time!)
+
+==========================
+
+Changes (0.98):
+------------------
++Made the menu font more consistent for all options
++Corrected some mistranslations
++Added a few translations that were missed in v0.97
+
+Changes (0.97):
+------------------
++Proofreading and inserting Paul Jensen's translated script
++Additional translation, pointer correction, and finagling of the font
++Town name map graphics translated, compressed, and inserted
+
+Future Changes:
+------------------
++Fix any remaining typos/overflows (if any)
++Fix any remaining untranslated lines/missing pointers (if any)
++Localize names based of the unreleased English Xbox version (if there's a difference)
+++Make the font for the town map nicer, haha.
+
+------------------
+How to patch:
+------------------
+Grab your favorite patching program (I use Lunar IPS). Then, choose your .ips file (based on whether you want a line to refer to a console as 'Sega Genesis' or 'Mega Drive') and a copy of the deinterleaved Japanese game (I.E.: A .bin file).
+
+Once you have both, open up the program, and select Apply IPS.
+Select the patch (Genesis.ips or MegaDrive.ips) and apply it to the original ROM.
+
+Now you can play Rent a Hero...in ENGLISH!
+
+------------------
+Spot a problem in the game? Let me know and I'll try to fix it!
+Shoot an email to nikcdc@gmail.com with the following info:
+
+1) Type of problem (typo/text overflow, garbled text, game-breaking problem, etc)
+2) Screenshot of the problem
+3) Explanation of how you got the bug (savestates are nice too, if you happen to have one)
+
+Thanks for your help in making this a better release!
+
+--------------------------------------
+Special Thanks
+--------------------------------------
+A big thanks to everyone who sent in bug reports and helped with testing!
+*Paul Jensen
+*tryphon
+*BadChad
+*jobless_floppy
+*JohnnyPeachfuzz
+*Surging Aura
+*FallenAngel2387
+*Mo42
+*Diego Bottino Rivera
+*Money Goes Here
+*Griever_GF
+
+
+======================================
+A few things to note
+======================================
+
+*When in the caves, make sure you try to use the RH Bracelet at some point, as it triggers a side quest once you're far enough along in the game.
+*'Search' all sides of GlutenRamen's tomb; not all the information you need to continue the quest is shown on one side. 
+
+

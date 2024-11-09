@@ -1,0 +1,126 @@
+=================================================================
+=                                                               =
+=       Phantasy Star III Unofficial English Translation        =
+=                                                               =
+==================================================================
+
+--------------
+* Disclaimer *
+--------------
+I do not own Phantasy Star III or claim ownership of the translated material that has been included in this patch.
+I am in no way affiliated with SEGA and will not be held liable for any outcomes resulting from the use of this patch.
+
+---------
+* About *
+---------
+This is a hack of Phantasy Star III that addresses many of the game's present bugs, and also is a complete translation of the Japanese script.
+Improvements and other revisions have also been included. 
+I consider the project complete, and so it will receive no further updates unless errors are reported.
+
+To apply this patch, Lunar IPS is recommended. 
+This patch is -NOT- compatible with other hacks or modified versions of the ROM and isn't intended for such use.
+
+*The project also contains two optional patches: one restores the parallax scrolling in battle from the Japanese version; the other doubles
+the walk speed during gameplay (the original speed is used during cutscenes). First patch a clean ROM with the translation first before
+using these mods. If you use both optional patches, you need to fix the game's internal checksum by using the FixCheckSum utility.
+If issues are encountered when loading save data from before the additional patches were used, you may need to start the
+game over from the beginning.
+
+-------------------
+* Version History *
+-------------------
+Current version: v1.2
+*Please note that the translation names will be used in the notes!
+*For name differences and additional notes, please visit the translator's website listed in the credits.
+
+v1.2: (6/9/2020)
+- Another optional patch has been included alongside the main file to double the walk speed.
+(Credits go to lory1990 for the implementation and testing!)
+- Fixed a line from an NPC in Pilota/Aerone.
+
+v1.1: (5/14/2018)
+- An optional patch has been included alongside the main file for those who want the parallax scrolling restored for fights.
+(Credits go to lory1990 for provided assistance!)
+
+Please apply the mod after the translation patch.
+
+v1.0: (4/12/2018)
+[Improvement]
+- Fully translated hack of the original game! *Some item and enemy names had to be adjusted for length. 
+- The old man's dialogue on the boat doesn't repeat now.
+- Pilota's armor shop now has gear appropriate for Lein's party.
+- The chest in Lashute which originally gave the player a LaconHelm now gives a proper upgrade instead.
+- Hasataka, Foundaury and Mystoke along with its castle all now have palettes that match their respective climates.
+- Party palettes have been edited. *Some portraits (members of Eshyr's house) were altered to match character sprites.
+- Lune's enemy graphic had a palette change for his hair color.
+- Likewise, Luin's intro cutscene art had a slight recolor.
+- Blinking pixels on Lyle's walking sprite have been fixed.
+- Shin received his own sprite (an edit of Lyle's graphic).
+- Fuin also received a sprite recolor. His graphic now matches his sister's color.
+- The RNG for the speed stat in battles has been adjusted for balance.
+- New font graphics.
+- New title screen art for the subtitle, "Successors of Time" instead of "Generations of Doom".
+- The enemy called "Mideri Aschiruth" (or "Finis" in the English version) has had its palette corrected.
+
+[Bugfix]
+- The Escapipe bug has been fixed. *It still works in the beginning of the game as an Easter egg.
+- Likewise, you can no longer press UP when talking to Lena while imprisoned and glitch the game that way.
+- The poison bug has been fixed. If a poisoned character dies, the poison is now removed.
+- Equipment with healing effects can no longer be abused outside of battle.
+- Dead characters can no longer use techniques or items outside of battle.
+- The check for the party's legendary weapons works correctly now.
+- The "Pron" glitch has been fixed.
+- Mieu and Wren's item carryover bug has been fixed.
+- Shusoran's sound problem has been corrected.
+- Luin's duplicate MysteryStar that appears in his initial inventory has been removed.
+- Luise's sprite now animates correctly.
+- Warrior Luna has been given a new XP table which matches the 3rd generation protagonists due to a bug with her original table.
+- Laia (Gwyn) and Warrior Luna both have new technique growth tables. Their starting tech levels remain unchanged.
+- The shuttle SFX that runs repeatedly after the start of Luin's quest has been fixed.
+- After recruiting Dan, the Rebel Cave's encounters are now disabled as they are when you re-enter the dungeon.
+- Cille's map transfer has been corrected for Kein and Ain.
+
+---------------------
+* Translation Notes *
+---------------------
+About many character and location names:
+I realize it's very Japanese-sounding. Example: Hazatak in the original vs Hasataka used for this script.
+
+Regarding Wren/Searren:
+While I'd prefer to use Searren's full name, it's too long due to space limitations.
+For this reason, the shortened name "Wren" will have to do. 
+I'll note here that in the game, Wren is referenced not by gender, but in a neutral way (e.g. "that robot").
+
+Sean/Shin's name:
+His name was originally translated as "Shiin".
+Unfortunately, we ran into the same problem with Searren, although some options were considered.
+In the end, I was told not to worry about it and go with the shortened "Shin".
+
+
+-----------
+* Credits *
+-----------
+Peaches - Primary Hacking
+
+lory1990 - Contributions, additional hacking & testing
+Link: http://www.romhacking.net/community/3272/
+
+R. Capowski - Translation
+Link: http://www.sceneryrecalled.com/
+
+Hugues Johnson
+Link: http://ps3.huguesjohnson.com/
+While he had no direct involvement with this project, his Aridia editor was extremely useful
+for viewing palettes and drawing the new font and title screen art.
+
+-----------
+* Contact *
+-----------
+If you have any questions or comments, please send me a private message via the forums at RHDN!
+Do not ask for requests to be fulfilled; it's unfortunate, but I no longer have the time for it.
+Reporting encountered bugs or glitches is fine.
+
+If you have any inqueries about the translation itself, you can contact the translator through her site.
+(Check the credits section above for link.)
+
+Please do not upload or host this patch elsewhere.

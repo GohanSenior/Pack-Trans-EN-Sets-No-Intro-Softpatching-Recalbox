@@ -1,0 +1,206 @@
+Klonoa Heroes: Densetsu no Star Medal (English Translation) ~Klonoa Mega Chat Translation Team
+March 18, 2022
+
+---------------
+
+0. Introduction
+1. Version History
+2. Credits and tools used
+3. Fonts used with translation
+4. Supported hardware/emulators
+5. Unsupported hardware/emulators
+6. What is translated
+7. Localized puns
+8. Profanity warning
+9. Checksum
+10. SRAM patch troubleshooting
+11. 3DS Troubleshooting
+
+---------------
+
+0. Introduction
+
+This is a non-profit fan-made translation of Klonoa Heroes - The Legendary Star Medal.
+This translation is not to be sold under any circumstances!
+Please support the official releases of Klonoa and other Bandai Namco titles.
+
+---
+
+1. Version History:
+
+-1.0 (March 18th, 2022)
+-- Initial upload
+
+-1.1 (March 19th, 2022)
+-- Corrected bestiary entries for Glibz LV2 and Evil Pamela
+-- Resolved graphical glitches on speech box toggle and button configuration screens
+
+-1.1.1 (March 19th, 2022)
+-- Translated some of Guntz's vision dialogue that wasn't translated in the first two versions
+
+-1.1.2 (March 19th, 2022)
+-- Updated colors on title screen
+-- Created SRAM version of patch for use with 3DS Virtual Console and Everdrive
+
+-1.1.3 (March 20th, 2022)
+-- Updated SRAM version of patch to resolve issues with saving on Everdrive GBA X5
+
+-1.1.4 (March 27th, 2022)
+-- Updated positioning of number 7 in minifont so it doesn't overlap with number 6
+-- Corrected an issue where one moon villager's block of dialogue ends with a blank dialogue box
+
+-1.1.5 (April 6th, 2022)
+-- Corrected a line of Pango's dialogue in Volk that originally said "it wouldn't hurt to to send a message".
+-- Renamed "Volkan Army Rocket Base" to "Volk Space Force Base" to match dialogue.
+
+-1.1.6 (April 10th, 2022)
+-- Updated letter shadows for "Jugkettle Port" cutscene location indicator.
+
+-1.1.7 (June 13th, 2022)
+-- Renamed "Volkan Factory" to "Volk Factory".
+-- Corrected line of Diglo's villager dialogue where he mentions Janga's clone attack, as it used to end with a blank text box.
+-- Corrected Megaton Hammer description to remove extra pixel on G in the word "Strong".
+-- Renamed Volk Factory Area cutscene name to "Volk Factory Zone".
+
+-1.1.8 (August 23rd, 2022)
+-- Corrected typo in Glibz Phalanx LV2's Bestiary entry.
+-- Renamed Construction Zone cutscene location indicator to "Factory Zone".
+
+-1.1.9 (May 25th, 2024)
+-- Updated Diglo's villager dialogue to account for character limit.
+-- Added missing pixel back to "Priestess" speaker name.
+
+---
+
+
+2. Credits and tools used:
+
+This translation is made by The KMC Translation group
+with RayCarrot's Klonoa Heroes Patcher. https://github.com/RayCarrot/KlonoaHeroesPatcher
+
+Other tools used for the translation
+- Photoshop by Adobe
+- Firealpaca by PGN Corp.
+- Tile Molestor by SnowBro
+
+Credits - Fan Translation
+- RayCarrot - Main Programmer
+- PowerStone05 - Programming Consultant
+- StarryScarab & Altair - Script Translation
+- Altair - Proofreader and Editor
+- rcs709, Vervalkon, and Megahog2015 - Graphic Designers
+- Vervalkon and Megahog2015 - Additional Technical Art Support
+- Vervalkon - Title Screen and Menu Background Logo Creator
+
+Readme written by Megahog2015 and rcs709
+
+---
+
+3. Fonts used with translation:
+
+For SFX Letters
+- Minnie (Bundled with Mickey font)
+-- https://www.dafont.com/mickey.font
+- TikTok (For Letters E and S)
+-- by Mevstory Studio
+-- https://www.dafont.com/mevstory-studio.d8709
+
+For Village and Vision Names
+- Wild Words
+-- by Comicraft
+-- https://cofonts.com/wild-words-font-free-download/
+-- https://www.insidescanlation.com/etc/the-idiots-guide-to-editing-manga/guide/main.html (This is where Megahog2015 first found the font)
+
+For World Names
+- Segoe Script Bold (Included with your copy of Windows)
+
+For Items, Story Dialogue, Shop UI, and Momett/Mamett House Font
+- TLOZ Minish Cap / A Link to the Past / Four Swords (Recreation I believe)
+-- by David Fens
+-- https://www.fontzillion.com/fonts/david-fens/tloz-minish-cap-a-link-to-the-past-four-sword
+
+For Weapon/Armor Descriptions on customization screen
+- Pompy Mini
+-- by erengazioglu
+-- https://fontstruct.com/fontstructions/show/2014697/pompy-sans-1-1
+
+---
+
+4. Supported hardware/emulators:
+
+- Everdrive GBA X5 and X5 Mini (use "Klonoa Heroes SRAM" patch instead of regular patch, and remember to enable Quick Boot in the flash cart options menu)
+- EZFlash Omega, Original and Definitive Editions (use "Klonoa Heroes SRAM" patch instead of regular patch)
+- GBA Virtual Console on 3DS (use "Klonoa Heroes SRAM" patch instead of regular patch)
+- Lemuroid (Android)
+- mGBA (PC, Mac, 3DS, Linux, and Retroarch. Other versions haven't been tested yet)
+- My Boy (Android)
+- SuperCard SD
+- Pizza Boy GBA (Android)
+- Visual Boy Advance (PC)
+
+---
+
+5. Unsupported hardware/emulators:
+
+- GBARunner2 on DS and DSi
+
+---
+
+6. What is translated:
+
+- Everything aside from character voices (played during visions) and the lyrics for the song "Sign of a Hero". For the former, each voice sample is accompanied by a speech bubble containing the written-out lines (which we translated).
+
+---
+
+7. Localized puns:
+
+- During one cutscene in World 2, while looking through a treasure deposit, Guntz finds a few guns that allow him to learn his first special move, Shinigami Fire. In the same cutscene, Klonoa finds another treasure that Karal says is called Chirigami (Tissue) Fire, used for blowing one's nose. Because we ended up translating Guntz's move name to Death God Fire, we had to change this pun to match; Klonoa now finds a bottle of what Karal calls Breath God Fire, a type of mouthwash.
+
+- At one point in the Sky Temple, Klonoa's impressed that Pango has a silver medal (ranked higher than his and Guntz's medals), and asks if he can admire the pangolin. Pango responds that no admiration was necessary, making a dad-joke out of it. This pun's a bit harder to explain in English, but basically:
+-- "Sonkei" = admiration
+-- "Son na koto nai" = not really
+-- What Pango said here is: "Sonke koto nai" (a corruption of the two phrases). Because this corruption couldn't be translated well into English, we ended up swapping it out with a different kind of dad-joke. Basically, Klonoa just says he's amazed, and Pango replies "Hi 'Amazed', I'm Pango!"
+
+---
+
+8. Profanity Warning:
+
+We're aware that Japanese profanity works differently from English profanity. However, in order to convey the effect of the original dialogue, and to avoid making players feel like we watered it down, we decided to use equivalent English profanity (including two instances of the F bomb, both from Guntz) in our translations, with the assumption that we're going for a Teen ESRB rating. Because of this, player’s discretion is advised, especially for younger fans of the Klonoa series.
+
+---
+
+9. Checksum
+
+This hack works best with an unaltered copy of the Japanese rom. The MD5 checksum is provided here.
+
+Original ROM MD5 - '46D2A77E4FD8429E6B7BF79C0679770E'
+Regular BPS Patch MD5 - 'B1DD24809E7767239CB62393EB861B45'
+Regular Patched ROM MD5 - '32AFDD172D30D7E52C195A655FE06DDF'
+SRAM-modified BPS Patch MD5 - 'D6E7D73C75C27E7DD1D5FBB63D030FE8'
+SRAM-modified Patched ROM MD5 - 'E9951288FFF886A41BF1873A22B8DE3E'
+
+------
+
+10. SRAM patch troubleshooting
+
+If you find that your ROM will not work on your desired hardware after installing our SRAM patch, please follow these steps below:
+
+- Download the GBATA tool (https://no-intro.org/tools.htm)
+- After patching your Japanese Klonoa Heroes ROM using the non-SRAM patch, use the GBATA tool's SRAM patcher to patch your game
+- When selecting the patched ROM you just created, remember to manually change the save type to SRAM in the ROM's settings (the method to do this may vary depending on what flash cart you're using)
+
+A video test of this method can be found here: https://www.youtube.com/watch?v=f07FtkCul5A
+
+------
+
+11. 3DS Troubleshooting
+
+If you find that the SRAM-patched ROM will not work on 3DS after converting it to a cia file and injecting it, please follow these steps below:
+
+- Turn off your Nintendo 3DS
+- While holding the SELECT button, turn on your 3DS
+- Keep holding SELECT until you see the Luma configuration menu
+- Make sure the "Show GBA boot screen in patched AGB_FIRM" option is turned off (there will be no x in the parenthesis to the left of the option)
+- Press START to save your changes and return to the HOME menu
+
+------

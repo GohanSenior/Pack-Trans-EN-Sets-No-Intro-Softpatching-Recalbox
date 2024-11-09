@@ -1,0 +1,57 @@
+===============Columbus: Golden Dawn =================
+========================V1.02=========================
+Genre: RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha
+
+E-mail: aishsha@gmail.com
+ 
+
+ 
+======================================================
+Version 1.02 changes:
+Problems with the monster names solved.
+The script was slightly corrected and read through for 
+errors and contradictions, so it should look 
+practically perfect (at least I hope so :))
+Some other slight display problems solved. 
+
+Background: Well, it was my first try to translate a
+Japanese game and I did not even imagine that it'd be
+completed.
+The game is fully translated and thoroughly tested.
+It uses sort of a "costricted" font - that was the 
+only way to get at least SOME additional space
+without serious ASM work, so don't be afraid of that.
+The game itself is not a masterpiece but still fun
+to play through and somehow reminded me of 
+Uncharted Waters series.
+Use a patching IPS utility of choice to apply the
+patch.
+Any comments and proposals would be highly 
+appreciated - if you find any mistakes or errors -
+please, let me know.  
+
+
+
+======================================================
+
+Credits go to:
+
+saito - for getting my hooked onto this and all his help all along.
+
+MegamanX - for his aid at the first steps of this project.
+
+Shmu-Hadron - for his help with the title screen. 
+
+Gideon Zhi - for Romhacking Bible, which was my first tutorial, after all. 
+
+ASchultz - for his perfect read-through (thanks again, man!)
+
+All those who contributed into this process.
+
+======================================================

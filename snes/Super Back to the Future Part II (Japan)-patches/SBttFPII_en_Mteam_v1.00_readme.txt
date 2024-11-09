@@ -1,0 +1,21 @@
+Super Back to the Future 2 v1.00
+
+English patch: mteam romhacking group, 2012
+http://mziab.grajpopolsku.pl
+
+Authors:
+Norek - original translation from Japanese to Polish
+mziab - reprogramming, graphics, retranslation to English, editing
+
+What's translated:
+- all of the text and graphics
+
+Patching instructions:
+The patch should be applied to the headerless Japanese rom
+labeled Super Back to the Future Part II (J) in GoodSNES,
+the size of which should be 1048576 bytes.
+
+Feedback:
+Any questions regarding the translation or bug reports should be directed
+to mziab@o2.pl. In the latter case, a screenshot or save state would be
+most helpful.

@@ -1,0 +1,77 @@
+*******************************************
+*Hotman                                   *
+*Original Title: (Hottaman no Titeitanken)*
+*NES/Famicom                              *
+*English Translation: version 1.0         *
+*******************************************
+Get the latest version at:
+
+http://come.to/sixfeetunder
+
+A Six Feet Under Translation
+
+Translation & Hacking : Six Feet Under
+Title Screen : InVerse
+
+Quick Instructions
+------------------
+
+D-Pad  =  Moves Hotman around the screen
+A      =  Fires Hotman's gun
+B      =  Uses the currently selected item
+Select =  Switches between items
+Start  =  Pause
+
+
+Introduction
+------------
+
+Hotman is a Dig Dug-ish action game that is pretty addictive and is worth at least playing once, it's one of those classic games that is just plain fun to play.  
+
+The object of the game is to get enough keys to open the doorway to the next level.  You obtain these keys by opening trasure boxes scattered around the level.
+
+There are a few powerups in the game.  You pick up powerups scattered around the level and in eggs and treasure boxes.  You can collect multiple items, which are indicated by a letter in the upper left corner.  You can switch between items by pushing select, and use them with B.
+
+This game really doesn't need a translation in order for it to be enjoyable, but why not?  Besides, it's a good excuse to play it :)
+
+BTW - Yeah, I know that a literal translation of the title would be Hotterman, or Hottaman, but for the sake of not making the name sound stupid, I'm cutting it down to Hotman.
+
+Use ips.exe or snestool to patch the rom.
+
+DO NOT ASK ME FOR THE ROM!! I will ignore all rom requests.  
+This rom isn't very common, but you'll find it if you know where to look.
+
+
+Progress
+--------
+
+6/1/99
+v 1.0
+
+Well, this should be the final version, maybe.  I say maybe because there is still quite a bit of text in the rom.  I translated most of it, but left some untranslated so it's easier to spot if it shows up in the game.  I've played through the entire game multiple times and have never come across this text, so I'm assuming it is unused.  If anyone finds it, let me know, and I'll fix it.
+
+Great title screen by InVerse.  It came out looking really good, and to be honest, the title screen was probably more work than the translation itself since there's not a whole lot of the text in the rom that actually shows up in the game...
+
+4/24/99
+v .1
+
+Spent half an hour and made translations of all text I could find during gameplay, and roughly inserted the text into the rom, I'll make it fit better, clean it up and lengthen the text later.
+
+There is a lot more text in the rom, and I've translated, and inserted some of it, however, I can't find it anywhere during gameplay.  The words "Command", "Power Up", and "Stage" were repeated many times in the rom, so if you come across this, or ANY untranslated text in the game, PLEASE tell me what to do to get to it, or better yet, send me a savestate of it.  I've played through about half of the game, so it may appear towards the end.
+
+
+Contact/Thanks
+--------------
+
+Special thanks to InVerse for the great title screen, it looks a lot better than I was expecting.
+
+Thanks to anyone who helped me when I was initially getting into rom hacking, and to anyone that helps me now or in the future.
+
+Please contact me at s1xftunder@hotmail.com with questions, comments, feedback, bug reports, etc...  Also, if you are working on a hacking/translation project, I'll more than likely be happy to help out as long as I'm not already involved in something.  I welcome all feedback, positive or negative, but if you send negative feedback, please give me a reason why it sucks, so maybe I can make it not suck...
+
+-Six Feet Under
+
+ (http://come.to/sixfeetunder)
+ (s1xftunder@hotmail.com)
+
+-1999, Six Feet Under

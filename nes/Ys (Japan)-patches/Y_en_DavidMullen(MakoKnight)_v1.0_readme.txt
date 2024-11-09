@@ -1,0 +1,95 @@
+Ys NES English Translation
+Version 1 - March 25, 2000
+Created by David Mullen
+http://www.geocities.com/makoknight.geo/
+
+
+-----------------------------------------------------------------------
+Credits and Thanks
+-----------------------------------------------------------------------
+
+Jeremy (M'Rhan) - Head of Kakkoii Translations. He offered to give the
+   Japanese scripts to his friend to translate. Without him, there
+   would be no translation.
+
+??? - Jeremy's friend, who translated the scripts. This person wishes
+   to remain anonymous.
+
+Varkon and Tetsuya - Translated the item list when I posted it on the
+   CTC Board.
+
+TheFreak and (wraith) - Volunteered for the beta testing.
+
+Zackman - For taking the time to translate some of the script at the
+   beginning, when no one else would look at it.
+
+All the creators of hacking documents and utilities, because it was
+that knowledge and array of tools that made this possible.
+
+
+-----------------------------------------------------------------------
+Notes
+-----------------------------------------------------------------------
+
+I began working on Ys in August 1999, during a waiting period on
+Romancing SaGa 1, another project I'm working on. I wanted to do it
+for two reasons: to see if I could actually translate a game and do
+all the hacking work myself, and because I love the Ys series. I had
+made quite a bit of progress, figuring out everything about the text
+storage with my mediocre romhacking knowledge. But the biggest setback
+was the simple fact that no one wanted to translate the scripts. It
+sat on my desk for about seven months before I got a break. After
+giving Jeremy a little help with his own translation, he offered to
+help me by taking those scripts to a friend of his to translate.
+Within a few weeks, I had all of them back, completely translated. And
+after a few more days, it was completely inserted.
+
+This is the result of everyone's work, and I hope you enjoy it as much
+as I enjoyed working on it.
+
+
+-----------------------------------------------------------------------
+Instructions
+-----------------------------------------------------------------------
+
+The file "ys1e.ips" must be patched to the original ROM image to play
+this translation. Any IPS patching utility should work. Two commonly
+used utilities are IPS.exe and Snestool. You can find these two
+programs at most emulation websites.
+
+*** Always keep a backup of the original ROM image. ***
+
+To use IPS.exe, run this at a command prompt:
+
+IPS <ROM NAME> <IPS NAME>
+
+Snestool has a graphic interface that makes it easier. After starting
+it, select "Use IPS", then select the IPS file, then the ROM image
+that it should be used on.
+
+The game has been thoroughly tested using the BioNES emulator, but I
+believe it will also work on the latest beta of NESten. I haven't had
+a chance to test it on NESten, since my computer doesn't seem to agree
+with it. Other emulators such as NESticle and FWNES have some
+graphical glitches when running Ys.
+
+
+-----------------------------------------------------------------------
+DISCLAIMER
+-----------------------------------------------------------------------
+
+Ys is (c)1987,1988 Nihon Falcom. This work is unofficial and is not
+supported by them.
+
+This patch may be freely distributed, as long as:
+ - The patch remains unmodified
+ - This readme file accompanies the patch
+ - The ROM image is not distributed with this patch already applied
+
+This patch is not for sale, and is not to be exchanged for money,
+goods, or services of any kind.
+
+I won't be held accountable for any damage or undesirable side-effects
+this patch may create. Use it at your own risk.
+
+

@@ -1,0 +1,60 @@
+NAGAGUTSU WO HAITA NEKO -
+SEKAI ISSHUU 80 NICHI DAIBOUKEN (NES)
+Translation by Psyklax
+v1.0 (20170706)
+
+CONTENTS
+1. Intro
+2. ROM Information
+3. Final Thoughts
+
+INTRO
+This is a 100% English translation of Nagagutsu wo Haita
+Neko - Sekai Isshuu 80 Nichi Daibouken for the Famicom
+(NES). The only Japanese text present in the game is the
+title screen and a kanji in-game that represents 'day'. Both
+of these were translated (the new title is Puss In Boots -
+Around The World In 80 Days), and some English spelling
+errors in the game were also corrected.
+
+ROM INFORMATION
+GoodNES name:
+Nagagutsu wo Haita Neko - Sekai Isshuu 80 Nichi Daibouken (J) [!].nes
+CRC32: A78475E9
+
+FINAL THOUGHTS
+There's really not much to say about this: unlike most of my
+translations, the title screen was a large of the work, and
+I drew it myself. It's not the best, I know, but it could be
+worse. I'm not 100% happy with the spacing, but I had to
+crowd the elements closer together because I couldn't fit
+any more in the code inside the ROM without some extra work,
+so I took the easy way out.
+
+One thing that I thought would be simpler at first glance
+was the one other bit of Japanese in the game: it uses the
+kanji for 'day' next to the day counter. I figured I wanted
+to have 'days' instead of this one character, but to do this
+I had to write a whole routine in ASM to check if the 'day'
+tile comes up and write ' days' (with the space) instead. I
+was pleased to see my efforts were rewarded. I had to move
+the timer across the screen a touch - don't want to enter
+the dreaded Overscan Zone - but there's so much space at the
+top that it's no problem.
+
+Finally, the names of places had some typos, which I fixed.
+I can understand 'Paciphic Ocean', but 'Alask'? Anyway,
+that's all done now.
+
+So, this was a very quick project indeed, but I hope you
+have fun. It's a pretty brutal game, though.
+
+Tools I used for this translation:
+FCEUX (best NES emulator for debugging and hacking)
+HxD (general hex editing)
+WindHex32 EX (checking text)
+Tile Molester (graphics)
+GIMP (designing the title screen)
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

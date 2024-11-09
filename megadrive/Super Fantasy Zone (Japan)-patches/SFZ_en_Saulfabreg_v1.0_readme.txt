@@ -1,0 +1,52 @@
+============================
+Super Fantasy Zone
+============================
+
+ENGLISH translation v1.0
+
+by saulfabreg (c) 2021
+
+With this "translation" patch you can play the game "Super Fantasy Zone" for
+Sega Genesis / Sega Mega Drive in English (only text and menus are in English).
+
+There are two patches: "superfzone-J-EN-v1.0.bps", which is for use with the
+original Japanese ROM file of the game, and "superfzone-U-GenMini-EN-v1.0.bps",
+which is for use with the "American" (USA) Genesis Mini / Mega Drive Mini ROM dump
+of the Japanese game.
+These ROMs must be in ".bin" format. It also works in ROMs that are in ".md" format.
+
+---
+The patches must be applied in the following roms:
+---
+
+Patch file: superfzone-J-EN-v1.0.bps
+Rom name: Super Fantasy Zone (Japan).md
+CRC32: 767780D7
+
+---
+
+Patch file: superfzone-U-GenMini-EN-v1.0.bps
+Rom name: Super Fantasy Zone (USA) (Ja) (Genesis Mini).md
+CRC32: D97D913D
+
+---
+
+OTHER NOTES:
+
+The game has not been translated, the Japanese version of the game has the English
+language hidden, it is curious that they did not activate it in the Mega Drive version,
+but by modifying the "region" of the ROM file from 'Japan' to 'USA'
+internally in a hex editor it was possible to have the game in English following
+a "region change" tutorial from a random user in Reddit "r/MegaDrive".
+
+Now, this translation is now in patch form to make it easier for you.
+
+The European version was launched in English, but it runs slow (PAL50 / 50Hz),
+so I decided to have the English version of the game in real full speed, so I
+found that the "English" hidden language of the Japanese version will
+also run in NTSC / 60Hz.
+
+Enjoy this patch!! :)
+
+
+- saulfabreg

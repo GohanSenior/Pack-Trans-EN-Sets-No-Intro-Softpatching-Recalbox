@@ -1,0 +1,96 @@
+ ___ __    __   ___   ___    __    __   _   __
+|   v  \  /  \ |   \ /   \  /  \  /  \ |_| /  \
+| .  .  || || || .  || ^  || |\_|| || |   | \\_|
+| || || || || || || || || || |   | || |   \  \  
+| || || || || || || || || || | _ | || |    \  \
+| || || || || || || ||    || |/ || || |   |\\  |
+|_||_||_| \__/ |_||_||_||_| \__/  \__/     \__/
+ ___  ___   ___ __   _  _   _  _
+|  _|/   \ |   v  \ | || | | || |
+| |_ | ^  || .  .  || || | | || |
+|  _|| || || || || || || | | || |
+| |  | || || || || || || |  \_  |
+| |  |    || || || || || |____| |
+|_|  |_||_||_||_||_||_||_______/ traduzia.blogspot.com
+  __    __   ___ __   ___   _  _  _____  _  ___    __
+ /  \  /  \ |   v  \ |   \ | || ||_   _|| ||   \  /  \
+| |\_|| || || .  .  || || || || |  | |  | || .  || |\_|
+| |   | || || || || ||  _/ | || |  | |  | || || || | _
+| | _ | || || || || || |   | || |  | |  | || || || |\ |
+| |/ || || || || || || |   | || |  | |  | || || || |/ |
+ \__/  \__/ |_||_||_||_|    \__/   |_|  |_||_||_| \__/
+
+                      P R E S E N T S
+ 
+                      Holy Diver v1.0
+                      _______________
+
+                    28th of April, 2007
+
+1.About the Game
+2.Controls
+3.About the Patch
+4.Staff
+5.Contact Us
+6.Disclaimer
+
+________________
+1.About the Game
+________________
+
+What's bad in a game offering a mash-up of Castlevania, Metroid and '80s Heavy Metal?
+Almost nothing, I dare to say. Holy Diver premiered in 1989, and while its primary source
+of inspiration comes from Konami's classic dark series, you won't be whipping the undead
+in this neat action game. Instead, the main character Randy R. Crimson sports a range of 
+attacks similar to Samus Aran's ones.
+
+The game also draws a few elements from Ronnie James Dio's eponymous video, such as
+Randy's attire, a ruined church for its first level and some red-hooded cultists.
+Some of you will even spot a few classic Heavy Metal references and tributes.
+
+Holy Diver can be pretty unforgiving at times, but that was a common occurrence in games
+back in the day. The game has unlimited continues and plenty of extra lives, so it's not
+that of a challenge. Enjoy!
+__________
+2.Controls
+__________
+
+Here are the basic controls for Holy Diver.
+
+D-pad: Move Randy around, hold up and press A to fire upwards.
+A: Jump
+B: Fire
+Select: Toggle Magic On/Off
+Start: Open the Subscreen
+
+_________________
+3.About the Patch
+_________________
+
+v1.0 Release Notes:
+
+This translation will not be remembered for its technical achievements.
+In fact, it's a simple job almost any hacker can pull off.
+It's my first English translation ever, and also the first in almost
+5 years of inactivity, so I chose this game to get some old blood pumping back.
+I'm also a sucker for the Famicom and its glorious history of translations alike.
+Let's not forget the toaster!
+
+Holy Diver has a nice gothic font with some 8x16 letters, but in this release
+I opted to replace it with the Dracula's Curse one to circumvent some space issues.
+I'll probably restore (and correct) the original one in a later release. 
+_______         
+4.Staff
+_______
+
+Hacking, Translation and Editing: Monaco
+____________
+5.Contact Us
+____________
+
+Ouch! Did you find a bug? A glaring typo? Drop me a line at mog_tom@yahoo.it
+____________
+6.Disclaimer
+____________
+
+Holy Diver (c) 1989 Irem Corp.

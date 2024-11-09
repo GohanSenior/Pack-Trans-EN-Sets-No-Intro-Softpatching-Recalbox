@@ -1,0 +1,105 @@
+
+
+      MM    MM  OOOOOO   AAAA   IIIII       K   K   U    U   NN     N  
+      M M  M M  O    O  A    A    I         K  K    U    U   N N    N  
+      M  MM  M  O    O  A    A    I    ===  K K     U    U   N  N   N    
+      M      M  O    O  AAAAAA    I         KK      U    U   N   N  N  
+      M      M  O    O  A    A    I         K  K    U    U   N    N N  
+      M      M  OOOOOO  A    A  IIIII       K    K   UUUU    N     NN  
+
+
+                                 Moai-Kun
+                           English to Japanese
+                               Translation
+                                 v. 1.00
+                
+
+------------------------------- DEDICATION -------------------------------
+ 
+This translation is dedicated to Reijin cuz he asked first and cuz I only
+spent about 2 1/2 hours on the whole thing, so there's no point in taking
+the time to write a dedication to someone that's actually worth dedicating
+it too... not that Reijin isn't worth it, cuz he's pretty damn good gay
+cybersex0r... or so I've heard, I don't know from experience!
+
+--------------------------- TABLE OF CONTENTS ---------------------------
+
+    I. Dedication
+   II. Table of Contents
+  III. Introduction
+   IV. History
+    V. Staff
+   VI. Tools
+  VII. Patching Instructions (**READ THIS BEFORE ASKING QUESTIONS!)
+ VIII. Contact Information
+   IX. Closing
+
+------------------------------ INTRODUCTION -----------------------------
+
+ Ok, so it's not much of a translation, but it's a damn 'leet game. You
+ play as some mutated Q-bert wannabe and you have to run around and save
+ all your boogers while avoiding tons of enemies and making sure to leave
+ a path to the escape door which is inconveniently located wherever it'll
+ be the biggest pain in the ass to reach.
+
+ The ever elite Tukka Yoot & myself did a review of this game many moons
+ ago on my old site The Arsenal. It ended up being the first & only ROM
+ of the Randomly Determined Period of Time, so I've included that review
+ for your reading enjoyment. Also, thanks to Toma for lending me the font
+ without his knowledge.
+
+-------------------------------- HISTORY --------------------------------
+
+ v. 1.00 - January 11, 2000
+
+ What's Complete
+  - all text translated (I believe.)
+  - minor graphics hacks (Title Screen & Font)
+
+ What's Incomplete
+  - nothing that I'm aware of
+
+--------------------------------- STAFF ---------------------------------
+
+ Hacking - InVerse - http://www.pigtails.net/ST
+ Font Design - Toma - http://www.spoony-bard.com
+
+ I got really bored, felt the urge to do a title hack and grabbed this
+ ROM because it's a really kewl game and I figure maybe a few ppl might
+ play it this way that might not have even heard of it otherwise.
+
+--------------------------------- TOOLS ---------------------------------
+
+ The following tools were used for this translation:
+
+  Hexposure: hex editing for translation and graphic maneuvering
+ Tile Layer: graphics hacking
+   Nesticle: some graphic hacking
+  SNES Tool: patch creation
+  
+-------------------------- PATCHING INSTRUCTIONS ------------------------
+
+ Patching a ROM is extremely simple. You need three things. A ROM,
+ the patch and a patching program. To patch with IPS, you simply
+ type "ips <ROM name> <patch name>". So if the name of the ROM was
+ HKFS.nes you would type "ips HKFS.nes HKFS.ips" and your ROM is now
+ in English. Make sure you have all the files in the same directory
+ if you have a problem.
+      To patch a ROM with SNES Tool, simply select USE IPS, choose
+ the patch and then choose the ROM to affix the patch to. It's self
+ explanatory. If you can't figure it out, the game is probably too
+ hard for you anywayz.
+
+--------------------------- CONTACT INFORMATION -------------------------
+
+ The official Hello Kitty's Flower Shop home page is currently located
+ at http://www.pigtails.net/ST
+
+ E-Mail addresses concerning the project can be located on the 
+ official page.
+
+--------------------------------- CLOSING -------------------------------
+
+ So there you have it. Have fun and remember. It's just a game.
+
+ -InVerse

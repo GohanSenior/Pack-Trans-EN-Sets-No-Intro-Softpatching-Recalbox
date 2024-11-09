@@ -1,0 +1,132 @@
+Super Shell Monsters Story(-I) Translation V1.00
+http://www.dynamic-designs.us/
+
+
+Introduction
+
+Japanese Developer – Birthday
+Japanese Publisher – Hudson Soft
+Japanese Release – December 22, 1994
+Japanese game name – Daikaijuu Monogatari (?????)
+English Patch Production – Dynamic Designs (Formerly Magic Destiny & Stealth Translations)
+Initial English Patch Release – May XX, 2015 (V1.00)
+
+Emulation
+
+The staff of Dynamic Designs (D-D) is not recommending an emulator.
+
+We have tested this game extensively in ZSNES, SNES9x, and an SNES9x-based emulator ported to the Windows phone. We encountered no difficulties playing the game while starting from simulated battery saves (SRMs).
+
+Real Hardware
+
+Although not tested, D-D anticipates no difficulties playing patched ROM images on the SNES consoles or copier equipment.
+
+Huge Caveat! 
+
+Starting or resuming game play from save-states is NOT recommended by D-D, especially in scenes that require inputting data to advance the game. Do this at your own risk, for correct data entries may not be recognized by input targets if starting the game from a save-state.
+
+If a player does not heed our advice, he or she may be able to rectify the problem by resetting the game.
+
+1. Go to the nearest location that allows a battery save (aka in game save), and do so.
+2.  Shut down the game and emulator entirely.
+3.  Start and load from the in battery save (aka in game save (not emulator save state)) this time.
+4.  Return to the data entry point and try again.
+
+Dedication
+
+Byuu, Gerb, and DaMarsMan, for their original work in the abandoned project.
+Taskforce, for rescuing this D-D translation project from limbo.
+
+Rom information
+
+Rom specifications as per NSRT’s scan:
+
+Internal ROM Info
+
+File: DKM.smc
+Name: Super Shell Monsters1
+Company: Hudson Soft
+Header: None
+Bank: HiROM
+Interleaved: No
+SRAM: 64 Kb
+Type: Normal + Batt
+ROM: 32 Mb
+Country: Japan
+Video: NTSC
+ROM Speed: 120ns (FastROM)
+Revision: 1.0
+Checksum: Bad 0x7142 != 0x1C07
+Game Code: ADKJ
+Hashes: CRC32 E74458E5
+MD5: 49999EE84880E912A3016C7E90DFABAE
+
+Patching Information
+
+Due to Red Soul being on hiatus – the person who normally assembles this information in great detail – we are not including patching directions in this document. If you cannot find the assistance you need elsewhere, we welcome you to post your issue in our SSMS-I forum, where we’re almost certain someone will help. 
+
+Super Shell Monsters Story(-I)’s Plot
+
+In a mystical world far away, a legendary race of beings called Shell Monsters dwell. These are not those sorts of monsters that threaten other life forms, though. Just the opposite. Instead, these special “people” live extremely long lives and enjoy mysterious powers that certain heroes – sometimes reluctantly – use against tyrants that threaten the peaceful existence of their World of Shelldorado!
+
+Such a threat has arisen recently – a fiend known as “Fat Badger – and Elder Hermit Crab of Shell Village is about to invoke an ancient chant that elders must memorize, to summon a human hero from another world that is quite distant from Shelldorado. Soon, the perplexed would-be hero, whether he wants to or not, will embark on an ocean voyage in the flimsy Puka shell craft, hoping to locate his madcap shell hero companions who somehow seem to be drifting far afield from their assigned duties!
+
+SSMS-I Is a Highly Complex Game - Potentially
+
+A simple play would entail using the same four fighters and moving as linearly as possible through the necessary wickets to the final battle and ending credits.
+
+However, to use all of the fighters and view the story through their eyes would entail playing the game four separate times.
+
+To gain the best equipment for all of the fighters and play all of the possible sub quests would require additional game plays that would consume considerably more time while playing these additional games. Or, a player may chose to switch fighters frequently and try to cover the same territory multiple times.
+
+However, if a player has triggered game-advancing scenes at those previous locations, a fighter visiting those locations for the first time will not necessarily speak what he or she would have spoken had that fighter been a member of the party when it encountered those scenes originally.
+
+To view all of the dialogue that is possible in this game would require a large number of game plays we could not even begin to calculate because one fighter or NPC might not utter a possible line or lines unless a certain pair or even a trio of fighters are present in an active party at the same time in the right place at a certain point in the story!
+
+Therefore, we expect lots of reports on combination of fighters in certain events that we have never encountered previously. Do not be shy about posting such glitches and/or overruns of text reports on our SSMS-I forum because this will help us fine tune the story in ways that weren’t practical while engaged in our customary beta testing procedures.
+
+My math may be off, but I daresay the probability of two gamers choosing the same exact SSMS-I approach is about the same as two people picking identical brackets for the NCAA basketball tournament!
+
+This is the most complicated game of convoluted possibilities that we’re released since Chaos Seed – where the major differences entailed mainly dungeon building schemes and question answering – not almost infinite character-driven variations!
+
+General Tips and Helpful Information
+
+There are typically two game maps in your inventory.  If someone tells you that something is located on your map and you don't see it, be sure to check the other map.  They will tell you which map but it is pretty easy to forget about having two maps if they are separated in inventory.   
+
+There might be places in the game where there are dungeons located behind towns or other such things you enter.  Remember that in those cases, that if you enter the town and exit that you can then move on beyond the town.  It will not make you re-enter the town unless you step off of it and back on it.
+
+Staff
+
+Coordinator: Wildbill
+Coding, Assembly, and Tools: Bongo`
+Primary Translator: Gerb
+English Story Writer: Wildbill
+Font improvements: Taskforce
+Splash Screen: Taskforce (design)  Bongo` (insertion code)
+SSMS-I Title Page: FlashPV
+Final Quality Assurance: Draken and Taskforce
+Early Work: Byuu, DaMarsman, and Gerb
+Translation Support: Filler
+Translation Support: Wildbill
+Script Dump: Byuu
+Beta Testing: Nate
+Beta Tester: Draken
+Beta Tester: ultpaladin
+Beta Tester: Taskforce
+Beta Test Support: Garrett
+Beta Test Support: Red Soul
+Battle Icons: Derrick Sobodash
+Original Byuu Project Title (unused in our work): ghettoyouth
+
+Special Thanks:
+
+Taskforce, for performing the final, critical beta test that was delaying a release!
+
+Gerb, for checking in and also contributing major translation support to the sequel of this game, also a D-D translation project – currently in production.
+
+Byuu, for coding the first framework to build an English patch.
+
+DaMarsMan, for his contributions to the original but abandoned project.
+
+
+-Wildbill – May 13, 2015

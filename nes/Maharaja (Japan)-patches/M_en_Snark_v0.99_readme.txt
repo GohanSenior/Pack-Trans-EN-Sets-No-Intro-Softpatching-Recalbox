@@ -1,0 +1,133 @@
+Maharajah translation patch and name guide 2009. the snark.
+Original game is c. 1988 Sunsoft / Famicom. 
+Please do not reproduce, distribute, or modify.
+Enjoy! :) www.boojumsnark.com 
+ 
+**Beta Patch**
+The following is a translation patch for the entire game, 
+feel free to send in typo and formatting reports.      
+
+The spells, monsters, and some item and place names are abbreviated due to space limitations and may be modified for completion at a later date.  A Spell and Monster Guide is 
+included to spell out proper names.  
+
+Story:
+
+Long ago in ancient India, by the banks of the river Ganges, you uncover the Maharajah's golden box. After you awake in the palace after the celebration, the princess warns you that you will be sacrificed to the Demon Ravana by the Sorceror Indrajeet! Ganesh, Shiva, and the Sages guide you through this adventure RPG where you learn magic mantras, defeat denizens of dungeons and jungles, 
+and prepare divine weapons to defeat Ravana in Lanka Tower!
+
+******************************************************************
+Spell and Monster Guide: 
+
+*References from Mahabharata  "The Great Epic of India."
+
+MONSTERS:
+
+Kabanda: A Rocklike demon that is full of strength but short 
+on brains. 
+
+Bhuta: An axe wielding ghost that returns from the dead for revenge! Beware his fireball attack!
+
+Preta: A souless husk that floats overhead. 
+
+Pisacha: A lifeless husk that drains your life! Beware! 
+
+Yaksha: A Blue demon guarding gold and gems with two sabres.
+
+Yakshasa: A Red guarding gold and gems with two sabres.
+
+Vasuki: A many headed hydra that guards treasures of the Taraka Towers.
+
+Karya:  A fire-breathing hydra that guards treasures of the
+Taraka Towers.
+
+Naga: A man-serpent an ancient underwater race. 
+
+Nagini: A woman-serpent of an ancient underwater race. 
+
+Kadori: Queen of the Nagas, beware her slicing scimitars!
+
+Mahish: Armored with nails beware its slicing hand attack!
+
+Mashishi: This bull-headed demon hits heavily! 
+
+Cobra: Slithering, defeat it before it sneaks away!
+
+Tricobra: This three headed foe can strike three times! Watch its chakra attack and healing mantras.
+
+Tiger: Stalks the jungle.
+
+Bengal: Beware its fangs and claws!
+
+Siberian: This icy import can strike three times.
+
+Valin: A mad ape king that usurped his brother Sugriva's throne
+far away in the jungle monkey Kingdom.  
+
+Putana: A poisonous demoness! 
+
+Surpanka: Beware this demoness who can appear as a defenseless 
+damsel...but cracks a whip!
+
+Rahu:  A bodiless head that wander's Ravana's castle. 
+
+Ketu: A headless body that stalks Ravana's castle. 
+
+Trinavarta: A tornado devil..watch his Chakra light wheels!  
+
+Kumbakarna: A strong warrior that wields a golden mace and an 
+ugly mask! 
+
+Taraksasa: The youngest demon son of Taraka who awaits in an iron tower. 
+
+Kamalaksa: The middle demon son of Taraka who awaits in a silver tower. 
+
+Vidunmali: The eldest demon son of Taraka who awaits in a golden tower. 
+
+Taraka: The Taraka Demon awaits only if you are strong enough to 
+defeat all of his demon sons. You can only defeat him if you have re-assembled a magic bow and arrow! 
+
+Vibishna: The Demon kinsman of Ravana and Indrajeet...use his discontent to your advantage...
+
+Indrajeet: A wicked Sorceror and son of Ravana! Beware his arrows 
+and mantra of death!  
+
+Ravana: The embodiment of evil! Wields ten weapons in his many monstrous arms. He awaits in his castle far beyond in Lanka Tower. 
+His weakness is a mystery... 
+
+****************************************************************
+SPELLS:
+Learn these Magic Mantras from Shiva as your Experience levels 
+increase, but beware! Your opponents are also skilled in the arts of these mantras!
+
+Kalpa: Warp through time and space to other areas of the game. 
+
+Rudra: Restore HP.
+
+Agni:  A Blazing ball of fire. 
+
+Ananta: Freeze your opponent in time. 
+
+Hare: Banish your opponent permanently to outer darkness!
+
+Maya: Cloud your opponent's mind in illusions. 
+
+Vajra: Hurl lightning bolts at your opponent.
+
+Shakti: Absorb your enemies' HP and boost your own!
+
+Chakra: Shoots wheels of light at your foes. 
+
+Bairava: Bolster your offensive strength!
+
+Shani: Reflect your enemies deadly mantras back at them, 
+and break their healing mantras!
+
+Mahashakti: Absorb sizable sums of enemy HP!
+ 
+Preta: The Mantra of death, watch your oponent become a lifeless husk. 
+
+Sairudra: Restore all HP! 
+
+Chakram: Shoot infinite light wheels at the enemy!
+
+ 

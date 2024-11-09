@@ -1,0 +1,129 @@
+Digimon Adventure 02: D-1 Tamers
+Version 0.97
+24 MAY 2021
+-Nikc
+
+==================================================
+|Description
+=================================================
+
+The next installment in the unexported, self-contradicting backstory to Digimon Adventure 02 is now playable in English! 
+
+Mere days after the events of Tag Tamers, Ryo and Ken are once again drawn into a fight for the Digital World. Three of the Digimon Sovereign have been infected with evil and now threaten all Digimon. The remaining Sovereign thus takes the only sensible option available - hosting a tournament to find the strongest Tamer in order to team up in battle!
+In your quest to win the tournament and prove your strength, you'll train Digimon, fuse them to form stronger Digimon (with more reasonable requirements than Tag Tamers), and face off against Tamers and Digidestined alike! 
+
+Much like the original game, this translation patch was built on top of earlier efforts from Tag Tamer. All of the English graphic and coding enhancements from that patch have been ported over and expanded for D-1 Tamers. Additionally, several features that required link cables and other peripherals have been enabled for solo players as well. Now you have another opportunity to ponder the question that has stumped fans for over 20 years:
+
+How does the timeline between the games, the anime, and the movie even work!?
+
+==================================================
+|Changelog
+=================================================
+
+v0.97
+ -> You can now earn Gold BITs by replaying dungeons! In the vanilla game, you needed to battle other players via link cable to earn this, so this makes some rare items accessible for solo players.
+ -> Additional bonus content has been enabled (see FAQs below for how to activate it)
+ -> All remaining black and white layouts (should) be fixed now
+ -> Various bug fixes and typo corrections have been implemented
+
+v0.96
+ -> Fixes an issue some players ran into with text overflow lock-ups in the tournament sections
+ -> Fixes a few typos in NPC dialogue
+ -> Fixes more layouts in Monochrome/Original Wonderswan mode
+
+v0.95.5
+ -> Translates missing alternate Kuwagamon line
+ -> Fixes some layouts in Monochrome/Original Wonderswan mode
+
+v0.95: 
+ -> Initial Release
+
+==================================================
+|Frequently Asked Questions
+=================================================
+
+Q. How do I buy items at the Otamamon Shop?
+-> A. By earning Gold BITs, of course!
+
+Q. ...Okay, how do I earn Gold BITs?
+-> A. By battling other players using the link feature on your Wonderswan!
+      ...since this is extremely unlikely, and Wonderswan emulation is not the most
+       advanced, you can also earn them by replaying dungeons. You'll earn one Gold BIT per dungeon replayed.
+
+       (You can also edit the value using a debugger or in a save state)
+       -Mednafen: Open the debug tool, go to 13780 - 13783 in memory, then write your hex value in reverse order
+               (So, if you wanted 6160 Gold BITs, you'd convert to 0x1801 then write 01 18)
+
+       -Oswan: Open the save state in a hex editor, go to 137CB-137CE, and write your 
+               hex value in reverse order
+               (So, if you wanted 6160 Gold BITs, you'd convert to 0x1801 then write 01 18)
+
+Q. How do I access the bonus content the NPCs discuss in the post-game dialogue?
+-> A. By battling other players using the defunct WonderGate mobile connection on your Wonderswan!
+      ...Since that is also not a viable option, I have added some code to enable it.
+      Talk to Jijimon in the top level of the D-1 Tower after the end of the game, and try to register your Wonderswan with the online service.
+      This will update your save file so you can access the alternate layout for the D-1 Tower, bonus dungeons, and bonus final boss.
+
+Q. What are those symbols that appear when I look at the leaves at the Hint Tree?
+-> A. That is the English version of DigiCode/Digimoji. I've included a translation guide in the patch's zip file.
+
+Q. You used the names from the Dub? WHY!?
+-> A. Because I am still history's greatest monster.
+      Also, the dub names are what I'm familiar with - it's how I was introduced to Digimon, so it's what came to mind
+      when I was writing the dialogue. 
+
+Q. Are you going to release a version using the original Japanese names?
+-> A. Probably not any time soon. That said, if you *really* want a sub version of the patch sooner, I'd be happy to give you the scripts.
+You can fix all the names, send it back to me, and I'll import it into my translation program to create a second version of the patch.
+
+   
+==================================================
+|Future Updates
+=================================================
+
+-> Fix any typos, unclear/untranslated text, or graphical issues
+-> Restore the two missing/dummied out Tamers to the D-1 Tower
+-> Restore any additional "extra" content from the mobile connectivity sections
+
+==================================================
+|How to Patch
+=================================================
+Get a copy of the "Digimon Adventure 02 - D-1 Tamers (Japan)" ROM and an IPS patching program (Lunar IPS seems to be the standard).
+
+Note: Make sure to use a *clean* ROM - do not try to patch over a prior version of this patch, as it will likely cause glitches due to pointers shifting around. However, your save file should transfer over to the new game.
+
+Run the program, click 'Apply patch', and viola! Enjoy.
+
+==================================================
+|Special Thanks
+=================================================
+
+*Ajora Fravashi
+-> The original English translator of the Ryo series. I wouldn't have known these games exists without their website.
+   I hope this patch does right by their work.
+
+*XdanielZD
+-> The first person to hack D-1 Tamers and develop a partial patch, and the first playtester of this patch. I hope you enjoy this release!
+
+*MansourSorosoro and MrRichard999 
+-> Thanks for providing font recommendations and resources for the Resistance Status page!
+
+*Z-dagger (@Z_dagger67) for creating a desaturated version of the title screen for the Black and White/Original Wonderswan Mode. Much appreciated!
+
+*Pablo Fabricio Martin (@Onionboy0) for playtesting and feedback!
+
+*S.D.A. for pointing out some graphical artifacts in the title screen - thanks!
+
+*b35 (@hkgcgfans) for pointing out a variety of typos - thanks!
+
+*Rhys (@lyptt), UL91 (@UL9119), Auberji (@auberji), and Shino (@OcholueCard) for noting bugs and untranslated lines - thanks!
+
+*And You!
+-> For playing this translation, and for reading this far. A winner is you!
+
+==================================================
+|Feedback
+=================================================
+
+Questions? Suggestions? Glitches?
+WonderswanTranslations@gmail.com

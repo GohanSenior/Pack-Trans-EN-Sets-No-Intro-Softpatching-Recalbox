@@ -1,0 +1,10 @@
+﻿  This (should) localize everything in Bomberman64, the Japanese exclusive released in 2001.  The game's littered with unused stuff, so if there's something that was missed and actually used in-game let me know.
+  Patch is a bps.  You can apply them with beat or flips or whatever else happens to patch them.  The output ROM is smaller despite containing more content--this is not a mistake.  The ROM, like all N64 ROMs, should be unbyteswapped.
+
+  A cursory search of the interwebs reveals multiple "good" names for this game, some vastly more misleading than others.  All the more reason to use a legal backup.
+  The internal ID is NHAJ, internal name BOMBERMAN64, and md5 for the expected ROM is:
+08E491F87445C6E5C168D982FC665D5F
+
+  Also, some emulators may complain about an invalid hardware address when running the credits.  This is not a glitch or an error, and there's no issue on hardware.
+
+-Zoinkity

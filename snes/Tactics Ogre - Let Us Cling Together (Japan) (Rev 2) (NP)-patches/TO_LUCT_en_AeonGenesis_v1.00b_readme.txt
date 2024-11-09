@@ -1,0 +1,99 @@
+TACTICS OGRE - LET US CLING TOGETHER
+ENGLISH TRANSLATION V1.00b
+Copyright 2010 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Tactics Ogre
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+
+--------------------
+1.About Tactics Ogre
+--------------------
+Tactics Ogre doesn't really need much introduction. It's basically
+the model for Final Fantasy Tactics, and is quite the impressive
+feat for the SNES. The plot is full of intrigue and branching paths,
+the gameplay is complicated and allows for lots of customization,
+the music is standard (amazing) Sakimoto material.
+
+****IMPORTANT NOTE****
+Apply patch version 1.2 of the game!! It won't work on the others.
+****IMPORTANT NOTE****
+
+
+---------------
+2.Patch History
+---------------
+God, don't talk to me about this. Every little task in this game was
+like pulling teeth. The simplest thing took hours, crashes kept popping
+up where there weren't any before. It's still not perfect, but it's
+pretty damn good for what it is.
+
+I do want to mention that this was originally a collaboration between
+Dark Force of DeJap translations, LordTech, and disnesquick. I honestly
+cannot say who did what; when the project was handed to me, the name
+entry screen was done and the font was replaced, but not much else.
+They'd dumped the Japanese script and rejigged the PS1 version's script
+into a similar format (though I do remember helping them decipher that
+script's storage format at the time.) I took that, inserted the English
+script, reprogrammed the game to accept it, rewired all of the interfaces
+and everything, ugh. More work (and trouble) than I was hoping for!
+
+
+April 8, 2010 - Actual V1.00 release
+
+April 1, 2010 - Initial V1.00 April Fool's Day Al Bhed version release
+
+---------------
+3.Patch Credits
+---------------
+THE TACTICS OGRE TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker,
+             assembly hacker
+
+Initial Team
+LordTech, Dark Force, disnesquick
+
+Special thanks to g8z et al for helping out with the Goddesses questions
+during character creation.
+
+--------------
+4.Known Issues
+--------------
+--Occasional garbage written to BG2 when viewing on-line help.
+--Politics prologue and between-chapter scenes don't display properly.
+--Occasionally, some small cursor issues when recruiting characters.
+  Cancel back to main shop menu to fix.
+--Minor glitching in the floating Character List/Edit window.
+--Occasional glitching of map sprite text (location and date.)
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are savestates. SRAMs too if you can
+create an Interrupt save in battle!
+
+--------------------------
+5.Application Instructions
+--------------------------
+****IMPORTANT NOTE****
+Apply patch version 1.2 of the game!! It won't work on the others.
+****IMPORTANT NOTE****
+
+Quick ROM Info:
+3.00MB (24mbit LoROM), WITHOUT Header (*exactly* 3,145,728 bytes)
+
+Patch WILL expand the ROM to 4.00 megabytes (32mbit.)
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "tactics.smc" make sure the patch
+is "tactics.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 3.00 MB (3,145,728 bytes)".

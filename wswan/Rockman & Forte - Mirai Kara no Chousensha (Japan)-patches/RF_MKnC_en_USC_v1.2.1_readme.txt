@@ -1,0 +1,62 @@
+Mega Man & Bass: Challenger from the Future
+V1.2.1
+14 JUN 2016
+-Nikc
+
+Did you know that Mega Man & Bass had a sequel? It's true! The game was a Wonder Swan exclusive release, which among other things ensured that it would never be seen outside Japan. Until today!
+
+The patch translates the game into English so that you can enjoy its glorious storyline. An evil group of Robots calling themselves the Dimensions are wrecking havok on the land - and if that's not bad enough, they're FROM THE FUTURE!
+Help Mega Man protect Symphony City and stop the mysterious M-Shadow... or be an enabler to Bass in his mindless rampage to prove he's the strongest. You decide!
+
+==================================================
+v1.2.1
+------------
+*Fixed issue with unrotated 'A' on AirConMan's Game Over state (Thanks xnamkcor!)
+*Restored original "Next Textbox" indicator, which was replaced by accident when the English font was added
+
+
+v1.2
+-------------
+*Fixed issue with an extra sound playing at the end of Proto Man's speech
+*Fixed a typo in Bass's playthrough
+*Rockman & Forte original names patch now has a translated title screen, thanks to Raccoon Sam!
+
+
+v1.1
+------------
+*Fixed typos at Bass's shop and item screen
+*Fixed font glitch at character select screen and AirconMan's Level
+*Changed phrasing on character select screen and the Escape Unit's "can't use" dialogue
+*Localized the "R" on Dr. Light's shop to "L" :)
+*Added 90% finished "Japanese Name" version - title screen temporarily reverted to original Japanese
+
+
+v1.0
+------------
+*Text changed to English
+*Graphics and Title screen updated to English
+*Font changed to 8-Bit Operator for improved readability
+======================================================
+
+
+**************
+Possible Future Updates?
+*Fix any text mistakes...
+**************
+
+How to patch:
+Get a copy of the "Rockman & Forte - Mirai Kara no Chousensha" ROM, either the English name or Japanese names patch, and an IPS patching program (Lunar IPS seems to be the standard).
+Run the program, click 'Apply patch', and viola! Enjoy.
+
+
+
+Special Thanks
+---------------
+*Raccoon Sam for the title screen graphics!
+*azoreseuropa for finding typos and playthrough feedback!
+*Zynk Oxhyde for finding typos and playthrough feedback!
+*xnamkcor for finding a graphical glitch
+
+
+Questions? Suggestions? Glitches?
+nikcdc@gmail.com

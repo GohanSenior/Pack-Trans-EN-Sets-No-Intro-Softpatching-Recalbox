@@ -1,0 +1,123 @@
+===================Chuuka Taisen=======================
+==================aka Cloud Master====================
+=======================V1.00==========================
+Genre: Shooter
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+Chuuka Taisen
+======================================================
+Background: Now for those familiar with the translation
+scene, they might wonder why the hell I'm even doing this
+translation in the first place when there's already one
+that was done about a decade ago. Well, the short answer
+is that that translation sucks and among other things has
+numerous translation errors. One of the more hilarious
+things I found out doing this translation was that it
+uses a now banned "rude" word for Chinese people. Again,
+the old translation missed the meaning of the word.
+There was also a hidden ending that you could get that
+wasn't done. I'm not here to bash the old translation,
+but honestly there was a lot of room for improvement.
+
+Initially all I had done was hack the game and dumped
+the script, which sat around my computer for a few months.
+Then out of the blue my longtime translator and friend
+aishsha had asked me if I had any scripts for him to
+translate, and well I had this. After all the script
+work was done, it was time to tackle the various
+graphics that needed to be hacked. Those were easy to
+hack, but all of the graphic design minus the title
+screen goes to DvD. Once again, his work was top notch.
+
+Anyway, the game's a shooter and a hard one at that.
+Can't really play it without cheats. The game was
+originally released for the Arcade and then ported
+to god knows how many systems including the wonderful
+Famicom.
+
+======================================================
+Game Tips
+======================================================
+
+* At the title screen, hold Up-Left + B and press Start.
+If done right, you should hear a sound. Now, press Select,
+B and Left to enter the hidden option menu.
+If you turn the "Power Select" on, then while playing,
+you can pause the game and press B to increase the power
+of your shots.
+
+* You can access a secret stage on stage 4. I won't
+give you all the details, but look for a flashing
+red dragon.
+
+* You can get a secret ending by beating the game without dying.
+
+======================================================
+Translation Notes
+======================================================
+
+This game uses a banned word that originated from the early
+20th century when Japan was invading China. The word is
+"Pokopen" which is a rude way to refer to a Chinese person.
+I chose to translate this as chink and have made no attempts
+to hide or censor it. Aside from that, the game features
+many things that some consider politically incorrect or
+offensive.
+
+After each stage you get a "Xian" rank. Xian is the Chinese
+version of Sennin. Both pretty much mean "Great Immortal Being"
+etc. Essentially all the various ranks are Buddhist gods
+or some other derivitive. All this information might
+not be very informative or accurate, because I know
+almost jack squat about this stuff.
+
+======================================================
+Patching Instructions
+======================================================
+Apply the patch to a copy of the original Japanese ROM.
+It should be named something like this:
+Chuuka Taisen (J).nes
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.   
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - main hacking, testing.
+
+aishsha - translation
+
+sin_batsu - title screen design
+
+DvD - graphic design, title screen hacking
+
+ReyVGM - testing, various info
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. January 2012.

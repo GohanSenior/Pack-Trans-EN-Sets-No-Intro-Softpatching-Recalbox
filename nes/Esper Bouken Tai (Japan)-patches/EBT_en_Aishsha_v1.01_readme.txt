@@ -1,0 +1,67 @@
+================Esper Corps===========================
+==================V1.01===============================
+Genre: Platforming RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha
+
+E-mail: aishsha@gmail.com/
+Web-site: aishsha.blogspot.com
+ 
+ 
+======================================================
+Esper Corps
+======================================================
+Well, this game is strange. Actually, I took it for
+translation quite by chance and it turned out rather
+hard to crack due to a very inconvenient data pointing
+system. Anyway, it's been laying finished on the shelf
+for half a year or so as I was too busy to write a
+short readme and make a patch for it.
+
+The game itself is a very strange mix of a platforming
+action with RPG elements with the main character, Akio,
+being a member of the Esper Corps organization (don't
+ask me what it is), which supposedly fights Evil all
+over the world. His task is quite simple - save his
+friends and somebody else from the Devil's Castle with
+his formidable hammer and... enormously jumpy feet...
+(you'll see what I mean when you play it). The game
+is quite lengthy and mazy at places, so do talk to
+strange dwellers of that place (don't be afraid to
+use the START button to talk).
+
+Anyway, enjoy this strange game, if you can and buy
+the original, if you like it.
+======================================================
+SPECIAL NOTICE
+======================================================
+I'd very grateful, if you send me reports about bugs
+or glitches found during gameplay, but please, do not
+forget to add some descriptions, savestates and names
+of emulators you use. (screenshots would be useful
+as well).
+=====================================================  
+UPDATE NOTICES
+=====================================================  
+Some small bugs and garbles were fixed.
+=====================================================  
+Credits go to:
+aishsha - translation, hacking, testing.
+
+Andrea Babich - the main reason for me to release
+the version 1.01 )))
+
+Pennywise - proofreading, editing.
+
+ReyVGM - main beta-tester.
+
+all those who contributed into bug and misspeling
+elimination hunt :)
+======================================================
+
+
+Compiled by aishsha. March 2011.

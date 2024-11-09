@@ -1,0 +1,44 @@
+J.League Winning Goal
+English Translation V 1.00
+Copyright 2009 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About J.League Winning Goal
+2.Patch History
+3.Patch Credits
+4.Known Issues
+5.Contact
+------------------------------
+1.About J.League Winning Goal
+------------------------------
+J.League Winning Goal is a soccer game for the NES. I'm not really a soccer fan, but I guess the game is alright. Anyways, I gave this game the works so go ahead and try out the complete patch now.
+---------------
+2.Patch History
+---------------
+V 1.0
+
+What's done:
+
+Everything
+---------------
+3.Patch Credits
+---------------
+Me- Hacking
+Odino- Translator
+FlashPV- Graphics
+--------------
+4.Known Issues
+--------------
+There's some attribute table wackiness going on, but it's for only one part of the game. I also didn't bother to expand the character limit for the player names. If turns out that I missed some stuff/screwed something up, I'll expand it next time.
+--------------
+5.Contact
+--------------
+If you have questions or comments, you can contact me at 
+
+yojimbogarrett at gmail dot com 
+
+or check out my site
+
+yojimbo.eludevisibility.org

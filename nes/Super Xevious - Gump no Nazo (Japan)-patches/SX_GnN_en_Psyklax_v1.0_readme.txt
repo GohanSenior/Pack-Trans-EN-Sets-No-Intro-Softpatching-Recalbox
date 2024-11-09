@@ -1,0 +1,28 @@
+SUPER XEVIOUS: THE RIDDLE OF GAMP (NES)
+Translation by Psyklax
+v1.0 (20170609)
+
+This translates the game's subtitle (Gampu no Nazo) to
+English (The Riddle of GAMP). There is no other Japanese
+text in the game (the ending is already in English).
+Concerning the transliteration of the Japanese "Gampu",
+there appears to be some confusion. The ending gives it as
+"GUMP", but the Xevious Wiki (for what it's worth) gives it
+as "GAMP", meaning "General Artificial Matrix Producer".
+Where they get that information, of course, I don't know,
+but I'm willing to go with that. The "nazo" in the title,
+incidentally, can mean "mystery" or "enigma" as well as
+"riddle", but given the nature of the game - having to solve
+some tricky puzzles to progress - means "riddle" is probably
+a better translation. Other games with "nazo" have used
+"mystery".
+
+GoodNES name: Super Xevious - Gump no Nazo (J) [!].nes
+CRC32: B6C7E249
+
+I think I've talked more than enough about this, given that
+it changes six tiles and nothing else... :D So I'll leave it
+here. Enjoy!
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

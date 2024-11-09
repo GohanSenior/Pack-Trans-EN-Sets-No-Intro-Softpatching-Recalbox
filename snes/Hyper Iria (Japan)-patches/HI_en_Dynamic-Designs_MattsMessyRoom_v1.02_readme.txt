@@ -1,0 +1,37 @@
+Hyper Iria English Language Patch V1.02Introduction:
+	Japanese Developer:				TamTam Co., Ltd.	Japanese Publisher:				Banpresto Co., Ltd.	Japanese Release:				October, 13, 1995	English Patch Production:			Dynamic-Designs and Matt's Messy Room
+
+Dynamic-Designs and Matt's Messy Room Patch History:
+	V1.00:  Initial Dynamic-Designs and Matt's Messy Room release:	June, 12, 2016        V1.01:  Small fix to mission text.  June, 14, 2016        V1.02:  Fixed Translation on splash page and a few text oddities. August 10, 2016
+Dynamic-Designs and Matt's Messy Room Production Credits:
+	Project Coordination:				Bongo`	Hacking/Tools/Bug Fixing:			Bongo`        Assembly: 					Bongo`	Translation:					Filler	Script Writing:					Draken and Taskforce							Beta Testing:					Taskforce	English Graphics:				Bongo`	Splash:						Taskforce
+
+Game Description:Description From Moby-Games: http://www.mobygames.com/game/hyper-iria
+Hyper Iria is based on the anime prequel to the sci-fi movie Zeiram.As in the anime and movie Iria is a space traveling bounty hunterwho keeps running into the immortal villain Zeiram. In the gameIria can select one of four missions with a fifth selectableafter the other four are completed. On the way to a missionIria will discuss the mission with her AI companion Bob, andsometimes will be ambushed, requiring her to defend herselfin a scrolling shooter type level. Upon reaching her destination Iria will proceed on foot, making her way througha maze-like level with several paths to her goal. Iria haspowerful physical attacks, and can also carry firearms andgrenades with limited ammunition. Money is rewarded basedon your performance in a mission, and can be used to buynew firearms and more grenades.
+
+Production and Testing:
+This game's production happened very fast.  Filler talked about wanting to do this game andBongo` said he'd be willing to hack it.  He then hacked the game very quickly and then passed the script to filler to translate.  Then Bongo` and Filler passed the script toTaskforce and Draken for a quick script edit.  At that point taskforce playtested the game.Bongo` did some bug fixes and Taskforce played it through one more time to make sure thebug fixes worked as expected.Translations are a big bottleneck to releasing games, and we'd really like to give fillera lot of thanks for jumping on this and knocking it out even though he is already super busy.Thank you filler!  And thanks for the project suggestion to start with!
+-Taskforce-
+Patching:
+Contained within this archive are an IPS (international patching system) file or a patch filein another format for the end user's convenience that when used in conjunction with a ROM filewill make the game playable in English.
+Do note that these patches are a result of countless hours of love and labor. Hence, they are notmeant to be sold at any price under any circumstance, be it in digital form or burnt into a donorcart's ROM chip.To patch the ROM file, one needs to procure a patcher for the preferred format, a widely availableclass of programs, many of which can be found at www.romhacking.net/ for one source.  A few can evenbe found on our download page for your convenience.
+At some point, ROM sites may upload pre-patched ROMs of our Hyper Iria translation.Obviously, D-D and Matt's Messy Room cannot endorse playing these versions, nor will we support resolution ofany associated problems. Moreover, pre-patched ROMs may float around the web for years.  Only by downloading patchescontaining just our original work from D-D's web site may gamers obtain revisions to these patches - if any - and takeadvantage of possible bug-fixes and corrections.
+Below is the information pertaining the ROM file our patch requires, 
+according to Nach's SNES ROM Tools:
+
+
+NSRT v3.4 -  Nach's SNES ROM Tools
+
+---------------------Internal ROM Info----------------------       File: HI(J).smc       Name: Ê²Êß°²Ø±                 Company: Banpresto     Header: None                        Bank: HiROMInterleaved: None                        SRAM: 0 Kb       Type: Normal                       ROM: 12 Mb    Country: Japan                      Video: NTSC  ROM Speed: 120ns (FastROM)         Revision: 1.0   Checksum: Good 0xA9CB            Game Code: AZEJ---------------------------Hashes---------------------------      CRC32: AE7F2B0D        MD5: 32314AD978DEECD5FEF5AD5E55906D1E**Also take SPECIAL NOTE that the original rom lacks a header.  You may have to remove the header from yourROM file, but don't worry as there are a variety of programs that do this, such as SNESTool, Smile,Toolbox, etc.  
+Size before patching: 1.50 MB (1,572,864 bytes)
+Size after patching: 2.00 MB (2,097,152 bytes)
+Alternatively, most emulators support a feature called soft patching, which keeps the ROM file intact,merging the patch data only during run time. To make use of it, make sure both the ROM file and theIPS are on the same directory as your emulator of choice and have the same name, but not the sameextension. Do note that this is case-sensitive.  (Also, do note this soft patching is only availableusing the IPS patch file, and may NOT work with the other patch file formats.)
+e.g:  Hyper.smc and Hyper.ips will trigger soft patching at the emulator's run time.
+
+Emulator Compatibility:
+The game behaves itself properly in a wide range of emulators such as ZSNES, SnesGT, Mednafen, SNES9X and Higen/BSNES.
+
+Special Thanks:
+Without these people, it just wouldn't have been possible or fun:All of the great staff at D-D and Matt's Messy Room, Filler forsuggesting and translating the game for hacking and of course therest of the D-D forum community!
+
+Readme 2016 Dynamic-Designs and Matt's Messy Room!

@@ -1,0 +1,82 @@
+TOKORO SAN NO MAMORU MO SEMERU MO
+Translation by Psyklax
+v1.0 (20170810)
+
+CONTENTS
+1. Intro
+2. ROM Information
+3. Background
+4. Final Thoughts
+
+INTRO
+This is a 100% English translation of Tokoro San no Mamoru
+mo Semeru mo for the Famicom (NES). This translation renames
+the game to George Tokoro's Offense and Defense. The title
+screen, the ending, and the game over screen have all been
+translated, as well as several miscellaneous graphics.
+
+ROM INFORMATION
+GoodNES name: Tokoro San no Mamoru mo Semeru mo (J) [!].nes
+CRC32: 285DB36B
+
+BACKGROUND
+George Tokoro is the stage name of Takayuki Haga, famous in
+Japan as a comedian, TV personaity and singer-songwriter.
+This game sees the player take the role of Tokoro, wearing
+his trademark glasses. You must fight through several levels
+armed only with a water pistol. In the first part of the
+game, doors at the end of each level will take you to
+different places, and there is randomness involved, such
+that you can't be sure where each door will take you. Once
+you reach Nerima, the second stage begins, and the game
+becomes linear.
+
+When you lose a life, a game over screen appears. The words
+on-screen are a parody of the famous Japanese song Love Is
+Over, replaced here with Game Over. The other words (which
+have been roughly translated here) remain the same.
+Additionally, the song's Taiwanese singer, Ouyang Fei Fei,
+is listed here as "Ouyang Cafe".
+
+FINAL THOUGHTS
+This took WAY more effort that it should have! The devs made
+some design choices under the hood that made hacking it a
+bit tricky. It's partly because it's a small game, but some
+of the decisions look a bit strange to me.
+
+For example, both the game over screen and the title use a
+system where each block of four tiles are defined, then a
+"name table" of sorts is defined too. I can understand the
+purpose of this (if there's a lot of repetition), but given
+it's just for the game over and title screens, it seems to
+me that the bytes saved (if any) just wouldn't be worth it,
+especially as, with this system, they waste lots of bytes
+defining the black background. At one point I thought I
+should just replace the whole routine with one that says
+"here's the tiles, put them on the screen", but I didn't
+bother.
+
+To add to the strangeness, all that data defining those two
+screens is actually in the CHR-ROM, bankswitched into the
+PPU, then copied into the CPU's RAM. A creative way to get
+more code, but weird nonetheless.
+
+At least my choice of title was good: there's so much
+repetition that I could fit it all in the ROM with plenty of
+space to spare. The ending used a different system, but
+fortunately I was able to just put my new ending at the end
+of the PRG-ROM and change the pointers.
+
+All in all, it didn't take many days, but those days were
+filled with too many hours than I feel were necessary. And
+the game is really brutal, too! Still, I hope this
+translation encourages you to take up the challenge!
+
+Tools I used for this translation:
+FCEUX (best NES emulator for debugging and hacking)
+HxD (general hex editing)
+WindHex32 EX (small amount of text work)
+Tile Molester (graphics)
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

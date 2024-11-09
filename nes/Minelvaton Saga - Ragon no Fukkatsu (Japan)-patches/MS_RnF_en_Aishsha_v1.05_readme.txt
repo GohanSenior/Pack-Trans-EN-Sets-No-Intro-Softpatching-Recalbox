@@ -1,0 +1,88 @@
+================Minelvaton Saga=======================
+==================V1.05===============================
+Genre: RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha
+
+E-mail: aishsha@gmail.com/
+Web-site: aishsha.blogspot.com
+ 
+ 
+======================================================
+Minelvaton Saga: Ragon's Return
+======================================================
+One of my long-standing prjects. As a matter of fact,
+that was the second game I wanted to work, but due to
+my lack of knowledge back then (and considering the
+fact that this game is hell in terms of hacking) I was
+not able to finish it.
+I've made a comeback, when Djinn and DvD helped with
+deciphering the technical part of this nightmare and
+I was finally able to work with the text itself.
+The game is the first in the 3-piece gaming series,
+which I called the "Silva Trilogy". Actually, this
+is a prequel, but its relations with the followers
+are rather loose.
+The game starts very traditionally, when a longstanding
+arch-rival Ragon cames back to the world of Minelvaton,
+killing all representatives of Arkasas' royal dynasty
+but a young prince...
+This is a role you take here. The game is very difficult
+and it has a very peculiar battle system. I won't spoil
+anything more - for those willing - you can download
+the translated manual and the world map for this game
+from my blog.
+The Version 1.03 has some bugs and misspellings gone.
+The most notorious Hero's Shield bug is also fixed.
+======================================================
+SPECIAL NOTICE
+======================================================
+I'd very grateful, if you send me reports about bugs
+or glitches found during gameplay, but please, do not
+forget to add some descriptions, savestates and names
+of emulators you use. (screenshots would be useful
+as well).
+PLEASE, IF YOU FIND THE ENEMIES THAT LOOK LIKE
+THE "SKELETON" AND THE "SAND WORM" BUT HAVE NO NAMES
+IN THE RELATED IN-GAME BATTLE BOX - DO LET ME KNOW
+AS I WASN'T ABLE TO...
+
+Due to changes made to the ROM, the patch is in IPS
+format. You either want to download a program called
+beat by byuu or Floating IPS, which can be found here:
+
+http://www.smwcentral.net/?p=section&a=details&id=11474
+=====================================================  
+Credits go to:
+aishsha - translation, hacking, testing.
+
+Djinn - making the ideas and some practical things
+for implementing the main text-loading hack.
+
+DvD - deciphering a very complicated CHR-based
+pointer system.
+
+Griever_GF - 2020 glitches and bugs trracking for
+the patch v. 1.05
+
+Guyver - -polishing hacks and additional bug
+tracking after another couple of years of this
+project.
+
+Ken Arromdee - for finding a misc mistranslation.
+
+Pennywise - proofreading, editing.
+
+reyvgm - finding the final bug and making me return
+to this project after FIVE years :)
+
+all those who contributed into bug and misspeling
+elimination hunt :)
+======================================================
+
+
+Compiled by aishsha. January 2020.

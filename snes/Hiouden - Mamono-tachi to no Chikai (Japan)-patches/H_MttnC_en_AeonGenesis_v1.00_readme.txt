@@ -1,0 +1,95 @@
+HIOUDEN ~ LEGEND OF THE SCARLET KING ~ THE DEMONIC OATH
+ENGLISH TRANSLATION V1.00
+Copyright 2005 Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Hiouden
+2.Patch History
+3.Patch Credits and Contributors
+4.Known Issues
+5.Application Instructions
+6.Troubleshooting
+
+--------------------------------------
+1.Hiouden ~ Legend of the Scarlet King
+--------------------------------------
+Hiouden's a fast-paced strategy game that takes place in real-time. I
+refer to it as such so as people don't confuse it with the more popular
+resource-management RTS games out there, like Warcraft or Command and
+Conquer, because it's definitely not like those at all. It's got a fair
+amount of story, is tough as nails, was developed by Wolfteam and has
+music by Motoi Sakuraba if that's your thing.
+
+---------------
+2.Patch History
+---------------
+God, this project's old. All I can tell you folks is that it sat around
+collecting dust for a while, that I eventually got the necessary hacks
+done, played around with the menu some, and waited for playtesters. It's
+been a very long haul, but it's also been a very long day, and I really
+don't have the patience to sit down and force myself to remember every
+little detail of Hiouden's history. Sorry, folks.
+
+October 12, 2004 - Initial version 1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE HIOUDEN TEAM
+Main Team:
+Gideon Zhi - Project leader, Romhacker, Script proof
+Datenshi - Translation
+
+Special thanks to...
+...Kitsune Sniper for the great new title screen.
+
+--------------
+4.Known Issues
+--------------
+
+--The DTE doesn't always function 100% correctly, and it will on very
+rare occasions leave out a letter. This should not affect your enjoyment
+of the game at all.
+
+--If a character's level exceeds 255, the game crashes. I'm fairly
+convinced that this happens in the Japanese version as well, so it's not
+my problem.
+
+There are no other known issues. If you find any, please post
+about them on The Pantheon (http://donut.parodius.com/agtp)
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+1.50B (12mbit LoROM), WITHOUT Header (1,572,864 bytes).
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "hiouden.smc" make sure the patch
+is "hiouden.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 1.50 MB (1,572,864 bytes)". SNESTool can remove
+your headers for you easily, and you can find it at
+http://rpgd.emulationworld.com
+In the utilities section, click on the IPS Tools link.
+
+An easy way to tell if the game has a header or not is that if you do
+the above and the game does not run, it probably has a header. Use
+SNESTool to remove the header from a clean Japanese ROM and try again.
+And don't whine about SNESTool not working in Windows XP, it works
+fine for me and I'm running on XP Pro.
+
+-----------------
+6.Troubleshooting
+-----------------
+--If the game does not run at all, read the above section on
+  application instructions (specifically on header removal.)
+  Make sure your ROM is not read-only when you add its header.
+  Also make sure that if you previously hard-patched the ROM and
+  the game crashes as described, you will need to re-apply the
+  patch a clean, Japanese original ROM.

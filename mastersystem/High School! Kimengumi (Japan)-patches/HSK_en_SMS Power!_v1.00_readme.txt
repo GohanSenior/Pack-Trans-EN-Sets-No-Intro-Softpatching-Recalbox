@@ -1,0 +1,14 @@
+High School! Kimengumi Japanese to English patch by Nick
+========================================================
+
+Original file:
+
+131072 bytes
+CRC: 9EB1AA4F
+
+After patching:
+
+131072 bytes
+CRC: 8A296A3E
+
+Version 1.00 released 23 April 2005 by Nick and Aya.

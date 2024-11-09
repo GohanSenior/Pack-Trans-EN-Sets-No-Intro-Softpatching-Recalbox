@@ -1,0 +1,39 @@
+Tabaluga GBC: English Translation
+V1
+10 DEC 2018
+-Nikc
+
+Move over Japan, this is an untranslated *German* video game! Specifically, this Game Boy Color game tells the story of Tabaluga - one of most popular dragons in all of Deutschland.
+
+Help Tabaluga learn to fly and breathe fire so he can protect his Kingdom of Greenland from the evil snowman Arktos' plan to cover it - IN SNOW! The stakes have never been higher. Now you can experience the thrills and *chills* in English for the first time!
+
+v1
+------------
+English translation added
+
+**************
+Possible Future Updates?
+*Fix any typos or missing text
+
+**************
+
+How to patch:
+Get a copy of the Tabaluga ROM, and an IPS patching program (Lunar IPS seems to be the standard).
+Run the program, click 'Apply patch', and viola! Enjoy.
+
+Tools Used:
+----------------
+VisualBoy Advanced
+Lunar IPS
+Tile Layer Pro
+XVI Hex Editor
+-----------------
+
+Special Thanks
+----------------
+Meine Tante Wanda
+Luka Himmelreich
+----------------
+
+Questions? Glitches? Comments?
+nikcdc@gmail.com

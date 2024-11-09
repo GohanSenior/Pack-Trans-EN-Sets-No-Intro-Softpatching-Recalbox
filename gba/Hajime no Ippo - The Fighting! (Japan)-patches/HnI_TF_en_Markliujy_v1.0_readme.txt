@@ -1,0 +1,139 @@
+                            
+                            Hajime no Ippo
+                      English Translation Patch
+                                v1.0
+                            By Markliujy
+
+
+  Intro
+----------------------------------------------------------------
+
+This is an English patch for the GBA game "Hajime no Ippo",
+a boxing game that is apparently like Punch Out, but with
+Hajime no Ippo characters.
+
+
+ The Patch
+----------------------------------------------------------------
+
+The Patch is in IPS format and can be applied using any
+program that supports the format. If you don't know of one,
+try googling LunarIPS.
+
+The Patch is made to be applied to the version of the ROM
+found on the internet, namely:
+
+CRC32:  0x6EB8B128
+Size:   8.00 MB (8,388,608 bytes)
+Contains an Eurasia Intro
+
+The Patch will translate the entire game into English, and
+will also remove the Eurasia Intro.
+
+It has not been tested on any other versions.
+
+
+ Translation Notes
+----------------------------------------------------------------
+
+1) Move Names:
+
+ - I used "Long Upper", and it seemed to fit, but I'm not
+    certain about it.
+
+ - "Get Up" means that literally, you get up. I couldn't
+    think of any fancy way of saying it that was under the
+    letter limit.
+
+ - "Automatic Evade" means that literally to, you
+    automatically evade. It's technically the "SP-DEF", or
+    Special Defence that shows up on the screen when you're
+    actually boxing. Again, I couldn't think of any cool way
+    of phrasing it.
+
+ - "Damage Avoid" is Date's special head turning move, the
+    only special Special Defence. Again, I had no cool ideas.
+
+ - "Down Avoid" is Down Avoid. You avoid going down. Since
+    it was "D-Avoid", I figured it'd be better off that way.
+
+ - "Is that all you got?" is Shigeta's trademark taunt from
+    the manga and anime, if you don't know the manga and anime,
+    it's a taunt, which is what its under in the Move lists due
+    to laziness.
+
+2) Move Lists:
+
+ - There was a line of Japanese in the move lists that I
+    removed, since I had no idea what it meant, except that it
+    mentioned "button". Probably just telling you that you hit
+    the buttons. I'm guessing no one needs to know that
+    hopefully.
+
+ - For the Counter moves, "When Attacked" doesn't actually
+    literally mean when attacked, as I'm sure you'll figure out.
+
+3) Misc:
+ - The title screen is left in Japanese due to it looking
+    better that way, and laziness.
+ - In case the font looks familiar, I used Arial a lot (Lazy).
+
+
+ Other Notes
+----------------------------------------------------------------
+
+This is my first attempt at Romhacking, but the game
+"should" be completely translated, apart from the sound
+and have no problems.
+
+However, there wasn't exactly any play testing, except
+myself playing through it once or twice. So, if anything is
+omitted or incorrect, please contact me. Any technical
+hiccup reports would be nice too.
+
+
+ Contact Details
+----------------------------------------------------------------
+
+Email me at: Markliujy@gmail.com
+Or PM Markliujy at Romhacking.net
+
+
+ Credits
+----------------------------------------------------------------
+
+BRPXQZME for translating most of the Win quotes.
+
+The Romhacking.net Community for their help translating and
+technical tips.
+
+ESP Software and Treasure for developing the game.
+
+
+ Rant (Or History)
+----------------------------------------------------------------
+
+ - This is my first actual complete romhacking project.
+
+ - I started it back in April or so of 2008, thinking it
+would be a nice game to try and finish up since I *thought*
+it was all entirely composed of uncompressed graphics. I was
+wrong.
+
+ - The game contained LZ compressed data and I was lost for
+a bit, but eventually wrote up decompressors and the like,
+in PHP. That was quite entertaining.
+
+ - After a whole bunch of stumbling around and false starts,
+I eventually got somewhere after a month or so of on and off
+hacking.
+
+ - Then I got lazy. Lack of translations and lots of manual
+labour is sure a killer...
+
+ - Eventually I got back to it and finished up, except for
+the Win Quotes, because well, they don't run well through an
+online translator.
+
+ - Thanks to BRPXQZME of Romhacking.net I got the rest of
+the Win Quotes translated, and here I am.

@@ -1,0 +1,119 @@
+Zatch Bell! Electric Arena 2: Complete English Translation
+
+INSTRUCTIONS:
+
+1. Identify your ROM revision.
+
+2. Apply the main translation patch (BPS) before the optional (IPS) patches.
+
+3. That's it!
+
+
+CHANGES:
+
+Originally, the password mode was accessed from the title screen by inputting an absurdly long key combo.
+Now all you need to press is UP on the d-pad a total of 15 times.
+
+Every password has been found on the ROM.
+
+The ones known to affect the game are:
+- 81216 = Unlocks the Sound Test mode.
+- 86300 = Turns the title screen red (one of the steps to unlock the final character.)
+- 13106 = Master code that unlocks everything (except the event exclusive item.)
+
+A '.cheats' file is included that allows unlocking the event exclusive item.
+If using mGBA, just rename the cheats file so that it matches your ROM,
+upon loading the game in mGBA the event exclusive item should appear in the Zatch Collection mode.
+
+Once you unlock it, you must go to the options mode, change something, and exit to trigger a save,
+this is only if you want to keep the item. After that it's recommended to turn cheats off to avoid problems.
+
+If you open the cheats menu, or the file in a text editor you will see other cheats you can enable.
+I made these for testing the game quickly, codes such as "P2 instant lose."
+
+NOTE: Sound Test can also be unlocked by playing the game normally.
+
+
+OPTIONAL PATCHES:
+
+ZatchEA2_noMenuJP_rev1_X.ips = Removes the Japanese graphics that cover the English ones on the main menu.
+
+ZatchEA2_noShade_rev1_X.ips = Removes the shading on the main font. Makes it easier to read.
+(Do not apply this AFTER the 'MinishCap' font patch, or you'll have a broken file.)
+
+ZatchEA2_MinishCap_font_rev1_X.ips = Replaces the main font with a '1px line' style that looks closer to the JP one.
+I found the VWF data after finishing the translation, so the script doesn't take advantage of the extra screen space.
+But it looks really nice, and will benefit anyone who wishes to translate this to other roman languages.
+
+ZatchEA2_DUB_rev1_X.ips = Replaces Japanese VO for Mamodo Battles' VO, missing voices are fandubbed
+or taken from the anime dub or Mamodo Fury.
+
+
+IPS was chosen because it doesn't force file integrity checking (a checksum), thus allowing optional patches.
+While BPS was chosen for the main translation because of the integrity checking.
+
+
+CURIOUS FACTS:
+
+This translation started in 2013, in those days I felt like I could do anything, but no matter what I tried
+I couldn't find the script, and things weren't going anywhere so in December 28, 2013 I released the last bit of
+progress I had; just a few graphics replaced. (https://www.dropbox.com/s/e1j0qbk1eqlcy8p/ZAKERU2.ips?dl=0)
+
+Fast-forward to 2023 someone starts posting images of the 3rd game (Dream Tag Tournament) in English, and says it's
+just using shift-jis encoding. This motivates me to pickup EA2 again, while this one didn't use sjis I thought this:
+If the printed text is displayed in sync with the theoretical buffer in the 256KB memory region then eventually
+I would bump into that text. This is exactly what happened, once I knew what the text looked like I started
+messing with it until I found that it's a known encoding: 3-byte UTF-8.
+
+Then, it was just discovery after discovery. In just a few months 90% of the work was done.
+I don't regret waiting it out, even if I had found the script back in 2013 I would have struggled in other areas,
+such as the building of the script's pointer table to use longer strings, or adding strings that didn't exist originally.
+And the dialogue wouldn't have had that extra attention to detail thanks to Raze, who gave the script
+a second pass and caught various nods to the manga and tweaked whatever awkward wording could be found.
+
+
+On a different note, the game has some unsolved mysteries. The script mentions the possibility of 15 levels in Survival
+Mode, but this seems impossible to reach after level 13, the amount of opponents to beat gets set to infinity.
+
+The revision commonly referred to as 1.1, fixes a graphical issue with Rauzaruk Zatch's intro animation that appears
+after having played a few matches. (Though inaccurate emulators won't show it.)
+The "power-from-within" or "spell meter" in the game no longer has the animated look to it in rev 1.1, this would
+be the easiest way to tell what revision someone is using.
+After much searching, I've never seen a youtube video of someone playing the 1.1 version.
+I searched the ROM database known as "no-intro" and found out the dump is rather recent: it was posted
+on October 25, 2022 no wonder I had never heard of it.
+
+
+
+There's a lot of unused content, outside of the event exclusive item, it's possible to hold L+SELECT on the Zatch Collection
+mode to initiate a 'link cable match' but it doesn't seem to ever link.
+
+The script mentions a few character descriptions, these were roughly translated into the script, but have no purpose.
+It also mentions a Zeno line "I'll show you what a real nightmare is like!" that is likely supposed to show up
+if you get an EXTRA BATTLE in Battle Mode.
+
+Outside of the exclusive items, there's a script pattern that hints at the final character being unlockable from cable linking,
+instead of just with password mode.
+
+There's a voice recording of Dufort saying "Jikerdor" a spell Zeno doesn't have in this game.
+As well as a voice recording of Albert saying "Raja Migsen" also a spell not in the game,
+but the sound does appear in the Sound Test, unlike Dufort's. It's possible sound #132 is also unused.
+
+
+
+ADDITIONAL CREDITS:
+
+- This project was primarily developed using the following tools:
+HxD, mGBA, CrystalTile2, and Audacity.
+
+- All the amazing Zatch Bell fans who still maintain the series alive outside of Japan.
+
+- romhacking.net, this was my resource for a lot of romhacking tools and information.
+
+- My voice actors, the "Ready..." "Fight!" lines are from "Star Wars: Masters of Teras Kasi"
+Naomi, Suzy, Dalia, and other system lines are by CamiRubio.
+Raiku-Sensei and Praying Mantis Joe lines are by DiegoA.
+
+- XZatchBellGamerX helped greatly with the translation and matched several references to the manga/anime.
+For a more-or-less complete look at all of his revised lines, see every line with "Raze" in it:
+https://docs.google.com/spreadsheets/d/1paOkVLCpiCRJwzdTvW4hZmpWxKSambCqgzkUvub7sjY/edit#gid=0

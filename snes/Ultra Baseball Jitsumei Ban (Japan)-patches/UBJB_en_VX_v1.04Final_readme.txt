@@ -1,0 +1,256 @@
+
+Ultra Baseball Jitsumeiban English translation patch v1.04 Final
+
+Author: VX 
+URL: http://vxtrans.blogspot.com/
+E-Mail: tubebar@ymail.com
+
+Contents
+================================================================================
+
+1. Patch History
+2. About Ultra Baseball Jitsumeiban
+3. Controls
+4. Issues
+5. Remaining
+6. Translation Notes
+7. Hacking UBBJ Teams & Players
+8. Credits
+
+1. Patch History
+================================================================================
+ 
+V.104 Final - 04/01/09
+
+-Fixed untranslated text from Manager Mode that was missed.
+-Multiple text changes.
+-Converted KM/h to MPH using CB's method.
+-Added Stadium Sizes w/ converted Meters to FT.
+-Corrected some minor GFX issues.
+
+V1.03 - 03/22/09
+-Fixed a lot of translation text issues.
+
+V1.02 - 03/14/09
+-Fixed the Inning/Game display issues for season.
+-Added option to play a full 162 game season (MLB standard).
+-Added player and team locations in ReadMe (for hard code-hacking).
+
+V1.01 - 03/09/2009
+-Some minor text corrections.
+-Fixed two bugs.
+
+v1.00 - 03/03/2009 
+-Second public release.
+-100% Complete English translation.
+
+v0.50 - 02/05/2009 
+-First public patch.
+-English Fonts have been replaced.
+-Most Menus and Kana have been translated.
+-Some Kanji has been translated. 
+
+2. Ultra Baseball Jitsumeiban
+================================================================================
+
+"This is the ultimate baseball game! Precise pitching, bulls-eye batting, and 
+Awesome fielding! It's all under your control with simpler yet more 
+sophisticated operation. With loads of features, you'll be an All Star! It is 
+the ultimate baseball simulation you've dreamed of."
+
+Ultra Baseball Jitsumeiban (or Real Names Version) is the third game released in 
+the Ultra Baseball Series. The first two games were released in the US under the 
+titles of "Baseball Simulator 1,000".
+
+The Baseball games are unique as they allow players to fully edit and automate 
+entire leagues and seasons. Additionally it's the optional "super power" 
+Ultra League that gives players the unique ability to well....play some very 
+wacky baseball!
+
+-Ultra Baseball: released in 1989 for the NES as "Baseball Simulator 1,000".
+
+-Super Ultra Baseball: released in 1991 for the SNES as "Super Baseball Simulator 1,000".
+
+-Ultra Baseball Jitsumeiban: released in 1992 for the SNES in Japan only. This is 
+basically Super Ultra Baseball w/ real names (Jitsumeiban means Real Names Version). 
+The graphics and sound are slightly better, and there is a new pennant option but 
+this obviously uses the same engine. 
+
+-Super Ultra Baseball 2: released in 1994 for the SNES in Japan only. Culture Brain 
+planned to release this title as "Super Baseball Simulator 1,000 2" but canceled shortly 
+after. This game uses a new engine and sports more features - yes this project is in the
+works too!
+
+-Ultra Baseball Jitsumeiban 2: Same engine as SUBB2, but with real players and some 
+additional features. Most of this game has been translated into English by Tuffy da Bubba
+and is currently being revised and completed along w/ SUBB2.  
+
+-Ultra Baseball Jitsumeiban 3: 1995, new engine, completely players even have numbers on
+their jerseys.
+
+-Pro Yakyuu Star: 1996, same engine as UBBJ3 but cartoon mode only and no ultra powers.
+
+3. Controls
+================================================================================
+We released a full PDF manual for UBBJ that you can download.
+
+KEY representation for each button:
+
+             Y = Y button (pink)
+             X = X button (pink)
+             B = B button (dark purple)
+             A = A button (dark purple)
+             L = L button (gray, top left)
+             R = R button (gray, top right)
+   Control Pad = directional pad (black)
+         START = start button (black))
+        SELECT = select button (black)    
+
+ ______________
+/Menu Controls/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+      START - advances through most menus
+          A - confirms selection
+          B - rejects selection
+Control Pad - navigates through menus
+
+ ________
+/Batting/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+      START - calls time
+          X - picks power up (if available)
+          A - swings bat
+          Y - tells runner (on base) to steal
+Control Pad - moves batter in box, affects where bat hits ball
+
+
+/Pitching/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+      START - calls time
+          X - picks power up (if available)
+          A - tosses pitch
+          Y - pitcher steps off rubber, pick off move
+Control Pad - moves pitcher on white rubber (horizontally)
+            - also affects velocity, stamina used per pitch, and direction
+
+
+4. Issues
+================================================================================
+
+-Some text is cut short or abbreviated due to space restrictions. 
+
+-All other issues should have been resolved.
+ 
+
+5. Remaining
+================================================================================
+
+-Nothing, 100% complete.
+
+6. Translation Notes 
+================================================================================
+
+Jitsumeiban as the title suggests is the "Real Player Version" thus this game used 
+real players from NPB. It would have been too time consuming to have romanized 
+players names and anyone who actually cares about the real players would more then 
+likely speak Japanese and not have a need for this patch.
+
+7. Hacking UBBJ Teams & Players
+================================================================================
+
+So you want to avoid the limited edit mode and hardcode your edit into the ROM eh?
+Well don't ask me what codes change what, I didn't bother w/ that and won't...but
+here's the locations to get you started.
+
+uniform codes (2 bytes before name): 
+Start at: $18013 
+
+The first team - CARPS: 0000 $18013
+
+CARPS (name in text) - 0000 (is the team uniform) - $18013 is the offset location
+
+Second team - DRAGONS: 0101 $18033  and so on. 
+
+Player names (fielders):
+Start at: $18252 (first fielder of the first team, CARPS)
+End at: $1967A (last fielder of the last team, CB) 
+
+Player names (pitchers):
+Start at: $19692 (again first p of first team)
+End at: $1A09A  
+
+You only need the English table for this: 
+
+0A=A
+0B=B
+0C=C
+0D=D
+0E=E
+0F=F
+10=G
+11=H
+12=I
+13=J
+14=K
+15=L
+16=M
+17=N
+18=O
+19=P
+1A=Q
+1B=R
+1C=S
+1D=T
+1E=U
+1F=V
+2C=W
+2D=X
+2E=Y
+2F=Z 
+ 
+8. Credits
+================================================================================
+ 
+Special thanks to RHDN and ZD for hosting the relevant tools for ROM hacking, as well
+as the patch:
+
+http://www.romhacking.net/
+
+http://www.zophar.net/
+
+This translation would not have been possible
+without the help of:
+
+-Translation & Beta Testing
+
+Tuffy da Bubba
+http://www.geocities.com/tuffydabubba/
+
+DarthNemesis
+
+-ROM Hacking Tech Support
+
+InVerse
+http://www.romhacking.net/?page=documents&author=340
+
+Tauwasser  
+http://dds-german.blogspot.com/
+
+Ryusui
+http://theryusui.googlepages.com/
+
+KingMike
+
+RedComet
+http://www.rpgclassics.com/subsites/twit/
+
+-ROM Hacking Tools
+
+creaothceann (VSNES)
+http://vsnes.aep-emu.de/
+
+Stealth Translations (Windhex)
+http://stealth.romhack.net/
+
+SnowPro (Tile Layer Pro)
+http://info.sonicretro.org/Tile_Layer_Pro

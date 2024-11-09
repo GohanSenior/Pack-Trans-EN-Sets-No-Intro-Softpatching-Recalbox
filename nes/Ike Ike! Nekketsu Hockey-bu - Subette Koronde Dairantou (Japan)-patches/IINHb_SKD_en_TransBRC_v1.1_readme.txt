@@ -1,0 +1,25 @@
+TRANSBRC - RELEASE 1.1 TECHNOS ICE HOCKEY 
+
+Translation by Cthulhu, Hack by Blibber.
+
+NOTES - Your original file size should be 262,160.  This is probably my
+favorite NES hockey game, thus the translation. 1.1 fixed the sound stuff
+I messed up, fixed up one spelling of Russian (rusian), and touched up
+some text.
+
+Problems can be reported to blibber@sprint.ca.
+
+Completion - Should be 100% (but little testing)
+
+BCNU
+
+Blibber
+
+
+
+
+
+
+
+
+

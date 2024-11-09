@@ -1,0 +1,43 @@
+Insector X
+English Translation V 1.0
+Copyright 2010 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Insector X
+2.Patch History
+3.Patch Credits
+4.Known Issues
+5.COntact
+------------------------------
+1.About Insector X
+------------------------------
+Insector X is a cute little SHMUP for the NES. I believe at one time it was an arcade game that wasn't quite so childish in its design, but in fact much darker and more adult-like. At least that's what the Genesis version is. Anyways only one thing to translate and that was the ending.
+---------------
+2.Patch History
+---------------
+
+
+---------------
+3.Patch Credits
+---------------
+Me - Hacking
+DarknessSavior - Translation
+Paul Jensen - Translation
+
+--------------
+4.Known Issues
+--------------
+None!
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or check out my site at
+
+yojimbo.eludevisibility.org

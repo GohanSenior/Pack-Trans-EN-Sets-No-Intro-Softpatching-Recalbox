@@ -1,0 +1,198 @@
+Ranma 1/2 Hard Battle II Super Move Hustle English Language Patch V1.10
+
+
+Introduction:
+
+
+
+	Japanese Developer:				Rumicsoft/Atelier Double
+	Japanese Publisher:				Shogakukan Productions Co., Ltd./Toho Company Ltd.
+	Japanese Release:				April 28, 1994
+	English Patch Production:			Dynamic-Designs
+
+
+
+Dynamic-Designs Patch History:
+
+
+
+	V1.00:  Initial Dynamic-Designs Release:	April 01, 2018
+	V1.01:  Fix for Missing Name Graphics:		April 01, 2018
+	V1.02:  Fix for Missing Graphics and Continue:	April 09, 2018
+	V1.03:  Fix for Mariko being Marico winner:	April 17, 2018
+                Fix still wrong, I accidentally put 
+                Meriko, fixed properly in 1.10.
+	V1.10:  Fix for Mariko again, fix for Niagara	  May 28, 2018
+                Falls, Fix for Untranslated name
+                graphics on VS screen and various
+                text fixes. Thanks to Bwah117 for
+		pointing most of these out.
+
+
+
+Dynamic-Designs Production Credits:
+
+
+
+	Project Coordination:				Filler
+	Hacking/Tools/Bug Fixing:			Bongo`
+        Assembly: 					Bongo`
+	Translation:					Filler
+	Script Writing:					Filler
+	English Graphics:				Taskforce
+        Special Support:				Taskforce
+	Beta Testing:					Taskforce
+
+
+NOT FOR SALE INFO
+
+This game in English or patch to make it English is
+NOT for sale under any circumstances!  If you paid
+for this game in any way, including in a cartridge,
+demand your money back immediately!  File a complaint
+with your credit card company and/or paypal as well!
+Especially if you got this game in cart form!
+
+
+
+Game Description:
+
+Description courtesy of Ranma Wiki - http://ranma.wikia.com/wiki/Ranma_%C2%BD:_Chougi_Rambuhen
+
+In the story mode, the player's chosen character gets a letter explaining that they just received
+the recipe to the most valuable of all treasures, the golden beckoning cat, which has the ability
+to grant any wish. The character must then set out to find the 12 ingredients of the golden
+beckoning cat, located all over the world, before one of their rivals does the same. 
+
+
+
+Special features of this game.
+
+This game has some advanced features for its time.
+
+1. The game has three modes, story, versus and Tag Team.
+
+2: In Tag Team, you choose 2 players and when you get to the edge of your side of the screen you can switch
+   out characters using select.  This gives you a fresh character when your in a pinch.  There is a timer
+   once you've swapped characters to keep you from doing it again for a short period of time, but you can do
+   it multiple times a match.  Also, the character whose not active will slowly regain health while waiting
+   on the sideline.
+
+3: The game has a point scoring system and hi-score system just like many fighting games of the era.
+
+4: The game is also one of just a few to actually feature the characters Mariko Konjo as well
+   as Herb.  The game also features Hinako Ninomiya.  However, she has been featured in a few more games than
+   the earlier mentioned pair.  Fans of the anime universe only will not be especially knowledgeable about
+   Herb as he never appeared in the anime.  The other two did appear. Hinako was in one of the latter OVAs
+   of the series.  Mariko was in the main anime series, however her hair color in the anime is brown, not
+   blond as it should have been.  This makes recognizing her in the game more of a challenge.
+
+
+
+
+Production and Testing:
+
+
+This game's production went fairly quickly.  Bongo` asked Filler if there were some games he would
+especially like to work on being that he had helped us out so many times, and this game was at the
+top of his list.  Bongo` quickly hacked it and Filler did the translation and script writing.  He
+started on the graphics but then asked Taskforce if he had time to do them.  Taskforce was busy but
+found enough time take care of the graphic work.  Then he replaced the thin font and edited the script
+to work with the new font.  Finally he beta tested the game one last time and it is now ready for release.
+
+
+
+
+Patching:
+
+Contained within this archive is an IPS (international patching system) file or a patch file in another
+format for the end user's convenience that when used in conjunction with a ROM file will make the
+game playable in English.
+
+Do note that this patch is a result of countless hours of love and labor. Hence, they are not meant
+to be sold at any price under any circumstance, be it in digital form or burnt into a donor cart's
+ROM chip.  You may make your own cartridge for your own use, but please do not sell them to others.
+
+To patch the ROM file, one needs to procure a patcher for their preferred format, a widely available
+class of programs, many of which can be found at http://www.romhacking.net/ for one source.  A few
+can even be found on our download page for your convenience at
+http://www.dynamic-designs.us/downloads.shtml.  Look at the bottom under utilities.  We did not make
+these utilities, we just provide them for your convenience.
+
+At some point, ROM sites may upload pre-patched ROMs of our Ranma Hard Battle II translation.
+Obviously, Dynamic Designs cannot endorse playing these versions, nor will we support resolution
+of any associated problems. Moreover, pre-patched ROMs may float around the web for years.  Only
+by downloading patches containing just our original work from D-D's web site may gamers obtain
+revisions to these patches - if any - and take advantage of possible bug-fixes and corrections.
+
+Below is the information pertaining to the ROM file our patch requires, according to Nach's SNES ROM
+Tools:
+
+
+
+
+
+
+---------------------Internal ROM Info----------------------
+       File: Ranma(J).sfc
+       Name: RANMA1/2 CHOUGIRANBU     Company: SMDE
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 20 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0xC2B9            Game Code: 5K  
+---------------------------Hashes---------------------------
+      CRC32: 0C552B1F
+        MD5: 8C7DFC3DC5D13B145FC116DBCB84521B
+--------------------------Database--------------------------
+       Name: Ranma One Half - Chougi Ranbu Hen
+    Country: Japan                   Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: Fighting                 Genre 2: Hand To Hand
+
+
+**Also take SPECIAL NOTE that the original rom lacks a header.  You may have to remove the header
+from your ROM file, but don't worry as there are a variety of programs that do this, such as
+SNESTool, Smile, Toolbox, etc.  
+
+
+
+Size before patching: 2.50 MB (2,621,440 bytes)
+
+Size after patching: 3.00 MB (3,145,728 bytes)
+
+
+Alternatively, most emulators support a feature called soft patching, which keeps the ROM file
+intact, merging the patch data only during run time. To make use of it, make sure both the ROM file
+and the IPS are in the same directory as your emulator of choice and have the same name, but not the
+same extension. Do note that this is case-sensitive.  (Also, do note this soft patching is only
+available using the IPS patch file, and may NOT work with the other patch file formats.)
+
+
+e.g:  Ranma_Hard_Battle_II.smc and Ranma_Hard_Battle_II.ips will trigger soft patching at the emulator's run
+time.
+
+
+
+
+
+Emulator Compatibility:
+
+
+The game behaves itself properly in a wide range of emulators such as ZSNES, SnesGT, Mednafen,
+SNES9X and Higan/BSNES.
+
+
+
+
+
+Special Thanks:
+
+
+Without these people, it just wouldn't have been possible or fun: All of the great staff at D-D.
+Filler for translating the game, Bongo` for hacking, Filler for writing.  Taskforce for graphics
+and of course the rest of the D-D forum community!
+
+
+Readme 2018 Dynamic-Designs

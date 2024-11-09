@@ -1,0 +1,36 @@
+Power Soukoban -  English translation patch v1.0
+
+
+Apply to an unheadered rom.
+Database match: Power Soukoban (Japan)
+Database: No-Intro: Super Nintendo Entertainment System (v. 20180813-062835)
+File/ROM SHA-1: 4B69363051DF75089169CB76E5ABC6364ECBABF5
+File/ROM CRC32: 39FBAA1E
+
+
+Known issue: minor graphical errors can occur at certain times.
+This has been observed when opening or closing the subscreen, on
+the game over screen, and during the credits. This is an issue in
+the original game; this patch may make it slightly better or worse
+depending on the emulator. I tried to minimize it in Higan.
+
+
+Fonts used:
+
+Main font
+Compass
+by Eeve Somepx
+https://somepx.itch.io/humble-fonts-free
+http://www.patreon.com/somepx
+https://twitter.com/somepx
+
+Title graphic
+Nimbus Sans L Bold
+by URW Type Foundry GmbH
+https://www.urwpp.de/en/
+
+Game over graphic
+Kashima Brush
+by Abo Daniel
+https://www.dafont.com/kashima-brush.font
+https://www.creativefabrica.com/designer/abodaniel/

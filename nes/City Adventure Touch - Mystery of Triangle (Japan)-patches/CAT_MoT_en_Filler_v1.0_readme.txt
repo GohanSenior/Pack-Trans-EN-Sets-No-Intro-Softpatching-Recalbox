@@ -1,0 +1,54 @@
+﻿City Adventure Touch for the Nintendo Famicom English Language Translation Patch Readme
+Released February 12th, 2017
+Version 1.0
+
+Programming/Art/Tools: Supper
+Initial Work/Translation: Filler
+
+The patch included in this archive is to be applied to a ROM dump of the Nintendo Famicom game "City Adventure Touch: Mystery of Triangle" using an appropriate patching program. The patch translates the game's text to English, and adds a splash screen. Details follow in this document.
+
+A couple play-throughs of the game have  been completed by Supper, but no other testing has been done. We urge you to report any issues to us via RHDN's forum, or to filler@mattsmessyroom.com.
+
+--------------------------------------------------------------------------------
+
+Licensing
+
+This patch contains NO portion of the original game. It is to be distributed as a patch, in an archive with this readme and any other materials originally provided in the archive.
+
+This patch is NOT to be distributed with the original ROM image, either pre-patched, or separately. The contents of this patch are NOT TO BE SOLD in any way, including as a ROM image applied to the original ROM, or as a physical cartridge using the patch applied to the original ROM image.
+
+As the work contained in this patch is derivative, our rights regarding it are limited. However, we're releasing materials related to the translation project ONLY, including the English language script, under CC BY-NC (Creative Commons Attribution-NonCommercial, https://creativecommons.org/licenses/).
+
+For additional materials and information please see the project page: http://projects.mattsmessyroom.com/
+
+--------------------------------------------------------------------------------
+
+Game Description
+
+City Adventure Touch: Mystery of Triangle is an action adventure game by Compile for the Nintendo Famicom. It uses characters from the high school baseball manga "Touch", by Mitsuru Adachi. The goal of the game is to save 10 puppies scattered throughout a town filled with aggressive creatures and objects. You do this by collecting various items, and fighting against various enemies and bosses.
+
+--------------------------------------------------------------------------------
+
+Supper's Notes
+
+I picked this title up somewhat randomly after Filler, having translated the script some months before, put up a "help wanted" request on the RHDN forums for the hacking side of things. I knew of the game by reputation and thought it might make a funny project, so I ended up taking it on. I wasn't planning to spend more than a few days on it, but it wound up taking... a bit more than a week. Well, guess I can't complain.
+
+This game has a pretty notorious reputation in Japan, but after playing it a couple of times I can't help but feel a little sympathetic toward Compile. It's not a good game, sure, but I can see how someone could sit down in 1987, draw up the design for this, and think, "Yeah, that'll be interesting." It has some ahead-of-its-time ideas regarding co-op game-play, "open world" design, and even (for better or worse) escort missions. If the areas were a bit less sprawling and the puzzles less obscure and nonsensical -- and the game didn't pretend to have something to do with Touch -- I think it would have fared a lot better.
+
+Anyway, the hacking work for this game was nothing terribly special. Probably the most interesting occurrence was when a few days into the project, with about half the work done, we found out that KingMike had independently gotten the script translated and was planning a translation patch of his own. After discussing it with him, we decided to carry on with the two separate projects, which means there'll probably be two completely different English translation patches available for this rather bad game in the near future. Kind of nutty, but much preferable to no translation at all.
+
+A couple of things I'd like to note: you may notice that after entering and leaving a boss room, Minami becomes able to pass through walls in indoor areas. This is a bug in the original game, not a result of the patch. You may also notice that you can enter any random garbage you want as a password and the game will accept it (often starting you with zero health and glitched items, or outright crashing); this is also an original-game issue. I'd argue that these bugs are an integral part of the game experience, and that leaving them unfixed is definitely not laziness on my part. (No, really, I think this is definitely a case of "bugs make game fun").
+
+Well, I hope someone out there gets some enjoyment out of this patch, despite all obstacles. Keep a walk-through handy or you'll be in for a long, long ride.
+
+--------------------------------------------------------------------------------
+
+Filler's Notes
+
+As I mention in this thread from July 27th, 2017 (http://www.romhacking.net/forum/index.php?topic=24269.msg341277#msg341277) someone popped by my blog and mentioned this game and I was intrigued by how ridiculous it is. An odd little action adventure game needlessly using a license for the characters from the manga and anime "Touch". I made a quick table file and dumped and translated the small script. I posted the script and my notes to the message board at that time for anyone to use.
+
+Flash forward to February 02, 2018 and as nothing much seemed to be happening on that thread anymore, I decided to post an ad in the "Help Wanted" section of RHDNs forums. Supper was gracious enough to offer to take a look at the game, and progress was quick at that point.
+
+As Supper mentioned, KingMike who had mentioned having taken a look at the game at one point here (http://www.romhacking.net/forum/index.php?topic=24269.msg341336#msg341336), was still intending to work on this project unbeknownst to me, that is until it was mentioned in the help wanted section (http://www.romhacking.net/forum/index.php?topic=25730.0). After making an effort to work out the best way to move forward with the project, we decided to just go ahead with our projects independently.
+
+The game is strangely frenetic, but it's interesting how it goes after a more action oriented adventure style, rather than the typical dialog based Japanese adventure game. Though it's not a particularly monumental game, I'm glad to see it get one, or more, English language patches.

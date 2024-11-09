@@ -1,0 +1,404 @@
+                      DvD Translations
+
+
+                          presents
+
+
+             JJ Jump Out! The Epic War - Part II
+                             aka
+        JJ - The 3-D Battles of WorldRunner - Part II
+
+                         for the NES
+
+
+                      A translation of
+
+
+               JJ Tobidase Daisakusen Part II
+                             aka
+           Jump'n Jack Tobidase Daisakusen Part II
+
+                  for the Nintendo Famicom
+
+                     published by Square
+
+
+
+               Patch Version: 1.00
+
+                Release Date: November 13th, 2003
+
+------------------------------------------------------------
+Hello and welcome to the ReadMe file for "JJ Jump Out! The
+Epic War - Part II" aka "JJ - The 3-D Battles of WorldRunner
+- Part II".
+
+In this file I've included info on how to use either of
+these patches and how play control differs in this game from
+that of "The 3-D Battles of WorldRunner".
+
+------------------------------------------------------------
+Credits:
+
+                      DvD Translations
+            dvdtranslations.eludevisibility.org
+
+DvD    - Hacker
+         English translation of ending
+         Tester
+         ReadMe author
+
+                    Shiroi Translations
+                    yatsu.deviantart.com
+
+Shiroi - English translation of the Japanese title
+         English translation of ending
+
+------------------------------------------------------------
+How to Patch the ROM file:
+
+Original Game ROM Size: 1 megabit of program ROM
+                          &
+                        0 megabits of character ROM
+                      = 1 megabit
+                      = 128 kBytes
+                      = 131072 Bytes
+You need:
+
+1) A ROM file.  The file must include the standard 16 byte
+   iNES header followed by the program ROM.  This makes the
+   ROM file 131088 Bytes in size.
+
+   I'm not telling you how to get the ROM file, but
+   for this game, the format of the 16 byte iNES header
+   should be:
+
+   4E 45 53 1A 08 00 21 00 00 00 00 00 00 00 00 00
+
+   Note: There are two versions of the ROM on the net.
+         Both of them already have the correct header file
+         and either these patches will work with either of
+         them.
+
+2) Patch Files: TD2v1_00.IPS - Translated Japanese title
+                3D2v1_00.IPS - U.S. sequel title
+
+   Choose only one of the above two files.
+
+3) An IPS patching program
+   Recommended patching program for IBM PC:
+
+    Snes-Tool.exe by The M.C.A./Elite
+
+Using SNES Tool:
+
+1) Make a copy of the un-patched ROM.  You always want to
+   keep the un-patched ROM around for later revisions of
+   the patch.
+2) Place an un-patched ROM file with header (I'll call it
+   JJ.nes), TD2v1_00.IPS (or 3D2v1_00.IPS), and
+   Snes-Tool.exe in the same directory.
+3) Run Snes-Tool.exe
+4) Type 'U' for "Use IPS"
+5) Press the down arrow key until TD2V1_00.IPS
+   (or 3D2V1_00.IPS) is highlighted.
+6) Hit Enter.
+7) Press the down arrow key until JJ.NES is highlighted.
+8) Hit Enter.
+9) Hit 'Q' to quit.
+
+Note: If patching the file on a Mac, I recommend UIPS.
+
+------------------------------------------------------------
+Why I chose to translate THIS game:
+
+1) After translating AD&D DragonLance 2 - Dragons of Flame,
+   I wanted to do some simple NES translation work that
+   focused more on graphics editing than it did on code
+   changes.  You can't do a translation with any less coding
+   than this!
+
+2) The prequel was one of the first games I ever owned for
+   the NES.  When I found it had a sequel, I was excited to
+   see what it was like and why it hadn't been released in
+   the US.  When I hit the select button and realized that,
+   unlike the prequel, it required special electromechanical
+   glasses to show the 3-D effect, I knew why it wasn't
+   released here.
+
+3) I've played and passed all the prequels to this game.
+   It just has the one and this is the only sequel.  I have
+   this thing about playing games that are part of a series
+   in the order in which they came out...
+
+4) I liked the game and had been playing it for a while,
+   but I wished I knew what the title of the game meant.
+
+Why YOU should bother playing THIS game:
+
+1) It's a continuation of the game released in the US.
+   Continue where you left off!
+
+2) It's by Square.
+
+3) See how the game differs from the prequel.
+   Main difference: Because you can't control your speed,
+                    it's more challenging.
+
+------------------------------------------------------------
+Game Controls & Tips:
+
+1) If you haven't played The 3-D Battles of WorldRunner
+   aka 3-D WorldRunner, you should read it's manual.  The
+   controls and game play are EXACTLY the same as the
+   prequel; that's why Square titled this game "Part II".
+
+   With a little research you should be able to find a copy
+   of the 3-D WorldRunner manual on the internet.  I own
+   a copy of 3-D WorldRunner with manual, 3-D glasses, and
+   box.  Still, before writing this I checked and I was able
+   to find a scanned manual, in PDF form, for the NES
+   version of 3-D WorldRunner on the net.  I also found a
+   "text manual" for the game, but it was a poor,
+   incomplete, paraphrase of the actual manual.  I guess
+   it would be better than nothing.
+
+
+2) Controls
+
+* Start    : Start the Game
+             Pause the Game - watch JJ smoke a cigarette :)
+
+* Select   : Toggle normal & 3-D Mode
+
+             Note: Whereas the 3-D mode in 3-D WorldRunner
+                   only required red/blue 3-D glasses, the
+                   3-D mode in this game requires special
+                   3-D glasses whose left and right lenses
+                   switch on and off for every scan of the
+                   TV to give a perfect 3-D effect. These
+                   glasses were released in the US for
+                   the Sega Master System.  They have a
+                   standard stereo headphones plug.
+                   Schematics for an adapter for this plug
+                   to allow it to plug into the PC serial
+                   port can be found in the documentation of
+                   the MEKA SMS emulator. But, I am unaware
+                   of any NES emulators that can be used
+                   with a pair of these glasses plugged into
+                   your PC's serial port.
+
+ -- Non-Boss Fights --
+
+* A-button : Jump.  The longer you hold the button, the
+             longer you will jump.
+
+             Hint: After dying, hold down the A button
+                   while hitting Start to continue at the
+                   beginning of the world JJ last died on!
+                   There are no limits to the number of
+                   continues!  Yeah!
+
+* B-button : Fire your gun (if you have one)
+
+* Directional Pad
+
+   - L & R : Move JJ left & right
+
+   - U & D : Unused (Unlike 3-D WorldRunner, you can't
+                     change JJ's speed, this makes it much
+                     more challenging)
+ -- Boss Fights --
+
+* A-button : Unused
+
+* B-button : Fire your gun
+             (you'll always have one when fighting bosses)
+
+* Directional Pad
+
+   - U, D, 
+     L & R : Move JJ up, down, left, & right
+     
+
+3) Crash into the white columns for power-ups:
+
+ - Gun              -   | 
+                        |
+                      |/|\|
+
+   Same as rocket shaped "Laser Missiles" in 3DWW
+
+
+ - Shield           -  | |
+                       | |
+                      /   \
+
+   Same as orange "Power Potion" in 3DWW
+
+
+ - Death            -  ___
+   (An eyeball)       /   \
+                     |  O  |
+                      \___/
+
+   Same "Magic Mushroom" in 3DWW
+
+
+ - Invincibility    -   o
+                      /-+-\
+                      \ | /
+                       _+_
+                       | |
+                      _| |_
+
+   Same as "Atomic Power" in 3DWW 
+
+ - Extra JJ         -   O
+   (Man's upper body)  / \ 
+                       |_|
+
+   Same as "Have a Heart" in 3DWW 
+
+ - Extra Time       - "Cosmic Clock"
+   
+   Identical item in 3DWW
+
+   Note: It is also possible to jump on top of the white
+         columns after bouncing off of them.
+
+
+4) Collect Energy Tanks for points
+
+   /     \
+  |   O   |
+   \     /
+
+   Same as "Super Stars" in 3DWW
+
+
+5) Step on jumpers to cause JJ to do a super jump:
+
+ - Springs on the ground           -  _____
+                                      \___/
+                                       ---
+                                       ---
+                                       ---
+                                      /___\
+
+   Same as green frog "Junior Jumper" in 3DWW
+
+ - Flattened springs on the ground -  /===\
+
+   Same as white flower "Super Jumper" in 3DWW
+
+
+6) Catch rocket packs to fly to parallel worlds
+
+    /| |\
+   |-| |-|
+   | |O| |
+   |_| |_|
+
+   Same as white "Warp Balloon" in 3DWW
+
+
+7) Running into cell clusters do not hurt JJ but
+   stop him from advancing.  Of course this is a major
+   problem if JJ happens to be over a pit...
+
+   Same as "Hand Man" in 3DWW
+
+
+8) Jump over all pits.
+   Shoot or jump over everything that moves.
+   Don't touch red "Towering Infernos" or anything that moves.
+   
+
+9) There are 8 worlds composed of 2 to 4 quadrants each.
+   All the bosses are easy except for World 7.  The boss in
+   world 8 is invisible, but he is easily hit and made
+   visible by shooting above his shadow.  World 8-1 is
+   HUGE.  The only way to pass it without running out of
+   time is to ONLY hit the pole that gives you a Cosmic
+   Clock (2 of the 4 poles in the 5th row of poles) and not
+   hit any other poles for power-ups.
+
+------------------------------------------------------------
+Game Series Releases:
+
+1) 1987: "Tobidase Daisakusen"
+
+   Released for the Famicom Disk System by DOG (Square's
+   FDS game division).  Programmed by NASIR, who made the
+   Rad Racer series of games for Square.
+
+   Note: Although the title screen calls the game Tobidase
+         Daisakusen, the title bar of the game says
+         "S Q U A R E PRESENTS JUMP-N-JACK" when the demo
+         is running.
+
+2) 1987: "The 3-D Battles of WorldRunner"
+
+   Released for the NES by Acclaim.  Same as Tobidase
+   Daisakusen but released in cartridge form with a
+   different title screen, it says "S Q U A R E PRESENTS
+   WORLD RUNNER", and the original Japanese ending text
+   has been changed to English.
+
+3) 1987: "JJ Tobidase Daisakusen Part II"
+
+   Released for the Nintendo Famicom by Square.
+   All of the ending text is already in English,
+   but some of it is written using the Japanese hiragana
+   alphabet.
+
+   Note: Although the title screen calls the game JJ
+   Tobidase Daisakusen Part II, the title bar of the game
+   says "S Q U A R E PRESENTS JUMP'N JACK" when the demo is
+   running.
+------------------------------------------------------------
+Translation Progress History:
+
+Patch Version  Release Date
+-------------  ---------------
+
+1.00           October 13th, 2003 - Public Release
+
+* Title Screen Hack             - Complete
+  - Japanese Title
+  - US Sequel Title
+  - Copyright cleanup
+  - DvD Translations
+* Ending Translation Hack       - Complete
+  - "Thank You" smoke cloud
+  - "The End"
+* ReadMe                        - Complete
+
+------------------------------------------------------------
+Software used in this translation:
+
+* Emulator
+
+  FCE Ultra 0.94
+   by Bero & xodnizel
+
+* Tile Editor
+  
+  Tile Layer Pro 1.0
+   by Kent Hansen
+
+* IPS Patch File Creator
+
+  Snes-Tool Version 1.2
+   by The M.C.A./Elite
+
+* ReadMe Creation
+
+  Notepad
+   by Microsoft
+
+------------------------------------------------------------
+Happy Jumping!
+
+DvD

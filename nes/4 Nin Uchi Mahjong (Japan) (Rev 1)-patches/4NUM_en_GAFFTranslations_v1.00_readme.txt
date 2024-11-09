@@ -1,0 +1,173 @@
+                           4 Player Strike Mahjong
+					      English Translation Patch
+               by Rob "Pluvius" Browning (pluvius3 @ gmail.com)
+                        v1.00 (Created July 12, 2014)
+--------------------------------------------------------------------------------
+
+
+*TABLE OF CONTENTS*
+ -----------------
+
+I.    VERSION HISTORY
+II.   INTRODUCTION
+III.  INSTRUCTIONS FOR USE
+IV.   KNOWN BUGS
+V.    TECHNICAL NOTES
+VI.   ACKNOWLEDGEMENTS AND CLOSING WORDS
+
+
+********************
+I.  VERSION HISTORY
+********************
+
+v1.00 (07-12-14):  First release.
+
+
+******************
+II.  INTRODUCTION
+******************
+
+This is an English translation patch for 4 Player Strike Mahjong (also known as
+4 Nin Uchi Mahjong) for the Famicom.  Developed by Hudson Soft and published in
+1984 by Nintendo, it's a port of an earlier computer game named Jankyou
+("Mahjong Enthusiast") and is one of the simplest games available for the
+system.  It is a straight-forward implementation of Japanese mahjong where
+(despite the name) a single player competes against three AI opponents.  I have
+included a ruleset with this patch that lists the notable quirks apparent in
+this game versus the standard Japanese mahjong ruleset.
+
+This is my first fan translation project.  I have been a retro-gaming enthusiast
+for a very long time and have enjoyed many other people's translations.
+However, there are still many old games that have not been translated due to
+difficulty and/or lack of interest.  I decided to try to help rectify this
+situation by diving into translation hacking with both feet by learning about
+6502 assembly language and the Famicom/NES architecture and then actually
+putting that knowledge into use on a game, hopefully leading to further games in
+the future.  The eventual goal, inspired by GameFAQs' NES Completion Project,
+would be to organize an effort to translate as many Famicom games as possible.
+Though I'm far from sure that I'll want to commit to something on that scale, I
+think it would be a worthwhile endeavor particularly if a sizeable number of
+NES hackers went on-board with it.
+
+At any rate, though I'm somewhat embarrassed to admit that the main reason I
+chose 4 Player Strike Mahjong as my first project was simply that it was first
+on my alphabetical list, it turned out to be a great choice.  4 Player Strike
+Mahjong is small and simple enough to be manageable for a neophyte hacker, but
+still presents a lot of educational challenges due to the tricks that had to be
+performed to keep the entire game within a single 16K PRG bank and 8K CHR bank.
+I will go over some of these challenges below for those who are interested.
+
+Including the time spent learning about the Famicom itself, it took me a month
+or so to complete this project in my free time, and I had a lot of fun with it.
+I hope others will have fun with the result.
+
+
+***************************
+III.  INSTRUCTIONS FOR USE
+***************************
+
+1.  Download and install Lunar IPS or a similar IPS patcher if you haven't
+    already.
+	
+2.  Get a copy of the 4 Player Strike Mahjong ROM.  No, I don't know where.
+    The correct ROM is identified by GoodNES 3.23 as the verified good PRG1
+	dump.  The patch may also work on the PRG0 dump, but this hasn't been
+	tested.
+	
+3.  Apply the patch to the ROM using the aforementioned IPS patcher.  The
+	patcher should automatically expand the ROM for you if it's anything like
+	Lunar IPS.
+
+
+****************
+IV.  KNOWN BUGS
+****************
+
+None at this time, though there are some quirks in the game that I'm pretty sure
+were there originally.  See the included ruleset text file for more details.
+If there are any issues (particularly with the translation itself, as I am a
+complete amateur when it comes to Japanese), please let me know at the email
+address at the top of the readme.  A savestate demonstrating the issue would be
+helpful.
+
+
+********************
+V.  TECHNICAL NOTES
+********************
+
+4 Player Strike Mahjong uses a number of tricks to counter the limitations of
+its small size.  The most obvious and most difficult to deal with was the fact
+that most of the text was in 16x16 kanji instead of the 8x8 kana you might find
+in most Famicom games.  Not only did this often limit the amount of screen space
+I had to work with in these situations, but it also caused problems due to the
+fact that a routine that writes large kanji to the screen is by necessity
+different from a routine that writes normal-sized text.  By far the hardest
+thing I had to accomplish in this hack was changing each line of kanji into two
+lines of English text.  Actually changing the function calls from calling the
+kanji routine to calling the text routine was easy, since the game already had
+a text routine for commands and other things that had to fit on one line.
+Setting the game up to go to the next line in the middle of the text routine,
+without screwing anything else up, was something else altogether.  If you're
+interested, you can find the main (very ugly) hack that I wrote to accomodate
+this at address $3CE2 in the hacked ROM ($BCD2 in the debugger).  Most (but not
+all) of the translated text is at $2010 ($A000).
+
+The other major hack was of the title screen.  The programmer used a combination
+of RLE and 4-bit FBLE to fit the information needed for the logo into a small
+space.  As for the graphics, they are made up of a handful of simple geometric
+shapes that go together to create the logo.  Co-opting this for my purposes was
+pretty easy once I figured out how it worked (which took a little while since it
+was the very first thing I hacked), though I had to make some modifications for
+it to work well with an English logo.  I'm not much of an artist but I think it
+turned out well.
+
+Thankfully, expanding the ROM (something notoriously difficult in the NES world)
+was perhaps the easiest part of the hack.  4 Player Strike Mahjong is so old
+that it's an example of the simplest possible NES ROM, the mapper 0 NROM-128.
+Expanding this ROM was as simple as adding a bunch of zeroes (or $EAs, really)
+and flipping a couple of bits in the header.  Without expansion, I don't think
+this translation would've been possible, so this was a great stroke of luck.
+
+Despite the fact that I have no real Japanese knowledge and did not enlist the
+help of a translator, the actual translation part didn't present too much of a
+problem.  This was because the vast majority of text in the game is made up of
+well-defined Japanese mahjong terms, and could be easily found on Wikipedia or
+sites about Japanese mahjong.  For everything else, WWWJDIC and Google served
+well.  The most difficult part was actually in the hacking part of the
+translation process.  4 Player Strike Mahjong doesn't use pointer tables at all;
+most of the pointers are hard-coded, while the main block of text (used mostly
+to describe the yaku in the winning hand) was accessed using a linear search
+technique.  I didn't even bother dumping most of the text outside of that block;
+it was quicker just to modify the ROM by hand.
+
+
+****************************************
+VI.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+****************************************
+
+Thanks to:
+
+Hudson Soft, for developing this game.
+
+Nintendo, for publishing this game and making the system it runs on.
+
+Klarth and RedComet, for creating Atlas and Cartographer, two script utilities
+that made translating the main block of text very much less tedious.
+
+The developers of FCEUX, the very useful debugging emulator which I used for
+this entire project.
+
+Romhacking.net, for hosting this hack and many others like it, as well as
+providing useful hacking information.
+
+The NESDev Wiki, the premier resource for NES hacking information.
+
+And, of course, you for reading and playing.
+
+Questions, comments, criticisms, and bug reports can be sent to
+pluvius3 @ gmail.com (without the spaces obviously).  Please put "4 Player
+Strike Mahjong" or something similar in the subject line so I will know what the
+email is about.  If you alert me to a bug, I will fix it in a future update and
+give you credit.
+
+Copyright 2014 Rob Browning, all rights reserved.

@@ -1,0 +1,8 @@
+SUPER F-1 CIRCUS 2 ENGLISH TRANSLATION
+VERSION 0.95
+12/4/2018
+
+MODIFIED BY MRRICHARD999
+TRANSLATIONS DONE BY HELLY & THEMAJINZENKI
+
+All the dialogues and menus have been fully translated in this patch. One issue that is present is some of the option text on the bottom of certain screens shows up as somewhat transparent.. Other than this the game is fully playable in English!

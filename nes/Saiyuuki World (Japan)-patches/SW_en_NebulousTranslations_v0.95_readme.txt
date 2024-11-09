@@ -1,0 +1,82 @@
+Saiyuuki World FC Translation
+
+Contents:
+
+1. Foreword
+
+2. Game description
+
+3. Translation notes
+
+4. Hacking notes
+
+5. Disclaimer
+
+6. Staff and special thanks
+
+7. Contact
+-----------------------------------------------------------------------
+
+1. Foreword
+
+Hello everyone!
+
+We present the translation patch for Saiyuuki World aka Journey to the West World for the Famicom. This game is a bit of an odd duck - it's apparently almost identical to Monster World and Bikkuriman World. The latter was one of the PC-Engine launch titles. Most likely some licensing issues were involved, hence the change of the characters/sprites for the FC version. Perhaps NMK and Jaleco were unable to acquire the license, and so they ended up completely altering the graphics (having characters like dragons and Buddha statues as shopkeeps) while keeping the gameplay technically the same. Either way, it's a pretty fun game. Celcion came up with the idea for this project, as the game is quite nostalgic for him. So, have fun! 
+
+2. Game description 
+
+Saiyuuki World is the precursor to the US-released game Whomp Em. It is a 
+platformer with RPG elements (you can find gold [yuans in this game], buy/upgrade various types of equipment, fight numerous bosses and so on). It is a relatively short game, but it can be quite difficult especially if you are not well equipped. Let us stress this: equipment plays an enormous role in this game. The better you are equipped, the easier it becomes. The story is quite simple: the Bull Demon King (known as Niu Mowang in Chinese) kidnaps Tripitaka (Sanzang) and a bunch of monks. You are Sun Wukong/Monkey King, and you have to save them. Not very elaborate story by any means, but it sets the tone for the game. Interestingly, all the characters are based on Journey to the West, which is a very popular work of literature in China/Japan.
+
+Be careful not to use the attack/jump buttons during the dialogue, or you might skip large portions of it! :)
+
+3. Translation notes
+
+The hardest part about this translation were likely the names. We opted for a mixture of Chinese/English names, to retain the atmosphere of the game, but also have some recognizable English names which would sound better, mostly for the villains. For example, Sun Wukong might as well be called Son Goku or literally Monkey King. Some characters have names which are basically untranslatable, whereas in some other cases there are clear English equivalents. It's worth noting that they were not written in kanji, which made translating them all the more difficult. Apart from that, the translation was pretty straightforward.
+
+Also, quite a few item names had to be shortened because of space limitations (same pertains to shop talk). So, here they are in their full glory: Leather Shield, Brass Shield, Steel Shield, Golden Shield, Leather Armor, Brass Armor, Iron Armor, Steel Armor, Golden Armor, Fearless Shoes, Cloud-walking Boots, Short Sword, Iron Cutter, Demon Cutter, Seven Stars Blade, Power Pole, Wind God Fan, Dragon Ball, Flame Stone, Thunder God Drum, Tengu Sandals, Magical Drug, Crystal Ball. 
+
+The only untranslated parts are the "EXIT" sign in the shops and the title screen, because of various constraints. Celcion will gladly provide his own decoder/encoder, just contact him via email should you want to work on these 2 aspects. 
+
+4.Hacking notes 
+
+The hacking side of this translation was actually not that hard, thanks to UNROM mapper that is relatively easy to expand, which in turn makes the expanded space usable. Also, all the game text is stored in one text block with pointers. Convenient enough, right? So, the script was dumped, TheMajinZenki translated it in a blink of an eye, and I just reinserted it, writing a little ASM-hack to make the game switch to expanded space, so as to be able to read the inserted text. One other thing that I made was a new line symbol (which this game never had, each line was placed using different script entries) so I could fit more text in the dialogue boxes. It wasn't that hard, but required some more ASM magic.
+
+ Graphics were a little bit more complicated - they use compression, but it's a very easy RLE variation.
+
+ The title screen is not translated as well as the "Exit" sign in shops. That's because we don't really have graphic designers, and it's really hard to make a title screen comparable in aesthetic feel, also we were in two minds as to have to translate it. So, after brief discussion we decided to leave it as is. It doesn't matter anyway, since the main text is fully translated and the game is fully playable. Nonetheless, it doesn't make for a full patch, hence the 0.95 version number.
+
+ Anyway, if someone would like to translate this screen and the EXIT sign - feel free to do so. Export offset for title screen is 0xc01b, and compression goes like this - it's your usual uncompressed graphics, but when it encounters a special symbol byte (it's variable per each picture, in case of opening screen its 0xde) it uses the second byte after it as a counter, and the third one as a byte to draw (which repeats specified amount of times). That's it. :-)
+
+ I can provide you with a sample decoder/encoder I wrote, just contact me via email.
+
+5. Disclaimer
+
+This translation is a non-commercial and unofficial project which is in no way affiliated with the game creators or distributors. We don't own anything here and have no copyrights.
+
+We release this translation in the form of an IPS patch, not the actual ROM. Please, don't ask us to send you the ROM, or where you can find it - we can't help you with that.
+
+You can redistribute this translation freely as long as you don't ask money for it and include this readme.txt file with it. We don't condone any form of commercial redistribution. Please, keep that in mind.
+
+
+6. Staff (Nebulous Translations):
+
+Celcion       - hacking
+
+TheMajinZenki - lead translator 
+
+cccmar        - initial testing/spot translation/script editing
+
+Special thanks go to:
+
+- guys from the Sega-16 forum
+
+- guys from the ROMhacking.net forum 
+
+
+7. Contact:
+
+celcion - celcion@gmail.com
+
+cccmar  - cccmar111@gmail.com
+

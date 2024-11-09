@@ -1,0 +1,86 @@
+Magic Poipoi Poitto
+v1.0
+August 11, 2011
+KingMike Translations (http://kingmike.emxuxhaven.net)
+
+***********
+INTROUCTION
+***********
+This is a puzzle game where you play as one of two magicians.
+Match blocks to cast spells and attack the enemies.
+
+Fairy standard puzzle game, but it has cute graphics and good music.
+
+Ported from an arcade game called Poitto.
+
+****
+TEAM
+****
+ KingMike - tools, assembly, graphics, translation
+ filler, Paul Jensen - translation
+
+***********
+WHAT'S DONE
+***********
+ Should be complete.
+
+************
+WHAT'S BUGGY
+************
+ Nothing known at this time.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+ Apply the IPS with LunarIPS or UPS with upset (byuu.org). Apply to a ROM without a header.
+
+****************
+EMULATION ISSUES
+****************
+ Should work in any popular emulator.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+ Menus: Use D-Pad to choose selections, A to confirm, B to cancel.
+
+ In game:
+ D-Pad: Move piece
+ Select: Unused
+ Start: Pause
+ A, X or R Button: Rotate piece clockwise.
+ B, Y or L Button: Rotate piece counterclockwise.
+
+ Match 3 pieces horizontally, verically or diagonally to clear them.
+ Match 4 to cast a spell and attack the opponent.
+ Make a chain reaction to attack with multiple spells.
+
+ There are two special tiles: Ghosts will disappear after landing.
+ Stars will remove all tiles on the field that match the one it touches.
+ There's probably a special condition to get a star, but I'm not sure what it is.
+
+ Game Modes:
+  Poitto alone (Single player):
+   Monster mode: Fight all the monsters. Aggresively make combos and chains to attack the monster.
+      Attacking will raise the floor, continue to attack to reduce it's HP. When the monster's HP runs out, you win.
+      But if you are too slow, the monster will recover HP and the floor will drop back down.
+      The monster will regularly change your pieces into evil statues, which will interfere with your stack.
+   VS.: Now the Monster will actually be participating rather just be an animation in Monster mode.
+   Addiction: A 50-stage level-clear mode. Arrange the vase tiles on each stage to win.
+  Poitto for two (two-plaer mode):
+   Clock: When you case a spell on an opponent, it will temporarily lock random tiles on their side.
+      The locked tiles can be dropped, but cannot be removed from play until the timer on them runs out.
+   Evil Spirit: Like the single-player modes, attacking the opponent will replace randome tiles on their side
+      with statue tiles.
+  Until It Hurts
+   And endless/practice mode. 1 or 2 players can play independantly.
+  Options:
+   Choose the difficulty level, number of credits, change the sound mode or listen to a sound test.
+
+*********
+COPYRIGHT
+*********
+Original game (c)1993 by Metro, 1994 by Takara.
+English translation (c)2011 by KingMike
+I am not affiliated with Metro or Takara.
+Do not distribute the game image ("ROM") and the patch.

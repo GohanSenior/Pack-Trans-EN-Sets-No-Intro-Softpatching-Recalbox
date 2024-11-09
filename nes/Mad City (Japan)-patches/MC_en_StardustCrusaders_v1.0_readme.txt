@@ -1,0 +1,44 @@
+Mad City
+English Translation V 1.0
+Copyright 2010 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Mad City
+2.Patch History
+3.Patch Credits
+4.Known Issues
+5.COntact
+------------------------------
+1.About Mad City
+------------------------------
+Mad City is the japanese version of Bayou Billy and it is a much easier game with more content not seen stateside.
+---------------
+2.Patch History
+---------------
+
+
+---------------
+3.Patch Credits
+---------------
+Me - Hacking
+Jonny2X4 - Translation
+DvD - Title screen hack and design
+ReyVgm - Tester
+
+--------------
+4.Known Issues
+--------------
+1. In the quiz mode you will notice a very quick and temporary glitch which is due to important code being written after vblank. I was in the process of fixing the issue, but lost my motivation to do anything lately. The game's perfect besides that and I figured I'd just release. You'll probably never encounter it anyway.
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or check out my site at
+
+yojimbo.eludevisibility.org

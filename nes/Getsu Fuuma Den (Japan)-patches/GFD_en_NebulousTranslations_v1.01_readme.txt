@@ -1,0 +1,86 @@
+Getsu Fuuma Den (The Legend of Fuma) FC Translation
+
+Contents:
+
+1. Foreword
+
+2. Game description
+
+3. Translation notes
+
+4. Hacking notes
+
+5. Disclaimer
+
+6. Staff and special thanks
+
+7. Contact
+
+8. Version information
+-----------------------------------------------------------------------
+
+1. Foreword
+
+Hello everyone!
+
+This is yet another commeration project we came up with - this time around for Getsu Fuuma Den. This game is 30 years old at this point. It already received a fan-translation 20 years ago, by RPGe. While a good translation for the time, it suffered from certain limitations of the era. So, we figured we could revitalize it somehow, by expanding the ROM, redoing the script from scratch, and translating the credit crawl at the end. We hope this also brings even more attention to this great Konami title. 
+
+2. Game description 
+
+You play as Fuma of the Getsu clan, trying to avenge his brothers who fell in battle against Ryukotsuki (The Bone Dragon). This game is structured as a partly non-linear action-adventure with some light RPG elements, similar in some ways to other Konami releases, such as Goonies II or Castlevania II. The game is somewhat open - you can choose certain areas to traverse on the world map. All the action takes place in the sidescrolling fashion though. You will stumble upon various shops and NPCs on your travels. What is more, there are three 3D dungeon segments. They're not very long, although they can be somewhat confusing. You may want to help yourself with maps available online, or make your own ones. Either way, the game is still not too confusing, and very much enjoyable even today!
+
+3. Translation notes
+
+The hardest part here were some jigsaw lines, which had to be properly adjusted, and miscellaneous bits of graphics related directly to Japanese culture. This game is steeped in references to Japanese folklore, so that in itself should be interesting for the players. 
+
+4.Hacking notes 
+
+This game is really nothing too special in terms of hacking - it uses a relatively simple mapper (VRC2), there's no compression, and the game text is placed in a simple way. Sounds like a walk in the park, right? Well, it actually is. Almost. If not for the ending credits which not only consist of vertical hieroglyph lines, but are also made up of sprites scrolling from left to right. After a few sessions of trying to make it work with letters going vertically and denying an obvious fact - that it looks very awful - we decided to do something we haven't done before, to completely rehash this scene. Oh, OK, let's not use such great words for nothing here: we actually decided to just remove these sprites and put some static lines in the background with everything we wanted to write there. Sounds simple enough, but given the fact that we haven't tried that before, it took a considerable amount of time. We also extended our custom assembler/disassembler that was made for War of the Dead so it could handle more sophisticated coding. As usual, the whole project of this game translation along with tools will be released shortly after translation release, so please, NES hacking and coding gurus, don't tell us that our code is ugly - we know that... But thanks to this game we got a little better! :-)
+By the way - if you want to experience our masterpiece of a credit scene coding ;) without actually playing the game, just enter PEACEFULSOLUTION as a password upon pressing the Select button instead of Start. That's an internal game cheat we sanitized a little along with translation.
+It's also worth noting that we kept the same letters for the passwords in order to maintain compatibility with the RPGe release, so that the passwords would work without a hitch. We figured that compatibility was more important in the long run.
+
+5. Disclaimer
+
+This translation is a non-commercial and unofficial project which is in no way affiliated with the game creators or distributors. We don't own anything here and have no copyrights.
+
+We release this translation in the form of an IPS patch, not the actual ROM. Please, don't ask us to send you the ROM, or where you can find it - we can't help you with that.
+
+You can redistribute this translation freely as long as you don't ask money for it and include this readme.txt file with it. We don't condone any form of commercial redistribution. Please, keep that in mind.
+
+
+6. Staff (Nebulous Translations):
+
+celcion       - hacking, tools (coding)
+
+
+
+
+Miralita      - credits scene programming, title screen graphics
+
+
+
+
+TheMajinZenki - lead translator
+
+
+
+
+cccmar        - testing/script editing
+
+Special thanks go to:
+
+- guys from the ROMhacking.net forum 
+
+- RPGe, for making the original translation and inspiring us to do our own take on the patch
+
+
+7. Contact:
+
+celcion - celcion@gmail.com
+
+cccmar  - cccmar111@gmail.com
+
+8. Version information
+
+1.0 - Release
+1.01 - small fix for compass displaying. Thanks to Zynk for notifying about this!

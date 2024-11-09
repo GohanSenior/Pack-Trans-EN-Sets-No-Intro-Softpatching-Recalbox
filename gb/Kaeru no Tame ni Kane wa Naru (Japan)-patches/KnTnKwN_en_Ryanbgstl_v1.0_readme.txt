@@ -1,0 +1,27 @@
+For the Frog the Bell Tolls English Fan Translation
+
+This is an unnoficial translation of Kaeru no Tame ni Kane wa Naru, or "For the Frog the Bell Tolls".  The game engine of this game was adapted for use in Link's Awakening, and many elements in this game appear in later Zelda games.
+
+============
+Instructions:
+1) Obtain a ROM of the original Japanese version of the game.
+2) Using the .ips file contained in this .zip, apply the patch using a utility such as Lunar IPS.
+3) Run the patched file in an emulator such as VisualBoyAdvance.
+
+============
+Credits:
+	ryanbgstl   (instigator, hacking)
+	Eien Ni Hen (translation)       (desertbus.blogspot.com)
+	B. Daiker   (script editing)    (n-sider.com)
+	D. Monnens  (script editing)    (deserthat.com)
+	Artemis251  (graphics, testing) (artemis251.fobby.net)
+	mistap      (testing)
+	bwindstar   (testing)	
+
+Special Thanks:
+	Carnivol    (hacking)
+	SuperWhacka (testing)
+
+============
+Release History:
+	v1.0 - 7/10/11 - Initial Version

@@ -1,0 +1,29 @@
+The Secrets of Happy Hippo Island!
+(Das Geheimnis der Happy Hippo-Insel)
+Patch Version: v.1
+
+------------------
+Hippo fans and lovers of German chocolate companies rejoice! After years of only our Deutschland friends being able to understand the intricate plot of "Das Geheimnis der Happy Hippo-Insel", an English version has been created. This patch translates all the dialogue, the title screen, and a few odds and ends graphics. Viel SpaB!
+------------------
+------------------
+
+Changes:
++Dialogue changed to English
++Menu options translated into English
++Pause Screen graphics translated into English
++Title Screen changed into English
+++Palette attribute changes made to fix some color errors
+
+Future Changes:
++Fix any missed German phrases
++?
+
+------------------
+How to patch:
+Grab your favorite patching program (I use Lunar IPS), as well as an
+unmodified German version
+(Something like 'Geheimnis der Happy Hippo-Insel, Das (Germany)'.gbc).
+Once you have both, open up the program, and select Apply IPS.
+Select the patch (Happy Hippo Island.ips) and apply it to the original ROM.
+
+Now you can play Happy Hippo Island...in ENGLISH!

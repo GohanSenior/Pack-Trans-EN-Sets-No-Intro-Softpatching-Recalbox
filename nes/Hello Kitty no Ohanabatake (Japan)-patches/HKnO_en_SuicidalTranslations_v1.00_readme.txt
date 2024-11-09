@@ -1,0 +1,135 @@
+                  _    _   _____   _       _       ______
+                 | |  | | |  ___| | |     | |     |  __  |
+                 | |__| | | |__   | |     | |     | |  | |
+                 |  __  | |  __|  | |     | |     | |  | |
+                 | |  | | | |___  | |___  | |___  | |__| |
+                 |_|  |_| |_____| |_____| |_____| |______|
+        _   __  _______   _______  _______   _     _   ___  ______
+       | | / / |__   __| |__   __||__   __| | |   | | |_  ||  ____|
+       | |/ /     | |       | |      | |    | |___| |  /_/ | |____
+       |   /      | |       | |      | |    |__   __|      |____  |
+       | |\ \   __| |__     | |      | |       | |          ____| |
+       |_| \_\ |_______|    |_|      |_|       |_|         |______|
+
+
+          FFFFFFF  L        OOOOOOO  W       W  EEEEEEE  RRRRRR
+          F        L        O     O  W       W  E        R     R
+          F        L        O     O  W   W   W  E        R     R
+          FFF      L        O     O  W   W   W  EEE      RRRRRR
+          F        L        O     O  W   W   W  E        R   R
+          F        L        O     O   W W W W   E        R    R
+          F        LLLLLLL  OOOOOOO    W   W    EEEEEEE  R     R
+
+
+                    SSSSSSS  H     H  OOOOOOO  PPPPPPP
+                    S        H     H  O     O  P     P
+                    S        H     H  O     O  P     P
+                    SSSSSSS  HHHHHHH  O     O  PPPPPPP
+                          S  H     H  O     O  P
+                          S  H     H  O     O  P
+                    SSSSSSS  H     H  OOOOOOO  P
+
+
+                        Hello Kitty No Ohanabatake
+                  (Hello Kitty's Field of Alpine Flowers)
+                           English to Japanese
+                               Translation
+                                 v. 1.00
+                
+
+------------------------------- DEDICATION -------------------------------
+ 
+ This translation is dedicated to Ashley since I know how much she loves
+ cute little furry things like Hello Kitty. Make sure to send her lots of
+ shiny happy things any time you see her on IRC.
+
+--------------------------- TABLE OF CONTENTS ---------------------------
+
+    I. Dedication
+   II. Table of Contents
+  III. Introduction
+   IV. History
+    V. Staff
+   VI. Tools
+  VII. Patching Instructions (**READ THIS BEFORE ASKING QUESTIONS!)
+ VIII. Contact Information
+   IX. Closing
+
+------------------------------ INTRODUCTION -----------------------------
+
+ Well, for once it's a Sanrio game that isn't a blatant clone of another
+ game. There are several similar platformers (Mappy comes to mind) but
+ none with the queen of kawaii, Hello Kitty. The goal of the game is to
+ water all of the flowerpots until the flowers bloom. While attempting
+ this, you have to avoid squirrels, snails & beach balls. In a sadistic
+ twist, Hello Kitty has a big mallet she can use to squish those pesky
+ critters. Make sure to stand still for a few moments to see the
+ subliminal anti-video game animation. And I always thought Sonic the
+ Hedgehog was the first character to do something when he got bored.
+ Guess that just proves that Kitty-chan is ahead of her time.
+
+ A note on the title translation. The literal translation of the title
+ is Hello Kitty's Field of Alpine Flowers. That's hard enough to say,
+ let alone try to hack into a game, so we decided to take liberties and
+ shorten it a big. Hello Kitty's Flower Garden was the obvious choice
+ and the word's KITTY's GARDEN appear twice in the ROM if you look at it
+ in a hex editor with no table loaded. However, since the action takes
+ place inside instead of in an outdoors setting, I decided to go with
+ Hello Kitty's Flower Shop.
+
+-------------------------------- HISTORY --------------------------------
+
+ v. 1.00 - August 27, 2000
+
+ What's Complete
+  - all text translated (I believe.)
+  - minor graphics hacks (Title Screen & Level Graphic)
+
+ What's Incomplete
+  - nothing that I'm aware of
+  - there are some Japanese characters in the ROM I didn't find in-game
+--------------------------------- STAFF ---------------------------------
+
+ Hacking - InVerse - http://www.pigtails.net/ST
+ Translating - Musashi - http://gaijin.romhacking.com
+
+ I basically did this project just so we could add it to the list of
+ fully translated Sanrio games. It was perfectly playable without the
+ translation but I figured I might as well do it anywayz. I believe this
+ is the first game to be hacked entirely while sitting on the toilet.
+
+--------------------------------- TOOLS ---------------------------------
+
+ The following tools were used for this translation:
+
+  Hexposure: hex editing for translation and graphic maneuvering
+ Tile Layer: graphics hacking
+   Nesticle: some graphic hacking
+  SNES Tool: patch creation
+  
+-------------------------- PATCHING INSTRUCTIONS ------------------------
+
+ Patching a ROM is extremely simple. You need three things. A ROM,
+ the patch and a patching program. To patch with IPS, you simply
+ type "ips <ROM name> <patch name>". So if the name of the ROM was
+ HKFS.nes you would type "ips HKFS.nes HKFS.ips" and your ROM is now
+ in English. Make sure you have all the files in the same directory
+ if you have a problem.
+      To patch a ROM with SNES Tool, simply select USE IPS, choose
+ the patch and then choose the ROM to affix the patch to. It's self
+ explanatory. If you can't figure it out, the game is probably too
+ hard for you anywayz.
+
+--------------------------- CONTACT INFORMATION -------------------------
+
+ The official Hello Kitty's Flower Shop home page is currently located
+ at http://www.pigtails.net/ST
+
+ E-Mail addresses concerning the project can be located on the 
+ official page.
+
+--------------------------------- CLOSING -------------------------------
+
+ So there you have it. Have fun and remember. It's just a game.
+
+ -InVerse

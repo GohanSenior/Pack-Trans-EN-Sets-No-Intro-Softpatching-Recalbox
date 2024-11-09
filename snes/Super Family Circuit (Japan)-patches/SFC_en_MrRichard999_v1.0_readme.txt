@@ -1,0 +1,30 @@
+SUPER FAMILY CIRCUIT
+ENGLISH TRANSLATION VERSION 1.0
+10/25/2018
+
+MODIFICATIONS DONE BY MRRICHARD999 & D.D.S.
+TRANSLATIONS DONE BY AGENTORANGE
+TITLE SCREEN REDESIGN DONE BY FLASHPV
+
+Here is a full English translation for the Super Famicom title, Super Family Circuit!
+At the moment there may be 1 or 2 parts with some Japanese characters that are
+stuck in the game but the game is fully playable! If errors are found please
+contact MrRichard999 on either Twitter or on the RPGCodex!
+
+Enjoy!
+
+Updated to version 1.0
+- Added directional arrows to replace japanese characters (Used in direction indication and joypad configuration)
+- Fixed a sentence in dialogue
+- Updated font to make it easier to read text and added foreign characters (for those who with to translate into languages that utilize them)
+
+Please apply patch to an original Japanese UnHeadered ROM with these values...
+
+Super Family Circuit (Japan).sfc
+CRC32: DC82850E
+MD5: 186EEE1672C7A296FFB79DFA157D5109
+SHA-1: D3B66D5B49D2257D146A0D126E98861A7D364974
+SHA-256: 75AD4171FD8EC623F8B1240045628739833C8D47941FF96CDF2F7AE334755F35
+
+The following work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+

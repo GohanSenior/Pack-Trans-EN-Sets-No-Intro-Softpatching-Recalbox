@@ -1,0 +1,88 @@
+Majin Tensei II: Spiral Nemesis
+Patch Version: One
+English Translation Patch Information and Credits
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+This patch is for Majin Tensei II: Spiral Nemesis on the Super Famicom.
+The text has been translated from Japanese into American English.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both patches.)
+
+-----------
+  CREDITS
+-----------
+
+
+Hacking and testing:
+DDSTranslation
+
+Translation:
+Tom
+
+Title screen graphics:
+FlashPV
+
+Beta testing:
+egoranchun
+DaniCanovasVid
+jjbeadman
+MushihimesamaN
+R3dacted117
+RiotDX
+PhonesKun
+SMT_Milly
+Martho19460618
+Igloo18075315
+JustBalby
+bardeeeno
+dannychapin88
+NeosAntrax
+BosyMariusz
+Dyne130
+HonooNoFukai
+PorkyMinch754
+L33tLogan
+OvercastYuki
+dm0x
+surt_r
+Akusseru
+Phantomknighttv
+TanistheGOAT
+didyaknowtensei
+Mothonis
+RealTruHorowitz
+JosephRosen20
+
+------------
+
+Comments from DDStranslation, the hacker:
+
+It was fun to finally work on another MegaTen game. When we first started working on it and got the intro working, I couldn't wait to show everyone. I hope everyone will finally be able to enjoy the game now that it's in English.
+
+Even though I've done the whole dialogue/menu coding thing tons of times, there's always new challenges with working on them. Converting the Remix Station fusion chart was the most intimidating part, but it was surprisingly straightforward once I got to working on it. I feel like I'm learning more and more about the SNES, and hopefully the quality of this project meets peoples' expectations.
+
+Working with Tom and FlashPV was great, and I'd love to do more future collaborations with them.
+
+
+------------
+
+
+Comments from Tom, the translator:
+
+First, I would like to apologize to everyone who wanted Majin Tensei I to be translated first. I just like Majin Tensei II more. I'll translate Majin Tensei I one day, though.
+
+On a side note, this translation doesn't follow the same terminology as the officially released Megaten offshoots. For instance, –‚‚Á‰Ý (makka, which means "dark/evil/demonic" currency) was rendered as its romanized Japanese spelling, makka, instead of changing it to cc. I guess the official translation spelled it that way because of "Mecca," but it's more likely that it relates to a famous greeting in Osaka... "Moukarimakka?" (Are you making money?)
+
+There are also some differences in the demon class names. I tried to provide translation that reflect the meanings of the original kanji, for the most part. With that said, it was fun to work on another Megaten game after Last Bible III, and I hope to do more in the future.
+
+Thank you to everyone who contributed.
+
+------------
+
+Comments from FlashPV, the pixel artist:
+
+I didn't know this game before this translation, but since it's a Megaten spinoff, it can't be a bad game. I've done almost nothing on this game, just a title screen design, and I hope you'll like it. Otherwise, I'm sure this translation will please you.

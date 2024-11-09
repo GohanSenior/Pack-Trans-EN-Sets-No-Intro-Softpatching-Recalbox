@@ -1,0 +1,45 @@
+﻿Thank you for viewing the English translation patch for Neon Genesis Evangelion: Shito Ikusei, created by the Anime Game Translations Team!
+
+Before you can play the translation, you'll need to patch the game on your computer using a legal copy of the ROM.
+
+===
+
+Instructions
+
+We have included two versions of the patch, as an .ips and a .xdelta file, so you may choose your preferred patching method. You only need to apply ONE patch.
+
+=IPS Patch=
+-Before getting started, it is advisable to create a backup of your ROM first, as this method will overwrite the file.
+-Download Lunar IPS from https://www.romhacking.net/utilities/240/
+-Extract the file, and run Lunar IPS
+-Click 'Apply IPS Patch' and choose the 'ShitoPatch.ips' file. Then, when prompted to select a file to patch, choose your copy of the ROM, which should be a '.ws' filetype. If it does not appear in the Lunar IPS selection window, try changing the file type filter from 'Most Common ROM Files' to 'All Files'.
+-Click open, and you're good to go!
+
+=xdelta Patch=
+-Download DeltaPatcher from https://www.romhacking.net/utilities/704/
+-Extract the file, and run either DeltaPatcher or DeltaPatcherLite
+-'Original file' should be your copy of the ROM, as an '.ws' filetype.
+-For 'XDelta patch', choose the 'ShitoPatch.xdelta' file.
+-Hit apply patch, and you're good to go!
+*Note that this will overwrite your original file. If you’d like to keep a copy of it instead, change the settings by clicking the cog icon, and tick “Backup original file”. This will create a new ‘--PATCHED.ws’ file instead.
+
+---
+
+Play this file on an emulator such as Oswan, or use a flashcart to play it on any member of the WonderSwan family.
+
+We hope you enjoy!
+
+===
+
+Changes to the game
+A list of bug fixes/tweaks that were made to the original ROM.
+
+-Created custom font
+-Removed hiragana and katakana from the angel-naming screen and added custom glyphs and graphics
+-Changed the default angel name from "シト" (angel) to "Adam".
+
+==
+
+Questions, comments or feedback?
+
+Join us down at the Anime Games Team Discord https://discord.com/invite/UUF7Zbm or stop by the thread on GBAtemp.

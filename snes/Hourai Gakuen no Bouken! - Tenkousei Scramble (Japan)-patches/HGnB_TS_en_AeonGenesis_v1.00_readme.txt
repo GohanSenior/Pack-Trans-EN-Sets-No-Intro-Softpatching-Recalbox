@@ -1,0 +1,66 @@
+THE ADVENTURES OF HOURAI HIGH / HOURAI GAKUEN NO BOUKEN
+ENGLISH TRANSLATION V1.00
+Copyright 2011 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Hourai High
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+
+-------------------
+1.About Hourai High
+-------------------
+The Adventures of Hourai High is a silly little RPG, with a Dragon Quest
+combat presentation, a Final Fantasy 5-ish class system, and a sense of
+humor straight out of Earthbound. You can tell that a lot of heart went
+into the creation of this game. It's quite charming!
+
+---------------
+2.Patch History
+---------------
+satsu's done a much better job of this than I have; please read his notes
+which also accompany the patch in an alternate text file.
+
+April 19, 2011 - Initial V1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE HOURAI HIGH TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker, assembly hacker
+satsu - Script translator and editor
+
+--------------
+4.Known Issues
+--------------
+--*VERY* occasionally when there are a lot of enemies on-screen and you elect
+  to use a skill that targets all of them, some of the letters in their names
+  might not get printed. This is an exceedingly rare case and is purely
+  cosmetic.
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://agtp.romhack.net/pantheon)
+Screenshots are preferred, as are savestates. SRAMs too if you can
+create an Interrupt save in battle!
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+2.00MB (16mbit HiROM), WITHOUT Header (*exactly* 2,097,152 bytes)
+
+Patch WILL expand the ROM to 3.00 megabytes (24mbit.)
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "hourai.smc" make sure the patch
+is "hourai.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 2.00 MB (2,097,152 bytes)".

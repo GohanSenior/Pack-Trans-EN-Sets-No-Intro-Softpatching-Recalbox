@@ -1,0 +1,49 @@
+=========Ninja-kun - Ashura-no Shou===================
+==================V1.00===============================
+Genre: ACT/Platformer
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: aishsha@gmail.com/
+Web-site: aishsha.blogspot.com/http://yojimbo.eludevisibility.org/
+ 
+ 
+======================================================
+Ninja-kun - Ashura-no Shou
+======================================================
+Background: And we're finally in the end of our NES
+Jajamaru's journey. Ashura's Wrath or "Ninja Kid 2"
+on the arcade is the direct sequel of the first Ninja
+Kun game and the last one we wanted to present in
+English for Nintendo Entertainment System.
+
+All in all, this is a clear improvement over the
+original game containing some graphical cleanings,
+raising the variety of stages, enemies, weapons
+and even the final boss!
+
+Moreover, this one even contains some text! (rejoice
+not too much since this is a very little chunk of
+story :)). 
+
+Just like with its predecessor, we decided to leave
+out the "kun-brother" part so not to confuse the
+followers of the Jajamaru's franchise.
+
+Enjoy the playing and do buy the game, if you like it!
+
+======================================================
+
+Credits go to:
+aishsha - translation, additional hacking, testing.
+
+Pennywise - testing.
+
+======================================================
+
+
+Compiled by aishsha. August 2018.

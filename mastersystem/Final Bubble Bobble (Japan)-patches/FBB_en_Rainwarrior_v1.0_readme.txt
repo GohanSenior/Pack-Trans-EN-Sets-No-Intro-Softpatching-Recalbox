@@ -1,0 +1,23 @@
+Final Bubble Bobble (Japan) English Translation Patch
+Version 1
+Brad Smith, 2020-08-11
+http://rainwarrior.ca
+
+Patch for ROM:
+Final Bubble Bobble (Japan).sms
+CRC 3EBB7457
+
+
+This patch translates all the Japanese text from Final Bubble Bobble.
+This is an improvement over the European version in the following ways:
+- The hints system is restored and translated, allowing you to discover secrets as intended.
+- The translation of the animated cut-scenes has been improved.
+- The Japanese food items are retained in their original form.
+
+Source code for the patch and translation is contained in the src/ folder.
+
+Additional credit to Bluesun and Penta Penguin for providing an initial translation of the hints at TCRF, and dot_lvl for helping with a tricky cutscene line.
+
+
+More information and author support:
+https://www.patreon.com/posts/40326586

@@ -1,0 +1,90 @@
+Cosmo Genesis English Translation
+AGTP Version 1.0
+http://agtp.romhack.net
+draw_omega@yahoo.com
+
+-----------------
+New in this version
+-----------------
+Fixed one line of cavespeak found by (wraith)
+
+-----------------
+Those Responsible
+-----------------
+Gideon Zhi - Romhacker, Translator
+Megaman X  - Beta tester (Thanks, man!)
+
+-----------------
+Stuff Done
+-----------------
+As many messages as I (or X) could find.
+
+-----------------
+Stuff Not Done
+-----------------
+Nothing, I hope.
+
+-----------------
+Patching Instructions
+-----------------
+Go to your favorite emulation site and download SNESTool. Drop it, the
+patch, and the Japanese Cosmo Genesis ROM into the same directory. Then
+open SNESTool. If it's missing some extenders, you'll have to find 'em
+on your own. Once you get SNESTool running, select (Use IPS) then the
+cosmogen.ips patch file, then the Japanese Cosmo Genesis ROM. You should
+now be patched.
+
+-----------------
+If you find a bug
+-----------------
+More than likely, it's untranslated text. Send a savestate or screenshot
+(preferably the former, in NESticle format) to Gideon Zhi, and I'll try to
+fix it.
+
+-----------------
+How to Play
+-----------------
+Since this game can be complicated, I've included this section to try and
+help beginners. First, the basic controls. A-Button fires your laser cannon.
+If you hold the A-Button down, you accelerate. If you tap it, you decelerate.
+If you hold it until the bar on the left is in the red, you'll accumulate
+small squares in the upper-left hand corner of the screen. These are jumps.
+Fill the bar and you'll jump as many systems as there are squares. Start
+button pauses, select opens the subscreen. Note that the bar on the right is
+the energy remaining in the current tank; the red circles in the upper-right
+are your reserve tanks. You'll go through plenty of 'em, trust me. The dial
+in the lower-left is your heading, the number in the low-center is the
+number of jumps until you reach your targetted sector (as seen in the map in
+the subscreen and on the heading dial.) The low-right circle is your rear
+radar.
+
+In the subscreen, A button will activate shields (this will make your main
+view display green but will show your damage report display as yellow, I
+think.) The cursors will allow you to choose a system to warp to, and your
+ship will be automatically aligned for the jump. It's pretty convenient,
+actually.
+
+-Finding your targets-
+When you enter a system that has something in it, a message will flash
+across the top of the screen. To find it, spin around in circles until your
+system bleeps and/or you see something on your radar or visual display. If
+it's your radar, it'll be a small blue dot; otherwise, it'll be arrows that
+direct you to your target or a small circle with a T in the upper right if
+you're far away. Otherwise, your target should be clearly visible. Approach
+planets and space stations using your boosters -- it takes forever if you
+just coast.
+
+-Refueling-
+You're gonna run out of energy, so be sure to stop at the space stations that
+are scattered throughout the small piece of the universe that the game takes
+place in. Just try and kamikaze a space station and you'll automatically
+refuel.
+
+-Landing-
+You can land on planets in the same fasion that you land on space stations.
+They don't refuel, and most of the planets don't have anything for you, but
+occasionally...
+
+-Mission Objective-
+Wipe out the enemy fleet before they wipe out your base. Oh, and don't get
+killed. Good luck; you'll NEED it.

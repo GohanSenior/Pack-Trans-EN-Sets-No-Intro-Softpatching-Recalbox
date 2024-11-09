@@ -1,0 +1,80 @@
+        FIRE EMBLEM GAIDEN
+      Unofficial Translation
+       v.1.01  by Artemis251
+------------------------------------
+
+This is a full translation of the japanese game Fire Emblem Gaiden.
+Though j2e has supposedly translated it in the past, he fell far from a
+whole translation; hopefully this will propagate and bring a fuller
+game to those who are interested in the game.
+
+
+
+VERSION CHANGES
+---------------
+1.01 -- Fixed Cleive's name in the credits' character name list. (14 Nov. 2009)
+1.00 -- Initial release. (~10 Nov. 2009)
+
+
+APPLICATION
+-----------
+
+Depending on your ROM version, you'll choose one of the three contained files:
+
+1) FEG_Jap_to_251_1.01.ips --- for japanese-language ROMS.
+
+2) FEG_j2e_to_251_1.01.ips --- for j2e's translation.
+
+3) FEG_Starwolf_to_251_1.01.ips --- for Starwolf_UK's patch to j2e's translation that
+      fixes the Ragnarok glitch.
+
+4) FEG_251_1.00_to_251_1.01.ips --- for my older version 1.00. The only change is a
+      name in the credits' character list that I was on the fence about its romanization.
+
+
+
+
+PROBLEMS
+--------
+
+While translating, I found a few odd inconsistencies in the text. Some were just
+odd; a good example is that getting Luck from a Lion Statue generated default text
+for the word 'luck' instead of reading the argument for the attribute like every
+other statue.
+
+Thus, as much as I've tested this game, I may have missed other weird snippets.
+If that's the case, drop me an E-mail at Artemis251@yahoo.com with the subject
+"Fire Emblem Gaiden problem" and I'll try my best to fix it and get a new version
+out. A screenshot would be nice, too, if you have it, and definitely a story on
+how you got to the discrepancy.
+
+As it is, there are definitely some weird issues in the game's code that are not
+from translation. The game can randomly freeze at times for no apparent reason.
+Probably the most known is the class-up graphic screw-up. If you class up at a
+statue of Mila, the screen goes weird for a second and some random tiles are 
+spewed onto the screen. This happens in the Japanese version as well (I tested
+it), and I have no clue why it does that.
+
+However, as far as I know, the game now works great and should provide those
+curious in the game a good translation, based greatly on the hard work of
+Shimizu Hitomi. I translated some of the smaller segments, but she's the one who
+provided a full translation of the game's dialogue. I just tweaked it to fit in
+the given text blocks.
+
+
+
+
+SPECIAL THANKS
+--------------
+
+Shimizu Hitomi - She provided a translation of the game's dialogue and allowed me
+                 to use it in this project.
+
+j2e - I borrowed his font and modified it a bit. 
+
+--------------------------------------------
+
+
+Thanks for downloading, and I hope this patch makes things a little easier to understand!
+Enjoy the game!
+

@@ -1,0 +1,18 @@
+
+My goal with this project is to provide the best version of this game for fans of this series. As a result, I have made a few changes to the game beyond the translation itself. I wanted to document those changes here for your reference.
+
+//////////////////////
+//Gameplay Changes
+/////////////////////
+
+*While extracting the compressed graphics, I found several unused speaker portraits for the human characters that showed various emotions. Since they enhanced several cutscenes (and since Tag Tamers also used similar speaker portraits), I added them in at what I felt were appropriate places.
+
+*I have added code to Jijimon's WonderGate dialogue that alters the player's save file to unlock bonus post-game content. Originally, this content could only be accessed by fighting multiple players via the Link Cable or WonderGate mobile connection. Since this is no longer possible (and Wonderswan emulation does not yet allow for multiplayer), the content would be unused otherwise.
+
+//////////////////////
+//Translation Changes
+/////////////////////
+
+*I've translated the game to the best of my abilities (including referencing prior scripts by other translators). That said, I based my translation on the English dub rather than the subtitles, so character names like "Taichi" are rendered as "Tai". Additionally, certain word choices are influenced by the dub - for instance, Izzy uses the word "Prodigious" to describe an event which is similar to Koushiro's use of the word "Tremendous". 
+
+*The only significant change was with Etemon's dialogue. When confronted, Etemon originally wonders "how an underling like you could make it this far", rather than "how groupies like you could make it backstage". When defeated, Etemon originally excuses his loss by noting that "even monkeys can fall from trees" rather that "even rockstars have off nights". The meaning of the lines remains the same, but the wording leans more into the dub's Elvis impersonator persona for Etemon.

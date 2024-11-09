@@ -1,0 +1,1 @@
+The core region must be on Japan NTSC, PAL or Europe.

@@ -1,0 +1,60 @@
+Sweet Home Manual
+-----------------
+by Musashi of Gaijin Productions
+
+This is a quick and dirty manual to teach you the essentials
+of Sweet Home's gameplay.
+
+A  ---  Accept/Action
+B  ---  Cancel
+
+Start --- Pause
+Select -- Nothing
+
+Pressing A will bring up the Command Menu
+Pressing B will bring up a Status List
+
+Items
+-----
+Each person has 4 item slots.  
+
+Slot 1:
+The topmost slot is for that character's main item.  
+This cannot be switched or traded with common items. 
+Each character starts with a main item.
+
+Slot 2 & 3:
+These two slots in the middle are used to carry common 
+items you find in the mansion.
+
+Slot 4:
+The bottom slot is reserved for a weapon.  This is the
+only slot weapons can be placed in and any weapon in this
+slot is considered automatically "equipped".
+
+To pick up an item: 
+Face the item, then select "Item" from the Command Menu. 
+Then select a slot and select "Move."  If the item can be
+picked up it will be "taken" by your character, or if the
+slot you select has an item in it, the possessed item will 
+be "switched" with you one you're trying to pick up.
+
+Party & Team
+------------
+The "Party" command allows you to swtich between any five of 
+your characters.  However, certain status ailments such as severe 
+poison (XPnX) will immobilize a character, not allowing you to
+switch to him or her.
+
+The "team" command allows a person to team up with other 
+members of your party.  A team can be comprised of either 2 or 3 
+people.  If you are not facing another team member and are already
+in a team, that lead character will split from his/her team.
+
+Pray
+----
+You have a certain amount of Pray points.  Selecting the 
+"Pray" command will bring up a vacillating gauge.  The higher
+you can stop the bar the more points you will use and the 
+more effective you're prayer will be.  "Pray" can be used in
+battle to inflict damage and in special exploration scenes.

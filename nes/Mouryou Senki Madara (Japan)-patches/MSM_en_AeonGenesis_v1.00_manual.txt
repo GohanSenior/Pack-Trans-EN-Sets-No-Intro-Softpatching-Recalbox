@@ -1,0 +1,181 @@
+*Moryo Senki Madara*
+   *Mini  Manual*
+
+1) Brief History
+2) Character Classes
+3) Combat Explanation
+4) Item descriptions
+5) Spiritual Techniques
+6) Tips for Beginners
+
+(1) A Brief History
+-------------------
+Thousands of years ago there existed the thriving technological civilization
+of Agartha, and although it no longer exists, evidence of its presence can be
+seen in the many strange ruins and artifacts that litter the Fuduraku
+continent. Nobody is entirely sure what happened to cause the fall of the
+once-great society; all explanations have long since been lost to the mists
+of time. There still exist a few scattered Agarthan families, however.
+
+One such scion is the aged elder of Niso Forest, an inishe by the name of
+Tatara. That he is old is obvious, but he has been around for as long as any
+can remember, and nobody is quite sure precisely how ancient he is.
+
+One evening, fifteen years ago, Tatara spotted something strange floating
+down the river from far-away Mount Shumi. This deformed object, once it
+drifted closer, appeared to be a human child, although it had been horribly
+maimed - its arms and legs had been cut off, its eyes and ears were missing,
+its throat had been torn open and its heart was missing. Tatara mercifully
+saved the babe, and fashioned mechanical prosthetics which the child could
+control using its powerful spiritual aura, or chakra. He named the baby
+Madara, and raised it alongside his granddaughter, Kirin.
+
+In the meantime, darkness was spilling from the peak of Mount Shumi. Armies
+of demons called Moki descended from Shumi's slopes in waves, ransacking
+villages and subverting humans where-ever they went. At first, they only
+sacked the outlying villages, but soon the armies of the Emperor, Miroku,
+began to grow ever more bold. Even Niso Forest, a free Hijuran town,
+eventually fell under the eye of the Moki...
+
+(2) Character Classes
+---------------------
+Characters in your party will be one of three classes. You can view their
+class on their Status screen.
+
+*Fighter*
+Fighters are strong. They are able to equip most weapons and armor, granting
+them high offense and defense, and will be the front lines of your fighting
+force during combat situations. They can use "Chants" which will cause damage
+to distant enemies, but are unable to use Spirit techniques or Shaman spells.
+
+*Shaman*
+Shamen are generally weak offensively and defensively, and are best kept to
+the back rows. They can equip drastically less than fighters in general, and
+favor the bow for their weapon of choice. Shamen cannot use Chants or Spirit
+techniques, but instead favor Shaman spells, which can inflict a variety of
+conditions and increasing levels of damage to foes.
+
+*Inishe*
+Inishe are the descendents of Agartha of old. They are stronger than Shamen
+and will often take the front lines of combat with fighters, but you will
+find that your Inishe cannot use some of the more powerful equipment that
+you'll find later in the game. Like fighters, Inishe can use Chants. They are
+also able to use Spirit techniques, many of which serve to bolster your
+offenses or defenses.
+
+(3) Combat Explanation
+----------------------
+
+Combat proceeds, for the most part, on its own. Characters will act
+autonomously without player input, unless specifically instructed to do
+otherwise. At any point, you may press the A button to give orders to your
+characters, or change their general tactics.
+
+An explanation of the combat menu is as follows:
+
+Fight  - A persistent tactic. A "fight" command causes a character to actively
+         seek and attack enemies until the end of the battle or issued other
+         orders. In the right-hand party status pane, it is symbolized by a
+         dagger icon.
+Stop   - A persistent tactic. Causes the character to stand still, attacking
+         when an enemy gets in range. In the right-hand party status pane, it
+         is symbolized by an X icon.
+Defend - A persistent tactic. Causes the character to stand still or flee,
+         and increases defense. In the right-hand party status pane, it is
+         symbolized by a shield icon.
+Run    - A persistent tactic. Causes the character to attempt to reach the
+         edge of the combat area, and exit the scene. In the right-hand party
+         status pane, it is symbolized by a feather icon.
+Spirit - A one-time tactic. Causes the character to use the selected Spirit
+         technique. Not all characters can use Spirit techniques.
+Shaman - A one-time tactic. Causes the character to use the selected Shaman
+         spell. Not all characters can use Shaman spells.
+Chant  - A one-time tactic. Causes the character to use the selected Chant
+         ability. Not all characters can use Chant abilities.
+Item   - A one-time tactic. Causes the character to use the selected item.
+         A character must have an item to use in his or her inventory to be
+         able to use this command.
+
+(4) Item Descriptions
+---------------------
+
+*Somas*
+
+Red Soma         - Restores some HP.
+Blue Soma        - Restores some MP.
+Yellow Soma      - Cures Poison.
+Green Soma       - Cures Numb.
+Purple Soma      - Cures Lure.
+Pale Soma        - Restores both HP and MP.
+Brown Soma       - Cures Blindness.
+White Soma       - Cures Death, Refills HP & MP.
+
+Baramon Bracelet - Refills HP/MP
+Kabbalah Scroll  - Same as Shaman spell, "Silence"
+Gold Beetle      - Halves enemy speed
+Zio Coin         - Escape from a dungeon
+Echo Bar         - Same as Shaman spell, "Illusion"
+Wine             - Same as Shaman spell, "Hypnotize"
+Calm Flute       - Same as Shaman spell, "Silence"
+Brahman Eye      - Won't fall into pits
+Crystal Ball     - Raises rate of HP recovery
+Mahni Flame      - Lifts curses
+Cobra Fang       - Same as Shaman spell, "Poison Fang"
+Tornado Seed     - Same as Shaman spell, "Tornado"
+Trick Vision     - Same as Shaman spell, "Black Mist"
+Invisible Chain  - Same as Shaman spell, "Tied"
+Wind Seal        - Escape from a battle
+
+(5) Spiritual Techniques
+------------------------
+While the Shaman spells all have fairly self-explanatory names, I felt that
+it was necessary to include a description of the Inishe Spirit techniques,
+as well as a translation of their names. Such translations are often not
+appropriate, as they'd neither fit in the rom nor on-screen, but are
+interesting nonetheless.
+
+Gedatsu   - "Deliverance"
+  Escapes from a battle.
+
+Goriki    - "Strength of Eternity" 
+  Protects the target from damage for a given time.
+
+Yoriki    - "Strength of All"
+  Casts Goriki on the entire party.
+
+Enkai     - "Cast Out the World"
+  Reduces the amount of damage taken.
+
+Ashura    - "Asura"
+  Grants the strength of a demon to the target.
+
+Senri     - "Stride of 1,000 Leagues"
+  Increases the target's agility.
+
+Shomei    - "Revelation"
+  Clears status effects.
+
+Rinnehu   -  "Metempsychosis"
+  Revives a dead ally.
+
+Jokahu    - "Purification"
+  Protects against status effects.
+
+Shuntenhu - "Passing of the Seasons"
+  Advances the season by one. May confuse wildlife.
+
+Seikanhu - "Safe Haven"
+  Escape a dungeon.
+  
+Kanraihu - "The Last Tree"
+  Return to the Rain Tree at which you last saved.
+
+(6) Tips for Beginners
+----------------------
+-Niso Forest's Inn is free. Make use of it!
+-You start with 500 coins. Be sure to spend it on equipment for your
+ characters before leaving Niso Forest!
+-Characters lose most of their equipment if they're removed from the party,
+ so have them trade to other members anything you want them to keep.
+-Traders will set up shop in some towns. They're seasonal, and each time
+ they come they'll train your stats (for a fee.)

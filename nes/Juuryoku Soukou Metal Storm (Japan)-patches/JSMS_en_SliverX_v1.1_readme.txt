@@ -1,0 +1,56 @@
+  __________________________________
+ (********                   ********)
+((**** GRAVITY ARMOR METAL STORM ****))
+ (*******        v1.1        ********)  
+  -----------------------------------
+
+About
+~~~~~
+This is a 100% complete translation of 
+Juuryoku Soukou Metal Storm, which is the japanese
+release of the game called "Metal Storm" in North America.
+
+The japanese version has a cinematic intro and text during
+the final boss fight. The difficulty is also slightly higher
+due to minor level design differences.
+
+Note that the extremely akwardly phrased ending text was already
+english in the original game: Don't blame us!
+
+Usage
+~~~~~
+This translation was based on the ROM known as
+"Juuryoku Soukou Metal Storm  (Japan)" in the
+No-Intro NES set (MD5: 1E75D6EAE4E0DC8F60F25429BE84D06F)
+
+Usage with any other dump of the game may result in errors/issues.
+
+Changes
+~~~~~~~
+
+v1.1
+
+Split the translations into two patches: One with the original
+color palettes, the other with the North American release's.
+
+v1.01
+
+Increased intro screen duration for easier reading.
+
+Switched all palettes to USA versions, except for the first
+boss (Gets a color for it in a very odd manner).
+
+
+Credits
+~~~~~~~
+Translation: Paul Jensen, Ryusui and sqpat
+ROM hacking: Sliver X
+
+
+Contact
+~~~~~~~
+If you find anything that needs fixed, I can be contacted by the
+following methods:
+
+Email: panicus@gmail.com
+Web: http://panicus.googlepages.com

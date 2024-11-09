@@ -1,0 +1,113 @@
+KingMike's Translation
+http://kingmike.emuxhaven.net
+
+kingmike2001 AT hotmail DOT com
+
+Magna Braban - The Wandering Hero
+Patch v2.0
+Release date: 04/13/2006
+*********************************************
+Original Title: Magna Braban: Henriki no Yusha
+Original Language: Japanese
+*********************************************
+Thanks to
+
+Tomato	- Japanese to English translator
+Gideon  - English text compression.
+ev0     - Name menu
+z80gaiden - helped expand the place name window
+
+*********************************************
+Contents of package.
+magnae20.ips: Finished English translation.
+magnae.txt  : This document.
+*********************************************
+Emulation Status:
+ A few minor emulation issues. In ZSNES, the mode 7 graphics are slightly bugged up. In SNES9x
+*********************************************
+
+What's done:
+ - All dialouge.
+
+What's left:
+ - Any spelling, grammer, linebreak errors I missed?
+*********************************************
+How to patch:
+
+PROPER ROM:
+ -Japanese original.
+ -1,536KB in Windows Explorer. (No header. Use SNESTool to DELETE HEADER if the file is listed as 1,537KB)
+
+
+
+ - Download this zip file.
+ - Download the game ROM. (I won't provide this. You find it.)
+ - Download Lunar IPS. http://fusoya.cggames.net
+ - Open Lunar IPS. Click Apply patch. Pick the ROM and the patch.
+    -If that is too difficult, open Lunar IPS, then close it. Do this to associate IPS files with Lunar IPS.
+    -Now just double-click the IPS file, and double click the ROM.
+ - Or use beat (byuu.org) to apply the BPS version patch.
+*********************************************
+How to play:
+
+Main screen:
+	Walk with pad.
+	Press A to speak.
+	Press X for menu.
+
+Battle:
+
+This game uses a unique battle system, called the Dyna-Real Battle System.
+
+In this game, you set directions for what actions each character should perform in battle. They act automatically,
+carrying out whatever orders you have placed in their battle strategy. You assign each character 3 commands at once:
+one action to perform alot, another to perform sometimes, and a last action you want them to perform alittle.
+(okay, so actually, the main action has a 70% probability, and the other two are each 15% probable)
+
+Open the main menu. There is an option called "Battle Plan".
+Here, you have 3 different strategies you can assign to each party member: Attack, Defend, and Skill
+(in that order, from left to right), with the last two being Escape and Urgent. Escape is for running from non-boss
+battles, and Urgent takes place when a character's HP or POWER (points used by all? actions in battle) runs low.
+
+Each plan has a limit to what you can use:
+Attack - Weapon, Shield, Item	(no spells)
+Defend - Weapon, Shield, Spell  (no items)
+Spell  - Weapon, Spell, Item	(no shield)
+
+     During battle:
+	Press A to choose battle style.
+		Then, press Up/Down to choose battle style.
+		Press Left/Right to choose character.
+		Press A to confirm, B to cancel.
+	Press X for menu.
+	Press L/R to scroll up/down battlefield.
+      Select Button: This is pretty useful. It allows you to change all characters to a certain Plan at once,
+          when pushed simultaneously with another button:
+
+         Defend
+            X
+
+  Skill  Y     A  Attack
+
+            B
+
+         Escape
+
+Probably the easiest way to think of it is: Select+B to escape battle, other three buttons to active the 3 Plans, right
+   to left:
+
+        Plan 2 (Defend)
+                  X
+Plan 3 (Skill)   Y A   Plan 1 (Attack)
+
+Also, if you take more than 6 minutes in a single battle, you die instantly. So be prepared!
+PROTIP: Defend often. Defending self-restores HP and POWER gradually.
+*******************************************
+Magna Braban: Henriki no Yushya
+	(c) 1994 Ask Kodansha
+
+English Translation:
+	(c) 2006 KingMike
+
+No distributing the patch with ROM, either pre-patched, or in one zip.
+That's wrong.

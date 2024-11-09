@@ -1,0 +1,21 @@
+Completed translation of Tokkyuu Shirei - Solbrain (NES)
+
+Made by Andrei Vdovin a.k.a. Chronix.
+Email me if you find any glitches in this game.
+Thanks in advance!
+chronix@bk.ru
+
+Original ROM:
+-----------------------
+Tokkyuu Shirei - Solbrain (J).nes
+File size: 262 160
+
+ PRG ROM:    8 x 16KiB
+ CHR ROM:   16 x  8KiB
+ ROM CRC32:  0xb70129f4
+ ROM MD5:  0x4ce24fcdea0f2e6b504b679efc7eafc8
+ Mapper #:  4
+ Mapper name: MMC3
+ Mirroring: Horizontal
+ Battery-backed: No
+ Trained: No

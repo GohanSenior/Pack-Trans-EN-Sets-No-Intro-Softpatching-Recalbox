@@ -1,0 +1,116 @@
+Nushi Tsuri Adventure: Kite no Bouken
+Fishing King Adventure: Kite's Adventure
+
+Here's a basic guide to help you if you're stuck.
+By jaytheham
+@gmail.com
+
+
+
+Addresses of interest for cheaters:
+0xCCC5 = Money
+0xCE2F = Player's health
+0xCE3B = Player's remaining STR
+0xCEB0 = Provisions remaining in Galley
+
+
+Basics:
+
+Fishing.
+Fishing works the same as all the other games in the series, learn from guides for them if you can't work it out.
+
+Battles.
+=Press B to do a standard attack, use the Dpad to move your character and A to access the menu.
+=Press Right + B to do a stronger and slower standard attack.
+=You can use your "Special" attacks (see the "stats" menu) by holding Up + Left, Left or Down + Left and pressing B. Special attack use lots of "Str" points, you can't use them unless you have enough Str.
+=If you have two characters on screen, press select to switch control between them, the one you are not controlling will not move and automatically guards against all attacks(reduces damage).
+=Hold Right to defend against incoming attacks, it reduces damage slightly.
+
+Sailing.
+=While sailing with the sail raised, you will move in the direction the current is moving.
+=Lower your sail to move in the direction the wind is blowing + the direction of the current.
+=The sea chart in Wendy's cabin shows the direction of the winds and currents for day and night.
+=If you lower the anchor the boat will stop moving completely until you raise it again(Used while waiting for the wind to change).
+=Keep an eye on your supplies level in the galley, if it gets to 0 and stays there for too long you will be returned to the last port you were at.
+=Restore your supplies by catching large fish and putting them in the galley(Check the larder doors).
+=While sailing you will randomly be attacked by pirates, if you hit them enough times with your cannon before your morale reaches 0 you will scare them off, if not, they will board you and you must defeat them in combat.
+=The ships you see on the main map while sailing are merchant ships, I think - I never actually went to one - you should be able to buy rods and other items from them that aren't available in land based shops.
+
+
+
+Walkthrough:
+
+ Aries:
+1. After the intro catch a Threeband Pennantfish - directly above you off the beach.
+2. Show the fish to Newton.
+3. Go to the schoolhouse - building with lots of windows near the top of the island.
+4. Enter the cave and talk to Wendy - bottom right of the island.
+5. Go all the way through the cave until you meet the Echidna, defeat her and carry on to the exit.
+6. Go to the bottom left of the lake to meet Undine.
+7. Catch a Black Bass of the specified size(Right side of the lake).
+8. Take the path through the lake and attempt to board the boat to find Wendy.
+9. Collect the map from the schoolhouse(On the wall at the back).
+10. Return to the ship and set sail by raising the anchor(bottom right of the main deck).
+11. Sail to Izumo(Island directly above Aries).
+
+ Izumo:
+1. Form a party with Wendy.
+2. Go ashore, enter Mrs. Oz's house - bottom-left of the island - and talk with her.
+3. Catch a Catfish - near the gate in the middle of the lake, top-left of the island.
+4. Take the Catfish to Mrs. Oz.
+5. Sail to Orion Kingdom - the southern end of the top-left island.
+
+ Orion Kingdom
+1. Go ashore and enter the building across the bridge to find Mana.
+2. Catch a Carp and take it back to Mana, they're near the waterfall - top-left of the town.
+3. Go the castle and enter the throne room.
+4. Defeat Iron Chef
+5. Sail to Orion Forest - the west edge of the same island you're already on.
+
+ Orion Forest
+1. Go ashore and enter the house with a lady outside.
+2. Talk to Silver - inside the house.
+3. Make your way through the forest to the waterfall. There are paths through the forest which are hidden by the trees, so you just have to try and walk through the trees until you find the right spot.
+4. Talk with Lucille, by the waterfall.
+5. Catch a Rainbow Fish - bottom right of the river.
+6. Take the fish back to Lucille.
+7. Return to Silver's house.
+8. Sail to Altair - the southwest end of the Eastern island.
+
+ Altair
+1. Go to Do-ran's house - it's on the raised area in the South-West.
+2. Enter the house and speak with Wendy to get the Temple Pass.
+3. Enter the temple - it's on the pyramid in the North-West.
+4. Navigate through the maze to the room guarded by the Gore - defeat it in battle.
+5. Speak to the Princess in the room the Gore was guarding.
+6. Defeat Eldragon in battle.
+7. Catch an Electric Eel from the pond in the South-East and take it to Altecia.
+8. Go back to Do-Ran's house.
+9. Sail to Cepheus - directly North of Altair, on the same island.
+
+ Cepheus
+1. Form a party with Andy.
+2. Go ashore and enter the palace(top-right), talk to the guards in front of the door.
+3. Enter the now unblocked door and talk with the King.
+4. Go to the temple and talk to the Priest behind the desk.
+5. Catch a Banded Sea Snake - on the west edge of town - and take it back to the Priest.
+6. Return to your ship and party with Altecia.
+7. Go back to town, wait until night, then start star-gazing("star" from menu).
+8. Find the constellation Lyra, it's near Cygnus.
+9. Sail to Another-Gate - it's the Ice continent at the top of the map.
+
+ Another-Gate
+1. Go ashore and catch a Sea Angel with the Star Lure.
+2. Take the Sea Angel to Eltina, she's in through the door in the ice shelf - top left.
+3. Return to your ship and set sail.
+4. Another-Gate is now split into two parts, sail into the gap between them.
+5. Form a party with Lucille and go ashore, go to the left to find the lake.
+6. Once you're at the lake go into your gear menu and select the Heavenly Harp.
+7. Go out onto the lake and catch the Whale of Light, it's usually near the middle somewhere and until you hook it you can't tell what it is. So just keep catching fish untill you find it.
+
+ Finale!
+1. Talk to Do-Ran to battle him - win!
+2. Head to the cannon room and approach the cannon.
+3. Hit Tiamat with a hook and reel it in.
+Enjoy the ending sequence.
+There are also two little little bonuses you can get, one for completing your Fishing notes, and the other for completing your Constellation notes.

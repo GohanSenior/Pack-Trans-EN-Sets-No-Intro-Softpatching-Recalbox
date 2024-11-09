@@ -1,0 +1,448 @@
+  _______________                          ________                   
+ / _____   _____ \                        / ______ \               
+/ /     | |     \ \    Nightcrawler's    / /      \ \
+\/      | |      \/                     / /        \ \
+        | |                            / /      ____\/ /\___  /\_____
+        | |  /\___   ___/\ /\___    /\ | |     //--\\  |/--\\ |/----\\
+        | |  |/--\\ //--|| ||--\\  / / | |     ||  ||  ||   ` ||    || 
+        | |  ||   ` ||  || ||  || / /  | |     ||__||  ||     ||____|| 
+        | |  ||     ||__|| ||  || \ \  | |     \____/  ||     ||_____/
+        | |  ||     \___|| ||  ||  \ \  \ \          /\\/     || 
+        | |  \/         \/ \/  \/  / /   \ \        / /       ||
+        | |                        \/     \ \______/ /        ||  
+        \ /  (c)2016 All rights reserved.  \________/         \/
+         `                                  
+***********************************************************************
+        Heracles no Eikou IV - Kamigami kara no Okurimono
+            Glory of Heracles IV - Gift from the Gods
+                    English Translation Patch
+                            presented by:
+
+                            Nightcrawler's
+                        Translation Corporation
+                    http://transcorp.romhacking.net
+
+
+                    Version 1.0 February 17th 2017
+***********************************************************************
+
+
+
+Table of Contents
+
+1.0 Information
+    1.1 Patch Information
+    1.2 Distribution and Licensing Information
+    1.3 Copyright Information
+    1.4 Disclaimer
+2.0 The Project
+    2.1 History of the Project
+    2.2 Words from the Translator
+    2.3 The Team
+3.0 About the Game
+4.0 Credits of who worked on this Patch
+5.0 What you will find in the Patch
+6.0 Known Issues in the Patch
+7.0 Special Thanks
+
+
+
+1.0 Information
+
+
+1.1 ****Patch Information****
+
+    This patch when hard patched correctly will result in a VALID checksum.
+
+    This patch was created for use on an original ROM that has:
+
+    * NO header
+    * CRC32: 920A738E
+    * No-Intro (http://www.romhacking.net/utilities/1002/) identified as
+        Heracles no Eikou IV - Kamigami kara no Okurimono (Japan), Version 1.0 
+
+    The 'TransPatch.exe' custom patching application can be used to ensure 
+    you have the correct ROM and patch, and apply the patch to headered or 
+    non-headered ROMs automatically. This is the recommended way to apply 
+    the patch for novice patchers.
+
+    The patcher should work on Win95/98/ME/2000/XP/Vista/7/8/10, as well as 
+    Linux under Wine. It should be self explanatory to use. You will be 
+    asked for your ROM file and your IPS patch file. The program will alert 
+    you if any errors are found or upon a successful patching job. 
+
+    An xDelta format patch is also provided for reliable patching in all other
+    cases. xDelta patchers are available on all platforms. Popular choices are:
+        
+    * MultiPatch (MacOS X)  - http://www.romhacking.net/utilities/746/
+    * Delta Patcher (Win/Linux) - http://www.romhacking.net/utilities/704/
+    * xdelta UI (Win .NET/Linux Mono) - http://www.romhacking.net/utilities/598/
+
+    Patch History:
+    
+    * 1.0 - December 26th 2016
+          - Initial Release
+    * 1.1 - February 17th 2017
+          - Fixed garbage tiles on weather related commands
+          - Fixed all reported grammatical, spelling, consistency issues
+
+1.2 ****Distribution and Licensing Information****
+
+    This patch is licensed under the Creative Commons Deed as:
+        
+    Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+    This means you are free to share, copy, or distribute the work under the
+    following conditions: 
+    
+    * Attribution:
+        You must give appropriate credit and provide a link to the work's
+        website.
+
+    * NonCommercial:
+        You may not use the material for commercial purposes.
+
+    * NoDerivatives:
+        You may not alter, remix, transform, or build upon the work and
+        distribute the modified work.
+    
+    A full copy of the license (CC BY-NC-ND 4.0) can be found at:
+
+    http://creativecommons.org/licenses/by-nc-nd/4.0/
+        
+    The only files found in the official distribution archive are 
+    'readme.txt', 'goh4ev10.ips', 'goh4ev10.xdelta', and 'TransPatch.exe'. If 
+    anything else has been found in this archive, this is not an official 
+    distribution. Only official distributions may be distributed freely for 
+    public use per the license.
+
+1.3 ****Copyright Information****
+
+    Heracles no Eikou is a 1994 trademarked, copyrighted property of Data 
+    East Corporation. Nightcrawler's Translation Corporation is not 
+    affiliated with the above company in any way. 
+
+    Nightcrawler's Translation Corporation title, melodies, and all logos are 
+    not to be used under any circumstances without the expressed written 
+    consent of the original creator/s. 
+
+1.4 ****Disclaimer****
+
+    No warranties are given. The license may not give you all of the 
+    permissions necessary for your intended use. Nightcrawler's Translation 
+    Corporation, Nightcrawler, nor any affiliates of the aforementioned shall 
+    be held liable or responsible for any losses, damages, injury, and/or 
+    legal consequences due to the misuse, or illegal use, of any of the files 
+    contained within this archive. 
+
+
+2.0 The Project
+
+
+2.1 History of the Project
+
+    The Glory of Heracles IV project has been going on for a ridiculously 
+    long time! It was first announced 13 years ago, back in 2003! While not 
+    all of those years were active years for the project, many of them were! 
+    In the early years progress was slow as it was competing for time with 
+    Wozz, Emerald Dragon, and the birth of ROMhacking.net. Soon after those 
+    items were completed and out of the way, I was plagued with other long 
+    term problems. Persistent medical issues, followed by a bad surgery, left 
+    me unable to work much on any projects for long awhile. 
+
+    Eventually around 2010, I started working exclusively on Glory of 
+    Heracles. I would say 2010 was the 'serious business' start of the 
+    project. I think it got kicked off when DaMarsMan (ROM hacker of Glory 
+    of Heracles III) got involved for awhile with some early menu work. That 
+    got me re-started on everything else. This also gave shape to several 
+    new endeavors during the next few years; such as the TextAngel utility, 
+    newer table standard, and a universal VWF project. Although those items 
+    have yet to make it to the public space, they were all used in some 
+    capacity for Glory of Heracles. Now there is unfortunately less 
+    motivation to work on those aforementioned side projects without a 
+    project to use them on! Oh well, perhaps in the next 13 years!? 
+
+    Somewhere along the way, our original translator Heart went permanently 
+    missing. It seems every translation project has at least one instance of 
+    that happening! Nothing new there. Luckily, the project got another kick 
+    in the pants in 2013 when nanashi joined the team. Having done the Glory 
+    of Heracles III translation, he brought much to the table. He touched up 
+    most of the old work, and forged ahead to complete the script for us. 
+    He even stuck around after that to endure all of the subsequent project 
+    headaches like formatting, consistencies, technical issues, testing etc. 
+    The longevity and hell of this project probably scarred him for life!
+    
+    The project got at least another 2 years of exclusive menu work. The 
+    scrolling menu system utilized entire background layers top to bottom 
+    and left to right. It was not possible to expand in several cases. So, 
+    we had to do an 8x8 VWF. That was the easy part though. The real 
+    nightmare started with VRAM management. First, there were over *200* 
+    submenus in the game. They could be used in various combinations in the 
+    main menu, battle menus, and shop menus. They could be used in different 
+    bitplane modes. Sometimes, they could even be used with full sprites and 
+    full color game foreground/backgrounds on screen too! Second, because 
+    the scrolling effects required entire background layers to be used, VRAM 
+    requirements were very heavy. It had to hold more than what was visible 
+    on a single screen at all times. Third, there were times where the game 
+    used mid-frame HDMA trickery to dynamically change the background VRAM 
+    locations to anywhere at different times during the same frame! These 
+    things made VRAM management a true nightmare. 
+
+    Even after all that, the super secret gate of hell hacking was about to 
+    open! The game already overran NMI (time between frames) in many 
+    instances leaving absolutely no time (technically NEGATIVE time) for me 
+    to transfer ANYTHING. I had to hack how the overworld and towns loaded. 
+    I had to hack how the battles were loaded. I had to hack how palettes 
+    were written. I had to hack a host of core game mechanics to buy some 
+    time to be able to do some transfers. There were times that I didn't 
+    think the project was going to be possible. I pulled out every trick in 
+    the book. I spread things out across multiple frames, deferring core 
+    game writes, reducing game data VRAM caching, and more. Finally, I got 
+    something that just barely worked and ran away as fast as my legs could 
+    carry me never looking back! 
+
+    It's been a long road. If I had to do it over again, I'd probably pass 
+    and let someone else do it! Ha! However, we know there's no do-overs in 
+    life. I took on the project, so all I could do was embrace it 
+    and see it to completion. Because, I just don't know how to quit to a 
+    fault! 
+    
+    Once again, I really hope you'll enjoy several more years worth of my 
+    passion for and dedication to this hobby and community. I freely and 
+    proudly give you the opportunity to play Glory of Heracles IV in 
+    English. Thank you to all who have given me words of support, all who 
+    have given a helping hand to the project, and the fans of TransCorp and 
+    our community. As always, take it, love it, cherish it!
+
+2.2 Words from the Translator (by nanashi)
+
+    I remember my first encounter with this project back in 2005, when I was 
+    searching the net for a script of Glory of Heracles 3. GoH3 & 4 were 
+    among a bunch of older games I bought used in December 2004 and GoH4 was 
+    actually the first I played of the set. It might seem counter intuitive 
+    to play the 4th before the 3rd game but that's how I did it (the nicer 
+    graphics had something to do with it, probably). 
+
+    I only played Glory of Heracles 3 some months later and that one turned 
+    out to be the one to leave me awestruck when I beat it. I wanted to 
+    reread its story without having to play through it again and so I 
+    started searching the net for a transscript. It was fortunate for the 
+    GoH3 translation project that I didn't find the rather complete Japanese 
+    replay website for it at first, because otherwise I might not have 
+    offered to work on the translation. In return I got to see a diary entry 
+    that was cut from the game and there's no better way to get to know a 
+    story inside and out than by translating it. So it was fortunate for me 
+    as well. 
+
+    DaMarsMan was scouting for translators on Nightcrawler's message board 
+    at the time and that's how I first contacted him. I also saw that 
+    Nightcrawler was working on the 4th installment but, as I said, I was 
+    very invested in the earlier game which I just had beaten. After I had 
+    finished the translation for GoH3 and basically dumped it on DaMarsMan, 
+    I found employment at NoE and did some professional translation work for 
+    a few years. So I wasn't around to help with testing and for checking 
+    the editing as the GoH3 patch was nearing completion. That turned out to 
+    be a mistake that I wasn't going to repeat, so when I finally joined the 
+    GoH4 project in 2013 I was intent to stay on board until the patch would 
+    release and I also resumed work on the already finished and released 
+    GoH3 patch to iron out some problems I had missed during the original 
+    translation phase. 
+
+    GoH3 is a tough act to follow. Although very well written itself and 
+    featuring many interesting gameplay innovations, GoH4 always suffers 
+    from inevitably being compared to its predecessor. GoH4 doesn't quite 
+    hit you as hard as GoH3 did with its plot twist. Instead it features 
+    several smaller plot revelations throughout the story that make for a 
+    more complex narrative in the end. Which is well paced and just as 
+    compelling as the one of its predecessor, and will have you glued to the 
+    controller during the final hours of the game. 
+
+    History repeated itself with Final Fantasy VII and its follow up FFVIII, 
+    the latter again overshadowed by the former despite its own 
+    achievements. Thanks to the critical acclaim scenario writer Kazushige 
+    Nojima received for his work on GoH, he was able to transfer to Square 
+    where he was asked to write a mysterious story for FFVII like the one in 
+    GoH3. And when he wrote FFVIII with a school setting and emphasis on 
+    romance, that echoed similar themes in GoH4. That isn't to say that the 
+    Heracles games and the FF games feature the same stories. They're quite 
+    different in fact. But you can see early versions of characters that 
+    would later populate Nojima's FF stories. Like Yunas, a saba breeder you 
+    will encounter in Bizerte, a port town in Egypt. 
+
+    She is but one of a hundred (!) playable characters. GoH4's body system 
+    is quite ambitious, and an interesting way to let the player choose 
+    their own avatars for their mute hero. Of course their backstories don't 
+    match the complexity of the main story, but especially in the early 
+    locations you can act out some story scenes by becoming the residents of 
+    those towns and experiencing their circumstances from each of their 
+    different perspectives. Think of them as playable NPCs. Everyone can be 
+    the protagonist, for a while. 
+
+    And in case of Yunas, she would later be the protagonist of her own 
+    games. Well, the summoner Yuna from Besaid would, but as I pointed out 
+    above, Nojima has a habit of further developing ideas and themes from 
+    his previous games. You could even say that the different stories are 
+    pieces in a puzzle that form a complete picture only when you know them 
+    all. GoH4 applies this concept in its 100 playable characters and their 
+    little stories. They all resonate with the mute hero's own character. We 
+    know very little about him (he doesn't speak, after all), but by knowing 
+    them, we get to know him as well. 
+
+    The Glory of Heracles games on NES and SNES are clones of Dragon Quest 
+    in an ancient Greek setting. The familiarity of the gameplay is 
+    comforting but it's when the formula gets shaken up that GoH makes a 
+    lasting impression. This happens in the narrative as well as in 
+    gameplay. Both in DQ and GoH, battles are seen from a first person 
+    perspective. GoH4 expands on this by dynamically changing this 
+    perspective between the different party members. Like DQ, the GoH games 
+    feature day and night cycles. GoH4 adds weather, which can be changed 
+    during battle to affect its conditions. 
+
+    The original DQ trilogy featured brave heroes that were guided by good 
+    kings, telling them their objectives. In DQIII, the young hero and the 
+    wise old king would even switch places for a while. A little taste of 
+    what awaits the hero, the promise of growing up to become a king 
+    himself. GoH4 raises the question of what happens when a youth has to 
+    walk in the shoes of a king before he gets to grow up, when he has to 
+    give orders instead of receiving them. 
+
+2.3 The Team (Aside from Nightcrawler)
+
+    nanashi:
+
+    It was a treat to be able to have nanashi do the translation because he 
+    also translated the script for Glory of Heracles III. This allowed us to 
+    stick with same styling and conventions, and give the two games in the 
+    series a similar feel. It's rare that you get to do that in the fan 
+    translation world. Different games in the same series are often done by 
+    different people causing discontinuity in styling and conventions. This 
+    can happen in the professional world as well sometimes, but we can all 
+    agree it's best if it can be avoided! 
+    
+    I'm sure nanashi had no idea it was going to take so many years to get 
+    the project done right after he signed on. I really commend him for 
+    sticking with me and continuing to aid in translation and script support 
+    right up until the very end. He was always patient through all of my 
+    over-extended life delays and I appreciate that. He had a passion that 
+    drove him to put some love into the project and do the very best job he 
+    could. I couldn't ask for any more than that. It only encouraged me to 
+    continue to do the same and push the project to be the best that it 
+    could be. 
+
+    DaMarsMan:
+    
+    DaMarsMan deserves some mention for his early menu and project 
+    organization work. He was also the ROM hacker for Glory of Heracles III, 
+    which once more aided us in closely coupling the two games by providing 
+    the work for that project. Although he eventually bowed out due to 
+    time and technical reasons, much of his early findings and work are 
+    still left in the project. It saved me a good deal of time there. In 
+    addition, his organized approach to the project while we were working 
+    together helped me up my game a bit too. As a result, this is probably 
+    my most organized project to date. Never discount the fact that other 
+    people can help you with personal growth as well during a ROM hacking 
+    project! 
+    
+    Misty:
+    
+    Misty once again did some script editing for us after having previously 
+    done script editing for TransCorp's Magical Land of Wozz project. Of 
+    note in the script editing process was her addition of the Persian 
+    dialect to the script. Prior to that, the Persian characters simply 
+    spoke in broken English making them seem less educated. After reviewing 
+    the intention of the original script with nanashi, it was determined a 
+    dialect was a better fit to meet the true intention of the original 
+    script. These types of things don't always translate clearly from 
+    Japanese. It's also not that easy to add good dialect to a script. 
+    She also got us set up on a repository so we could all collaborate 
+    better on the script. I'm usually resistive and old school with that 
+    type of thing, so I'm glad she took the initiative and set us up! 
+
+    
+3.0 About the Game
+
+    
+    Glory of Heracles IV is an interesting blend of Greek mythology, 
+    Pandora's Box, and the quest for eternal life. Although Heracles is in 
+    the title and the game, he is not the principle character. The game is 
+    actually the story about some other characters, with Heracles as a 
+    secondary intertwined quest. I really expected this game to be a Dragon 
+    Quest clone, but I got something much deeper in game play and story. 
+    
+    The most notable gameplay feature is the body system. You can acquire and 
+    inhabit 100 different bodies throughout the game. Each body has its own 
+    set of levels, strengths and weaknesses, and unique skills for battle. 
+    The body you are in may have an effect on the dialog, solve a small 
+    puzzle with other characters for an item, or change behavior during 
+    battling. This provides some re-playability as you won't be able to 
+    develop and experiment with them all during a single play through. There 
+    are too many possibilities. 
+    
+    There is also a seed planting system, blacksmith system, diary, myth 
+    guide, and bestiary. As a result, there are more menus in this game 
+    than any other SNES game I've ever seen. Over 200 submenus are used! You 
+    will never see them all in your first play through!
+
+    The main plot follows the player, his friend Plato, and Epipha from the 
+    mythical city of Atlantis. Their fine professor has been researching 
+    possibilities of ever lasting life. Soon after the game begins, an event 
+    happens that transcends life as they know it. You will encounter life, 
+    death, Pandora's Box, Heracles, and even the gods themselves! You must 
+    unravel the mystery of what happened. You must help Heracles in his 
+    quest too. You will travel by boat, saba, submarine, and even on the 
+    legendary Pegasus! You will journey to the underworld, under the sea, 
+    and even to the heavens above! It is a good tale to be had for the 
+    16-bit era! The Glory of Heracles awaits you! 
+        
+        
+4.0 Credits
+
+
+    Here are the people that helped make this translation possible. 
+    Be thankful to all. ;)
+
+    Hacking:        Nightcrawler
+    Translators:    nanashi, Heart
+    Script Editing: Misty
+    Beta Testers:   KingMike, Trunkz0r, Erik, MariusB, Princess
+    Title Screen:   FlashPV
+
+
+5.0 What you will find in this patch:
+
+
+    It's complete now, so you SHOULD find everything 100% translated! 
+
+    If you find any bugs, please report them at the TransCorp message board.
+
+    Easter Egg:
+
+    Unfortunately, due to how many years this project took, I did not do my 
+    long standing tradition of adding myself to the game this time. You 
+    would be looking in vein. Maybe next time. :) 
+
+    
+6.0 Known Issues:
+
+
+    None
+
+
+7.0 Special Thanks
+
+
+    Special Thanks go out to these people for contribution and help 
+    in this project.  Without you guys, this patch may not have been 
+    possible!
+
+    (in no particular order)
+
+    Additional Special Thanks to:
+
+    Gemini
+    TransCorp message board supporters
+    ROMhacking.net message board supporters
+
+    I'm terribly sorry if I forgot anyone. I didn't mean to! It's been
+    so many years and I'm getting old! : )
+

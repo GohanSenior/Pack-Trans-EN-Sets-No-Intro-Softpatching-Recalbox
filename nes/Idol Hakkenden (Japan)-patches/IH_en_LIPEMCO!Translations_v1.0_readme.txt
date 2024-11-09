@@ -1,0 +1,153 @@
+================================================================================
+==================================Idol Hakkenden================================
+======================================V.1.00====================================
+Genre: Adventure
+
+Source language: Japanese
+
+Patch language: English
+
+Authors : Supper/TheMajinZenki/cccmar
+
+================================================================================
+CONTENTS
+================================================================================
+1. Idol Hakkenden - General Info
+2. Hacking Info - from Supper
+3. Translation Info - from TheMajinZenki/cccmar
+4. Game Tips (from the manual)
+5. Patching Instructions
+6. Disclaimer
+7. Credits
+
+================================================================================
+1. Idol Hakkenden - General Info
+================================================================================
+This time around we decided to tackle a little, wacky game by Natsume called
+Idol Hakkenden. It's about Erika Saionji, an easy-going, klutzy girl who wants
+to defeat her sisters in order to get the family inheritance. She has a month
+to prove that she's successful at what she does, which in her case is singing. 
+So, she wants to become a world famous idol. She is aided by 7 people who
+have varying talents, and know how to use them. The title of the game is
+a reference to a very popular novel in Japan, Nanso Satomi Hakkenden,
+the title of which is sometimes untranslated, but means something along the 
+lines of Eight Dog's Chronicles/Tale of Eight Dogs. 
+
+The game is your standard adventure game, in which you have to use your wits
+and available items to get by. You need to solve various riddles, mostly 
+involving clever use of commands/available items, in order to lead Erika
+to victory. Another interesting aspect of it are idol talents - sometimes they're
+also necessary to solve certain riddles or move the plot forward.  
+Some commands may lead to a game over as well, especially in the
+later chapters (of which there are 5). All things considered, this is a fun
+adventure game with charming visuals and a cool soundtrack by Natsume. 
+
+We also included the online manual that we found with the patch, so be sure
+to check it out for some tips, clues and character descriptions. 
+
+Also, special thanks go to Filler for the initial script dump that we used to
+translate this game! 
+
+================================================================================
+2. Hacking Info - from Supper
+================================================================================
+So when we were kicking around ideas for games to translate, a vague half-memory 
+surfaced in my mind of some Famicom game about idols. I checked a list for games
+with "Idol" in the title and said, "Oh yeah, Idol Hakkenden, why don't we do 
+that one?" Some time after the entire script had been translated, I realized the
+game I was actually thinking of was Rasaaru Ishii no Childs Quest. That game 
+doesn't look nearly as interesting as this one, so good thing for my screwups!
+
+The hacking for this was mostly straightforward. The biggest issue was the ending
+karaoke sequence, which was originally designed to display only 18 characters at
+once, not to mention the need to time it to the music. It took some finagling, 
+but I managed to get both the translated and romanized lyrics in, so I hope the 
+effort shows.
+
+Aside from the hacking, I also ended up editing the lyrics for the insert songs 
+to better match the rhythm and rhyme of the originals, so you can blame me for
+those too. Sad to say my lyrics about otters cracking open nuts aren't even the
+dumbest I've written.
+
+You'll probably notice there's a lot of weird flickering and glitches every time
+the game switches scenes. This isn't the patch's fault -- the game was just
+kind of haphazardly programmed to begin with. It's all about the music anyway, 
+right? Also, a special no-thanks to the original programmer for using the wrong
+attribute map for a graphic in Act 5, which looked okay in the original game 
+but terrible in the translation and forced me to spend an hour shoehorning in a
+fix right before the patch would otherwise have been finished. It's bad enough
+just fixing my own bugs.
+
+================================================================================
+3. Translation Info - from TheMajinZenki/cccmar
+================================================================================
+Translating this game was a greater challenge than I had first anticipated, 
+mostly in regards to translating the songs and the main antagonists. Yet again,
+there are some dialects (Kansai-ben, a weird French-English patois etc.), and
+there are also references to actual sportsmen, like Ben Johnson. We mostly 
+changed the names of the antagonists, due to their original connotations to
+Iromono - which are basically Japanese variety shows, largely unknown in the West. 
+One character (Kuwashi) also spoke using trivia. Another challenge was the 
+main song and the "hoehoe" term, which we tried to localize and not translate
+too directly, as we realized the direct translation was really bad. 
+Shitenno - or The Four Heavenly Kings - also appear in this game, so yet again
+we had to come up with a clever way to name them (what a prevalent trope this
+is!)
+
+With that said, it's definitely a charming game, and I hope you will enjoy its 
+goofy plot and quirkiness.
+
+================================================================================
+4. Game Tips (from the manual)
+================================================================================
+1. Take a good look at your surroundings, and try as many commands as possible.
+2. Always listen to every conversation to the end. There are times you must 
+perform an action before you can progress in the conversation, such as buying an 
+item at a store.
+3. Your friends are more useful than they appear to be, so you should try asking 
+their opinion as much as possible.
+4. Erika's talents are the key to progressing the game, so don't forget to put 
+her skills to test.
+5. Whenever multiple locations are available, try going back and forth and
+talking to everyone multiple times.
+6. Please note that sometimes a command may have a different use than normal.
+
+================================================================================
+5. Patching Instructions
+================================================================================
+We've included an IPS patch and a readme file in the package.
+
+You can use a program such as LunarIPS to apply the patch.
+
+Apply the patch to the original Japanese version of the
+ROM:
+
+Idol Hakkenden (J).nes
+
+================================================================================
+6. Disclaimer
+================================================================================
+This translation is a non-commercial and unofficial project which is in no way 
+affiliated with the game creators or distributors. We don't own anything here 
+and have no copyrights.
+
+We release this translation in the form of a patch. Please, don't ask us to send 
+you the ROM, or where you can find it - we can't help you with that.
+
+You can redistribute this translation freely as long as you don't ask money for 
+it and include this readme.txt file with it. We don't condone any form of 
+commercial redistribution. Please, keep that in mind.
+
+================================================================================
+7. Credits 
+================================================================================
+
+Supper - Hacking
+
+TheMajinZenki - Translation/Manual
+
+Cccmar - Script Editing/testing
+
+Filler - Initial script dump
+
+Also, thanks to RHDN for hosting our patch!

@@ -1,0 +1,70 @@
+
+                                 Nekketsu! Street Basket - Go for it, Dunk Heroes! 
+                                      English patch for Japanese version (NES)
+                                           http://www.microbaz.blogfa.com
+                                              Faridman1364@hotmail.com
+                                                    2010 Done by FARID
+
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+                                                          Introduction
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+I came to RHDN to ask someone translate this game for me :
+http://www.romhacking.net/forum/index.php/topic,1387.msg150217.html#msg150217
+But I found it more fun to translate this game by myself!
+This patch is fully translated and playable.
+Try to translate this game to the other languages.
+I have a plan to translate this game to my native language (Persian).
+If you have a plan to translate this game to your native language
+use this tool for finding pointers of this game :
+http://www.romhacking.net/utils/703/
+
+Some great hackers help me to translate this game. Thanks for all of them :
+KingMike                          My grand master for learning romhacking issue
+Tauwasser                      DTE programmer
+Paul Jensen                     Translator for the storyline
+Dammit9x                       Translator for the names of the Items and Skills
+DarknessSavior                Translator 
+Ice Translations               Translator
+Wareya                           Editor
+
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+                                                             Version
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+Version              1.2 (Final) 
+Release Date      20 October 2010
+Status                100% Translated
+
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+                                                  How to use this patch
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+1. Download Lunar IPS from :
+http://fusoya.eludevisibility.org/lips/index.html
+2. Apply Nekketsu! Street Basket - Go for it, Dunk Heroes.ips to the Japanese version of this ROM
+3. Enjoy!
+
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+                                             4-Player Mode with Nestopia
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+In order to play 4-Player Mode with Nestopia you have to select Famicom in this way :
+Machine -->  Input --> Four Player Adapter --> Famicom
+You have to do this manually every time that you want to play it,
+Otherwise pad 3 and 4 will not work at all.
+
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+                                                Original Japanese ROM
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+CRC               88062D9A
+SHA-1            0FE282955F5CA4BEB8E4D1755C2FF110E31DC921
+System           Famicom
+Board             TLROM, Mapper 4
+PRG-ROM        128k
+CHR-ROM        128k
+
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+                                    How to find the Original Japanese ROM
++*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+*=+
+Just try Google.
+
+
+
+

@@ -1,0 +1,124 @@
+                _________ _______  ______   _______  _  _______ 
+                \__   __/(  ___  )(  ___ \ (  ___  )( )(  ____ \
+                   ) (   | (   ) || (   ) )| (   ) ||/ | (    \/
+                   | |   | (___) || (__/ / | |   | |   | (_____ 
+                   | |   |  ___  ||  __ (  | |   | |   (_____  )
+                   | |   | (   ) || (  \ \ | |   | |         ) |
+                   | |   | )   ( || )___) )| (___) |   /\____) |
+                   )_(   |/     \||/ \___/ (_______)   \_______)
+        
+        _________ _______  _______ __________________ _______  _______ 
+        \__   __/(  ___  )(  ____ \\__   __/\__   __/(  ____ \(  ____ \
+           ) (   | (   ) || (    \/   ) (      ) (   | (    \/| (    \/
+           | |   | (___) || |         | |      | |   | |      | (_____ 
+           | |   |  ___  || |         | |      | |   | |      (_____  )
+           | |   | (   ) || |         | |      | |   | |            ) |
+           | |   | )   ( || (____/\   | |   ___) (___| (____/\/\____) |
+           )_(   |/     \|(_______/   )_(   \_______/(_______/\_______)
+
+                                 Tabo's Tactics
+                               Instruction Manual
+                                     v1.01
+                                    
+-------------------------------- INTRODUCTION ---------------------------------
+
+Tabo's Tactics is an action puzzle game releaed by Character Soft for the
+Famicom game system in 1991. It was never officially released in English but
+was translated by Suicidal Translations and released on January 7th, 2003.
+
+This file serves as an instruction manual for the translated game. It is not a
+translation of the original instruction manual but is an original work based on
+my experiences playing the game.
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+  I. Introduction
+ II. Table of Contents
+III. The Story
+ IV. Gameplay
+  V. Distribution Notes
+ VI. Conclusion
+
+---------------------------------- THE STORY ----------------------------------
+
+Tabo is a little Japanese boy with a big imagination. Rumors hold that his
+mother intook copious amounts of MethyleneDioxyMethAmphetamine while pregnant.
+As a result, Tabo is rather prone to hallucinations, as evidenced by the ghosts
+who begin to chase him around during friendly games of Memory and Rubick's Cube.
+If you haven't figured it out yet, this game doesn't actually have a plot.
+
+---------------------------------- GAMEPLAY -----------------------------------
+
+There are two seperate games in Tabo's Tactics, a card matching game ala Memory
+and a cube spinning game ala Rubick's Cube. Both are puzzle games, so the
+gameplay isn't exactly difficult.
+
+In card matching mode, you, well, match cards. Surely you've played the Memory
+card matching game as a child. All the cards are face down and you flip 2 over
+to see if they match. If they don't, the first card flips back over and you 
+continue until you've matched all of the cards.
+
+In the cube game, the object is to get a full line the same picture. This can
+be horizontally, vertically or even diagonally. Once you've made a few matches,
+you will discover the black cubes with blue ghosts on them. If you directly push
+this cube, you'll lose a life.
+
+Both games include enemies milling around the field. If you run into one, you'll
+lose a life but the playing field remains the same. If you run out of time, you
+will lose a life and have to start the level over. If you run out of lives, you
+will receive a password for that level.
+
+There are 25 levels for each game.
+
+General play control is simple:
+
+     D-Pad: moves Tabo up, down, left, right and diagonally.
+         B: spitball
+         A: flip/spin card/cube
+     Start: pause 
+    Select: not used
+
+The card matching game also includes a few bonus items:
+
+Alarm Clock: Freeze enemies temporarily.
+        Jug: Slows enemies down.
+     Scroll: Reveals all cards for a few seconds.
+      Staff: Makes Tabo invincible temporarily.
+ Wall Clock: Adds time to the timer.
+ 
+----------------------------- DISTRIBUTION NOTES ------------------------------
+
+This Tabo's Tactics translation should be distributed in a file named
+tabov101.zip and should contain the following files:
+
+	 taboev101.ips - the translation patch
+ 	 taboev101.txt - the readme file
+	  tabo-man.txt - this manual
+     FCEUltra-Tabo.fc0 - FCE Ultra save state
+       Nesten-Tabo.ss0 - Nesten save state
+       Nester-Tabo.ss0 - Nester (and all varients) save state
+
+The first three files are (C)opyright 2003 by Suicidal Translations. All rights
+reserved. You may distribute this translation in any manner you desire as long
+as the original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Tabo's Tactics is (C)opyright 1991 by Konami.
+	
+Minna no Taabou no Nakayoshi Dai Sakusen is (C)opyright 1991 by Character Soft
+
+---------------------------------- CONCLUSION ---------------------------------
+
+So there you have it. Not an incredibly detailed game but quite fun with some
+decent replay value, especially when playing Death Match mode while drunk. This
+is probably one of my favourite NES games and several years after the initial
+translation, I still enjoy playing it.
+
+If you have any questions, feel free to ask. The official site of the Tabo's
+Tactics translation is at http://www.pigtails.net/ST and you can find the most
+current contact information there as well.
+
+-InVerse
+
+-------------------------------------------------------------------------------
+Tabo's Tactics Manual      -      (C)opyright 2003 InVerse      -      01/07/03

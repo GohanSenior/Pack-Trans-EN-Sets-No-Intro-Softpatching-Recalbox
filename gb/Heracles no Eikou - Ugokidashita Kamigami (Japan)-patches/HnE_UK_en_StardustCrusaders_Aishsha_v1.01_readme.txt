@@ -1,0 +1,153 @@
+=================The Glory of Heracles=================
+=================The Olympus Offensive=================
+==========================V1.01========================
+Genre: RPG
+
+Source language: Japanese
+
+Platform: Gameboy
+
+Patch language: English
+
+Author: Pennywise/aishsha
+
+E-mail: yojimbogarrett@gmail.com
+		aishsha@gmail.com
+http://yojimbo.eludevisibility.org/
+http://aishsha.blogspot.com
+ 
+======================================================
+About Glory of Heracles
+======================================================
+Background: 
+
+Woo boy, this project is old. I was looking at aishsha's
+website and in May 2011, he made a post about a secret
+GB RPG announcement.
+
+aishsha says he was talking about the Oni games, but I
+still say it was Heracles :)
+Either way, this is project is 5+ years old and boy
+did it take me forever to finish.
+
+This is as good a time as any to address the existence
+of the already complete translation of this game.
+aishsha and I started this translation when that
+translation project looked like it would never be
+finished. While we were in the middle of working on
+this project, that other project finished before
+us. However, we noticed several cosmetic limitations
+and that the script had to be squeezed into the original
+space. Considering that, we decided to continue with
+our work knowing that we could do a much better job
+with the translation.
+
+This game was translated from scratch by aishsha while
+I did all the hacking. I can't speak much for the
+translation details, but I was able to accommodate a
+much larger script without much cuts, if any.
+I coded a super complicated DTE routine and moved
+some text to another bank. That was all fairly
+challenging, but it was the menus that were hell
+to deal with. Expanding and moving various menus were
+fairly easy, but when it came to stuff related to
+items, the hacks involved were stuff of nightmares.
+The game originally featured 2 columns of item names
+side by side for a character limit of 8.
+I hacked everything to display only 1 column, thus
+doubling the character limit to 16 and getting all the
+various screens to play nice was a bitch.
+
+The game also liked to print the name of character
+speaking on the same line as the dialogue, which
+when you have a name like Aphrodite, it just didn't
+mix well with the GB's small screen. So that was also
+hacked be displayed elsewhere.
+
+Those were the biggies, but also at aishsha's behest,
+I hacked the treasure chest text box to behave normally
+as it had some weird awkward behavior originally.
+
+Once I got most of that crap out of the way, I began
+my playtest and edit of the script, which took me
+several years to finish due to real life and other
+projects. Then my testers got ahold of the ROM and
+finished the game in only a few days. I guess that's
+just how this stuff goes...
+
+Special mention to DvD for hacking and designing the
+title screen. rainponcho for some misc hacking help
+late in the project's life.
+Ryusui, harmony7, Eien ni Hen and TheMajinZenki for their
+invaluable spot translation and editing help.
+
+Included with the patch is an image of the game's map
+from the manual. The original version can be found here:
+
+http://rrpg.jp/capture/hercules_gb/map.html
+
+danke has graciously photoshopped that up and given us an English
+version to release with the translation. This map might come in
+handy.
+
+======================================================
+Patch History
+======================================================
+V 1.0 - intial release
+V 1.01 - save bug fix
+======================================================
+Patching Instructions
+======================================================
+The patch is in either IPS, BPS or xdelta format.
+
+https://www.romhacking.net/patch/
+
+The patch must be applied to the Japanese ROM:
+
+Hercules Eikou (J).gb
+Heracles no Eikou - Ugokidashita Kamigami (Japan).gb
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking, text editing
+
+aishsha - translation
+
+Ryusui - spot translations, text editing
+
+Eien ni Hen - spot translations
+
+harmony7 - spot translations
+
+TheMajinZenki - spot translations
+
+DvD - title screen design and hacking
+
+rainponcho - misc hacking help
+
+danke - english map
+
+cccmar - testing
+
+Xanathis - testing
+
+======================================================
+
+
+Compiled by Pennywise. October 2021.

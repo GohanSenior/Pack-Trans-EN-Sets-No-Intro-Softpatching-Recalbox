@@ -1,0 +1,21 @@
+Super Naxat Open - Spike McFangs Golf Battle aka
+Super Naxat Open - Golf de Shoubu da Dorabocchan
+English Translation project
+Version 0.99
+12/17/2018
+Modified by MrRichard999 & Krom
+Translation by Helly & AgentOrange
+Extraction of Title Screen & Graphics by D.D.S.
+Redesign of English Title Screen by FlashPV
+Re-Insertion of Title Screen & Graphics by Slidelljohn
+
+If any issues are found please contact me @MrRichard999 on twitter!
+
+Apply patch to the following Un-Headered ROM
+Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan).sfc
+CRC32: 86AA8A10
+MD5: 9A111E14CC660863EF994FC5D01A803A
+SHA-1: B6CBED12C3CDEFF1E85023BF9CDEF47CD70D7195
+SHA-256: 2AB51A85A6A91493F0CAB8F54B196A8BE0FF23FD2F6B8F6EA6A6FD1B2A79DD7A
+
+

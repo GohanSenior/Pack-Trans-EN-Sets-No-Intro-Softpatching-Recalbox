@@ -1,0 +1,90 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Sengoku / Sengoku Denshou
+  English Translation Patch
+  Version 1.00
+
+  Created by Vice Translations
+              http://www.foxhack.net/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CONTENTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1 - Version History
+
+2 - Credits
+
+3 - Mini instruction thing
+
+4 - Notes
+
+5 - Disclaimer
+
+6 - Trademarks
+
+
+--------------------------------------------------------------------------------
+1 - Version History:
+--------------------------------------------------------------------------------
+Version 1.00 - June 28, 2012
+ Done as well as I could. The game sucks so don't expect a miracle. :p
+
+--------------------------------------------------------------------------------
+2 - Credits
+--------------------------------------------------------------------------------
+
+  Foxhack - Game hacking, font and title screen insertion, general lazyness.
+  satsu, DarknessSavior - script translation.
+
+--------------------------------------------------------------------------------
+3 - Notes:
+--------------------------------------------------------------------------------
+ The patch must be applied to a SNES rom without a header. I think.
+ If you're too dumb to understand this, well, that's your problem.
+
+--------------------------------------------------------------------------------
+4 - Usage License
+--------------------------------------------------------------------------------
+ The following patch is available under a Creative Commons
+ Attribution-NonCommercial 3.0 Unported (CC BY-NC-SA 3.0) license. In broad
+ terms, this means:
+
+    This translation patch may be used for derivative work (such as a
+    retranslation to another language) if the original patch creators (the owner
+    of this website, the translator(s), graphic artists, and programmers) are
+    fully credited within the derivative project itself or its accompanying
+    documentation;
+
+    This translation patch or any derivative works may not be used in any sort
+    of commercial or for-profit projects, such as unlicensed reproduction carts;
+
+    The resulting derivative work is redistributed under the same license and in
+    the same format that it was originally downloaded in (a patch).
+
+ TL;DR: Don't sell reproduction carts of this game translation; if you're going
+ to retranslate the game, be sure to credit the team that created the original
+ patch; and don't distribute patched versions of the game in any way, shape, or
+ form - including prepatched roms AND reproduction carts.
+
+ Buy a flash cart instead of wasting your money on an expensive reproduction
+ cart that uses EEPROM chips which lose their data after a few years. Or, use
+ a console-based or PC emulator. I'm totally fine with that. Please don't give
+ your money to people who profit from stuff game translators do for free.
+
+-------------------------------------------------------------------------------- 
+5 - Disclaimer
+--------------------------------------------------------------------------------
+  There is no videogame company or any other company associated with
+  Foxhack.net. In no event shall the patch creators be liable or responsible
+  for any damages that may occur from direct, indirect or consequential
+  results of the ability or disability to use or misuse any material it provides.
+  
+--------------------------------------------------------------------------------
+6 - Copyrights
+--------------------------------------------------------------------------------
+  All copyrighted material is owned by the respective publishers and
+  distributors. I don't own anything but the patches. Please don't sue me.
+ 
+  Patch (C) Dave "Foxhack" Silva.
+  Patch not for sale or rental.

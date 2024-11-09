@@ -1,0 +1,272 @@
+Shiji Hero Legend English Language Patch V0.90
+
+
+
+Introduction:
+
+	Japanese Developer:				Be-on Works
+	Japanese Publisher:				Outrigger Koubou
+	Japanese Release:				July 07, 1995
+	English Patch Production:			Dynamic-Designs
+
+
+
+Dynamic-Designs Patch History:
+
+	V0.90:  Initial Dynamic-Designs Release:	January 24, 2021
+
+
+
+Dynamic-Designs Production Credits:
+
+	Project Coordination:				Wildbill
+	Hacking/Tools/Bug Fixing:			Bongo`
+        Assembly: 					Bongo`
+	Translation:					Wildbill
+	Translation Support:				Filler
+	Period Coach					hausen
+	Story Writing:					Wildbill
+	Title Graphic 					FlashPV
+	Graphics					Taskforce
+
+
+NOT FOR SALE INFO
+
+This game in English or patch to make it English is NOT for sale under any
+circumstances!  If you paid for this game in any way, including in a cartridge,
+demand your money back immediately!  File a complaint with your credit card
+company and/or Paypal as well, especially if you obtained this game in cart form!
+
+
+
+OVERVIEW:
+
+Dynamic Designs is letting all of you aficionados of historical fiction out there
+know that we have finally translated this Super Famicom game and built a partially
+completed English patch. As far as we know, "Shiji Hero Legend" is the only SNES
+classic turn-based role playing game ever built around 100% accurate historical
+accounts of actual events. The fiction component means that many characters - typical
+of everyday people during those "times" are plugged into the story in order to bring
+the overall scenery to life.
+
+The major players, however, are in just about every case traceable to the "movers and
+shakers" of that age. Even the hero -YOU- is a person who lived, breathed, and shaped
+ancient Chinese history. One caveat, though... This is ancient Chinese history viewed
+through Japanese eyes. A huge challenge we had in creating an English patch reminds me
+of the name of an amateur translation group that emerged about 20 years ago, called
+"DeJap" Yes, that's what we did with the script at times too numerous to count - convert
+Japanese terminology and Katakana to correct Pinyin (English transliteration) matches
+on mainland China.
+
+For example, anything related to the Han Kingdom that existed in 300 B. C. frequently
+came up as "Korea" in the machine. Go from there and multiply the translation experience
+with Han subjects seven times, and the labor quickly became daunting! This is the era of
+the game, 300 B. C., and officially it's called "The Warring States Period" in Chinese
+history, a time when seven "princes" in seven realms battled to replace the fading Zhou
+Dynasty. Those kingdoms included Zhou, Han, Chu, Qi, Wei, Yan, and Qin.
+
+
+Bugs that remain in the released translation that may or may not ever be addressed:
+
+Due to the lack of anyone on the team currently who possesses the skills of assembly coding and
+the ability to decompress, redraw, and re-compress graphics, a number of minor features in our
+English patch will appear incomplete and even flawed. A gambling hall that appears midpoint in
+the game reportedly has an inoperable menu wherein the player is unable to purchase chips. In
+other cases, a few graphical menus appear in a mix of Chinese and English. None of these
+unresolved issues affect game play or story.
+
+"Shiji" features the opportunity to hire mercenaries. However, at least one menu used to manage
+mercenaries has one line of text that overwrites itself. This cosmetic imperfection does not
+impede the manipulation of mercenary fighters.
+
+
+Intentional Retention of Ancient Chinese Pictographs:
+
+Presently-used Kanji in the Chinese and Japanese-speaking world have evolved from archaic
+forms. In 300 B. C., written Chinese appeared differently, a configuration that scholars call
+"Greater Seal Script" (Da-zhuan 大篆 [1000 to 200 BC]). This system evolved from an even
+earlier written language called "Oracle Bone Script". In this game, the Japanese designers
+wrote village shop signs in Greater Seal Script. For the purpose of retaining esoteric
+character in our English game patch, team member Hausen suggested and we decided not to
+convert shop signs to English.
+
+A Statement by Kazuo Fukushima ("Shiji" Scenario/Game Design) - Translated by Hausen:
+
+What would happen if someone based an RPG on history? For quite some time, I had been considering
+that possibility absently. While indulging in the imaginary worlds of sword and sorcery - great fun
+was always there. Yet, having played various games, I began to feel something was lacking. When I
+came to realize this enveloping feeling was in fact 'emptiness', a vagrant idea in my head started
+to blossom into a more concrete idea.
+
+"Fun" is probably the most important aspect of games. However, is the only fun attainable derived
+from just playing the game? In this mindset, games would be no different from any idle amusement.
+No, I'm not belittling the value of any form of entertainment, but what if we could add something
+else - an important ingredient - rather like "icing on a cake". Comparing athletics, for example,
+we don't play sports merely for the fun aspect. We also engage in physical competition to stay
+healthy through exercise, practice teamwork, learn sportsmanship, and so on. All of these factors
+enhance the value of sports.
+
+While deliberating such matters, my head started spinning like chibi characters moseying around
+some ancient Chinese setting. Many stories and historical figures began filtering through my mind.
+Yes, why not have the hero start out as an ordinary peasant during the Warring States Period in
+China and center the main action around the [ancient capital] of Luoyang? Surely, the hero would
+need friends, so why not start with Lin Xiangru? We would also need a legendary fighter, and Jing
+Ke should fill that role quite nicely. I didn't particularly want to include magic, but the Chinese
+concept of "qigong" wove in quite conveniently.
+
+For the longest time, I was completely absorbed in planning and preparing my story. So, why did I
+choose Chinese history as a subject? After all, northern European settings with Norse mythology
+would have fit well into a "sword-and-sorcery world". Considering the recent boom in 'Romance of
+the Three Kingdoms' games, I reasonable expected a Chinese setting might be a profitable enterprise.
+However, the ROTK setting had already saturated the gaming market, so I also considered the turbulent
+Spring and Autumn Era and the Warring States Period. Why not chose the latter time frame, I concluded?
+
+The Warring States Period is the most original and interesting time in Chinese history, certain to
+introduce diverse characters, the fight for supremacy between the seven states, and familiar stories
+that we recall in the form of common anecdotes every day in our modern times. However, I didn't know
+how to deal with the Hanzi (Chinese Kanji). Regarding place names, people, etc., I could not disregard
+Hanzi entirely, but I wasn't well versed that script Hanzi. Additionally, in my research, many
+Hanzi/Kanji not used normally in Japan came up frequently, so early on, I decided not to vex players
+with a plethora of esoteric and archaic [scripts and pictographs].
+
+An 8x8 font was impossible, meaning I required a 16x16 format to design a proper display of languages.
+That limited me to 14 characters per line and only three rows of text on any given screen. With these
+limitations, we pondered whether we would frustrate players with constant scrolling in order to read the
+story. We hammered away with various configurations until somehow the dialogue screens appeared to be
+rather easy-to-read after all.
+
+Some of the stories and proverbs weren't familiar to [the mainstream]. In addition to new literature,
+we delved into second-hand bookstores, chased discontinued titles, and utilized libraries to the
+maximum. I would like to take this opportunity to thank the authors of the literature we referenced
+that augmented our inspirations. Due to my paucity of knowledge at the time, I may have made a few
+mistakes. In addition, we simplified some game features for the convenience of players. Please
+understand the desirability of not over-complicating the game.
+
+I cannot say if the genre of "historical RPGs" will endure. Upon release, I have no clue as how
+"Shiki Eiyuuden" will be received and critiqued. However, if you [players] take your time and explore
+every nook and granny (sic), I am confident this game will satisfy [those who enjoy RPGs]. Upon
+completion, you [players] will have an appreciation of Chinese history and literature from the "Shiji"
+and "Eighteenth History". You may even enjoy what you learned and be inspired to explore the subject
+further.
+
+- Kazuo Fukushima (Scenario/Game Design) 
+
+Caveats and Invitations:
+
+This game is not for everyone. It is tough, tedious, different, and at times - downright
+exasperating! The plot mixes history (from the Chinese "Shiji") with legend, mysticism, and 
+fantasy - rolling the whole shebang into a turn-based RPG format.
+
+As in the case of several of our recent patch releases, this one remains unfinished also. As
+we have explained previously, both time factors and downsizing in the diversification of our
+production team have dictated this reality. The dilemma remains to either share a fully
+playable patch "as is" or keep it in "cold storage" indefinitely, hoping we will eventually
+be in a position to build toward a more "perfect" patch.
+
+At this time, we active members of D-D cannot guarantee that we'll ever revise this patch in
+any way. Positive feedback and offers to help us correct any and all patch flaws and
+shortcomings are invited via our "Shiji Hero Legend" forum.
+
+
+Production, Testing, and Thought Processes (Wildbill):
+
+This is the first game I have translated 100%. Hausen was instrumental researching historical
+events and helping guide my translation toward the greatest possible accuracy. Hausen, Recca,
+and I are the only people to have played this entire English patch and beaten the game.
+Recca has informed me that the game and puzzles are very difficult in places and that a guide
+of some sort would be very useful. Unfortunately, I don't have time to write one.
+
+I might mention that foes in the game do not drop money. Selling excess items is the best way
+to fund your adventure. Let me add that anyone in the world is free to pursue this "not for
+profit" hobby. This means that any human who inhabits this planet has free rein to start in the
+same place we did and create stories and patches that suit their own personal interests,
+motivations, values, and tastes.
+
+
+Patching:
+
+Contained within this archive is an IPS (international patching system) file or a patch file in
+another format for the end user's convenience that when used in conjunction with a ROM file will
+make the game playable in English.
+
+Do note, as I touched on above, that this patch is a result of countless hours of love and labor.
+Hence, they are not meant to be sold at any price under any circumstance, be it in digital form or
+burnt into a donor cart's ROM chip.
+
+To patch the ROM file, one needs to procure a patcher for their preferred format, a widely available
+class of programs, many of which can be found at http://www.romhacking.net/ for one source.  A few
+can even be found on our download page for your convenience at
+http://www.dynamic-designs.us/downloads.shtml.  Search at the bottom under utilities.  We did not
+write these utilities.  We merely provide them as a convenience.
+
+At some point, ROM sites may upload pre-patched ROMs of our Shiji Hero Legend translation. Obviously, Dynamic Designs cannot endorse playing these versions.  Neither will we support resolution of any
+associated problems. Moreover, pre-patched ROMs may float around the web for years.  Only by
+downloading patches containing just our original work from D-D's web site may gamers obtain
+revisions to these patches - if any - and take advantage of possible bug-fixes and corrections.
+
+
+Information pertaining to the Shiji Hero Legend ROM:
+
+
+Size before patching: 1.50 MB (1,572,864 bytes)
+
+Size after patching: 1.50 MB (1,572,864 bytes)
+
+       File: SE(J).smc
+       Name: ｼｷｴｲﾕｳﾃﾞﾝ            
+    Company: ? - Code: CH
+     Header: None
+       Bank: LoROM
+Interleaved: None
+       SRAM: 64 Kb
+       Type: Normal + Batt
+        ROM: 12 Mb
+    Country: Japan
+      Video: NTSC
+  ROM Speed: 200ns (SlowROM)
+   Revision: 1.0
+   Checksum: Good 0x4E93
+  Game Code: AAUJ
+      CRC32: 4C2BEA69
+        MD5: A983663C02AE8CF51A3E42C3F8E9506C
+
+
+
+
+Notes:
+
+1. Not all ROMs will necessarily be patch-able with our file.
+2. If the ROM you attempt to patch has a header, you may need to remove it.
+3. A number of tools are available to remove headers: SNESTool, Smile, Toolbox, etc.  
+
+Alternatively, most emulators support a feature called soft patching, which keeps the ROM file
+intact, merging the patch data only during run time. To make use of it, make sure both the ROM file
+and the IPS are in the same directory as your emulator of choice and have the same name, but not the
+same extension. Do note that this is case-sensitive.  (Also, do note this soft patching is only
+available using the IPS patch file, and may NOT work with the other patch file formats.)
+
+i. e.:  SHIJI(E).smc and SHIJI(E).ips will trigger soft patching at the emulator's run time.
+
+
+
+Emulator Compatibility:
+
+This patched game works in most emulators and on real hardware.  We
+cannot guarantee compatibility with all emulators, however so far it
+has worked on all emulators we have tried it on.  Our recommendation
+is SNES9X, ZSNES, HIGEN/BSNES or Real Hardware.
+
+
+
+Special Thanks:
+
+As always, lately, I am shocked, SHOCKED, that we have finally released "Shiji Hero Legend" in
+English! In the order of performing critical tasks, thanks Bongo`, Wildbill, Filler, 
+FlashPV, Hausen, Taskforce, and Recca for the all you do. 
+
+
+
+Dedicated to Wildbill! (Ha-ha! Taskforce wrote this in here! Thanks!)
+
+
+Readme 2021 Dynamic-Designs

@@ -1,0 +1,10 @@
+English Translation for Bug Honey on Adventure Island by FlashPV
+Since everything is already in english, this is just a title screen translation.
+
+Content:
+BugHoney.ips - Translation patch for Bug Honey
+BugHoneyReadMe.txt - The file you're reading
+
+Use this patch on this NO-INTRO rom:
+Takahashi Meijin no Bugutte Honey (Japan).nes
+CRC32 - CA72C5C8

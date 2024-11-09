@@ -1,0 +1,800 @@
+
+======================
+SUPER ULTRA BASEBALL 2
+======================
+
+1994 Culture Brain, 
+
+2009 VX Translations                                       
+http://vxtrans.blogspot.com/
+
+INSTRUCTION MANUAL                                               
+ SFC-SUBB2-v1.00
+
+You may also download the PDF version of this manual from http://vxtrans.blogspot.com/
+
+Culture Brain’s Ultra Baseball (Baseball Simulator in the US) series is a unique baseball statistical simulator. 
+Players have the option to create their own Team, choose manager personalities, uniforms and stats. Additionally 
+players have the unique option of using the Ultra League where players have higher stats and super Ultra powers!
+
+Super Ultra Baseball 2 is the fourth game released in the Ultra Baseball Series. The first two games were released 
+in the US under the titles of “Baseball Simulator 1,000”. Culture Brain planned to release this game as 
+“Super Baseball Simulator 1,000 2” but later canceled the release.
+
+                                  CONTENTS
+
+•	[1] BATTERY BACK-UP SYSTEM 
+•	[2] ULTRA PLAY 
+•	[3] ULTRA BATTING 
+•	[4] ULTRA BALLS 
+•	[5] ULTRA FIELDING 
+•	[6] GAME MODES 
+•	[7] EXHIBITION 
+•	[8] SEASON 
+•	[9] EDIT MODE
+•	[10] FIELD SCREEN 
+•	[11] CONTROLLER OPERATION BATTING/OFFENSE 
+•	[12] CONTROLLER OPERATION PITCHING/FIELDING 
+•	[13] FIELDING – SUBSTITUTE FIELDERS 
+•	[14] FIELDING – SHIFTING FIELDERS 
+•	[15] MANAGER MODE 
+•	[16] ALL-STAR PENNANT 
+•	[17] OPERATION CHART 
+
+                                          
+                                               [1] BATTERY BACK-UP SYSTEM 
+
+This only applies if playing on a real SNES console via a Flash Cart or Copier; this does not apply to the use of 
+Emulators. This game has been tested and is verified to run on the Authentic SNES Hardware.
+
+1. Do not turn off when the title screen is on.
+
+2. Do not turn off right after the game.
+
+3. Turn off after the stats for the score is displayed (i.e. let the game finish).
+
+ 
+                                                     [2] ULTRA PLAY
+
+ULTRA PLAY
+
+Ultra Plays can only be used by the Ultra League or any edited teams based on these. Each team has a limited amount 
+of Ultra Points. Each Ultra play uses a certain amount of Ultra Points. When all Ultra Points are used up that team 
+will not be able to use anymore Ultra Plays. 
+
+ 1. ULTRA HITTING
+
+Press the (X) button to open the Ultra panel. Swing with the (A) button to use the displayed Ultra Play, or use the (Y) 
+button for a Power Swing, press the (B) button to cancel.
+
+ 2. ULTRA PITCHING
+
+Press and hold the (X) button to open the Ultra panel. Select the Ultra Ball with the up or down directional control pad. 
+After selecting proceed to the regular operation to pitch. Cancel with the (B) button.
+
+ 3. ULTRA FIELDING
+
+Press either (X), (Y) or (B) button to use the Ultra Fielding abilities. (See [5] ULTRA FIELDING)
+
+
+                                                     [3] ULTRA BATTING 
+
+There are 14 different Ultra Batting powers. Each Ultra Batting power uses a different amount of Ultra Points. The amount 
+of Ultra Points each use, are displayed before the name.
+
+5 HYPER HIT
+Doubles batting power.
+
+8 MISSILE HIT   
+Flies like a missile! A fielder who catches this ball will be blown back to the fence.
+
+9 TREMOR HIT   
+This ball causes an earthquake when it lands.
+
+8 BOMB HIT 
+Explodes like a bomb when it lands. 
+
+5 SHADOWLESS 
+The ball’s shadow disappears; it is difficult to know where it will land.
+
+5 INVISIBALL 
+After the ball is hit it will disappear! The ball reappears halfway down the field.
+
+7 METEOR HIT 
+A piece of the bat breaks off and goes along with this one to knock out a fielder!
+
+6 SNAKE HIT 
+Moves all around like a snake and is hard to catch.
+
+2 LEAF HIT 
+A fly ball transforms into a leaf and slowly floats down.
+
+5 SHADOW HIT 
+The ball has three shadows, which one is real?
+
+3 HYPERRUN 
+The batter will have super speed, even running faster then the ball!
+
+4 FREAK HIT 
+The ball will bounce around in all different directions.
+
+7 DIZZY BALL 
+Fielders will move in the opposite direction of the control pad!
+
+6 ORBIT HIT 
+The ball will orbit around the fielder a few times after it is thrown.
+
+
+                                                         [4] ULTRA BALLS 
+
+ULTRA BALLS
+
+There are 20 different Ultra Balls. Each Ultra Ball uses a different amount of Ultra Points. The amount of Ultra Points 
+each use, are displayed before the name.
+
+3 FIRE BALL 
+Once the ball sets on fire it speeds up to 150 mph.
+
+5 STOPPER BALL 
+The speed is variable and it stops in mid air! Use the (A) button to stop the ball.
+
+4 VANISH BALL 
+This ball disappears about halfway and then reapers right before the batter’s box.
+
+2 PHANTOMBALL 
+This ball turns into a phantom and swerves to the left and right.
+
+1 NINJA BALL 
+This ball will multiply into several balls. Which one is the real one?
+
+2 SPARK BALL 
+This ball discharges electricity!
+
+4 BALLOON BALL 
+This ball turns into a big balloon!
+
+5 SPEEDER BALL 
+Use the up and down directional buttons to change the speed.
+
+4 ROCKET BALL 
+This hyper ball speeds lighting fast at 400+ mph!
+
+3 ZIGZAG BALL 
+This ball swerves to the right and left making it difficult to hit.
+
+3 SPIRAL BALL
+This ball moves in a spiral motion.
+
+3 JUMPER BALL 
+This ball jumps to the right and left. Use the (A) button to control.
+
+2 TREMOR BALL 
+This ball will cause an earthquake upon impact!
+
+4 CHANGE-UP 
+The speed of this ball varies. It drops down to 12mph with a press of the (A) button. 
+
+1 FLOATER BALL 
+This ball changes into a leaf and starts floating!
+
+4 MULTIBALL 
+The pitcher will split into four!
+
+2 FADE OUT 
+The pitcher will disappear, when is the ball thrown?
+
+3 WARP BALL 
+Use the (A) button to warp.
+
+2 LOTTA BALL 
+This is multiple balls, which is the real one?
+
+1 ? BALL 
+The full effects of this one are unknown, take a chance!
+
+ 
+                                                     [5] ULTRA FIELDING 
+
+ULTRA PLAY – FIELDING
+
+All the players except a pitcher can use these 4 Ultra Fielding plays.
+
+UF 1: SUPER SLIDE
+Cost: 5 Ultra Points
+
+A fielder slides by pressing the (A) button.
+
+UF 2: ROCKET JUMP
+Cost: 5 Ultra Points
+
+A fielder can make a super high jump.
+
+UF 3: SUPER CATCH
+Cost: 10 Ultra Points
+
+This is the miracle catch. This will catch Missile, Bomb, Tremor, Meteor or anything else! 
+
+UF 4: HYPER THROW
+Cost: 5 Ultra Points
+
+This throws a ball any distance without a bounce!
+
+
+                                                        [6] GAME MODES 
+
+EXHIBITION – 1 or 2 players play an exhibition game. You can play against yourself or another player.
+
+SEASON – Up to six players can participate. Important statistics will be saved throughout the season. There is also 
+a full-auto season system statistical simulation.
+
+EDIT – This mode lets you create your own teams. 
+
+ALL-STAR – A full All-Star Pennant featuring the top players from the Sunny and Paradise Leagues!
+
+
+
+                                                         [7] EXHIBITION 
+1. EXHIBITION 
+       
+•PLAYER (S) 
+ Choose a 1 or 2 Player game. 
+      
+•SELECT INNINGS 
+ Choose the number of innings per game, 1, 3, 5 or 9. 
+        
+•SELECT TEAM
+ Choose one of 18 different teams. Choose 2 different teams for 2 players.
+
+2. CHANGE SETTINGS
+   
+•CHANGE SETTINGS
+ Choose PLAY to start the game. Choose CHANGES to enter the ERRORS screen.
+   
+•ERRORS
+ You can play the game with our without errors. If you choose YES, a fielder may make errors during the game.
+
+•COMPUTER LEVEL
+ There are 3 game levels to choose from. Select the one depending on your skill level.
+
+•ULTRA DISPLAY PANEL
+ When you use an ULTRA PLAY, the type of play’s icon will be displayed on screen. If you do not want them displayed 
+on screen then choose OFF.
+
+•SELECT ULTRA POINTS
+ Choose the amount of Ultra Points that each team can use during a game. Choose 50, 100, 150, 200, 250, 300 or unlimited.
+ 
+•PICK A STADIUM
+ Choose one of six stadiums. Stadiums vary in sizes, CF (Center Field), LF-RF (Left and Right Field) measurements in Feet.
+
+•Select a view type.
+ Choose normal or zoom (a close-up larger view).
+
+3. GAME MODE
+ 
+Choose MAN for manual play, COMP for auto play or MNGR for manager mode.
+
+4. GAME TYPES
+ 
+If MAN was selected for a 1 player game, you will have the option to play in PRO or NORMAL modes. If PRO is selected
+you can increase the level by pressing the (A) button or decrease by pressing the (B) button. PRO mode is more difficult 
+in you can’t adjust the batter’s position, manual fielding etc.
+
+If COMP was selected for both players, you will have the option to SKIP or VIEW the game.
+
+5. STARTING PITCHER
+
+Move the D-Pad up and down to view the different pitchers, their stats and their current condition. Choose one of six 
+pitchers and then press the (A) button. 
+
+COND is what the pitcher’s condition is, the higher the number the better their condition (5 is in perfect shape).
+
+6. STARTING LINE-UP
+ 
+Before every game you can modify your team’s starting line-up, batting order and fielding positions. To change the line-up,
+select CHANGE LINE-UP. To switch batting order, move the cursor to a batter’s name and press the (A) button to select, 
+and then move the second cursor to a batter’s name and press the (A) button to switch batting order. To switch batting 
+positions, move the cursor to the batting position instead of the name. 
+
+
+                                                      [8] SEASON 
+
+Select SEASON, use the control pad to select START to begin a new season or CONTINUE to resume a season.
+       
+•SEASON LENGTH
+ Choose the number of games to be played for the season. 5, 15, 30 or 162, the number represents how many games each 
+ team plays throughout the season. 
+       
+•SELECT INNINGS 
+ Choose the number of innings per game, 1, 3, 5 or 9. 
+       
+•SELECTING A LEAGUE
+ Six teams (or one league) can play in a season. Choose the Sunny, Paradise, Ultra or New League. 
+       
+•CREATING A NEW LEAGUE
+ When you select the New League option, you then can select any six teams of your choice to create the New League.
+      
+•Select a view type.
+ Choose normal or zoom (a close-up larger view).
+
+•SETTING UP THE LEAGUE 
+ Set the teams for the season with the control pad and the (A) button.
+
+1. SELECTING A MODE 
+  
+Choose MAN for manual play, COMP for the computer to play or MNGR for you to be a manager. 
+
+2. ASIGNING STADIUMS 
+   
+Choose a home stadium for each team. It is possible for multiple teams to use the same one.
+
+3. SETTING ULTRA POINTS
+  
+Choose the Ultra Points for each team (see P.8) with the (A) button. When you are done, place the cursor on the END 
+and press the (A) button to finish.
+       
+•ERRORS
+ You can play the game with our without errors. If you choose YES, a fielder may make errors during the game.
+ 
+•COMPUTER LEVEL
+ There are 3 game levels to choose from, NORMAL, ADVANCED and PRO. Select the one depending on your skill level.
+ 
+•ULTRA DISPLAY PANEL
+ When you use an ULTRA PLAY, the type of play’s icon will be displayed on screen. If you do not want them displayed on 
+ screen then choose OFF.
+
+•AUTO SEASON
+ When you select AUTO SEASON, a second cursor will appear in the window above. Use the control pad to select AUTO SEASON OFF 
+ or to turn AUTO SEASON ON and then press the (A) button. NOTE: In order to set the AUTO SEASON, all teams should be set to 
+ COMP in the GAME MODE. You can also set AUTO SEASON throughout the entire season, it will be set to skip mode.
+
+•SEASON MENU
+ Choose END in the schedule screen to enter into the one above.
+
+1. NEXT GAME
+ 
+This starts the next game (see P.9 for GAME MODE).
+
+2. STANDINGS
+  
+This reviews the player stats for the season (see P.15).
+
+3. CHANGE SETTINGS
+  
+This will take you back to game type modes (see P.9)
+
+4. VIEW SCHEDULE/AUTO SEASON OPTIONS
+  
+This option let’s you view or change the current play schedule or turn AUTO SEASON ON (see P.13)
+
+5. END
+  
+All data will be saved after each game. Turn off the power while pressing the reset button (see P.2)
+
+•NEXT GAME 
+ Follow the same process as for EXHIBITION on P. X. Select: GAME MODE -> STARTING PITCHER -> STARTING LINE-UP -> PLAY (GAME).
+
+•CB SPORTS NEWS
+ After each game a TV news display will show the final score. Teams W-L, saves, homeruns and more.
+       
+•STANDINGS
+ Select STANDINGS from the season menu to view the stats.
+ 
+1. OVERALL
+
+The overall team stats will be displayed.
+
+G: Games Played.
+W: Wins.
+L: Losses.
+WPT: Winning Percentage.
+GB: Games Back. 
+
+2. TEAM W-L (W-L)
+
+The chart shows how many wins and losses each team has against the others. The figures are read across in rows. The upper 
+figure is the number of wins; the lower figure is the number of losses.
+
+•TEAM BATTING STATS
+ This displays the overall batting stats for all teams.
+
+G: Games Played.
+PT: Batting Percentage (Average).
+HR: Home Runs
+RB: Runs batted in.
+BB: Base on Balls.
+SO:  Strike Outs.
+SB: Stolen Bases.
+
+•INDIVUDUAL BATTING STATS 
+ Press the L & R buttons to scroll.
+
+PT: Batting Percentage (Average).
+AB: At Bats.
+H: Hits
+2B: Doubles
+3B: Triples.
+HR: Home Runs.
+RB: Runs Batted In.
+BB: Base on Balls.
+SB: Stolen Bases.
+SC: Sacrifice Hits.
+ERR: Errors.
+SO: Strike Outs.
+
+•TEAM PITCHING STATS
+ This displays the overall pitching stats for all teams.
+
+G: Games Played.
+ERA: Earned Run Average.
+W: Wins.
+L: Losses.
+SV: Saves.
+CG: Complete Games.
+SH: Shutouts.
+BB: Base on Balls.
+SO: Strike Outs.
+HR: Home Runs.
+ERR: Errors.
+
+•INDIVUDUAL PITCHING STATS
+ Press the L & R buttons to scroll.
+
+ERA: Earned Run Average.
+W: Wins.
+L: Losses.
+SV: Saves.
+WPT: Winning Percentage.
+CG: Complete Games.
+SH: Shutouts.
+IP: Innings Pitched.
+H: Hits.
+HR: Home Runs.
+ERR: Errors.
+BB: Base on Balls.
+SO: Strike Outs.
+
+•TOP 30 HITTERS/PITCHERS  
+ Select Top 30 HITTERS (H) or PITCHERS (P) in the menu screen. Move the cursor over the stats you wish to view and press 
+ the (A) button. 
+
+•CHAMPIONSHIP SERIES
+ After you complete an entire season using either Sunny or Paradise Leagues, you will be presented with the option to play 
+ in the Championship Series.
+ 
+The first option is to play a full season of the opposing League. If you choose to play then you will go through an entire 
+season for that league. If you choose not to play the season, the game will automatically select the champion for the 
+opposing League and start the Championship Series.
+
+The Championship Series will keep track of the games. The first team to win 4 games will win the series.
+
+
+                                                         [9] EDIT MODE
+
+1. EDIT
+  
+This option allows you to create and save your own players and teams. Choose EDIT in the main menu screen and press the 
+(A) button.
+
+•CHOOSE THE TEAMS
+ Pick any of the 18 teams from all 3 leagues, or re-edit the existing teams.  
+        
+•SELECT TEAM ICON
+ Select an edit icon that will be used to identify your edit team. 
+        
+•NAME THE TEAMS
+ The max amount of characters a team name can have is 12.
+        
+•CHOOSE THE TEAM COLOR
+ Select the team uniform color. There are 18 different colors to select.
+
+2. CREATING A TEAM
+  
+Create your own teams by distributing points.
+
+•NORMAL
+ There are not many points to distribute to make the players very strong. This is a good option for an expert.
+
+•MODERATE
+ There are many points to distribute to make a team with good players. This option is good for a beginner.
+ 
+•SPECIAL
+ The screen above will be displayed when you select SPECIAL. Choose 2 special abilities to make your team unique. As an 
+ example choose Accuracy and Power Hit for a team with strong batting arms.
+
+•	ACCURACY: The batting AVG will increase.
+•	POWER HIT: The batting power will increase.
+•	SPEED: The running speed will increase.
+•	FAST BALL: The ability of throwing fast balls will increase.
+•	CURVE BALL: The ability of throwing curve balls will increase.
+•	STAMINA: The stamina will increase.
+
+•UNLIMITED
+ There are an unlimited amount of points to distribute to make super teams. NOTE you can’t set the parameters to exceed 
+ the limits. This option is good for someone who wants to cheat.
+
+3. BATTER EDIT
+  
+After creating the team, you will enter the Batter Edit screen.
+              
+•NAMES
+ Move the cursor over the player name you wish to edit and press the (A) button. The player naming screen will then be 
+ displayed, select the letters with the cursor, and press the (B) button to remove the previous name and the (A) button to 
+ enter new letters.
+
+•BA - Batting Arm: Select the batting arm, L (Left), R (Right) or S (Switch Hitter).
+
+•ST – Batting Stance: Select a batting stance, choose one of eight.
+
+•PO – Position: Choose each fielder’s position.
+
+•AV – Batting Average: Choose the batting power, the higher the better.
+
+•HR – Home Runs: The higher the number the batting power increases.
+
+•R – Runs: Moving speed increases.
+
+•FLD – Fielding: Select fielding type, choose one of seven (A-G).
+
+•BE – Batting Eye: Select the type of hitter, choose one of seven (A-G).
+
+4. PITCHER EDIT
+  
+Press FWD (Forward) with the (A) button to advance to the Pitcher Editing screen. 
+
+•NAMES (3.BATTER EDIT)
+
+•PA - Pitching Arm: Select the pitching arm, L (Left Handed), R (Right Handed).
+
+•FO – Pitching Form: Select a pitching form, choose one of eight.
+
+•ERA – Earned Run Average: Choose the pitching power, the higher the better.
+
+•STM – Stamina: Choose the stamina, the higher the number the more innings the pitcher can go without getting tired.
+
+•SPD – Speed: Choose the speed power of the ball.
+
+•RC – Right Curve: Right curve for a right arm pitcher.
+
+•LC – Left Curve: Left curve for a left armed pitcher.
+
+•SK – Sinker: Controls the height/drop of a pitch.
+
+•R SL: Right slider for a right arm pitcher.
+
+•L SL: Left slider for a left arm pitcher.
+
+•TE – Pitching Tendency: Select tendency type, choose one of seven (0-7).
+
+5. MANAGER EDIT
+  
+Press FWD (Forward) with the (A) button to advance to the Manager Editing screen. 
+
+•NAMES (3.BATTER EDIT)
+
+The following refer to the Manager Personality types. The settings are AVG (Average), HIGH or LOW. A HIGH setting will 
+result in the Manager more likely to use the option, whereas a LOW setting will result in the Manager less likely to 
+use the option. Select the MP with the control pad and the (A) button.
+
+•BUNT: This controls the manager’s tendency for using bunts. 
+
+•STL: This controls the manager’s tendency for stealing bases.
+
+•HIT/RUN: This controls the manager’s tendency for using hit and runs.
+
+•ULTRA: This controls the manager’s tendency for using ultra plays.
+
+•PH: This controls the manager’s tendency for using pinch hitters.
+
+•PR: This controls the manager’s tendency for using pinch runners.
+
+•FLDER SUB: This controls the manager’s tendency for substituting fielders.
+
+•TP: Overall team personality, AGGR (Aggressive), CONS (Conservative) or REAC (Reactive). 
+
+•LK: Press the (A) button to generate the team’s luck.
+ 
+6. ULTRA EDIT
+  
+Press FWD (Forward) with the (A) button to advance to the Ultra Editing screen (only available when editing an Ultra Team).
+        
+•ULTRA BATTING
+ Select the batter with the control pad and the (A) button; scroll through by pressing down on the controller. Only 1 Ultra 
+ Ability is allowed for each batter.
+       
+•ULTRA PITCHER
+ Select EDIT ULTRA PITCHER with the (A) button to advance to the UP editing screen above. Select the pitcher with the 
+ control pad and the (A) button; scroll through by pressing down on the controller. Up to 4 Ultra Abilities are allowed.
+
+
+                                                        [10] FIELD SCREEN 
+
+The ERA, AVG, HR during the exhibition indicates the abilities of the players and not actual season stats. 
+
+
+                                                [11] CONTROLLER OPERATION BATTING/OFFENSE 
+
+1. BATTING
+            
+•Set the position in the batter box.
+      
+•Press the (A) button to swing the bat.
+       
+•Release the (A) button during a swing to bunt.
+ You can also press the (Y) button for a Power Swing without a pause. You will not be able to bunt using this option.
+
+2. PINCH HITTER & RUNNER
+  
+Press the START button before the pitcher winds up to calla time out. Then press the (A) button and the Pinch Hitter and 
+Pinch Runner screen will be displayed.
+ 
+Select PH (Pinch Hitter) to enter into the PH screen. At the top of the screen is the batter currently at bat. To select a 
+pinch hitter use the control pad and the (A) button.
+ 
+Select PR (Pinch Runner) to enter into the PR screen. At the top of the screen is the runner on base. Use the control pad 
+and the (A) button to select the runner on base you wish to replace.
+ 
+
+                                               [12] CONTROLLER OPERATION PITCHING/FIELDING 
+1. FIELDING OFFENSE
+              
+•ADVANCE TO BASE: D-pad+(B)
+ Select a base with the control pad (press and hold the D-pad towards the base you want), then press the (B) button. The 
+ runners on bases advance automatically when the ball is hit.
+            
+•RETURN TO BASE: D-pad+(A)
+ Select a base with the control pad (press and hold the D-pad towards the base you want), then press the (A) button. The 
+ runner can’t return after he touches the next base.
+        
+•STEAL: D-pad+(B)
+ While the pitcher is winding up, select a base with the control pad (press and hold the D-pad towards the base you want), 
+ then press the (B) button to steal. Make sure the base is open.
+
+2. PITCHING
+
+•PITCHING: D-pad+(A) or (B)
+ Press the (A) or (B) buttons while aiming (left or right) with the D-pad. Press the (Y) button for a fast ball.
+             
+•HEIGHT / DROP: D-pad+(A) or (B)
+ Use the D-pad to control your pitching Height / Drop. Holding up is a higher ball, while holding down is a sinker. 
+
+•RELIEF PITCHER
+ Press the START button for a timeout, press the (A) button to get the SHIFTING screen. (see [8] SHIFTING FIELDERS)
+
+3. FIELDING DEFENSE
+ 
+•THROW TO BASE: D-pad+(A)
+ Select a base with the control pad (press and hold the D-pad towards the base you want), then press the (A) button. If you 
+do not pick a direction, pressing the (A) button will throw the ball to first base.
+  
+•RUN TO BASE: D-pad+(B)
+ Select a base with the control pad (press and hold the D-pad towards the base you want), then press the (B) button.
+
+•FINE PLAY
+ Press the (A) button to jump up and catch the ball. Use the control pad and the (B) button to dive for a ball.
+
+•PICKING A RUNNER OFF BASE: (Y) + D-Pad + (A)
+ Before throwing the pitch, press the (R) button to shift to the field view. Select a base with the control pad (press and 
+hold the D-pad towards the base you want), then press the (A) button to throw or the (B) button to run towards a base.
+
+
+                                                 [13] FIELDING – SUBSTITUTE FIELDERS 
+
+1. SUBSTITUTE FIELDERS
+             
+•FIELD VIEW
+ Fielders can be substituted or shifted during the game. Press the START button to call a timeout and press the (A) button, 
+then select SUB or SHIFT with the control pad and press the (A) button.
+             
+•RELIEF PITCHER
+ Select SUB in the same procedure as above. Move the cursor over the Pitcher (PI) and press the (A) button. The RELIEF 
+PITCHER screen will be displayed. Select a pitcher with the control pad and the (A) button.
+       
+•SUBSTITUE FIELDERS
+ Select SUB in the same procedure above, move the cursor to the fielder that you want to replace and press the (A) button. 
+On the SUBSTITUE screen, select a fielder with the control pad and the (A) button. The substitute fielder will also replace 
+the removed fielder in batting.
+
+
+                                                  [14] FIELDING – SHIFTING FIELDERS 
+
+1. SHIFTING FIELDERS
+             
+•SHIFTING
+ Each fielder can be shifted depending on the situation. Select SHIFT in the procedure on Pg. X, and the SHIFT menu will be 
+displayed.
+    
+•SHIFTING ALL FIELDERS
+ All the fielders except the pitcher and catcher can be shifted to: 1. Normal 2. Close in 3. Spread out  4. Right side 
+field 5. Left side field. Select one and then END.
+
+
+                                                           [15] MANAGER MODE 
+
+This is a mode to manage your team, not to play. You send signals while the computer plays the game. You can’t directly 
+control the players during this mode.
+
+1. MANAGER MODE BATTING
+             
+Send signals by pressing the button before the pitcher winds up. Confirm the signal with the (A) button. Call a time out 
+with the START button for a pinch runner or hitter. A manager can only send 1 signal at a time.
+
+•	BUNT: Press and hold UP on the D-Pad.
+•	STL (STEAL): Press and hold RIGHT on the D-Pad.
+•	HT / RN (HIT AND RUN): Press and hold DOWN on the D-Pad.
+•	SQZ (SQUEEZE): Press and hold LEFT on the D-Pad.
+•	USE ULT (USE ULTRA PLAY): Press and hold the (X) button. 
+•	NO ULTRA (DO NOT USE ULTRA): Press and hold the (Y) button.
+•	CANCEL: Press and hold the (B) button.
+
+2. MANAGER MODE FIELDING
+         
+Send signals by pressing the button before the pitcher winds up. Confirm the signal with the (A) button. Call a time out 
+with the START button for changing the players including the pitcher or shifting. A manager can only send 1 signal at a time.
+
+•	BEST (BEST PITCH): Press and hold UP on the D-Pad.
+•	WALK: Press and hold RIGHT or LEFT on the D-Pad.
+•	SPT (SPIRT): Press and hold DOWN on the D-Pad.
+•	USE ULT (USE ULTRA PLAY): Press and hold the (X) button. 
+•	NO ULTRA (DO NOT USE ULTRA): Press and hold the (Y) button.
+•	CANCEL: Press and hold the (B) button.
+
+
+                                                            [16] ALL-STAR PENNANT
+
+ALL-STAR MODE 
+
+Select the ALL-STAR option from the main menu, choose 1 or 2 players, select the amount of innings and choose your team. 
+There are only two teams to choose from, the Sunny or Paradise Leagues.
+
+After you select your team, you will be presented with the All Star Line-ups. Additionally you can optionally edit 
+(see [9] EDIT MODE) any of the teams before starting the game. 
+
+
+                                                            [17] OPERATION CHART 
+
+OFFENSE
+
+•	BATTING: Use D-Pad for position, (A) to hit, or bunt when (A) is release in the middle. 
+        Use (Y) for a quick full swing.
+•	ULTRA PLAY: Use (X) button to set, D-Pad for position, (A) to hit.
+•	ADVANCE BASE: Use the D-Pad + (B).
+•	RETURN TO BASE: Use D-Pad + (A)
+
+PITCHING
+
+•	ULTRA BALL: Use (X) for display.
+•	PITCHING & SPEED: Use D-Pad + (A) or (B).
+•	PITCHING COURSE: Use D-Pad when the ball is thrown.
+•	HEIGHT / DROP: Use D-Pad + (A) or (B).
+•	PICKING A RUNNER OFF BASE: (Y) + D-Pad + (A).
+
+FIELDING
+
+•	CATCHING BALL: Use D-Pad for direction.
+•	FINE PLAY: Use D-Pad + (A).
+•	ULTRA PLAY: Use (B) for Rocket Jump. Use (B) + D-Pad for a Super Slide. 
+        Use (X) for Hyper Throw. Use (Y) for Super Catch. 
+•	THROW: Use D-Pad for direction then (A).
+•	TAG OUT: Use D-Pad to select base then (B).
+
+MANAGER MODE - BATTING
+
+•	BUNT: Press and hold UP on the D-Pad.
+•	STL (STEAL): Press and hold RIGHT on the D-Pad.
+•	HT / RN (HIT AND RUN): Press and hold DOWN on the D-Pad.
+•	SQZ (SQUEEZE): Press and hold LEFT on the D-Pad.
+•	USE ULT (USE ULTRA PLAY): Press and hold the (X) button. 
+•	NO ULTRA (DO NOT USE ULTRA): Press and hold the (Y) button.
+•	CANCEL: Press and hold the (B) button.
+
+MANAGER MODE – FIELDING
+
+•	BEST (BEST PITCH): Press and hold UP on the D-Pad.
+•	WALK: Press and hold RIGHT or LEFT on the D-Pad.
+•	SPT (SPIRT): Press and hold DOWN on the D-Pad.
+•	USE ULT (USE ULTRA PLAY): Press and hold the (X) button. 
+•	NO ULTRA (DO NOT USE ULTRA): Press and hold the (Y) button.
+•	CANCEL: Press and hold the (B) button.
+
+
+Manual design, format and contents by: VX Translations ©2009

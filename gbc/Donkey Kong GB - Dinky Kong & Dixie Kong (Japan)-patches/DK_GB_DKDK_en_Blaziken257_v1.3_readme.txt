@@ -1,0 +1,429 @@
+    Donkey Kong Land III
+GBC English Translation v1.3
+       by Blaziken257
+   
+I. Intro
+--------
+Donkey Kong Land III was originally released in English for the Game Boy and the
+Super Game Boy in 1997. Later, in 2000, it was released for the Game Boy Color
+(titled Donkey Kong GB: Dinky Kong & Dixie Kong), but only in Japanese. This
+hack translates the Game Boy Color version from Japanese to English using the
+original English script. So, since 2012, you can finally enjoy Donkey Kong Land
+III in English -- in color!
+
+II. Version history
+-------------------
+As of this writing, the most recent version of the Donkey Kong Land III English
+patch is version 1.3. It was released on October 13, 2022.
+
+Version 1.0 (Oct. 13, 2012)
+---------------------------
+The initial release.
+
+Version 1.1 (Dec. 27, 2012)
+---------------------------
+Various improvements have been added:
+
+- World maps have their animations restored.
+  - This was removed from the Japanese version, including the retail version as
+    well as the prototype from the September 2020 gigaleak.
+- In Time Attack mode, your last time is displayed in the bottom of the screen.
+  - This was present in the retail English releases, but removed in the Japanese
+    version (inclding the prototype and final versions).
+- The Jetty Jitters demo is fixed so that the Kongs make it to the end of the
+  level.
+  - This was desynced in the Japanese version.
+- When playing the card matching game and winning it under a very fast time
+  (30 seconds or better), Bear normally congratulates you. The text was adjusted
+  a bit:
+  - In version 1.0 of the patch, when Bear tells you the cheat code on the title
+    screen, UUDLR is used to represent Up, Up, Down, Left, Right (like in the GB
+    version).
+  - In version 1.1 of the patch, arrows are used instead, which look neater than
+    abbreviated letters.
+- When Bear, Wrinkly, and K. Rool speak, a bug, which originated in the
+  Japanese version, occurred where a glitchy tile would appear for a very
+  brief moment. This has been fixed in version 1.1 of the patch.
+- When attempting to boot the game on a monochrome Game Boy, the font in the
+  error message was adjusted slightly.
+- The level Karbine Kaos is now in lowercase to differentiate itself from the
+  boss, KAOS.
+- Bonus stage descriptions are now in lowercase.
+- Credits are updated to include myself. The typo in "THE END ?" (from the GB
+  version) was also fixed.
+
+Version 1.2 (Nov. 17, 2014)
+---------------------------
+Further improvements have been made:
+
+- The bug that prevents backup files from being read (which originated in 
+  Donkey Kong Land 2) has been fixed, allowing backup files to be used when a
+  corrupt file is present.
+  - More information can be found in Section VI: Bug fixes.
+- The bonus counter bug, which causes the counter to continue decreasing to
+  zero after losing to a bonus stage (which also originated in Donkey Kong
+  Land 2) has been fixed.
+  - More information can be found in Section VI: Bug fixes.
+- On the world map screen, the level and world names on the bottom of the
+  screen print slightly more quickly when traversing through the map. The
+  difference is only noticeable if you view it in slow motion.
+- Bear's "Sorry chimps, your credit won't stretch that far" dialogue has been
+  restored, and it appears randomly (50% of the time) when you attempt to buy
+  something that you cannot afford, just as it does in the Game Boy version.
+  - This text was missing in the Japanese version.
+- In Cape Codswallop's Sheepy Shop, when you have less than 8 Bonus Coins,
+  Bear's dialogue includes a leading zero in the numeral 08 (i.e. "I need to
+  see 08 of those Bonus Coins!"), just as it does in the Game Boy version.
+  - (In the Japanese version, there was a space instead of a leading zero, which
+    carried over to English patches v1.0 and v1.1.)
+- Bear is now fully animated, like in the retail English releases.
+  - Bear was originally animated in the Game Boy version, but his animation was
+    removed for no apparent reason in the Game Boy Color version.
+
+Version 1.3 (Oct. 13, 2022)
+---------------------------
+- Some sprites have been fixed:
+  - Skidda is colored purple to make it more consistent with Donkey Kong
+    Country 3.
+  - Krusha (a.k.a. Knocka) remains green when picked up by a Kong. Previously,
+    he turned to red, the same color as all other barrels when picked up. When
+    thrown and broken, he still turns to red, which is actually consistent with
+    both the SNES and GBA versions of DKC3.
+  - Karbine's fireballs and Bleak's snowballs are now given different colors.
+    Karbine's fireballs are now red, and Bleak's snowballs are now blue.
+- Krusha was renamed to Knocka, since the former name was likely an error. This
+  includes the credits, as well as Bear's hint in The Lost World that references
+  Knocka.
+- In a bonus stage, when the player has 10 or fewer seconds remaining, the music
+  increases in tempo with every passing second. This is a custom feature
+  inspired by bonus stages in the SNES versions of DKC2 and DKC3.
+  - Note: An early work in progress implementation was unofficially stacked on
+    top of the v1.2 release on romhacking.net. That implementation first
+    increased the tempo at 10 seconds remaining, and then at 5 seconds. The new
+    implementation in v1.3 is more gradual and increases the the every second,
+    which is more consistent with the SNES games.
+- Every overworld map now has a consistent color palette with the text, "!", and
+  DK Coin graphics. The Japanese version previously colored these maps
+  inconsistently.
+- When approaching K. Rool in K. Rool's Last Stand, the dialog he gives was now
+  fixed if you beat the game and have 12 watches.
+  - More information can be found in Section VI: Bug fixes.
+- In boss stages, the Big Boss Blues music now plays at a consistent tempo each
+  time you visit a stage.
+  - More information can be found in Section VI: Bug fixes.
+- The Kong's positioning is now consistent when finishing Bear's card game,
+  compared to every other instance.
+  - More information can be found in Section VI: Bug fixes.
+- On the file select screen, any instances of "file" were changed to "game" to
+  for better consistency with the retail versions and other games in the DKC or
+  DKL series. For example, "Select a file" was changed to "Select game".
+- The demos that appear after waiting on the title screen have been overhauled.
+  There are four new custom demos, and the other ones where the Kongs die were
+  redone from scratch. See Section VIII: Demos for more details.
+- Credits were altered to remove myself from the English translation. This is
+  a reversion from patch v1.1.
+- An alternate patch was added that uses a different title screen, and is based
+  on the one found in early English copies.
+  
+
+III. How to play
+----------------
+In order to play this English translation, you will need:
+
+- A ROM of the Japanese version.
+  - For legal reasons, the ROM does not come with the ZIP file. You will need to
+    find it yourself -- do not ask where to get it. Alternately, you can get the
+    cartridge and find a way to dump the ROM yourself.
+  - The ROM should be titled "Donkey Kong GB: Dinky Kong & Dixie Kong". If it is
+    titled "Donkey Kong Land III", you have the wrong game -- you want the
+    Japanese game for the GBC.
+  - Ensure that you are not using a ZIP file. If you are using one, unzip it so
+    that it is a .gbc file.
+  - The ROM should be a good dump and unhacked. DO NOT use an older pre-patched
+    English ROM or any other pre-patched ROMs!  
+  - The base ROM and patched ROM can optionally be verified by calculating the
+    ROM's MD5 hash. You can use https://www.romhacking.net/hash/ to perform
+    this.
+    - Base ROM MD5 sum:
+      22afe691095c65f34aeaba3c283b2a9c
+    - Patched ROM MD5 sum (original title screen):
+      8ACCAFBB4286ED6507EC8678B364C18E
+    - Patched ROM MD5 sum (newer title screen):
+      E1E06631635A0E41503C43BA0A08F888
+- A patch file. Multiple files come with this ZIP file, ending in extensions
+  .bps and .ips. Two of each format are included here for convenience, but you
+  only need to use one. (See the Patching section below to decide which patch
+  to apply.)
+- An emulator or a flashcart. There are numerous emulators that you can use, but
+  some recommended ones are: BGB, mGBA, Gambatte, etc. These are easy to find
+  with through a web search.
+  - The 3DS Virtual Console emulator is also compatible through the New Super
+    Ultimate Injector.
+  - This game is also fully compatible with Everdrive flashcarts, such as the
+    X7.
+
+  A. Patching
+  -----------
+  This ZIP file comes with two patching files: a .bps file and an .ips file.
+  Choose one; BPS is the recommended format, mainly because the format has
+  safeguards in the event of a user error (e.g. applying the patch to the wrong
+  ROM).
+  
+  The easiest way to patch the ROM is through the web app at romhacking.net:
+  https://www.romhacking.net/patch/
+
+  This can be used for both formats. Since it is done through the browser, this
+  can be done on different types of devices.
+  
+  To apply the patch:
+  
+  1. In the ROM file field, select the unmodified ROM. This should have a .gbc
+     extension, not .zip.
+  2. In the Patch file field, select the BPS or IPS file.
+     - There are two patch files for each format, with the filenames
+	   DKL3 English v1.3 Original Title and DKL3 English v1.3 New Title.
+	   The difference between these is that they have different title screens,
+	   based on the original English revisions. Use the screenshots in the ZIP
+	   for reference when deciding which patch to apply.
+  3. Your patched ROM should be downloaded, and should have (patched) at the end
+     of the filename. Most browsers save it to your device's Downloads folder by
+     default.
+  4. Place the patch to the desired location, and optionally rename it, and
+     enjoy the English hack!
+     
+  NOTE: If you used a BPS file and received a "Source ROM checksum mismatch"
+  error, make sure that you used the correct ROM file! The fields should be as
+  follows:
+  - CRC32: 28d7e8d3
+  - MD5: 22afe691095c65f34aeaba3c283b2a9c
+  - SHA-1: 55b133b739a5472d477336647cb9ec97b7fa85a2
+  
+  NOTE: If you use an IPS file to patch, there will be no warning for if you
+  use an incorrect ROM. If you have trouble playing the game after patching,
+  double-check that you used the correct ROM (given the parameters above) or
+  use the BPS file instead.
+  
+  Other methods can be done via desktop apps:
+  
+  - BPS: beat (http://www.romhacking.net/utilities/893/)
+  - IPS: Lunar IPS (http://www.romhacking.net/utilities/240/)
+
+IV. Translation information
+---------------------------
+The text in this hack is based on the original English script; however, the font
+is based on the original DKC font, as opposed to the DKL2 and DKL3 font,
+resulting in a cleaner look and having lowercase in addition to uppercase.
+
+Other things worth noting:
+
+- Re-Koil, Minkey, Knik-Knak are known as Rekoil, Minky, and Niknak in this
+  patch, just as they were known in the original English DKL3. This is different
+  from their DKC3 names. Part of the reasoning behind this decision is because
+  certain level names and dialogue use the DKL3 enemy names, ruling out the
+  possibility of typos.
+  - However, as of the v1.3 patch, Knocka uses the DKC3 name, as opposed to
+    Krusha, due to the name being different entirely.
+- KAOS is spelled in ALL CAPS, like in the SNES version of DKC3, but unlike the
+  GBA version. However, the level Karbine Kaos is in lowercase, because this is
+  not meant to reference the boss.
+- Some punctuation was fixed, most notably in K. Rool's Last Stand, as well as
+  some of Bear's dialogue.
+- In Wrinkly's dialogue, Kremlings is now spelled correctly.
+- In the Japanese version, both Wrinkly and Bear had some missing dialogues,
+  which are restored.
+
+  A. Title screen
+  ---------------
+  The title screen was edited; it is a combination of the English and Japanese
+  title screens. The Donkey Kong GB: Dinky Kong & Dixie Kong logo was replaced
+  with the original Donkey Kong Land III logos. As of v1.3, there are two
+  separate patches to reflect the differing English logos. One patch is based
+  on the retail English v1.0 logo, while the other is based on the English v1.1
+  logo (also used in the 3DS Virtual Console).
+  
+  B. Bonus screens
+  ----------------
+  The text here was translated, like everything else, but for the "Find the
+  Token!" and "Bash the Baddies!" screens, the color palette for the text was
+  changed as well. Except for the "Collect the Stars!" screen, the text was in
+  different shades of pink, which became more noticeable with the thicker font
+  and the dark outline. Not only did this make the text look ugly (and
+  inconsistent), but the pink text was likely the result of an oversight.
+  
+  C. Rareware logo screen
+  -----------------------
+  Similar to the title screen, this screen is a mixture of the original Japanese
+  and English screens. While the screen is mostly taken from the Japanese
+  version, the "Donkey Kong GB: Dinky Kong & Dixiey [sic] Kong" text was changed
+  to "Donkey Kong Land III".
+  
+  D. Monochrome Game Boy screen
+  -----------------------------
+  The screen that appears when attempting to play this on a Game Boy was also
+  translated to English. The game title uses the font from DKC2 for the SNES,
+  reduced to 4 colors. The main message uses a custom font with prerendered
+  text, made entirely from scratch. This design is subject to change if it
+  receives negative feedback.
+  
+V. Restored features
+--------------------
+When Donkey Kong Land III was converted to the Game Boy Color, certain features
+were inexplicably removed (likely due to time constraints), but were restored in
+this patch.
+
+- Most notably, the world maps and Bear lost their animations. The English hack,
+  from version 1.1 onwards, restores the animated world maps. Bear's animation
+  has also been restored, starting with version 1.2.
+- In the Time Attack screen, your most recent time is no longer shown in the
+  Japanese version. The English hack, starting from version 1.1, restores this
+  feature, so that your most recent time is once again displayed on the bottom
+  of the screen.
+- When talking to Wrinkly, he has two different dialogues when he greets you in
+  the Game Boy version (which is random every time), but only one in the Game
+  Boy Color version. All English patches (from v1.0 onward) use the same two
+  dialogues that were in the Game Boy version.
+- Similarly, when talking to Bear and attempting to buy something that you
+  cannot afford, he has two different dialogues for this situation in the Game
+  Boy version; one of these appears at random each time. In the Japanese
+  version, he only has one dialogue for this. Due to this, English patches
+  v1.0 and v1.1 originally had only one dialogue for Bear as well, but starting
+  with v1.2, both of the original dialogues have been present.
+
+VI. Bug fixes
+-------------
+Besides translating the game and restoring features that were removed in the
+Japanese version, some bugs that were originally present in retail copies of
+Donkey Kong Land III (and in some cases, Donkey Kong Land 2) were fixed.
+(See https://www.mariowiki.com/List_of_Donkey_Kong_Land_III_glitches for a list
+of bugs.)
+
+Here is a list of bug fixes:
+
+- When on the title screen, and waiting for the music to end without pressing
+  any buttons, a demo of Jetty Jitters is played. This demo was designed for the
+  original English version for the Game Boy; the Game Boy is slower than the
+  Game Boy Color. The Japanese version for the Game Boy Color is heavily reliant
+  on the Game Boy Color's faster CPU, which is about twice as fast as the
+  original Game Boy. This extra speed causes timing issues, and causes the demo
+  to desync, preventing the Kongs from making it to the end. The version 1.1
+  English patch, and all subsequent patches, tweak this demo slightly so that
+  the Kongs are able to make it to the end of the level.
+- When losing to a bonus stage, the counter that is used for enemies or stars
+  does not reset to zero. Due to this, when defeating an enemy in the main level
+  (i.e. outside a bonus stage), the counter can continue to decrease. Once this
+  counter reaches zero, the sound effect that is used when the Bonus Coin
+  appears can be heard. This bug originated in the English version of Donkey
+  Kong Land 2; in that game, collecting bananas also affected the counter. The
+  English version 1.2 patch fixes this bug, so that the counter no longer
+  decreases outside a bonus stage.
+- In both Donkey Kong Land 2 and III, for each save file, there are also
+  two additional backup copies of them. The intention of the developers was
+  that if any of the main save files were corrupt by any means (such as dust
+  residing in the cartridge), but any of the backup copies were still working
+  properly, these would be used instead. However, both of these games have a bug
+  that prevents the backup copies from being used at all, and due to this, it is
+  possible to see a corrupt save file when playing the game. The English version
+  1.2 patch fixes this bug so that backup copies are used when needed, which
+  makes it highly unlikely that you will ever see a corrupted save file. Note
+  that if the main and backup copies are all corrupted, the data is impossible
+  to recover, and your save file will be erased in this situation.
+- In the Japanese version of the game, whenever there was scrolling text
+  (from Wrinkly or Bear), a buggy tile would appear at the beginning of the text
+  for one frame before the text would start to print. This was fixed in the
+  English patch from version 1.1 onwards.
+- When entering K. Rool's Last Stand, when the game checks which message should
+  appear, all retail versions check if the player has EXACTLY 6 watches to
+  determine if the player has enough. This resulted in a bug where having 12
+  (after beating the level) would give the wrong message telling the player to
+  come back with 6 watches and the DK Coins. This check was fixed from exactly 6
+  watches to 6 or more watches, as of v1.3.
+- In boss stages, the Big Boss Blues music would have a slightly slower tempo
+  than normal if the user already entered any stage (a boss or non-boss stage)
+  after power-on. This was fixed as of v1.3 so that the music would play at a
+  consistent tempo. (The faster tempo is used all the time, since it is closer
+  to the music used in boss stages in the SNES version of DKC3.)
+- In Sheepy Shop, after finishing Bear's card game, the Kong now stands in a
+  constant position to any other situation, as of v1.3.
+  
+VII. Known issues
+-----------------
+This hack was thoroughly tested in BGB, 3DS Virtual Console, Everdrive GB X7,
+mGBA, and Lameboy, so in theory there shouldn't be any added bugs. Nevertheless,
+there are known minor or obscure bugs that originated in the retail games that
+remain in the English patches. A list can be found here:
+https://www.mariowiki.com/List_of_Donkey_Kong_Land_III_glitches
+
+If you encounter a bug in this game, check the Super Mario Wiki page above to
+ensure that it was not introduced in the patch. If you come across a bug that is
+not listed, try it in a retail game to see if the bug is reproducible there. If
+you tried that and are convinced that it is a patch bug, contact me (under the
+Contact section below).
+
+VIII. Custom demos
+------------------
+On Donkey Kong Land III's title screen, after waiting for the music to end, a
+demo is played showing various levels of the game. Different demos can be
+accessed by pressing Select, Left, Up, or Right, and this applies to both the
+retail games and the patch. Each press cycles through a different demo, but
+after returning to the title screen, it will play the default Jetty Jitters
+demo unless you press the aforementioned buttons again.
+
+The patch changes things so that four new custom demos were added, and existing
+ones were fixed or replaced entirely.
+
+Retail games:
+- Demo 1: Jetty Jitters (desyncs in the retail Japanese version)
+- Demo 2: Rickety Rapids
+- Demo 3: Whiplash Dash
+- Demo 4: Deep Reef Grief
+
+English patch:
+- Demo 1: Jetty Jitters (with Japanese desync fixed)
+- Demo 2: Rocketeer Rally (new)
+- Demo 3: Rainforest Rumble (new)
+- Demo 4: Black Ice Blitz (new)
+- Demo 5: Rockface Chase (new)
+- Demo 6: Rickety Rapids (replaced with a new custom demo)
+- Demo 7: Whiplash Dash (replaced with a new custom demo)
+- Demo 8: Deep Reef Grief (replaced with a new custom demo)
+
+IX. Distribution
+----------------
+You are free to distribute this patch and use it, as long as you do the
+following:
+
+- Don't take credit for this patch; I put a lot of hard work into it!
+- Don't remove the README file.
+- Only distribute it in patch form; do not distribute the pre-patched ROM. This
+  could expose you to copyright issues if you do.
+  - Please don't create reproduction carts for this patch, as it is not meant
+    for other people to profit off of. If you see one on sale online, please do
+    not buy it, as it was done without my permission, and buying it is
+    supporting piracy. In addition, bootleg carts in general are ironically
+    known to sometimes contain anti-piracy measures that crash the game on
+    emulators.
+
+X. Credits
+----------
+Thanks to:
+  - Nintendo for creating Donkey Kong.
+  - Rare for creating the Donkey Kong Country and Land series.
+  - BGB for having such a useful debugger and disassembler.
+  - Gaz (from DKC Atlas) for some early feedback.
+  - Blaziken257 (myself) for the hacking.
+  - Shiny for indirect contributions for sprite fixes for Skidda, Knocka,
+    Bleak's snowballs, and Karbine's fireballs (through Data Crystal notes).
+  - Last but not least, yourself for reading this and playing the translation. 
+  
+XI. Contact
+-----------
+I, Blaziken257, can primarily be found at:
+- DKC Atlas: http://dkc-atlas.com/forum/memberlist.php?mode=viewprofile&u=91
+- The Cutting Room Floor: http://tcrf.net/User:Blaziken257
+- Discord: Blaziken257#2132
+  - A DKC Atlas discord can be found here: https://discord.gg/qPCcTcF
+  - The forum locked new registrations at some point years ago, so if you do not
+    have an account in the forum, you can still use the Discord server!
+
+I am often busy, so if you send me something, please wait at least a week for a
+reply.

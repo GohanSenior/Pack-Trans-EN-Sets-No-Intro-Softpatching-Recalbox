@@ -1,0 +1,184 @@
+KingMike's Translation
+http://kingmike.emuxhaven.net
+
+kingmike2001 AT hotmail DOT com
+
+Dragon Scroll - Resurrection of the Demon Dragon
+Patch v1.0
+Release date: 4/??/2008
+*********************************************
+Original Language: Japanese
+Original Title: Dragon Scroll - Yomigaerishi Maryuu
+*********************************************
+
+Dragon Scroll is an action-RPG, in the vien of the original Legend of Zelda.
+It was published by Konami for the Famicom, and released December 6, 1987.
+
+Story (translation by Eien ni Hen from the original manual):
+
+Resurrection of the Demon Dragon
+
+It was an age of magic, in which there existed two factions: Black Mages, who worshipped the three-headed Chrome Dragon, and White Mages, who worshipped the glimmering Gold Dragon. Their conflicts over territory and ideals brought about countless wars. The God Narume knew he must stop the fighting, so he put the Chrome Dragon to sleep in the mountains, and the Gold Dragon to sleep in the desert. He then took magic away from the mages, sealing up the eight Magic Books and hiding them in the sacred desert tower.
+
+Hundreds of years passed after Narume erased magic from the world. The people lived in peace, and villages and towns prospered. However, there were also those who would do wrong to gain wealth. Enter the three greedy thieves: Safra, Kakai, and Unasu. One day, as they were being chased down for some evil deed, they became lost in the desert. After walking and walking, they stumbled upon the sacred tower and discovered the hidden Magic Books. Thinking they could sell them for a pretty penny, the three split the books amongst themselves and each went his own way. With the Magic Books gone, the Chrome Dragon awoke from its eternal slumber, determined to plunge the world into a second age of dark sorcery. So Narume infused the Gold Dragon with the spirit of justice, summoning him forth in the form of a hero named 'Feram'. And so, it is up to Feram to collect the Magic Books and return the Chrome Dragon to its slumber.
+
+This is where you take control of Feram. You will aquire magic, solve riddles, and go on an adventure.  Will you, as Feram, develop the spirit of justice bestowed upon you by the God Narume?
+
+THE TWO DRAGONS (also translated from the original manual)
+
+Gold Dragon
+
+The dragon worshipped by White Mages. It likes
+high places, and lives in a house made of stone.
+Personality-wise, it is fair, virtuous, and peace-loving.
+It can take many forms, including those of humans and animals.
+It also an unnaturally high intelligence and a vast knowledge of spells.
+The Gold Dragon has a body length of 18m (59ft), and shoots Flame Breath and
+Energy Flame from its mouth. It has taken the form of the hero Feram
+on orders from the God Narume.
+
+Chrome Dragon
+
+Worshipped by Black Mages, the Chrome Dragon despises all good beings
+and loves cruelty. The ruler of Hell, it has three heads, each with a different attack.
+One spits flame, the other two spit explosives.
+Body length of 40m (131ft). The only way to return the Chrome Dragon to
+its slumber is to pierce its very heart.
+
+*********************************************
+Thanks to
+
+ Eien ni Hen - translation
+ FlashPV - title
+ BRPXQZME - spot translation
+*********************************************
+Contents of package.
+ dse10.ips	:Japanese to English translation patch.
+ dse10.txt	:this document.
+ dse-map.PNG	;simplified world map
+*********************************************
+Emulation Status:
+ This game should work on most emulators supporting mapper 23.
+
+*********************************************
+What's done:
+ - Everything.
+
+What's left:
+ - Anything I missed.
+
+*********************************************
+How to patch:
+
+PROPER ROM:
+ - 256KB + header.
+
+ - Download this zip file.
+ - Download the game ROM. (I won't provide this. You find it.)
+
+Choose your patch format:
+IPS:
+ - Download Lunar IPS. http://fusoya.cggames.net
+ - Open Lunar IPS. Click Apply patch. Pick the ROM and the patch.
+    -If that is too difficult, open Lunar IPS, then close it. Do this to associate IPS files with Lunar IPS.
+    -Now just double-click the IPS file, and double click the ROM.
+
+UPS:
+ I got lazy and made the UPS patch game + title translation.
+ - Download tsukuyomi from http://byuu.cinnamonpirate.com
+ - Choose "Apply patch to exisiting file"
+ - Choose the ROM, patch, click "Apply patch".
+*********************************************
+How to play:
+
+ On the title screen, use Select to choose START or CONTINUE.
+ If you select START, the opening scene will appear. If you wish, press Start to skip it.
+ If you select CONTINUE, you can enter a password. Press Up/Down to choose a position in the password,
+ and press Left/Right to choose a character to enter. Press A to enter a character, B to backspace.
+
+ I have made a secret addition to the game. When you view the password screen after losing, the password
+ will now be stored to SRAM. Press Select on the password screen to reload it. Note however, that the
+ last character is not stored for some reason. To quickly load the last password, just press Up to high-
+ light the last space in the password, press Select, input the last character, and choose END. You should
+ return to the game with your items and experience intact.
+
+ Controls:
+  A Button - Shoot magic from your staff. Advance to the next menu screen, advance conversation.
+  B Button - Use magical item (consumes MP). Close menu, skip conversation.
+  Start - unused
+  Select - Opens the menu.
+  D-Pad - Move Feram, cursor.
+
+ As you move around, your life meter is displayed at the top of the screen. If that empties, you will
+ die. At that point, you may received a password (the patched game will automatically store it in memory.
+ See the password screen description above.) or continue. If you continue, you will return to the last
+ entrance made into the current region of the game. You will fully recover your life, and your MP will
+ be set to half of the maximum.
+ When fighting a boss, their life will be shown at the top of the screen with a "B".
+ Your ultimate goal is to find and defeat the Chrome Dragon. To do that, you will have to find
+ many magical items throughout the world.
+ Many enemies will speak to you when defeated, giving you clues as to the wherabouts of the items
+ you need, as well as how to progress forward with the game.
+ When you defeat the enemies, you will earn EXP points. Collect enough, and you will gain an
+ experience level. When you gain an experience level, your life meter will recover and you may
+ earn additional abilities.
+
+ Menu Screen:
+ Press Select to open the menu.
+ On the first screen, your MP, EXP total, experience level, and number of magic books are shown.
+ Your available Sticks and Rings are shown.
+ If you have found an additional Stick and have a high enough experience level, you can use Left/Right
+ to choose which Stick you would like to fight with.
+ Press A to move on to the Magic/Item menu.
+ On the Magic/Item menu, you can use the D-Pad to choose which magic you will like to equip. The number
+ shown is how much MP will be depleted with each use. If you don't have enough MP left, you can't use
+ the magic. (there are a limited number of treasure boxes that will fully recover your MP. But they can
+ only be used once. If you die, you will have 50% of your maximum MP when you continue.)
+ Items are mostly used automatically, though the Nire Branch will require you to push B when at the
+ appropriate place.
+ If you have the Crystal Ball, press A to move on to the map screen or push B to close the menu.
+ On the map, you can see Feram's (your) current location in the game (represnted by the blue dot), as well as the
+ locations of the three thieves (shown by the peach-colored dots).
+ Press A if you would like to gaze into the crystal ball (see verbal clues to their whereabouts) or push
+ B to close the menu.
+
+ Also, I included a simple map of the game.
+
+ Also, for reference, he's some of the enemies you'll encounter during the game:
+ Dermos (Forest Kingdom):
+  Wolf Knight
+  Barbarian
+  Forest Dweller - Gives you advice when defeated.
+  Scorpion
+
+ Zarik (Desert Kingdom)
+  Mummy
+  Forest Dweller
+  Bat
+  Slime
+
+ Castor
+  Lizard Knights - throw boomerangs
+  Skeleton - they keep coming back
+  Man-eating Plant - their poison will reverse the direction buttons unless you have the Reverse Grass.
+  Slime
+
+ Requi (Lake Kingdom)
+  Ghost Knight
+  Merman? (half-fish person)
+  Lake Dweller
+  Slime
+
+ Maten (Mountain Kingdom)
+  Birdman Knight
+  Stone Man
+  Bat
+*******************************************
+Dragon Scroll
+	(c) 1987 Konami
+
+English Translation:
+	(c) 2008 KingMike
+
+No distributing the patch with ROM, either pre-patched, or in one zip.
+That's wrong.

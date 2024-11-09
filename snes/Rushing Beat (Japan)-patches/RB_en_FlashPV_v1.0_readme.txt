@@ -1,0 +1,29 @@
+Rushing Beat English Translation
+Version 1.0
+10/02/2016
+
+PROJECT STAFF
+
+FlashPV - Project Lead and hacking.
+
+Eien Ni Hen - Translation of level's names.
+
+Shiroma3084 (YouTube) - Translation of the game's introduction.
+
+Eien Ni Hen, Kung Fu Furby, Jonny2x4 (VG Museum) - Translation of the game's ending.
+
+ReyVGM - Game testing and reporting of all issues! Thank you! :D
+
+Here is a full English translation for Rushing Beat.
+It's way better than the US version (aka Rival Turf).
+We hope you enjoy the release!
+
+PATCHING INSTRUCTIONS
+
+Use your favorite patching utility to apply the .IPS patch to an unheadered ROM.
+
+HERE IS THE ROM YOU SHOULD BE USING.
+
+    Rushing Beat (Japan).sfc - NOINTRO
+    CRC32: A6F0693D
+    Size: 1.048.576 bytes

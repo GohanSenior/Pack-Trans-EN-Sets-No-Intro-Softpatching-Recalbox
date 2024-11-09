@@ -1,0 +1,19 @@
+SUPER F1 CIRCUS 3 ENGLISH TRANSLATION PROJECT
+
+VERSION 0.995
+12/31/2018
+
+Modified by MRRICHARD999
+Translated by Helly, AgentOrange, and TheMajinZenki
+
+This patch fully translates all the dialogue and menus in the game. The only thing that remains are the 4 name entry buttons which signify "Enter", "Delete", "Back", and "End". This should not hinder in anyway of gameplay. Hope you enjoy this!
+
+If you happen to spot anything odd or goofy please let me know. I can be contacted via twitter @MrRichard999
+
+VERSION 0.991 UPDATE NOTES
+- Thanks to Mattiac for spotting a really dumb mistake I made in spelling on the "Scroll Through Teams" line.
+
+VERSION 0.995 UPDATE NOTES
+- Thanks to Josephine Lithius for spotting the Quick Race menu lines that were missed in translation. These showed up after performing a quick race where it took you to a seperate manu just to make adjustments for the next quick race if you did this through the options menu. Also found some other lines that were adjusted as well that were missed.
+
+- Also fixed contract negotiation text and ending text!

@@ -1,0 +1,295 @@
+
+                                   Two notes
+                                     on the
+                                  translation
+                                       of
+                                RUDORA NO HIHOU
+
+
+                                  - Haeleth -
+
+
+CONTENTS:
+
+1. Introduction
+2. Summary of conclusions
+3. Detailed arguments
+   3.1 •Î•…•È§Œ»Î ı
+      a. Transliteration of •Î•…•È
+      b. Translation of the title
+   3.2 ∏¿ŒÓ
+      a. Meaning of ∏¿ŒÓ; contrast with À‚À°
+      b. Difficulty of translation
+      c. A tentative solution
+   References
+   Contact details
+   Copyright notice
+
+================================================================================
+1   INTRODUCTION
+
+When the old Square Translations "Rudra" project was adopted by J2E, I noted
+that they seemed also to have adopted several of the problems with this project:
+one unwarranted normalisation, and one simple translation error.  
+While neither would have prevented the project from producing excellent results,
+it seemed to me that any improvement, however small, was worthwhile.
+
+This document was written to draw attention to these issues, and with the
+intention of contributing solutions, rather than simply criticising.  The debate
+has moved on, and the document remains available only for interest value - for
+Rudra no Hihou is certainly an interesting game.
+
+N.B. Japanese text in this document is in EUC format.  Romaji is given only in a 
+few cases, such as in direct quotations.
+
+================================================================================
+2   SUMMARY OF CONCLUSIONS
+
+(The translations suggested here are in the public domain.  See copyright notice 
+for details.)
+
+- The title of the game should be translated "Treasure of the Rudras".
+
+- ∏¿ŒÓ should not be rendered "magic".  A tentative translation, "charm[s]", is
+  proposed, or (in certain contexts) "incantation"; for the dependent compounds 
+  ∏¿ŒÓª’ and ∏¿ŒÓª≥, "enchanter" and "Mountain of Charms" are suggested.  For a
+  full discussion refer to 3.2c.iii.
+
+{NB. In response to this latter conclusion, Zatos proposed as an alternative
+ "mantra", which, as he pointed out, is a pretty good synonym for "kotodama",
+ but without the weak modern connotations of "charm".  This strikes me as quite
+ convincing.  In my argument below, I claimed that a proper translation ought
+ not to suggest exotic Eastern religion, but that claim is debatable.}
+
+================================================================================
+3   DETAILED ARGUMENTS
+
+--------------------------------------------------------------------------------
+ 3.1 •Î•…•È§Œ»Î ı (Rudora no Hihou)
+
+ (a) Transliteration of •Î•…•È
+
+i. •Î•…•È is usually transliterated "Rudra".  In previous discussions I have 
+held the position, based on phonological evidence, that "Rudora" would be more 
+accurate; this view, however, was based on a mistaken idea that the word was 
+unique to the game, and that therefore the Japanese pronunciation was 
+authoritative.
+
+ii. It was brought to my attention, by several respondants to a post on the
+Whirlpool in which I presented that view, that Rudra is a term from Hindu 
+mythology.  I have checked this fact in various sources, and can confirm it; I
+shall say more on this below, but for now it is sufficient to observe that this
+is obviously the word intended, and therefore the correct transliteration.
+
+iii. It is the usual practice, when speaking of Japanese games, to use foreign
+forms instead of their kana equivalents: it would look very strange to refer to
+"Bishoujo senshi seeraa muun", instead of "Bishoujo Senshi Sailor Moon".  I will
+concede, therefore (in a startling retraction of a firm opinion) that it is 
+reasonable to refer to the game as "Rudra no hihou".
+
+ (b) Translation of the title
+
+i. The title as a whole is generally rendered "Rudra's [secret] treasure".
+While this is an accurate translation taken out of context, it will not do in
+the context of the game.  "Rudra's treasure" implies a character called Rudra.
+This is incorrect, as I shall demonstrate.
+
+ii. In as much as anything can be said for certain about a religion so ancient,
+vast, and varied as Hinduism, Rudra (Sanskrit, possibly = "Thunderer") seems to
+have been the name of a god of storms and destruction; he had a number of 
+offspring, called Rudras after him.  One of Rudra's other names was Siva, "the
+auspicious one", and eventually this was reversed; so that the modern Hindu god 
+is called Siva, though the epithet Rudra can be used of him in his aspect of the 
+destroyer.  The Rudras, however, remain, as a group of 11 beings (33 in some
+traditions), occasionally identified as aspects of Siva.
+
+iii. "Rudra", within the game, is drawn from this latter concept of the Rudras,
+not from the god himself.  The Rudras of the game are "destroyer-gods", one of 
+which appears every 4000 years to overthrow the dominant species.  They have
+their own, individual names - Rudra is the name of their type.
+
+iv. It is clear, therefore, that the translation must not imply a personal name.
+While "Rudra's" of a plural noun is possible, it is deceptive in this case since
+it is not obvious that "Rudra" is plural; moreover, it is usual, when referring
+to the Hindu beings, to use the inflected plural "Rudras".  There are several 
+other possible translations which do not have this ambiguity:
+
+ - "Rudras' treasure", on the analogy of "Pirates' treasure"; but this implies
+that there are many "Rudras", all of which commonly own treasure, and that no
+specific example is meant.  Since there are only four or five, it will not do.
+
+ - "The Rudras' treasure" is more satisfactory, since it correctly implies that
+"the Rudras" are a small group, and identifies a specific treasure.
+
+ - "The treasure of the Rudras" is substantially the same, but the word order is
+more elegant.
+
+v. The last of these is preferable.  It may be concluded that •Î•…•È§Œ»Î ı 
+should be translated "Treasure of the Rudras".  (The first "the", superfluous 
+in a title, should obviously be retained if the phrase is encountered in
+dialogue.)
+
+--------------------------------------------------------------------------------
+ 3.2 ∏¿ŒÓ (Kotodama)
+
+ (a) Meaning of ∏¿ŒÓ; contrast with À‚À°
+
+i. This is the game's (very innovative) 'magic system'.  As such one might think
+that "magic" would be the best translation, being a familiar term.
+
+ii. However, "magic" is used elsewhere - in most RPGs, in fact, and notably the
+Final Fantasies - as a translation of À‚À°.  Now, there is clearly a huge
+difference between À‚À° and ∏¿ŒÓ - one doesn't even need to know kanji to see
+that much.  À‚À°, in an RPG context, definitely 'means' magic in the usual RPG
+sense.  The word used in Rudora is slightly different.
+
+iii. The origin of the term ∏¿ŒÓ is significant.  First I must make mention of
+the 'name list' which used to be on the 'Rudra' page at Square Translations' old
+site, which listed and glossed the many mythological allusions in the game.
+It was certainly interesting reading, if somewhat inaccurate in places (for
+example, the city destroyed along with Sodom was listed as "Gomora").  If I
+recall correctly, its entry for ∏¿ŒÓ translated the term "word essence" and
+commented that it was 'from Jewish sources'.
+
+Raffaele Traini, the author of the list, has contacted me to defend these.  The
+translation "word essence", which I described rather unfairly as "utterly
+incorrect", is in fact a reasonable translation of the compound out of context,
+and was apparently taken from the WIP translation.  Regarding the Jewish link,
+Raffaele says,
+  'in the Jewish religion, exists the "branch" of the Kabbalah.
+According to Kabbalists, God created the world with His Word, and therefore
+they believe that word has a special value. The Kabbalist, through meditation
+and linking the alphabet letters, claims to be able to achieve "magical
+formulas" (to say it in a simple way); I think that it's VERY close to Rudra's
+Kodotama, in this way.'
+  I can but agree that this is strikingly similar to the kotodama system.
+
+iv. ŒÓ, 'Tama', the second half of this compound, is usually translated 'soul,
+spirit', but this is deceptive.  Its meaning is by no means equivalent to the
+Western concept of the soul; rather it is more a power or consciousness found in
+all things, closer to 'mana' in South Pacific tradition.  ∏¿ŒÓ is, as the word
+suggests, a specific instance of ŒÓ: to quote Plutschow, "Words and language
+could engender their own _tama_, when used in a ... symbolic context" (156).  He
+explains, "_Kotodama_ is associated primarily with ritual efforts to control a
+potentially hostile environment" (157).  These "symbolic contexts" were often
+short poems, a point which will be important later.  The concept was an
+essential part of the folk-religion: for example, to reveal one's true name was
+to give him to whom it was revealed its ∏¿ŒÓ, that is, to give him control over
+oneself.  (This is why Japanese given names are so notoriously hard to read:
+their pronunciation used to be taboo.)
+
+v. The working of the system in the game (as I understand it) is thus quite
+appropriate: the player creates new ∏¿ŒÓ by spelling their names out in kana.
+The effect of each depends entirely on its name - it is the word itself that
+creates the power.
+
+vi. This is completely different from most RPG 'magic systems'.  Compare some
+representative examples - in FF6, the power comes from ∏∏Ω√, 'phantom beasts'; 
+in Dark Law, it comes from the combination of À‚¿–, 'magic stones'; in both
+these cases, the result is called À‚À°.  (In many games the origin of the power
+is not made clear.  Other cases where it is are FFs 5, 7, and 8 [crystals,
+materia, GF]; ToP, SD2&3 [mana from Yggdrasil or the Mana Tree]; Terranigma 
+[Magirock].)
+
+ (b) Difficulty of translation
+
+i. How, then should it be translated?  If the concept is so different from À‚À°,
+then "magic" will obviously not do; the choice of the different term cannot have
+been accidental.  Likewise one should probably not translate it, in a denotative
+context, as "spell".  Yet it is hard to find better forms.
+
+ii. It should be noted in this respect that ∏¿ŒÓ, as a mystical concept, was not
+limited to pre-modern times.  More recently, it has been invoked as the spirit
+of the Japanese language, that strange aspect which supposedly made Japanese
+unique among the languages of the world, and - significantly - impossible to
+translate adequately (see Miller, pp.137ff, for a discussion of this thankfully
+defunct theory).  In this case one would be forgiven for believing it; English
+has no equivalent concept, and an adequate translation is hard to find.
+
+iii. During the brief period when I worked on Rudora myself (the project lasted
+only a short time, was never announced, and no patch was released), I attempted
+to solve the problem by returning to Germanic word-formation principles to coin
+an equivalent compound.  I came up with two possibilities - "Withsay" and
+"Orsay" - the latter of which, though incredibly obscure, I adopted for the
+simple reason that I needed to translate ∏¿ŒÓª≥ in eight letters.  The former is
+a bit better: "with", meaning "against", though no longer a productive prefix,
+is clearly the same as in "withstand", or Old English "withceosan" (ceosan "to
+choose") meaning "to reject".  But one can hardly suggest that such a coinage is
+adopted for a mainstream translation.
+
+iv. If coinage is out of the question, a term must be found within the modern
+vocabulary which adequately conveys the concept of "a word or phrase with
+magical power".  There are plenty of these; indeed one, "spell", I have rejected
+already, for being the standard term, too closely associated with "magic".  But
+our word must have another aspect: to be equivalent to Japanese ∏¿ŒÓ it must
+connote folklore, rather than witchcraft; traditional religion, rather than
+anything exotic (for the English-speaking world that means some form of
+Christianity or Judaism, as opposed to Eastern religions or the reconstructed
+paganisms with which 'spells', 'magic', 'runes' and so forth are associated).
+
+ (c) A tentative solution
+
+i. A suitable choice might be something like "charm": while in common usage
+nowadays it means "attractiveness", its older meaning is "the chanting of a
+verse having magical power; incantation; hence, a magic spell" (SOED 'charm'
+sb.1, sense 1).  More fully, a charm is a short incantation, often in verse,
+believed to have magical power (often through the ritual invocation of names,
+including but not restricted to the various Christian terms for the Deity), and
+connected inseperably with English folklore.  It is derived from the medieval
+prestige language, Latin (carmen, "song"), just as the characters with which the
+Japanese word §≥§»§¿§ﬁ is written are derived from the corresponding Oriental
+language, Chinese.  It is thus a very good equivalent for ∏¿ŒÓ in every way:
+semantically, connotatively, and etymologically.  It is also conveniently short.
+
+ii. The one disadvantage with "charm" is the modern sense, which is rather weak.
+However, this is not as problematic as it may seem.  Firstly, "magic" also has
+a weak modern sense - but no-one would argue that players of the Final Fantasy
+games are likely to associate the Ultima spell with card tricks.  Also, it is
+quite acceptable for RPGs in particular to use slightly archaic language.  This
+includes using words in older senses; and this older sense is still current in
+the modern language, though less common.
+
+iii. What would conventionally be a "spell", therefore, may be better named a
+"charm"; the entry §≥§»§¿§ﬁ on the various menus could be rendered "charms".
+∏¿ŒÓ, as a system, would most logically be "charming", but "incantation" might
+be preferred, since the modern meaning of "charming" is much stronger.  For the
+compound ∏¿ŒÓª’ either the old "charmer" or an equivalent such as "enchanter"
+(i.e. "chanter of charms") could be used.  As for the location ∏¿ŒÓª≥, it could
+be translated in a variety of ways.  If the eight-character limit for location
+names is not circumvented then "Mt.Charm" or "MtCharms" would fit; if it is, but
+the twelve-byte limit for table entries remains, then "Mt. Charms", "Mt.of
+Charms", or some formation from "incantation" would obviously be better.  If the
+table space has been expanded, then the possibilities are endless: the ideal
+form (and that to use in dialogue) would be something like "Mountain of Charms".
+
+================================================================================
+ REFERENCES:
+
+Miller, R A: "Japan's Modern Myth: the language and beyond" (New York: 1982)
+
+Plutschow, H: 'Towards a Definition of _Tama_', in Boscaro, Gatti, and Raveri
+        (eds.), "Rethinking Japan" (Folkestone: 1991), vol.I pp.146-161
+
+SOED: The Shorter Oxford English Dictionary (3rd ed., rev. 1973)
+
+================================================================================
+ CONTACT DETAILS:
+
+Haeleth's email: haeleth@hotmail.com
+          _
+Haelethes awendende: http://haeleth.port5.com/
+
+================================================================================
+  COPYRIGHT NOTICE:
+This document and its contents are copyright (c) 2001 Haeleth.  You may
+distribute it freely, provided that you make neither modifications nor profit.
+The arguments herein are protected by copyright law and international treaties,
+and plagiarism, impersonation, unattributed quotation, etc., are prohibited. 
+The conclusions, however, are placed in the public domain: you may adopt the
+translations proposed, or other forms first suggested here, for any purpose,
+without necessarily giving me credit, tho' it'd be a nice thought, and I won't
+too fond of anyone who presents them as their own.
+
+All trademarks or proprietary names mentioned in the above document are hereby
+acknowledged to be the property of their respective owners.
+----------------------------------EXPLICIT, &c.---------------------------------

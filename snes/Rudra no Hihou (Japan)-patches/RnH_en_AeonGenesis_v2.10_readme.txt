@@ -1,0 +1,231 @@
+TREASURE OF THE RUDRAS
+ENGLISH TRANSLATION V2.10
+Copyright 2003 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+0.  PLEASE NOTE
+1.  About Treasure of the Rudras
+2.  Patch History
+3.  Features
+4.  Patch Credits and Contributors
+5.  Known issues
+6.  Application Instructions
+
+-------------
+0.PLEASE NOTE
+-------------
+YOU _MUST_ BE OPERATING UNDER A HIRES VIEW MODE FOR
+MUCH OF THE TEXT TO DISPLAY CORRECTLY!! Rudra uses
+hires display for -ALL- of its text, and while the
+normal dialogue font will display in any view mode,
+it will appear distorted. The other fonts may become
+completely unreadable if a hires display mode is not
+enabled!! You -must- be using a 512x448 display mode
+or higher, if you're using ZSNES, and all special
+graphics enhancing functions MUST be disabled!
+
+------------------------------
+1.About Treasure of the Rudras
+------------------------------
+Treasure of the Rudras was released in 1996 on the
+Super Famicom console by Squaresoft. It is a fairly
+standard role-playing game, if one with some incredibly
+pretty graphics. Its major selling point, however, was
+a system of magic that allowed the player to actually
+enter words (any words!) into the game and have it
+build a spell effect based on what the player typed in.
+This system has some incredible depth to it - it's
+easy to learn, but you won't become a master until
+you've really played quite a bit of the game and learned
+all of its intricacies and what each of the "base" words
+provided by various people (and monsters!) actually do.
+
+RULE #1 FOR PLAYING RUDRA: IT IS _NOT_ FINAL FANTASY 3/6!
+It is graphically very similar to FF3/6, but it is VERY
+MUCH NOT THE SAME GAME. Go into the game expecting to play
+FF3/6, and you will not only be likely let down, you will
+also likely get your ass handed to you. The game is
+DIFFICULT and requires intense mastery of its inherent
+spell system if you want to stand a snowball's chance in
+hell against some of the bosses.
+
+Please note that this patch is a hybrid of languages:
+The French dialogue was used, however everything else was
+retranslated from the original Japanese to ensure the highest
+possible level of accuracy [especially due to some of the
+squishing done to the various lists such as the enemy,
+location, and item lists in the French patch.] The "F" in
+the version number indicates that this patch's dialogue was
+based off of the French version's. 
+
+As this Translation was made possible by the French patch,
+there should be two patches available in this zip. rnhj.ips
+should be applied to a Japanese language ROM, rnhf.ips should
+be applied to the French RC2 ROM. More on this later.
+
+---------------
+2.Patch History
+---------------
+Work started on Rudra in August of 2002, shortly after
+the French group Terminus Traduction released their patch
+for the game. I'd always wanted to work on the title, so
+I snapped it up as quickly as I could. It stalled for a
+number of months, as NinjaC64 - the main translator for
+the dialogue - disappeared due to familial issues for
+a while. He resurfaced in December and then disappeared
+again, but I decided that I was going to excersize my own
+knowledge of the French language. I completed about 25%
+of the script on my own, as self-study preparation for an
+exam I had to take in March (I passed it and earned 12
+college credits, the equivalent of four semesters worth
+of classes, in French. Haw.) As I was getting sick of it
+in late February, NinjaC64 reappeared, and we both made
+a valiant effort to get it out for April 19th. He
+succeeded in getting the script done, but it was quite
+rough, and I'd burnt out on the technical issues a few
+days before, so it sat idle for another month or so,
+after which I picked it up on spurts of motivation and
+time. This version was released on July 4, 2003.
+
+I was not satisfied with this, however. The introductory
+legend was very ugly, there were a few small coding issues
+with the mantra system, and the writing on the script was,
+while certainly in English, was generally very sub-par on
+the whole. Steps have been taken to correct these - the
+entire script saw a full rewrite thanks to M of Returner
+Games (you may be familiar with his writing for Front Mission:
+Gun Hazard) and the intro's been redone. The assembly's
+been fixed, and there's a few small cosmetic hacks in place
+as well. I've also installed a fully variable-width font
+for the main dialogues; on the whole, this new version is
+much improved from its prior incarnation.
+
+June 11, 2015 - Version 2.1 release.
+--Fixes an issue where casting a spell in battle negates
+  or sends negative the caster's Strength and Agility buffs.
+--Fixes cursor memory issue on pages 5-8.
+--Patch no longer requires a header; patching instructions
+  in this readme updated to reflect.
+
+July 4, 2006 - Version 2.0 release.
+-Adds new variable-width font, with autocenter where
+ appropriate
+-Full script rewrite
+-Enemy names extended by an extra two letters
+-Opening legend redone
+-Auto-enscription on pages 3 or 4 of mantra bank fixed
+-Item descriptions rewritten and enhanced
+
+July 5, 2003 - Beta 2 release.
+--Fixes saving and loading for mantras 17-32. Oops.
+--Also fixes some missing linebreaks and such.
+
+July 4, 2003 - Initial version 0.99 Release
+
+----------
+3.Features
+----------
+Since Rudra is easily my biggest accomplishment yet,
+I thought I should let you, the reader, in on some of
+what the translated ROM image, after application of
+the IPS patch, features.
+
+----------------------
+IN THE INITIAL VERSION
+----------------------
+-740 kilobytes of English script!
+-Item names expanded from 8 letters max to 13!
+-Monster names expanded from 8 letters max to 10!
+-Spell name sizes DOUBLED, six letters to twelve!
+-A fully hacked-and-translated Mantra magic system!
+-Location names expanded from 12 characters to 16!
+-Battle menu expanded to fit six letter commands in!
+-Battle data squished over, menus expanded and moved to
+ accomodate 10 letter enemy names!
+-Character names expanded from 6 letters to 8!
+-Enemy attack names expanded from 8 letters to 16!
+-Elemental affinity highlighting reprogrammed to work
+ with horizontal words instead of vertical icons!
+-ALL areas of the subscreen, shop menus, and save/load
+ menus expanded to fit in the new long character names,
+ item names, spell names, etc.
+-Items-per-menu reduced to 4 during battle, pages
+ doubled from 3 pages to 6!
+-Spells-per-menu to 4 during battle, pages doubled from
+ 4 pages to 8!
+-32x32 font shrunk down to 16x32 so "textual" spell effects
+ don't look hugely blocky!
+-Area name display font width halved!
+-Combat attack display font width halved!
+-Backgroundless text display font width halved!
+
+---------------------------
+The new version includes...
+---------------------------
+-A completely redone opening sequence!
+-Full variable-width support for the main dialogue font,
+ with support for dynamic centering of text and automatic
+ indentation! The font remains in hires, so none of the
+ original luster of a 512-pixel wide text window is lost,
+ so long as your emulator supports hires!
+-A fully rewritten and polished script!
+-Battle screen hacked a bit to allow two MORE letters in
+ enemy monster names!
+
+---------------
+4.Patch Credits
+---------------
+THE TREASURE OF THE RUDRAS TEAM
+Main Team:
+Gideon Zhi - Project leader, Romhacker, Translator
+Ian Kelley - Japanese Translator
+NinjaC64 - French Translator
+satsu - Spot dialogue translation (J-E)
+Klarth - Utility programmer
+MKendora - Utility programmer
+
+Writing Staff:
+Moriyosi (Version 2)
+Gideon Zhi (Version 1)
+Matthew Kendora (Version 1)
+_Bnu (Version 1)
+BTAxis (Version 1)
+
+Special Thanks
+Neo Mithrandil & Bahamut - The Terminus Team
+Boss Monkey Hayama - Initial preliminary work on the table file
+
+--------------
+5.Known Issues
+--------------
+If you're on page 5, 6, 7, or 8 in a battle menu and cursor
+memory is enabled, the cursor will revert to page 1, 2, 3, or 4.
+I haven't figured out a way to fix this yet.
+
+Please report any other bugs, spelling errors, and
+such on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are savestates.
+
+--------------------------
+6.Application Instructions
+--------------------------
+Quick ROM Info:
+4.00 MB (32mbit HiROM) WITHOUT header. (*exactly* 4,194,304 bytes)
+No header.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "rudra.smc" make sure the patch
+is "rudra.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT
+HAVE A HEADER!. If you right-click the ROM and select Properties, it
+should read "4.00 MB (4,194,304 bytes)". TUSH will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net/utilities/608/
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+have a header.

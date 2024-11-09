@@ -1,0 +1,21 @@
+Donald Duck (U)
+
+Translated by Andrei Vdovin a.k.a. Chronix
+Email me if you find any glitches in this game.
+Thanks in advance!
+chronix@bk.ru
+
+Original ROM:
+-----------------------
+Donald Duck (J).nes
+File size: 262 160
+
+ PRG ROM:    8 x 16KiB
+ CHR ROM:   16 x  8KiB
+ ROM CRC32:  0xe66bddcf
+ ROM MD5:  0x037c53f87685b83b26ee4ccf17808e09
+ Mapper #:  1
+ Mapper name: MMC1
+ Mirroring: Horizontal
+ Battery-backed: No
+ Trained: No

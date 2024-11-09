@@ -1,0 +1,200 @@
+=================================================================================
+====================Armored Dragon Legend Villgust Side Story====================
+======================================V.1.00=====================================
+Genre: Action RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Authors : Supper/TheMajinZenki/cccmar
+
+=================================================================================
+CONTENTS
+=================================================================================
+1. Armored Dragon Legend Villgust Side Story - General Info
+2. Hacking Info (from Supper)
+3. Translation Info (from TheMajinZenki)
+4. Game Tips
+5. Patching Instructions
+6. Disclaimer
+7. Credits
+
+=================================================================================
+1. Armored Dragon Legend Villgust Side Story - General Info
+=================================================================================
+This time around we decided to do a retranslation. We checked out the old version
+of the patch and found many inconsistencies, most likely due to the lack of any
+context. As of now, there's no LP of this game in Japanese, we had to make one
+so as to be able to translate the game correctly. This game is basically an 
+action RPG, a side story/prequel to the main franchise. You start out as 
+Murobo, the chosen warrior of the Goddess (named Windina/Undine in various 
+incarnations of the franchise), who is tasked with helping the Hero from another
+world reach the world of Villgust in order to save it. To accomplish that, the
+player has to find all the members of Murobo's group and help the inhabitants
+of the land with their troubles.
+
+The game plays like a mixture of a top-down RPG with a side-scrolling platformer
+during the battles, somewhat similarly to Gargoyle's Quest, but with experience,
+stats and equipment. There are inns where you can rest, and also churches in 
+which you can cure poison/revive your fallen characters. What is more, there are
+your typical shops with weapons, armor and usable items, as well as enchanters
+who can improve your weapons. You will need to learn various enemy patterns in
+order to succeed in combat, and remember which status ailments they use. 
+There are also a few simple puzzles, like using items to construct something
+or using specific items in battle. 
+
+All in all, this is an interesting late Famicom game which plays completely 
+different from its Super Famicom counterpart (that one is a much more typical
+JRPG). We wanted to give it a facelift of sorts. So, we hope you will like the
+fruits of our labor!
+
+=================================================================================
+2. Hacking Info (from Supper)
+=================================================================================
+I'd never heard of Villgust before this project, but I guess I'm partly to blame 
+for us doing it anyway. When I joked that once all the remaining Famicom games 
+were translated, the fan translation scene would just start redoing all the awful
+old patches from 1998, cccmar chimed in with, "Hey, that reminds me of this 
+Villgust game"... and here we are.
+
+The existing translation patch by the rather notorious J2e Translations came out 
+on August 21st, 1998, making it just over twenty years old at this point. For 
+context here, at that time, AOL was the dominant force in the American Web 
+industry, hype for the upcoming Zelda: Ocarina of Time was reaching a fever pitch, 
+and Sega fans were eagerly anticipating the release of the Dreamcast to bring the 
+company out of its Saturn-induced rut. Times have changed just a bit.
+
+I didn't play the old patch until after we'd completed our own, and, well... 
+where do I start? First, I really respect the effort it took to produce a fan 
+translation back then. The emulators were primitive, the tools were nonexistent, 
+and what documentation of the hardware there was was often half-wrong. I'm sure 
+making a full-game translation patch was a monumental effort regardless of 
+quality, and I probably couldn't have done much better if I'd had to work with
+the resources the original group had.
+
+On the other hand, there's no two ways about it: it's a bad translation. Really, 
+really bad. It's hard to tell how much was due to space restrictions, how much 
+was the translator and/or Babelfish not knowing what they were doing, and how 
+much was just somebody saying "I don't like this dialogue, let's change it" -- 
+but however it happened, the results are pretty painful.
+
+If you compare J2e's translation of the intro to ours, you'll see it's missing 
+most of the details (the "hero from another world" part got lost entirely!), with
+many lines that are basically made up... and that's probably as good as their 
+translation gets. Before long, you run into dark sorcerers screaming "Assholes! 
+Who dare enters my territory?". Or Murobo musing "This rabbit is very delightful, 
+but it inhibits us." when he's actually supposed to be saying "This is no mere 
+rabbit, but a messenger of the Goddess". Or every single instance of "village 
+head" being mistranslated as "butterfly" (they're both "chouchou" in Japanese, 
+sure, but no one picked up on lines like "there's a butterfly fixing a boat"?).
+
+After the first couple of towns, whoever was supposed to be editing the text
+seems to have basically given up, and things rapidly descend into incoherent 
+gibberish with the occasional bout of profanity thrown in for good measure. 
+Seriously, compare the patches if you have time, it's pretty amazing.
+
+Things have come a long way in twenty years, and since that level of quality is 
+mercifully no longer acceptable, I'm glad to have the chance to give the game 
+its due. No made-up dialogue, no abbreviated names, no bizarre bugs (right?)... 
+I hope this will give people the chance to experience the game as it was intended.
+
+Anyway, enough history, better make some actual comments about the hacking. After 
+the Idol Hakkenden patch came out, several people remarked that they'd prefer not 
+having words hyphen-broken across lines. Personally I'd rather have the more 
+uniform line lengths, but since the people have spoken, I wrote an automatic 
+line wrapper and used it for this project. Considering it saved me hours over 
+formatting the text manually, I'm not exactly unhappy, but it still feels a 
+little lazy.
+
+One thing I did find amusing: both J2e's hacker and I disabled the red color 
+used for selected text, since the way attribute tables work means it would be 
+impossible to fit more text in the small windows otherwise. (Or rather, J2e tried 
+to disable this but only managed it in a few areas.) I don't like cutting features 
+like this, but it's a pretty fair trade for more space and, considering cccmar 
+thought the colored text was a bug at first, I don't think most people will miss 
+it much.
+
+Well, enjoy your isekai-harem-toy-franchise-anime-spinoff-prequel game. It's 
+actually not as bad as it sounds.
+
+=================================================================================
+3. Translation Info (from TheMajinZenki)
+=================================================================================
+I didn't really know about Villgust before working on this game. It started as a 
+series of toys that you could play some kind of tabletop RPG with, getting 
+characters and equipment through gachapon. There's books, manga, an OVA, and 
+there's still some following today apparently.
+
+At any rate, this wasn't a particularly difficult translation, and the story 
+isn't exactly epic since it's only a prequel to what would be to come, but I
+think it's worth playing for its take on RPG battles (which is more like 
+Gargoyle's Quest, in the sense that you are brought into a small action 
+platformer stage). There's also an automatic mode which plays more like normal 
+RPGs. What makes the game somewhat unique is the equipment screen, which updates
+the artwork of your characters depending on the armor they're wearing (which is 
+a reference to the original tabletop game). It's also worth noting that we used
+the official character names (romanizations found in the OVA/on the figures), 
+but we couldn't find them for the monsters, many of which seem to have 
+made-up names. 
+
+Anyway, I hope you enjoy. ;)
+
+=================================================================================
+4. Game Tips
+=================================================================================
+1. Always carry around a good supply of Antidotes/various types of Medicine. 
+They will surely help you in a pinch, as spells can't be used too many times
+due to mana constraints. 
+
+2. Be sure to talk to all NPCs in the towns you visit. The exact triggers for
+the main plot events can be a bit esoteric at times. 
+
+3. Battle spells can be useful at times, but always carry a few Ambrosias later
+on in the game to replenish your mana! 
+
+4. Remember to sell your old equipment! You have a limited inventory and you
+don't need your old equipment in newer areas. Also, lvling up gives you a 
+significant combat boost, so get a few levels when you feel underpowered. 
+
+5. You can use spells in battle (pick a spell -> use "up" + the attack button)
+and items (pick an item -> it will be used automatically). Use the Select button
+to open the inventory during the battles to pick a spell/item.
+
+=================================================================================
+5. Patching Instructions
+=================================================================================
+We've included an IPS patch and a readme file in the package.
+
+You can use a program such as LunarIPS to apply the patch.
+
+Apply the patch to the original Japanese version of the
+ROM:
+
+Kouryuu Densetsu Villgust Gaiden (Japan).nes
+
+=================================================================================
+6. Disclaimer
+=================================================================================
+This translation is a non-commercial and unofficial project which is in no way 
+affiliated with the game creators or distributors. We don't own anything here 
+and have no copyrights.
+
+We release this translation in the form of a patch. Please, don't ask us to send 
+you the ROM, or where you can find it - we can't help you with that.
+
+You can redistribute this translation freely as long as you don't ask money for 
+it and include this readme.txt file with it. We don't condone any form of 
+commercial redistribution. Please, keep that in mind.
+
+=================================================================================
+7. Credits 
+=================================================================================
+
+Supper - Hacking
+
+TheMajinZenki - Translation
+
+Cccmar - Script Editing/Testing
+
+Also, thanks to RHDN for hosting our patch!

@@ -1,0 +1,127 @@
+         ______    ____    __     __   ______   _______   ______ 
+        | _____|  / __ \  |   \  |  | |   _  | |__   __| |  __  |
+        | |____  | |__| | |    \ |  | |  |_| |    | |    | |  | |
+        |____  | | |  | | |  |\ \|  | |     _|    | |    | |  | |
+         ____| | | |  | | |  | \    | |  |\ \   __| |__  | |__| |
+        |______| |_|  |_| |__|  \___| |__| \_\ |_______| |______|
+
+
+ CCCCC     A     RRRRRRR   N         N  IIIIIII V           V     A     L
+C        A   A   R      R  N N       N  I  I  I  V         V    A   A   L
+C      A       A R      R  N  N      N     I      V       V   A       A L
+C      AAAAAAAAA RRRRRRR   N    N    N     I       V     V    AAAAAAAAA L
+C      A       A R    R    N     N   N     I        V   V     A       A L
+C      A       A R     R   N       N N  I  I  I      V V      A       A L
+ CCCCC A       A R      R  N         N  IIIIIII       V       A       A LLLLLL
+
+                              _______   _______
+                             |__   __| |__   __|
+                                | |       | |   
+                                | |       | |
+                              __| |__   __| |__
+                             |_______| |_______|
+
+                                                 
+
+	                        Sanrio Carnival 2
+	                       English to Japanese
+         	                  Translation
+                	             v. 1.00
+                
+
+------------------------------- DEDICATION -------------------------------
+ 
+ This translation is dedicated to my ex-gf Jacqueline who bought me the
+ laptop that I used to complete the translation after being computerless
+ for 8 months. I don't take back any of the mean things I've said about
+ her in the past, but I won't say them anymore. :p
+
+ This patch is also dedicated to all of the translation news sites, such
+ as RPGd and Snakeeyes Gaming Corp, that Zophar's Domain steals all their
+ translation news from (when they bother to post any at all.)
+
+--------------------------- TABLE OF CONTENTS ---------------------------
+
+    I. Dedication
+   II. Table of Contents
+  III. Introduction
+   IV. History
+    V. Staff
+   VI. Tools
+  VII. Patching Instructions (**READ THIS BEFORE ASKING QUESTIONS!)
+ VIII. Contact Information
+   IX. Closing
+
+------------------------------ INTRODUCTION -----------------------------
+
+ Following in the tradition of most of the other Sanrio games, Sanrio
+ Carnival 2 takes a well known theme and improves upon it greatly. This
+ is a puzzle game, along the lines of Tetris or Columns, and includes
+ three different modes.
+	The first is the standard "get enough matches so you can advance
+ to the next level" game. After each level, you play one of those games
+ where you slide the tiles around trying to put them back order. The
+ second mode is battle mode where you and the computer compete to get
+ a certain number of matches while trying to blow each other up with
+ bombs. In the third mode, you just try to get as many matches as you
+ can until there are no more possible matches left. There is also a 2
+ player mode which lets you compete against someone else in battle mode.
+
+-------------------------------- HISTORY --------------------------------
+
+ v. 1.00 - August 13, 2000
+
+ What's Complete
+  - all text translated (I believe.)
+  - minor graphics hacks (Title & Ending Screens)
+
+ What's Incomplete
+  - nothing that I'm aware of
+
+--------------------------------- STAFF ---------------------------------
+
+ Hacking & Translating - InVerse - http://www.pigtails.net/ST
+
+ This was the first project that I did entirely on my own. I don't think
+ I even had any spot translation requests on this one, but there was a
+ 9 month lapse between when I started the project and when I finished it,
+ so I'll thank Musashi just in case he did any spot translations that I'm
+ forgetting about. He deserves thanks even if he didn't.
+
+--------------------------------- TOOLS ---------------------------------
+
+ The following tools were used for this translation:
+
+  Hexposure: hex editing for translation and graphic maneuvering
+ Tile Layer: graphics hacking & font insertion
+   Nesticle: some graphic hacking
+  SNES Tool: patch creation
+  
+-------------------------- PATCHING INSTRUCTIONS ------------------------
+
+ Patching a ROM is extremely simple. You need three things. A ROM,
+ the patch and a patching program. To patch with IPS, you simply
+ type "ips <ROM name> <patch name>". So if the name of the ROM was
+ Tabo.nes you would type "ips Tabo.nes Tabo.ips" and your ROM is now
+ in English. Make sure you have all the files in the same directory
+ if you have a problem.
+      To patch a ROM with SNES Tool, simply select USE IPS, choose
+ the patch and then choose the ROM to affix the patch to. It's self
+ explanatory. If you can't figure it out, the game is probably too
+ hard for you anywayz.
+
+--------------------------- CONTACT INFORMATION -------------------------
+
+ The official Tabo's Tactics home page is currently located
+ at http://www.pigtails.net/ST
+
+ E-Mail addresses concerning the project can be located on the 
+ official page.
+
+--------------------------------- CLOSING -------------------------------
+
+ So there you have it. Have fun and remember. It's just a game.
+
+ -InVerse
+
+

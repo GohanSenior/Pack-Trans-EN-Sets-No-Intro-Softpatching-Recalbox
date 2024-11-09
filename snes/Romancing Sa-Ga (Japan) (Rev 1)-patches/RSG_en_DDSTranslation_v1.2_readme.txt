@@ -1,0 +1,94 @@
+Romancing SaGa
+English Fan Translation
+Version 1.2, released July 21, 2016
+===================================
+
+
+Foreword
+========
+This is an unofficial work and is not supported by Square Enix or Nintendo.
+Please do not sell, trade or rent this translation for money, goods or services.
+This translation is the result of many years of volunteer work,
+and is being provided for free as a gift to all SaGa and gaming fans.
+
+
+Version History
+===============
+v1.2 - July 21, 2016
+- Thanks to STARWIN from RHDN, fixed one last event flag calculation bug
+
+v1.1 - August 23, 2015
+- Fixed a bug with calculating event flags
+
+v1.0 - June 30, 2015
+- Initial release
+
+
+Instructions
+============
+The patch file included in this archive is in the IPS format.
+It is meant to be applied to a header-less image file of Romancing SaGa
+known in GoodSNES as "Romancing SaGa (J) (V1.1) [!]"
+with a CRC32 checksum value of 9684526D and a file size of 1,048,576 bytes.
+Please verify that your unpatched file has the same checksum and file size.
+If patched to a file with a different checksum or file size,
+various unsupported bugs may occur during play.
+
+If you are using an emulator that supports "soft-patching", which allows
+a file to be modified in memory during run-time but leaves the original
+file intact, please follow the instructions that should be included with
+that emulator in order to do so.
+
+In order to apply the patch directly, you will need an IPS file patcher.
+I have personally used Lunar IPS and find that it works very well.
+Upon executing Lunar IPS:
+ - Select "Apply IPS Patch"
+ - In the dialog window, select the "rs1_v1.ips" file and click "Open"
+ - Select the Romancing SaGa image file and click "Open"
+If everything was successful, it should display a window saying
+"The file was successfully patched!"
+
+If using another IPS file patcher, please follow the instructions
+included with it.
+
+
+Credits
+=======
+
+New Romancing SaGa Translation Team
+-----------------------------------
+
+[Japanese to English Translation]
+Eien Ni Hen
+
+[Programming]
+DDSTranslation
+
+[Special Thanks to]
+Alex W. Jackson, whose knowledge of the game's code greatly improved this project's quality
+Square Enix, for creating this game in the first place
+All the alpha and beta testers, for making this translation the best it could be
+
+
+Original Romancing SaGa Translation Team (1998)
+-----------------------------------------------
+
+[Japanese to English Translation]
+Shujin-Rik
+Hakai
+Musashi
+
+[Programming]
+Frank Hughes (F.H.)
+Tamahome
+Hoky
+MakoKnight
+
+[Special Thanks To]
+Cataclysm-X
+Dark Force
+Frankie
+Jeff
+Yo
+Chisato
+Yohko

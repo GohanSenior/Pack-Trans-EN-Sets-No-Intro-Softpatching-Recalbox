@@ -1,0 +1,25 @@
+Level-up Stats
+---------------
+
+レベル = Level
+
+攻撃力 = Attack
+
+防御力 = Defense
+
+素早さ = Speed
+
+
+Alchemy Stats
+--------------
+
+威力 = Power (skill's base power)
+
+命中 = Hit + (skill's additional damage)
+
+回数 = Times (number of times the skill hits target)
+
+範囲 = Target (whether the skill affects single target or all)
+
+必要素材 = Needed Materials (material combinations to produce alchemy skill)
+

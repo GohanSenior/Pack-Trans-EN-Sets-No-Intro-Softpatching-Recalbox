@@ -1,0 +1,40 @@
+
+Super Chinese World 2
+
+Translation Patch (Version 1)
+
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+Filename:  Super Chinese World 2 - Uchuuichi Butou Taikai (Japan)
+File size: 2.00 MB (2,097,152 bytes)
+CRC32:     77DAFBB6
+
+
+This patch is for Super Chinese World 2 on the Super Famicom.
+The text has been translated from Japanese into American English.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both formats of patches.)
+
+The target Japanese ROM must have a size of 2.00 MB (2,097,152 bytes),
+and have a CRC32 checksum of 77DAFBB6.
+If not, the patch will not work as intended.
+
+
+
+-----------
+  CREDITS
+-----------
+
+Translation:
+Tom
+
+Graphics:
+FlashPV
+
+Programming:
+DDS
+

@@ -1,0 +1,143 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Yume Penguin Monogatari 
+  Dream Penguin Adventure
+  English Translation Patch
+  Version 1.02
+
+  Created by Vice Translations
+   part of   Kitsune's Den
+             http://vice.parodius.com/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CREDITS
+-----------------
+  Kitsune Sniper
+   Game hacking, font insertion, preliminary translation and
+   graphic insertion.
+   Email: kitsune [at] parodius [dot] com
+
+  Vorname Nachname
+   Protection workaround
+
+  Tetsuo, Shih Tzu, and everyone at MO's board
+   Main translation support
+
+  sl1me
+   Main graphic artist
+
+ORIGINAL EFFORTS BY:
+-----------------
+  kalevan
+
+
+Project History:
+-----------------
+December 25, 2006
+  Gah, this patch didn't include some other fixes, so you were getting
+  a very hard game due to protection. It's fixed now.
+
+December 24, 2006
+  Didn't think I'd be updating THIS again, did ya?
+
+  Okay, so there was this really freakin' obscure bug that TheFreak found.
+  Basically one of the pointers was wrong. If time ran out when you fought
+  a certain boss... well, Penko would go on about a Pig Battleship before
+  dumping your sorry butt. This has been fixed. Two bytes, woohoo.
+
+June 5, 2003
+  Konamicrack strikes again.
+
+  The game had protection that made the game much harder if anyone modified
+  the game in any way. This protection wasn't in the original bad dump that
+  kalevan used for his translation...
+
+  Vorname Nachname, a German person [... who happens to know more 6502 ASM
+  than me] emailed me telling me about that thing; and he later sent a fix
+  for the protection, which is now in the patch.
+
+  However... well, there are two patches in this archive. One [yume100.IPS]
+  is the fixed version of the patch; it has no protection whatsoever.
+  The other patch [yume100a.IPS] is MUCH harder, since it has protection
+  [this is the older patch]. So if you want a challenge, use that patch.
+
+May 30, 2003
+  Well, I'll be damned.
+
+  I'm done. [And this is the second time I've said that!]
+
+  My original intention was to release this patch on June 28, 2003... which
+  is my birthday. But, since I was nervous and couldn't really do anything
+  school-related, I set upon finishing up the translation today. Why?
+  I dunno. I just felt like it.
+
+  Many thanks go to sl1me, who provided me with almost all of the graphics
+  that were changed for this translation. I had to adapt a few, thanks to
+  the weed that Konami's programmers smoked here. AGAIN. Goddamn their "03"
+  hex opcode... damn it to hell... *shakes paw*
+
+  This release is dedicated to FEFEA's own video game destroyer, adaml. It's
+  his birthday! A rare coincidence. Everyone say happy berfday when you see him.
+  K? K.
+
+Version History:
+-----------------
+  Version 1.021, December 25, 2006 [9,796 bytes]
+  Version 1.02, December 24, 2006 [9,787 bytes]
+  Version 1.01,  June 5, 2003 [10,485 bytes]
+  Version 1.00a, June 5, 2003 [10,476 bytes]
+  Version 1.00,  May 30, 2003 [10,476 bytes]
+
+
+
+What's left:
+-----------------
+  There -MAY- be some messages that may show up and not be translated. The reason
+  is that there was a lot of the script that didn't get used. I did get it
+  translated, but I didn't insert it. I don't think it was used, it makes
+  reference to some sort of race that isn't in the game...
+
+
+Game Notes:
+-----------------
+  The pad moves Penta, A makes him jump, B makes him attack. In the plane
+  stages, both buttons make his plane shoot.
+
+  You have two ways of losing the game: Being too fat or running out of time.
+  When you play, grab the Fat-B-Gone bottles to lose weight. Once your weight
+  is low enough so that the heart in the status bar gets unbroken, you're in the
+  clear. But falling into the water or even eating ONE food item will send it all
+  to hell.
+
+  Also, if you run out of time, Penko will complain and make you play the stage
+  again. So be sure to grab ALL THE CLOCKS you can! I am aware that the game tells
+  you that you have a lot of time, but doesn't really give you that much. This is
+  a game bug, the script was like that in the Japanese release.
+
+  And stay away from the food. I can't stress this enough. The game doesn't seem
+  too difficult, but it IS. It's almost impossible to beat the game without using
+  savestates or cheats. So good luck.
+
+  Also, patch the rom that Goodnes 1.01 and higher recognizes as the GOOD rom!
+  I haven't tested it with ANY OTHER variants, be them [p], [h], [b], or whatever.
+  
+  And most importantly, you CAN NOT upload a pre-patched rom to your website.
+
+
+Copyrights
+-----------------
+  Yume Penguin Monogatari, Penta, Penko, Ginji and all related names
+  and characters are trademarks of Konami. 
+
+  Nintendo Entertainment System, Famicom, and all other related names
+  and indicia are Copyrighted to Nintendo.
+
+
+Disclaimer
+-----------------
+  There is no videogame company or any other company associated with
+  Kitsune Sniper. In no event shall Kitsune be liable or responsible for
+  any damages that may occur from direct, indirect or consequential results
+  of the ability or disability to use or misuse any material it provides.
+
+  In other words, you'd better own the cart for the rom that you're patching,
+  and if something goes wrong, don't blame me!

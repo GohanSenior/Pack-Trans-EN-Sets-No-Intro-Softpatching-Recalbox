@@ -1,0 +1,66 @@
+=====================================================
+SD Hero Soukessen - Taose! Aku no Gundan
+English translation patch
+=====================================================
+
+
+This is the second game in the Compati Series, which stars heroes from various franchises: Ultraman,
+Gundam and Kamen Rider, among others. It was developed by Banpresto in 1990.
+
+
+------------------------------
+How to apply the patch:
+------------------------------
+1 - Download the ROM "SD Hero Soukessen - Taose! Aku no Gundan (J).nes".
+2 - Download a program to patch the IPS onto the ROM, like Lunar IPS (http://fusoya.eludevisibility.org/lips/).
+3 - Copy the ROM and the IPS file named "SD Hero Soukessen - Patch ENG.ips" to the same folder, and use the
+option "Apply IPS Patch" in Lunar IPS, to apply the patch.
+
+OR
+
+1 - If you are using an emulator that accepts on-the-fly IPS patching (like Nestopia), you can just rename the
+ROM and the IPS file to the same name, leaving out the extension.
+Example: The rom is named "SD Hero Soukessen - Taose! Aku no Gundan (J).nes"
+         Just rename the IPS to "SD Hero Soukessen - Taose! Aku no Gundan (J).ips"
+
+(Newer versions of Nestopia can apply IPS patches without the need to have the same name. Just open the ROM,
+then the IPS file).
+
+
+------------------------------
+Distribution
+------------------------------
+Don't ask me for the prepatched ROM.
+
+I don't care if you upload your patched ROM for others. If you do this, please attach this readme file
+in the same .zip as the ROM.
+
+
+-------------------------------
+Story
+-------------------------------
+It's kinda hard to find information about this game anywhere, so here's the plot:
+
+One day, Emmy was taking care of her gashapon machine (those claw prize machines), when she and her machine
+were abducted by the evil Dark Brain. However, the gashapons of the legendary heroes Ultraman, Gundam, Shaider
+and Kamen Rider, were freed from the machine. Now the heroes have to rescue Emmy from Dark Brain.
+
+And yeah, this is the same Emmy from the Great Battle and Super Robot Wars OG series.
+
+
+-------------------------------
+Misc
+-------------------------------
+You can jump on the flying enemies. For some reason, they are much tougher than ground enemies.
+
+The invincibility state in this game is a hindrance.
+
+Saikoro Gundam.
+
+There's a cheat code to switch characters on-the-fly. You can find it on GameFAQs, or as an IPS patch on
+Romhacking.net. This code would later become a gameplay mechanic in the Great Battle series.
+
+
+[ SD Hero Total Battle - Defeat! The Evil Army ]
+Translated by Corvo (http://www.swordian.net)
+Version 1.00 - June 03, 2015

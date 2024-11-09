@@ -1,0 +1,107 @@
+Mobile Golf english translation
+===============================
+
+What's Mobile Golf?
+-------------------
+On 2001, Nintendo and Camelot released a Japan-only sequel for Game Boy Color
+Mario Golf called Mobile Golf.
+It can be considered an expansion: new courses, new golfers, new minigames and
+even an exclusive mini-golf mode that didn't even made an appearance in later
+games in the series. It doesn't have a story mode, but all RPG elements
+(experience, leveling up, skill points...) for character building are still
+there.
+But what it made it so special was its Mobile Adapter compatibility (see
+https://www.youtube.com/watch?v=epl9prMmnGU). It was a special link cable that
+allowed internet connection through a cellphone. Yes, internet connection in a
+Game Boy Color game. Yes, in 2001.
+There were a few games that supported it. In our case, it allowed for massive
+multiplayer tournaments to be held. Participants could get amazing prizes like
+special clubs for use in-game and even extra courses and characters that could
+be considered DLC somehow.
+
+
+
+Patching information
+--------------------
+You must provide the original japanese Mobile Golf ROM:
+Mobile Golf (Japan)
+CRC32: 35fc5b32
+MD5:   fbf1ffe76883dffcca299228c81f171f
+SHA-1: fde414fc9efef2c3d1a9ea2ed35ad2efc0edee
+
+The patch is released in two versions:
+mobile_golf_en.bps                - translation + DLC unlocker (recommended)
+mobile_golf_en_vanilla_unlock.bps - translation
+
+
+
+Patch history
+-------------
+v1.2b (2023-11-28) - fixed a major crash when leaderboards showed up
+
+v1.2 (2023-11-27) - lots of text and graphic additions and tweaks
+                    thanks to Darkshade and Ryuzac from REON Team!
+
+v1.1 (2021-09-20) - translated a few Net Clubhouse texts, including some
+                    related to online connection (error codes, etc)
+
+v1.0 (2021-08-20) - first version
+
+
+
+Unlocking mobile content
+------------------------
+The game online service was shutdown on 2002. But do not worry! The patch does
+not only translate the game, but it also changes the unlocking methods so
+players will be able to unlock the online content progressively as they play!
+Here is a list of every unlockable. The ones marked as * are the ones that were
+online-only until now!
+
+Course 2: Caribbean                  get a trophy (bronze, silver or gold) in States Tournament
+Course 3: Pyramid                    get a trophy (bronze, silver or gold) in Caribbean Tournament
+Course 4: Britten                    get a trophy (bronze, silver or gold) in Pyramid Tournament
+Course 5: Jipangu                    get a trophy (bronze, silver or gold) in Britten Tournament
+Course S1: Snowland Short            Complete Birdie Try minigame
+Course S2: Halloween Night Short     Complete One-on One-Putt minigame
+Courses 6 & 7: Atlantic & Pacific    *get a trophy (bronze, silver or gold) in Jipangu tournament
+---
+Character: Bean                      Beat him in Match Play
+Character: Rozary                    Beat her in Match Play
+Character: Powert                    Beat him in Match Play
+Character: Bird                      Beat him in Match Play
+Character: Kid                       Complete all Go-Go Gates
+Character: Grace                     Beat Bean, Rozary, Powert and Bird in Club Slots
+Character: Tiny                      Complete all base minigames (extra ones marked with a star don't count)
+Character: Gene                      Meet the following conditions:
+                                        - get a gold trophy in tournaments 1-4
+                                        - unlock all 7 previous characters
+                                        - complete courses 1-4 in Speed Golf in less than 12 minutes each one
+Character: Peach                     *Beat Bean in Match Play
+Character: Yoshi                     *Beat Rozary in Match Play
+Character: Foreman Spike             *Beat Powert in Match Play
+Character: Mario                     *Beat Bird in Match Play
+---
+Minigame: Alternate match            get a trophy (bronze, silver or gold) in Caribbean Tournament
+Minigame: Extra minigames            *win Jipangu tournament (the translation patch marks these DLC minigames with a star)
+---
+Special Clubs Pack #1                *get a trophy (bronze, silver or gold) in States Tournament
+Special Clubs Pack #2                *get a trophy (bronze, silver or gold) in Caribbean Tournament
+Special Clubs Pack #3                *get a trophy (bronze, silver or gold) in Pyramid Tournament
+Special Clubs Pack #4                *get a trophy (bronze, silver or gold) in Britten Tournament
+Special Clubs Pack #5                *get a trophy (bronze, silver or gold) in Snowland Tournament
+
+
+
+Sourcecode
+----------
+Translation sourcecode (and building tutorial), along the entire script dump
+can be found here: https://github.com/marcrobledo/mobile-golf-translation
+
+
+
+Credits
+-------
+ProstatePunch - text edits and corrections
+Darkshade - title screen logo pixelart
+REON Dev Team - for all their amazing Mobile Adapter preservation work
+marc_max - reverse engineering & hacking

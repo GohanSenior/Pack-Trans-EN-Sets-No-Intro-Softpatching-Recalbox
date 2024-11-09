@@ -1,0 +1,72 @@
+
+     ___              __                        _                   
+    /   \___ _ __    / /  __ _ _ __   __ _ _ __(_)___ ___  ___ _ __
+   / /\ / _ \ '__|  / /  / _` | '_ \ / _` | '__| / __/ __|/ _ \ '__|
+  / /_//  __/ |    / /__| (_| | | | | (_| | |  | \__ \__ \  __/ |
+ /___,' \___|_|    \____/\__,_|_| |_|\__, |_|  |_|___/___/\___|_|
+                                     |___/                  [cheats]
+
+
+                                                     .:[cheat files]:.
+----------------------------------------------------------------------
+
+Two cheat files are supplied for bsnes and ZSNES. The cheats contained
+in the files are enabled by default. Using the cheats will enable a
+debug-mode similar to the one activated by code.
+
+In this mode, commanders may be moved an infinite number of times and
+to any tile, units may attack any tile on the map or cast spells
+on any tile, magic and summon spells carry a 0MP penalty and any
+commander or unit may cast any spell.
+
+These codes are supplied to aid players in testing the game and
+triggering events which may otherwise never happen. Be warned that
+some very odd behavior can result from debug game play.
+
+We will consider repairing bugs which occur in only the English
+version of the game. You must demonstrate that any bug report is
+unique to our translation. We will ignore all reports that do not
+confirm the uniqueness of the bug.
+
+
+                                                     .:[secret shop]:.
+----------------------------------------------------------------------
+
+Highlight the word "Buy" in the shop menu and press LEFT, RIGHT,
+RIGHT, DOWN, RIGHT, UP, A.
+
+You will be able to purchase most equipment in the game.
+
+
+                                                       .:[all items]:.
+----------------------------------------------------------------------
+
+Highlight the word "Buy" in the shop menu and press LEFT, UP, RIGHT,
+DOWN, RIGHT, UP, LEFT, Select, DOWN, RIGHT, LEFT, Select, A.
+
+You will be able to purchase any item in the game.
+
+
+                                                 .:[scenario select]:.
+----------------------------------------------------------------------
+
+At the loading screen, highlight any scenario save and press UP, DOWN,
+UP, DOWN, LEFT, RIGHT, Select, A.
+
+
+                                                 .:[multimedia test]:.
+----------------------------------------------------------------------
+
+At the loading screen, highlight any scenario save and press LEFT,
+RIGHT, Select, A.
+
+
+                                                      .:[debug mode]:.
+----------------------------------------------------------------------
+
+Highlight an empty square on the map and press DOWN, LEFT, UP, RIGHT,
+A, LEFT, UP, B, DOWN, RIGHT, A, B, DOWN, RIGHT, A.
+
+This will allow you to control any unit, take multiple turns and
+cast any spell. Enter the code a second time to disable.
+

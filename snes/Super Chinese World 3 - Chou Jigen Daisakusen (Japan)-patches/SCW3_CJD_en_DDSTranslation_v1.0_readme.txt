@@ -1,0 +1,40 @@
+
+Super Chinese World 3
+
+Translation Patch (Version 1)
+
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+Filename:  Super Chinese World 3 - Chou Jigen Daisakusen (Japan)
+File size: 1.50 MB (1,572,864 bytes)
+CRC32:     758A0322
+
+
+This patch is for Super Chinese World 3 on the Super Famicom.
+The text has been translated from Japanese into American English.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both formats of patches.)
+
+The target Japanese ROM must have a size of 1.50 MB (1,572,864 bytes),
+and have a CRC32 checksum of 758A0322.
+If not, the patch will not work as intended.
+
+
+
+-----------
+  CREDITS
+-----------
+
+Translation:
+Tom
+
+Graphics:
+FlashPV
+
+Programming:
+DDS
+

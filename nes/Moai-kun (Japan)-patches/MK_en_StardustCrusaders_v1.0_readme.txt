@@ -1,0 +1,94 @@
+=======================Moai-Kun======================
+=======================Mr. Moai======================
+========================V 1.00=======================
+Genre: Puzzle
+
+Source language: Japanese
+
+Platform: Famicom
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail:  yojimbogarrett@gmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Moai-Kun
+======================================================
+Project History:
+
+This translation is insignificant in the grand scheme
+of things and is mostly a title screen hack with some
+engrish clean-up. Since I was writing about the game
+at the time, I figured a super quickie hack wouldn't
+hurt and so here we are.
+
+Two things: technically Moai-kun translates to Moai Kid,
+but instead I've gone with Mr. which I mostly picked
+because I wanted to it be along the lines of something
+like Mr. Goemon, another Konami Arcade game. Plus,
+the game has a bit of a senior aspect to it and is a
+better fit in relation to the game.
+
+Secondly, I realize InVerse did a title screen patch
+for the game years, but not to be high and mighty,
+it's a step above snark's title screens and well
+this new title is basically the english version of
+the Japanese design.
+
+I hadn't done a mostly title screen hack in a long time,
+so here it is to be forgotten about.
+
+======================================================
+Game Tips
+======================================================
+This game has a stage select mode that triggered on
+the title screen.
+
+Move the Moai head to Continue then hold Down + Select
+and press Start.
+
+======================================================
+Patching Instructions
+======================================================
+There are two patches, IPS and BPS.
+The BPS patch needs to be applied with beat.
+See this site for more information:
+
+http://byuu.org/programming/
+
+Apply the patch to the Japanese ROM:
+
+Moai-kun.nes
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking
+
+FlashPV - title screen design
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. December 2013.

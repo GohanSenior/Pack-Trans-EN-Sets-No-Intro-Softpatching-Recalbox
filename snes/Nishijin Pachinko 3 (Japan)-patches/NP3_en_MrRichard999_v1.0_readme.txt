@@ -1,0 +1,19 @@
+Nishijin Pachinko 3 English Translation Project
+Version 1
+12/27/2018
+
+Modified by MrRichard999
+Translated by TheMajinZenki & AgentOrange
+Title screen graphics by FlashPV
+
+Here is a full translation of the game Nishijin Pachinko 3. All the menus, game instructions, scoring systems, and machine display sentences have been translated to English! Now you can enjoy the pachinko machine experience without leaving home! We hope you enjoy this release!
+
+The only thing remaining is the word next to POWER on the top of the screen which means BALLS (for some reason this is stuck in VRAM so couldn't change it...) and some of the large display graphics in Japanese characters which mean MILLIONS. Other than that it shouldn;t be a hinderance in gameplay.
+
+Be sure to apply to a non-headered version of this ROM!
+
+Nishijin Pachinko 3 - English.sfc
+CRC32: 7B77C9FE
+MD5: 21A163AFAF6E9C476004CB8F21593DC8
+SHA-1: 190D801457D5467771CAC45970591A4C74B1FEB4
+SHA-256: 5F5457A72A953434388418E64F6CD06663E030DFB59D8FD6C9E6CFD31C805B27

@@ -1,0 +1,71 @@
+CAVE NOIRE
+ENGLISH TRANSLATION V1.00
+Copyright 2012 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Cave Noire
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+
+------------------
+1.About Cave Noire
+------------------
+Cave Noire is a bit difficult to pidgeonhole into any particular genre
+classification. It's most similar to roguelikes; dungeons are somewhat
+randomized, there's a heavy emphasis on player improvement and strategy
+instead of just grinding experience, and it's very easy to die. It's
+also sort of a puzzle game, as you don't gain levels in the traditional
+sense at all and it's to your great advantage most times to learn how
+to avoid enemies instead of trying to plow your way through them.
+There's also no guessing game to play with items; everything you pick
+up is immediately "identified" and comes from a very small list of
+tools.
+
+There are several types of objectives with ten levels of increasing
+difficulty each, for a total of 40 variations to explore. And some of
+those later ones get very, very difficult!
+
+---------------
+2.Patch History
+---------------
+Cave Noire was started one weekend about a month ago with the hope and
+expectation of it being a very quick project. It wasn't. It was a huge
+pain in the butt, all told; the single short string in the second
+ending took me a good hour to hack and involved some incredibly dicey
+stuff. Data compression abound too. Real nasty.
+
+February 14, 2011 - Initial V1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE CAVE NOIRE TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker, menu translation
+Liana - Non-menu translation
+EsperKnight - Compression utilities
+
+Special thanks to Tomato, BRPXQZME, and Paul Jensen for consultation on
+bits and pieces of the script.
+
+--------------
+4.Known Issues
+--------------
+There are no known issues.
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://agtp.romhack.net/pantheon)
+Screenshots are preferred, as are savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+128KB (2mbit Gameboy)
+
+Simply use Lunar IPS (or an equivalent program for MacOS/linux) to apply
+the patch to the ROM.

@@ -1,0 +1,38 @@
+This translation was started before the pandemic and _almost_ finished in early 2020, but development entered a deep hiatus until I finally got my motivation back in March 2022, largely inspired by the work of RayCarrot who programmed a fantastic recompressor for the game.
+
+PowerStone05 released their unfinished translation in mid-2018, and while my translation is not built on top/based on their translation, PowerStone05 personally helped me with some translation work along the way.
+Most of the dialog text is based on the 2014 GameFAQs translation guide by Roboyoyo (AKA FinalSoraRiku AKA KeybadeBlox)
+
+The main translators for everything else were said PowerStone05, StarryScarab, Altair and rcs709.
+Additional wordsmithing help was provided by Adilord, Megahog2015 and PixeliseGame.
+
+Compression spec, graphics edits and the actual ROM hacking and tools for the editing were done by yours truly, vervalkon/Raccoon Sam.
+
+Lots of additional support was provided by the fine folks of the Klonoa Mega Chat Discord.
+
+Exhaustive beta testing by PowerStone05.
+
+Special thanks to ariel_1046cc and EuropaPeixe for motivation and support.
+
+I had a lot of fun doing this translation and I hope you enjoy playing the game as much as I did hacking it. The game is a fun puzzler that delivers the challenges in bite sized bursts and rarely makes you feel you're wasting your time.
+
+-
+v1.0. - april 5th, 2022: initial release
+v1.1. - april 7th, 2022. turns out I had missed one piece of text. Added! Thanks to Dog in Da Grass.
+
+-
+
+Relevant links:
+https://discord.gg/hcMgGWs
+https://forums.untamedheart.us
+
+Friends:
+https://twitter.com/RayCarrot
+https://twitter.com/rcs709
+https://twitter.com/powerstone05
+https://twitter.com/PixeliseGame
+https://twitter.com/ariel_1046cc
+https://twitter.com/EuropaPeixe
+
+Me:
+https://twitter.com/vervalkon

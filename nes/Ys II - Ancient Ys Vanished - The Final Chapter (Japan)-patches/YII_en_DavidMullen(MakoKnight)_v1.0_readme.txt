@@ -1,0 +1,106 @@
+
+
+Ys 2 NES English Translation
+Version 1 - August 11, 2000
+Created by David Mullen
+http://www.geocities.com/makoknight.geo/
+
+
+==================
+Credits and Thanks
+==================
+
+Jeremy (M'Rhan) - http://www.arrowweb.com/jeremy/Translate.htm
+
+   Head of Kakkoii Translations. Just as with Ys 1, he gave the
+   scripts to his friend to translate. I owe him many thanks.
+
+???
+
+   Jeremy's friend, who translated the scripts. This person wishes
+   to remain anonymous.
+
+(wraith) - http://donut.parodius.com/
+
+   Beta tester. He did a fine job of blazing through the game and
+   spotting quite a few bugs that have been ironed out. Also runs a
+   darn good translation site along with Spinner 8.
+
+TheFreak - http://sgst.romhacking.com/
+
+   Beta tester. First one to volunteer for the testing. Also a member
+   of an up and coming translation group.
+
+Duke Serkol - http://www.dekutree.com/bszelda/
+
+   Beta tester. A good friend that also helped test the game. Runs the
+   BS Zelda homepage, among many other things.
+
+All the creators of hacking documents and utilities, because it was
+that knowledge and array of tools that made this possible.
+
+
+=====
+Notes
+=====
+
+After finishing Ys 1, I was still looking for something else to do. I
+thought it'd be nice to do the sequel, since the first two games'
+storylines tie very closely together. I knew of another group doing it,
+at http://members.xoom.com/ys_project/ but they hadn't updated in two
+years. I read about their problem, and thought I could help out. But
+a day or so after emailing them, it bounced back. So I just decided to
+take it on myself. I was fortunate that the text was encoded in the
+same style as Ys 1. It did take a little longer to finish than I
+expected, but that was no problem.
+
+I don't plan on doing any more Ys games, since the third part is
+already available on the SNES and Genesis consoles (I recommend the
+Genesis one, myself). And parts four and five are being taken care of.
+If you ever get the chance, be sure to play the Turbo Duo version of
+Ys Book I-II. Although it's quite old, it's still an excellent classic.
+
+
+============
+Instructions
+============
+
+The file "ys2e.ips" must be patched to the original ROM image to play
+this translation. Any IPS patching utility should work. Two commonly
+used utilities are IPS.exe and Snestool. You can find these two
+programs at most emulation websites.
+
+*** Always keep a backup of the original ROM image. ***
+
+To use IPS.exe, run this at a command prompt:
+
+IPS <ROM NAME> <IPS NAME>
+
+Snestool has a graphic interface that makes it easier. After starting
+it, select "Use IPS", then select the IPS file, then the ROM image
+that it should be used on.
+
+This game has been tested with the NESten and Nesticle emulators. If
+the game shows jerkiness or flashing, try tweaking the timing
+settings.
+
+
+==========
+DISCLAIMER
+==========
+
+Ys 2 is (c)1988 Nihon Falcom. This work is unofficial and is not
+supported by them.
+
+This patch may be freely distributed, as long as:
+ - The patch remains unmodified
+ - This readme file accompanies the patch
+ - The ROM image is not distributed with this patch already applied
+
+This patch is not for sale, and is not to be exchanged for money,
+goods, or services of any kind.
+
+I won't be held accountable for any damage or undesirable side-effects
+this patch may create. Use it at your own risk.
+
+

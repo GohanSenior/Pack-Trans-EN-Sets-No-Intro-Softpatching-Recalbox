@@ -1,0 +1,79 @@
+KingMike's Translation
+http://www.geocities.com/newkingmike/trans/index.html
+
+mikejevans@qwest.net
+
+Knights of the Zodiac: Legend of the Gold.
+Patch v1.0
+Release date: 6/21/2001
+*********************************************
+Original Title: Les Chevailieurs du Zodiaque
+Original Language: French
+*********************************************
+Thanks to:
+
+Praveus - for the title logo.
+Metalhawk - for finishing the script translation for me.
+*********************************************
+Contents of package.
+kozev10.ips   : French-to-English patch. Completed v1.0.
+seiya1j2f.ips : Patch to convert Japanese ROM to French ROM.
+readme.txt    : This document.
+*********************************************
+Emulation Status:
+Originally, I went to describe how it plays in each emulator, but I'll just say: use Nester public beta 4. It runs this game flawlessly.
+*********************************************
+
+What's done:
+ - Everything.
+
+What's left:
+ - Any case of text spilling out of windows.
+ - If someone could fill me in on the two untranslted items in the Data screen, I'd like that.
+*********************************************
+How to patch:
+ - Download this zip file.
+ - Download the game ROM. (I won't provide this. You find it.)
+ - Download IPSWin 2.0 from somewhere (www.zophar.net might have it, but no guarantees. Look for "Utilities").
+ - Open IPSWin 2.0, click the little folder thing in the first box. Choose the original French ROM. Choose the IPS patch in the lower text box in the same manner. Click Patch. Enjoy!
+
+ - As the French ROM isn't as common as the Japanese one ("Saint Seiya: Oogen Densetsu", aka "Saint Seiya 1"), I sympathized and included a Japanese to French patch. Patch the Japanese ROM with that, and then put the English patch on top of that. I checked the J2F patch, and the game loaded up okay. I haven't tested this patch, though. NO GUARANTEES!! NO BUGS REPORTS RELATING TO THE J-TO-F PATCH!! And, I don't think there should be any bugs, outside of text-spilling-outside-the-windows errors. (And, for those who ask, for some reason, it didn't work to patch the Japanese ROM with my English patch).
+*********************************************
+How to play:
+
+This game might be unusual at first to figure out, so I'll walk you through the first couple mintues of play.
+
+ - First, at the title screen, choose "Start" and push Start.
+ - Enter your birthday (this affects your character's starting data. See my page for a chart of the effects).
+ - Now, walk forward, until you meet Marin. You will switch to a battle screen. Press A to talk. Now, when given choices, choose "Fight".
+       - You must now charge up your characters offences and defences.
+       - To choose and Off/Def to charge, use up and down.
+       - To charge power to an ability, use left and right.
+       - When your character is charged with energy as you'd like, push A.
+       - When asked to choose wether to use a fist (to punch) or feet (to kick), pick and press A.
+       - When it is the opponent's attack, choose to Parry (defend) or Dodge (avoid attack altogether, if you're lucky).
+ - Beat up Marin (2 hits should do it).
+ - Back at the main screen, walk forward. You'll meet Cassius, and have to fight him, same way.
+ - Now talk to Marin. She'll give you the sacred armor, and tell you to go to Japan.
+ - Pick up the Sacred Armor (that orange box).
+ - You'll want to build some Exp. now. Press SELECT to go to the Menu screen. Now exit by pressing B.
+ - An enemy will appear in the east end of the shrine. You can try to walk up to him, and push B to punch him, or stand a little ways away, and rapidly push B until you shoot a small fireball. When you kill him, you gain 2 EXP.
+ - Keep walking back and forth, killing the enemy over and over. Ideally, you want at least 70 Exp. before moving on. But, if you are down to 2 Life points (which is 1 hit from death against these guys), then move on to the next step.
+ - Choose "Direct." from the menu. You will be given three choices of where to go. Pick "Kido". Now, in Kido, enter the large mansion behind you (by pushing UP), and talk to the guy there. Now go right three doors. Meet Saori. She'll tell you to go to the Tournament, but first, to go to the Orphanage. Leave the mansion.
+ - Now, to heal, go to the right until you are in the middle of the city. You'll see a road going into the background, next to a red-and-white building. Press UP to travel up the road, go right to the hospital. If the nurses tell you to rest, walk to the bed to regain Life. (Or, they may not heal you yet). 
+ - On with the game. Now, exit the hospital. Press SELECT, choose "Direct." from the menu. Choose Orphanage. Talk to the lady inside (Miho). Now, leave, push SELECT, choose "Direct.", choose "Coliseum". 
+ - Before going inside, use those Exp. points you earned earlier.  Press SELECT, choose "Data". Point to a rating you'd like to change (like "Offense"). Now, push A to increase that rating. Your ability (the number in the first column) will increase by 1. The cost of an increase (the number in the second column) will be deducted from your Exp. Hopefully, you can increase Offense and/or Defence to at least 7 for the conflict your about to get into. When you have changed your statistics as you like, choose "End" and push A.
+ - Enter the coliseum, kill the 3 guys there. If you die, you'll return to the hospital. Exit, and you'll be back at Kido mansion. Follow the directions above to the hospital. They should heal you now. Try again at killing the bosses in the Coliseum.
+*******************************************
+Les Chevaliuers du Zodiaque: Le Legend D'Or
+	(c) 1987 Bandai
+Saint Seiya: Oogen Densetsu
+	(c) 1986 M.Kurumada/Shueisha
+	(c) 1986 Toei Animation
+	(c) 1987 Bandai
+
+English Translation:
+	(c) 2001 KingMike
+
+No distributing the patch with ROM, either pre-patched, or in one zip.
+That's wrong.

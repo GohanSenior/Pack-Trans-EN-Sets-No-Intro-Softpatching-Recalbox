@@ -1,0 +1,48 @@
+Urusei Yatsura Lum's Wedding Bell
+English Translation V 1.0
+Copyright 2009 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Lum
+2.Patch History
+3.Patch Credits
+4.Known Issues
+
+---------------------------
+1.About Lum
+---------------------------
+This is a great platformer based on the anime Urusei Yatsura. It's so great it'll leave you wanting more. In regards to the hacking, it's top notch stuff. I had to an ASM hack for the title screen that required a small amount of tracing and debugging. There's also some neat graphic replacements done by myself.
+---------------
+2.Patch History
+---------------
+What's done:
+
+-Everything
+
+---------------
+3.Patch Credits
+---------------
+
+Me- Hacking
+
+FlashPV- Title screen design
+
+Tummai, BRPZQME etc. - Translation
+
+--------------
+4.Known Issues
+--------------
+None
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or at my site
+
+yojimbo.eludevisibility.org

@@ -1,0 +1,20 @@
+Translation made by google/deepl and Zarby89
+gfx editing made by Zarby89
+asm made by Zarby89
+
+There is 2 way of patching the ROM by using the BPS or the ASM Source
+
+Using a BPS patcher) patch rascoonrascal.bps onto your Araiguma Rascal (Japan).sfc rom
+beat was used to make the patch can also be used to apply the patch
+
+Using Asar)
+double click on Asar.exe
+write "main.asm" as patch filename
+write "YourRomName.sfc" as rom filename
+
+*note YourRomName.sfc must be Araiguma Rascal (Japan).sfc rom and be careful it will be overwritten
+
+you can edit the main.asm file if you think you can come up with a better translation
+you can also edit the .bin files and .tilemap files with tools like yy-chr and tilemapstudio
+
+feel free to update the translation or translating it into another language using this source code

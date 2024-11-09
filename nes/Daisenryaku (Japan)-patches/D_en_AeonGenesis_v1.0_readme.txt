@@ -1,0 +1,34 @@
+Dai Senryaku English Translation
+AGTP Version 1.0
+http://agtp.romhack.net
+draw_omega@yahoo.com
+
+-----------------
+Those Responsible
+-----------------
+Gideon Zhi - Romhacker, Translator
+MO - Spots translations :)
+
+-----------------
+Stuff Done
+-----------------
+Just about everything.
+
+-----------------
+Stuff Not Done
+-----------------
+Nothing, I hope.
+
+-----------------
+Patching Instructions
+-----------------
+Go to your favorite emulation site and download SNESTool. Drop it, the
+patch, and the Dai Senryaku ROM into the same directory. Then
+open SNESTool. If it's missing some extenders, you'll have to find 'em
+on your own. Once you get SNESTool running, select (Use IPS) then the
+.ips patch file, then the Dai Senryaku ROM. You should now be patched.
+
+-----------------
+If you find a bug
+-----------------
+Oh well. We probably know, and we'll fix it later.

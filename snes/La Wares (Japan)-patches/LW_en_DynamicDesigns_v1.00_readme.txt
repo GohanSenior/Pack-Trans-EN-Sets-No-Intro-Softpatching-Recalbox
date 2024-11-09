@@ -1,0 +1,194 @@
+La Wares English Language Patch V1.00
+
+(Recommend MS Notepad)
+
+
+Introduction:
+
+
+
+	Japanese Developer:				J-Force
+	Japanese Publisher:				Yutaka
+	Japanese Release:				April 21, 1995
+	English Patch Production:			Dynamic-Designs
+
+
+
+Dynamic-Designs Patch History:
+
+
+
+V1.00:  Initial Dynamic-Designs Release:	February 14, 2018
+        
+
+
+Dynamic-Designs Production Credits:
+
+
+
+	Project Coordination:				Wildbill
+	Hacking/Tools/Bug Fixing:			Bongo`
+   	Assembly: 						Bongo`
+	Translation:					Eien ni Hen
+	Translation Support:				Filler
+	English Graphics:				Taskforce
+	Story Writing:					Wildbill
+	In-house Editing: 		     		Draken
+	Splash Page:					Taskforce
+	Beta Testing:					MariusB,
+                           			SylarDean
+                             			akualung
+                             			Recca
+	Splash:						Taskforce
+	Romanian Version:				Recca
+
+
+NOT FOR SALE INFO
+
+This game in English or patch to make it English is NOT for sale under any circumstances!  If you paid for this game in any way, including in a cartridge, demand your money back immediately!  File a complaint with your credit card company and/or paypal as well - especially if you obtained this game in cart form!
+
+
+
+Overview (adapted from https://www.giantbomb.com/shin-seikoku-la-wares/3030-28299/):
+
+Shin Seikoku: La Wares ("New Sacred Era: La Wares") is a turn-based RPG for the Super Famicom and a video game adaptation of the Wares Blade Japanese pen and paper RPG.  Wares Blade is set in a pseudo-medieval fantasy universe which features large mechs as remnants of an advanced ancient civilization that certain characters are able to pilot.  Most of the game's combat and world map exploration involves these mechs, known as [Golems]. Illustrator Kazuko Tadano was hired for some of the game's artwork.
+
+The player alternates between two protagonists: Chiffon, a teenage boy belonging to a band of thieves and Michelda, a princess. In addition...  [Luchenas], a vain prince that is betrothed to Michelda ... briefly joins her adventure.
+
+From our release write up at D-D's home page:
+
+This Super Famicom English game patch is the result of an early collaboration between translator Eien ni Hen and Bongo`.  Once Bongo` built the tools, he intended to offer it to Red Soul for 
+coordinating the finishing touches. However, around that time, Red Soul became inactive in D-D.
+ 
+Instead, Recca assumed the task of smoothing out the first insertion of English text but promptly turned that effort into a Romanian patch for La Wares that we released in 2015.
+
+Thereafter, Wildbill took on the task of coordinating La Wares - English, but he was in the midst of wrapping up other project work ahead of it, including a contribution to Chaos Seed and the finishing touches and release of Super Shell Monsters Story-I.
+
+Then, Wildbill departed D-D on an unexpected two-year hiatus, to attend to family matters.  When he returned to duty in late 2017, he quickly helped get Princess Minerva and La Wares rolling again, and here we are with the release of that latter mentioned game.
+
+La Wares is somewhat shorter in length than our usual fare. Still, the beta testers have reported that it's a fun play.  As mentioned above, the game combines elements of mechanized fighting in the field with typical combat against monsters in dungeon settings.  Naturally, the fates of kingdoms, queens, and princesses are at stake, and an unlikely hero emerges to attempt actions that might accomplish what whole armies fail to do.
+
+To help players through rough spots, we heartily recommend Ritchie's Walkthrough at https://www.gamefaqs.com/snes/581859-shin-seikoku-la-wares/faqs>
+
+
+This game offers several somewhat unique features.  
+
+1. You may save virtually anywhere except in the middle of battles and conversations.
+
+2: Depending on where you are, when attacked by enemies, fighting styles differ.  In the countryside, you travel inside a mechanized "Golem" and are challenged by other human foes also piloting Golems.  In dungeons, you fight with your teammates and against mainly monsters in standard RPG style.  In bars, humans may pick a fight occasionally, and the battle format is similar to that in dungeons.  Boss battles may occur in either the over-world or dungeons and always proceed in the mechanized format.  
+
+3: Mechanized battles include a retreat option but no opportunity to replenish fuel or energy.  Golem maintenance is conducted in towns. Bars sell water for fuel.  Blacksmith shops perform repairs and maintenance for energy.
+
+4: Leveling up restores a fighter's HP and MP in non-mechanized battles.  If the hero levels up in a non-mechanized battle, it also replenishes fuel and energy in his golem.  While grinding in dungeons, this provides a way to avoid returning to a town for that purpose and avoid excessive backtracking.
+
+5. Late in the game, money is hard to come by, and higher quality store merchandise becomes very expensive. Golems always drop gold in countryside, but the tougher monsters near the end of the game stop dropping gold.  Late in the game, continuing to gain experience and build your money supply at the same time forces you to battle other golems in the countryside.
+
+
+Bugs remaining from the original game that can't/won't be fixed.
+
+1. South of the Yarma gate, when you have full character control, you may walk off the right side of the screen into "glitch" land. No logical reason to do this exists, and doing so does not necessarily crash your game.
+
+2. Sometimes, restarting a game in a certain way after dying in battle may cause a crash.  Do not panic.  Simply reset your game and return to your most recent SRM save.
+
+
+Production and Testing:
+
+As did Princess Minerva before it (released Christmas 2017), La Wares English took us far longer to complete than we anticipated. Wildbill takes full responsibility for that.  After returning from a two-year hiatus in October 2017, he performed his roles with both Princess Minerva and La Wares in short 
+order and helped get those game patches back on track.
+ 
+Once Wildbill whipped the story into shape and wrestled with a few bugs, the whole D-D team and some special volunteers rallied around this project and quickly whipped it into shape. Special thanks go out to the "usual suspects" and the four beta testers, MariusB, SylarDean, akualung, and Recca.  Of course, Recca is one of us and the author of La Wares - Romanian.  Nevertheless, Recca took the time to pore over La Wares - English and provide valuable observations and input.
+
+
+Wildbill's Production Remarks:
+
+Finally, I will add that Dynamic Designs is a hobby group that translates Japanese video games and builds English and Romanian patches as a pastime.  Speaking for myself, I do this for my own enjoyment and that of my teammates and those who appreciate the effort.
+
+My job is "story writer".  I am NOT an editor or proofreader.  Those are different functions.  As for reviewers, whenever I consider the attitudes of some who produce nothing artistic but vigorously attack the style of those who do, I often muse upon the old adage about opinions and "rear ends" and the fact that everyone has one.  Having said that...
+  
+Allow me to explain to the unitiated how writers with professional training function.  As do many authors who create original stories, my work is based upon source materials and research.  Primarily, in this hobby, raw translations provide the lion's share of sources.  My approach - call it localizing or adaptation - proceeds with one thought in mind.  I do not write for the general public.
+
+Neither do I write RPG sagas for monetary gain or any other considerations not previously stated.  This means I am under no contract with a publisher and therefore under no obligation whatsoever to write a story in a certain style, let alone make it available to the public free of charge.
+
+Nevertheless, our group has chosen to share our La Wares patches and many others, works that contains 100% original content in Western languages, none of which is lifted from the Japanese sources that inspire our work.  Accordingly, I offer this caveat.  Anyone who chooses to possess our free patches is also agreeing to download them "as are".
+
+In summary, as I've learned while writing RPG sagas, some of which are based on Japanese manga and anime, we have adapted the sources to our work in the same manner as the Japanese authors did before us, compiling diverse source materials and writing stories that best suit our purposes.
+
+In closing, I'll add that anyone in the world is free to pursue this "not for profit" hobby.  That means any human being on this planet has free rein to start in the same places we did and create stories and finished patches that satisfy their own personal interests, motivations, and tastes.
+
+This also means that anyone who downloads our patches is free to set them aside at any time and build their own.  Otherwise, positive and helpful input from players who enjoy our work will continue to be graciously accepted.  Meanwhile, whatever anyone chooses to play or not play, happy gaming!
+
+-Wildbill
+
+
+Patching:
+
+Contained within this archive is an IPS (international patching system) file or a patch file in another format for the end user's convenience that when used in conjunction with a ROM file will make the game playable in English.
+
+Do note that this patch is a result of countless hours of love and labor. Hence, they are not meant to be sold at any price under any circumstance, be it in digital form or burnt into a donor cart's ROM chip.
+
+To patch the ROM file, one needs to procure a patcher for their preferred format, a widely available class of programs, many of which can be found at http://www.romhacking.net/ for one source.  A few can even be found on our download page for your convenience at http://www.dynamic-designs.us/downloads.shtml.  Look at the bottom under utilities.  We did not code these utilities.  We provide them merely for your convenience.
+
+At some point, ROM sites may upload pre-patched ROMs of our La Wares translation. Obviously, Dynamic Designs cannot endorse playing these versions, nor will we support resolution of any
+associated problems.  Moreover, pre-patched ROMs may float around the web for years.  Only by downloading patches containing just our original work from D-D's website may gamers obtain revisions to these patches - if any - and take advantage of possible bug-fixes, corrections, and updates.
+
+
+Information pertaining to the La Wares ROM:
+
+Country Japan
+Internal CRC 4EE9
+CRC32 866A4BEE
+MD5 8D214F8AC134F2EB580B060C6447544B
+SHA-1 8B79A4633EE9D624680F0594492740A48B7B56D5
+SHA-256 D928BC524D939DE7E0E20EA24DE1F7D1942DF771A313461E8DC388EFB7E4D70B
+ROM Speed 120ns (FastROM)
+ROM Size 12 Mb
+ROM Bank HiROM
+ROM Type Normal + Battery
+SRAM Size 64 Kb
+Internal Title ?????                
+Common Filenames
+La Wares (J).sfc (GoodSNES v0.999.5)
+La Wares (Japan).sfc (No-Intro 2011-12-24)
+Wares, La (NTSC)(Jap)(1.0).sfc (Zapatabase 2011-01-30)
+La Wares
+
+Notes:
+
+1. Not all ROMs will necessarily be patch-able with our file.
+
+2. If the ROM you attemp to patch has a header, you may need to remove.
+
+3. A number of tools are available to remove headers: SNESTool, Smile, Toolbox, etc.  
+
+
+
+Size before patching: 1.50 MB (1,572,864 bytes)
+
+Size after patching: 1.50 MB (1,572,864 bytes)
+
+
+Alternatively, most emulators support a feature called soft patching, which keeps the ROM file intact, merging the patch data only during run time. To make use of it, make sure both the ROM file and the IPS are in the same directory as your emulator of choice and have the same name, but not the same extension. Do note that this is case-sensitive.  (Also, do note this soft patching is only available using the IPS patch file, and may NOT work with the other patch file formats.)
+
+
+e.g:  LW(E).smc and LW(E).ips will trigger soft patching at the emulator's run time.
+
+
+
+
+Emulator Compatibility:
+
+The patched game works fine in the emulators I have used: ZSNES and various SNES9X versions. If anyone experiences difficulties in any other platforms, I suggest you switch around until you find one that runs trouble-free.
+
+I also suggest you purchase the Japanese cartridge so that the use of our patch to convert the game to a form you understand will be legal.
+
+
+
+Special Thanks:
+
+To the "usual suspects"! I am shocked, SHOCKED that we have finally released La Wares - English!  Following in the footsteps of Princess Minerva, Chiffon, Michelda, and Agura have put Dynamic Designs back on track!  In the order of performing the most essential roles that made this possible, thanks go out to Eien ni Hen, Bongo`, Recca, Draken, and Taskforce!
+
+
+Dedicated to Red Soul. The door is always open.
+
+
+La Wares (English) Readme - Dynamic-Designs - 2018

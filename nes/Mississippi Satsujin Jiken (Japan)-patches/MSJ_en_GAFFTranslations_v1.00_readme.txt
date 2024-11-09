@@ -1,0 +1,172 @@
+                          Mississippi Satsujin Jiken
+                          English Translation Patch
+                 by GAFF Translations (pluvius3 @ gmail.com)
+                         v1.00 (Created July 20, 2017)
+--------------------------------------------------------------------------------
+
+
+*TABLE OF CONTENTS*
+ -----------------
+
+I.    VERSION HISTORY
+II.   INTRODUCTION
+III.  INSTRUCTIONS FOR USE
+IV.   KNOWN BUGS
+V.    CREDITS
+VI.   TECHNICAL NOTES
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+
+
+********************
+I.  VERSION HISTORY
+********************
+
+v1.00 (07-20-17):  First release.
+
+
+******************
+II.  INTRODUCTION
+******************
+
+This is an English translation patch for Mississippi Satsujin Jiken, the Famicom
+port of a Western 8-bit computer game named Murder on the Mississippi.  The
+original game was released on the Apple ][ and Commodore 64/128 by Activision
+while the port was released by Jaleco, all in 1986.  It is a Western-style
+adventure game wherein the main character is an accomplished British detective
+who investigates a murder aboard a Mississippi riverboat that he coincidentally
+happens to be on.  The game uses a fairly simple interface to interact with the
+various objects and suspects on the boat, and is pretty short once you know what
+to do, though getting to that point is not an easy matter.  The port is rather
+slapdash and is missing a fair chunk of gameplay as well as an entire character,
+and unlike the computer version, the port forces you down a much more linear
+path with frustratingly little hint that it's doing so.  However, it still makes
+an interesting exercise in hacking and the game itself is still text-heavy by
+1986 console standards.
+
+The fact that Mississippi Satsujin Jiken was originally a Western game makes it
+ideal for translation by someone with rudimentary Japanese skills.  As such, I
+have translated the game using the original script, though the Japanese script
+was technically different in some ways, most notably the names of the
+characters.  The already-written script combined with some other factors made
+this a relatively easy hack which took me about two weeks to make.  Please
+enjoy.
+
+
+***************************
+III.  INSTRUCTIONS FOR USE
+***************************
+
+1.  Download and install Lunar IPS or a similar IPS patcher if you haven't
+    already.
+	
+2.  Get a copy of the Mississippi Satsujin Jiken ROM.  No, I don't know where.
+    The correct ROM is identified by GoodNES 3.23b as the verified good dump.
+	
+3.  Apply the desired patch to the ROM using the aforementioned IPS patcher.
+
+
+****************
+IV.  KNOWN BUGS
+****************
+
+There are a couple of minor bugs introduced by this patch.  First of all, the
+attract mode stalls at the dialogue in Sir Charles' cabin due to the text now
+taking up more than one page.  You're not missing anything, though, and you can
+still return to the title screen by pressing a button.  The other bug is the
+occassional issue with text that seems to be oddly formatted, particularly with
+the saved conversations in the notebook.  As usual, I have left the title screen
+as-is, and anyone inclined to hack it should do so.  With this game in
+particular, the existence of an original English version should provide ample
+support for such an endeavor.
+
+There are also bugs that were in the port originally.  The most obvious one is
+graphical glitching during text output; this may have been exacerbated slightly
+by the patch.  Nothing should interfere with gameplay very much.
+
+
+***********
+V.  CREDITS
+***********
+
+Rob "Pluvius" Browning: Hacker, editor/tester
+Rob Swigart: Original script
+
+
+********************
+VI.  TECHNICAL NOTES
+********************
+
+Aside from the original English script, there were a number of circumstances
+which made hacking Mississippi Satsujin Jiken a lot simpler than it could've
+been.  Firstly, the developers wasted a lot of space, not only in terms of empty
+space but also in terms of space taken up by unnecessary data.  It appears that
+the porters had originally planned to make a game much closer to the computer
+version, but for whatever reason were incapable of doing so.  Because of this,
+they put in a lot of text translated straight from the original game, most of
+which never got used.  Getting rid of this text resulted in a great deal of
+savings.  Secondly, while the game uses multiple PRG banks for code and text,
+the text routine works in such a way that it's a relatively simple matter to
+hack it without worrying about which bank the text is in or which bank the
+Famicom is currently running code in.  Lastly, the developers implemented a
+nifty auto-pagination routine which allows for arbitrarily long passages of text
+to be put under only one pointer.  Therefore, I wasn't constrained by the window
+size and only had to worry about line length.
+
+The main hack was a DTE/dictionary routine.  However, I did not make use of
+dictionary compression because it didn't add much and that part of the routine
+is too slow to play well with the bankswitching that the game uses, causing
+really nasty audiovisual glitches.  Thankfully, DTE by itself was plenty enough
+to get the script in without any real changes aside from what was removed by the
+porters.  Other hacks included giving the text routine the ability to handle
+more than 256 characters at a time as well as fixing a bug in the original port
+that caused duplicated text in the 32nd column on occasion.  (Incidentally, I
+decided to use the entire 32-column space of the screen for text, though this
+wasn't strictly necessary.  I made that decision early on and changing it back
+to the original port's two-space padding would be a lot of work for questionable
+benefit.)
+
+While I removed a lot of text without 100% certainty that it was all dummied
+out, I playtested the game pretty thoroughly and am fairly confident that there
+are no issues and that what is there matches up as closely as possible with the
+original game.  If you run into a place where it seems like there should be text
+but isn't, please let me know.
+
+
+****************************************
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+****************************************
+
+Thanks to:
+
+Activision, for developing and publishing the original game.
+
+Jaleco, for publishing the port.
+
+Nintendo, for making the system this game runs on.
+
+Psyklax, for working on translation hacks of early Famicom games and inspiring
+me to do this one.
+
+KingMike, for providing a generic DTE/dictionary routine for 6502 processors.
+
+Klarth and RedComet, for creating Atlas, Cartographer, and ScriptCrunch, three
+script utilities that made editing the main block of text very much less
+tedious.
+
+The developers of FCEUX, the very useful debugging emulator which I used for
+this entire project.
+
+Romhacking.net, for hosting this hack and many others like it, as well as
+providing useful hacking information.
+
+The NESDev Wiki, the premier resource for NES hacking information.
+
+And, of course, you for reading and playing.
+
+Questions, comments, criticisms, and bug reports can be sent to
+pluvius3 @ gmail.com (without the spaces obviously).  Please put "Mississippi
+Satsujin Jiken" or something similar in the subject line so I will know what the
+email is about.  If you alert me to a bug, I will fix it in a future update and
+give you credit.
+
+Copyright 2017 GAFF Translations, all rights reserved.

@@ -1,0 +1,141 @@
+Great Maze: Master of the Maze
+v1.0
+July 17, 2006
+KingMike Translations (http://kingmike.emxuxhaven.net)
+
+***********
+INTROUCTION
+***********
+ You... must explore the mazes for some reason or another. :)
+ I dunno... maybe you want the treasure or something.
+ I don't know why, but you must.
+ This game doesn't have a plot.
+ But it does have you crawling around the mazes, trying to find the nine pieces
+ of a treasure. Then you have to find the exit.
+ Simple as that. Except you have a power meter that ticks down as you work your way
+ through the maze. If it runs out, you pass out.
+ Doesn't sound like much, and you don't get to kill anything in the game.
+ Yet, it still manages to be fun. And the music is pretty good (though it still get grating
+ if you're really stumped on one of the later levels.)
+ Though if Epoch had put a level editor in the game, this game would've been killer.
+ This game was originally published on November 30, 1990.
+
+****
+TEAM
+****
+ KingMike - graphics, text insertion, translation
+ filler - translation
+
+***********
+WHAT'S DONE
+***********
+ Should be complete.
+
+************
+WHAT'S BUGGY
+************
+ Nothing I know of.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+ I have included a RUP-format patch. Download Ninja from
+ D's site at http://ninja.cinnamonpirate.com, and apply it.
+
+ If that, or downloading the .NET framework, or using a
+ command line, is too difficult for you, I have also
+ included the traditional IPS format patch.
+ Download a program like Lunar IPS. Click Apply Patch.
+ Click on the original ROM and the IPS patch when prompted.
+ Pick the format you will and apply it.
+ Do not apply both. I don't know what will happen if you do.
+  
+
+****************
+EMULATION ISSUES
+****************
+ This game uses the Nintendo MMC1 mapper, and almost any
+  decent NES emulator supports this.
+  Many bad ones too.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+ On the title screen, select a choice with the pad, and press Start.
+  START: Begin from round 1 of the selected difficulty level (defaults to Easy)
+  CONTINUE: Enter a password to continue at the last round of the last difficulty level you played.
+  LEVEL: Choose a difficulty level (Easy, Medium, Hard, or Very Hard)
+
+ Controls:
+  D-Pad:
+   Up - move forward.
+   Left/Right - turn.
+   Select - View overhead map. As this is meant to be used only a hint, when you're stuck,
+     you will lose 3 hearts each time you open the map. Press Select again to close it.
+   Start - view radar. This doesn't show you the level layout, but it does show you:
+     Your location. You are a hollow red circle. If you have a compass, you will be shown as an arrow,
+     pointing in your current direction.
+     Red blocks represent the remaining treasures on the current floor (indicated in the corner).
+     The green block represents the level exit.
+     The blue circle represents the last landmark placed (by default, a landmark is placed at the start of
+      each level).
+     The above information can be checked, free of charge.
+   B Button - open item menu. Select a Bomb, Witches' Broom, or Power Ring here, and press A to use it.
+   A Button - not used in the main game.
+
+ Items:
+   You will find several items to help you in the mazes.
+    Hearts - Refills Power by 1 heart.
+    Power Pod - Increases power limit by 5 hearts, you will also recover 5 hearts. Lasts until you die or
+     finish the level.
+    Compass - Activates the needle on your compass on the main screen, as well as on the rader (Start Button).
+    Magic Glasses - extends how much of the maze layout is revealed on the map (Select Button, cost 3 hearts).
+   Usable items:
+    Bomb - blow up a wall with a bomb sign.
+    Power Ring - sets a landmark.
+    Witch's Broom - allows you to instantly return to the last landmark (a landmark is placed at the start of
+     each level, by default)
+
+ As you progress through each maze, you will find many billboards:
+  Cat - play a minigame for an item.
+  Heart - play the slot machine. Risk your remaining hearts for a chance at a refill.
+  Press Up when looking at the above walls to enter the minigame.
+  Bomb - you can blow up the facing wall with a bomb. Some areas can only be reached by finding a weak wall.
+
+ The minigames:
+  A strange creature will speak to you. Press A if you want to play a minigame, or press B if you don't want to.
+  If you do play, select a prize you will play for. Each prize from each location can only be won once.
+  A minigame will be randomly selected, and you will receive the item if you win. You will lose your
+  difficulty level in hearts if you lose (ie. lose 1 heart in an Easy maze, 2 hearts in a Medium-difficulty
+  maze, etc.)
+
+  The minigames:
+    The cube game (if you played Cu-On-Pa for the SNES, translated by Gideon Zhi, you know this game):
+      Turn the cube, but it can only roll onto a colored square if a matching-colored side of the cube would
+      fall on it. White squares cannot be rolled onto, black squares can be rolled onto regardless of color.
+      You must roll onto the "G" before you run out of rotations (indicated at the top of the screen).
+    The pipe-ladder game:
+      Move the guy over a pipe and press A to start. Then some rungs will appear between the pipes. The guy
+      will turn at every possible chance. You can remove a rung by selecting it with the d-pad and pushing A,
+      but only if you have some bombs left (indicated in the corner).
+      If your guy stops on a pipe containing the item, you win.
+    The card game:
+      Your opponents cards are shown briefly (the top row of cards, and the blue score).
+      On each turn, you must choose a card you think will be higher than his. If you're right, you get a point.
+      If you tie, nobody gets a point.
+      The one with the most points at the end wins (unfortunately, ties go to the computer).
+
+  If you reach the exit of the maze, while holding all nine pieces of the treasure, you win.
+  The game will tell you what level you finished, and which level is next.
+  Note that the name is also the password, so write it down.
+
+  There are seven rounds to the game. If you finish Round 7, you will go to Round 1 on the next difficulty
+  level. If you finish Round 7 of the Very Hard difficulty...
+
+*********
+COPYRIGHT
+*********
+Original game (c)1990 Epoch.
+English translation (c)2006 by KingMike and filler.
+I am not affiliated with Epoch.
+Do not distribute the game image ("ROM") and the patch.

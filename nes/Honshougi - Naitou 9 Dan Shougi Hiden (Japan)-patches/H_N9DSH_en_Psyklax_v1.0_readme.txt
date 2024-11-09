@@ -1,0 +1,120 @@
+HON SHOUGI - NAITOU 9 DAN SHOUGI HIDEN
+Translation by Psyklax
+v1.0 (20170714)
+
+CONTENTS
+1. Intro
+2. ROM Information
+3. Gameplay
+4. Final Thoughts
+
+INTRO
+This is a 100% English translation of Hon Shougi - Naitou
+9 Dan Shougi Hiden for the Famicom (NES), which has been
+renamed in this patch to Modern Shogi - Naito 9-Dan Shogi
+Secret. All Japanese text in the game has been translated.
+
+ROM INFORMATION
+I have included two patches: the first (honshougi-
+original.ips) keeps the playing pieces as they are in the
+original, for those players who are familiar with shogi and
+can identify the pieces. The second (honshougi-roman.ips)
+replaces the kanji on the playing pieces with Roman letters
+that accord to the English equivalents of the different
+types, for those who aren't familiar with shogi and need
+help identifying pieces.
+
+GoodNES name:
+Hon Shougi - Naitou 9 Dan Shougi Hiden (J) [!].nes
+CRC32: 7445451E
+
+GAMEPLAY
+Hon Shougi was released on 10 August 1985 by SETA
+Corporation. It allows you to play shogi - also known as
+Japanese chess - against a computer opponent, although you
+can't play against a human. Shogi shares many similarities
+to international chess, but some key differences too. It is
+played on a 9x9 board (rather than 8x8), with eight
+different types of playing piece (rather than six). The
+original Japanese names are known in English by names that
+relate to their international chess counterparts.
+
+You can find more information on the movements of each piece
+by reading the FAQ at GameFAQs:
+https://www.gamefaqs.com/nes/578247-hon-shogi-naitou-kudan-shogi-hiden/faqs/53797
+If you are using the patch that changes the pieces to Roman
+letters, they mean the following:
+P - Pawn, K - King, G - Gold General, S - Silver General,
+N - Knight, L - Lance, B - Bishop, R - Rook.
+
+In international chess, Pawns can be promoted to Queens if
+they reach the final row. In shogi, however, all pieces
+except the King and Gold General can be promoted if they
+reach the final three rows. This is optional, and it changes
+the piece's movement to that of a Gold General, as well as
+changing its colour to red (in regular shogi, the name also
+changes, but the Roman letters used in this patch don't
+change).
+
+The other key difference between shogi and international
+chess is the use of 'drops'. When you capture an opponent's
+piece, you can drop it on any unoccupied square. You cannot
+gain immediate promotion for the piece, but can do so on a
+subsequent move.
+
+One final note is that by pressing B, your player will say
+"Matta". This has been left untranslated as the phrase
+appears to be known in playing shogi internationally. It is
+used to take back a move - but to convince the computer to
+take both his and your move back, you must press at least 80
+(eighty) times, so you can't do it accidentally.
+
+On the main menu, there are some options to affect your
+game. You can choose to play first or second, and also
+create handicaps for either you or the computer. The first
+removes the Rook, the second removes both the Rook and the
+Bishop. Finall, you can invoke a time limit for your moves,
+which can be enabled for any of the previously mentioned
+modes.
+
+FINAL THOUGHTS
+Another fun little translation for me. There wasn't a
+massive amount of hacking to do, just a few bits here and
+there. I knew it would be pretty easy given the tiny amount
+of text, but I think the result is pretty good.
+
+In case you're interested, here's some notes regarding the
+title. The original name doesn't have "Hon Shougi" - meaning
+modern shogi - on the title screen at all, but it is printed
+on the actual cartridge, so I included it on my translated
+title screen. The "Naitou 9 Dan" part refers to Kunio Naito,
+a well-known shogi grandmaster and singer, who has a level
+of 9-Dan (as shogi uses a system similar to martial arts for
+grading players). Perhaps the "Shogi Secret" in the title
+suggests that he has some secrets to share, but I have no
+idea.
+
+I actually found a set of Chinese numerals in amongst the
+game's graphics. It would be trivial to replace them with
+Arabic numerals, but I just couldn't see them used anywhere
+in the game, and I can't really see where they could be
+used. So I left them as they are. If anyone plays this patch
+and notices that the numerals do actually appear at some
+point, please let me know!
+
+This is my third board game that I've translated (after
+Gomoku Narabe Renju and Mahjong, both on the Famicom), and I
+like them because they're just so easy to do. Not much text
+to translate, but it's still worth translating if anyone
+wants to give the games a try. So I hope you enjoy doing
+just that!
+
+Tools I used for this translation:
+FCEUX (best NES emulator for debugging and hacking)
+HxD (general hex editing)
+WindHex32 EX (checking text)
+Tile Molester (graphics)
+GIMP (designing the title screen)
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

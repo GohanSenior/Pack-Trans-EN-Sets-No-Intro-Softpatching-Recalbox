@@ -1,0 +1,42 @@
+Cosmic Epsilon
+English Translation V 1.0
+Copyright 2008 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Cosmic Epsilon
+2.Patch History
+3.Patch Credits
+4.Known Issues
+
+---------------------------
+1.About Cosmic Epsilon
+---------------------------
+Cosmic Epsilon is like a 3D shooter for the Famicom. I guess it's alright, but I don't really have the patience for it. I guess it's got a few jokes in it for example, doing the Konami and Namco code on the title screen and the credits are bizarre. So check the game out.
+---------------
+2.Patch History
+---------------
+What's done:
+
+-Everything!
+
+---------------
+3.Patch Credits
+---------------
+
+Me- Hacking
+FlashPV- Created and hacked in a graphic
+Darthnemesis- Translated credit
+
+--------------
+4.Known Issues
+--------------
+None.
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 

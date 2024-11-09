@@ -1,0 +1,205 @@
+
+     ___              __                        _                   
+    /   \___ _ __    / /  __ _ _ __   __ _ _ __(_)___ ___  ___ _ __
+   / /\ / _ \ '__|  / /  / _` | '_ \ / _` | '__| / __/ __|/ _ \ '__|
+  / /_//  __/ |    / /__| (_| | | | | (_| | |  | \__ \__ \  __/ |
+ /___,' \___|_|    \____/\__,_|_| |_|\__, |_|  |_|___/___/\___|_|
+                                     |___/                     [1.3]
+
+     In ancient times, people had to battle in order to survive.
+        Their battle for an affluent kingdom became a legend.
+               That legend is known as ... Langrisser.
+
+
+                                           .:[about the translation]:.
+----------------------------------------------------------------------
+
+The Der Langrisser translation project was founded on the ruins of
+No-Life Translations, a group formed in 2000 to carry on the work of
+Warui Toransu from 1998. Despite this history, no work created by
+Warui Toransu is contained in this translation.
+
+Derrick Sobodash and John Grathwohl met in 2001 through their work
+in the English-language Langrisser community. After the former group
+fell apart, Sobodash carried on the translation effort with the help
+of byuu, author of the bsnes emulator and an expert in programming
+for Super Nintendo hardware.
+
+With byuu's help, the translation was able to achieve much of what
+had been deemed impossible by other prominent programmers.
+
+Having spent seven years on this game, we can say with confidence that
+Der Langrisser is one of the most sloppily-programmed SNES titles.
+Frequent glitches that cause character graphics to corrupt during
+play are a testament to its multitude of problems.
+
+Our team has remedied many known glitches for the English translation.
+Several blocks of dialogue where the Japanese game showed the wrong
+character portrait were corrected and the game's math engine
+was updated to show negative numbers in all menus. Perhaps the oddest
+glitch was one which prevented the player's selected name for Erwin
+from being used during the ending dialogue.
+
+In addition to bug fixes, our team has made numerous improvements
+to the game itself.
+
+The number of colors used in the game fonts was tripled, and we have
+designed seven new typefaces for the game using an actual television
+screen to account for horizontal stretching.
+
+Every window in the game has been hacked, repositioned and scaled
+to make the English version use less screen space than even the
+Japanese original. We also created new dialogue window colors
+based on later Langrisser remakes.
+
+At seven years to complete, Der Langrisser was one of the longest
+fan translation projects in existence at the time of its release.
+
+
+                                                           .:[story]:.
+----------------------------------------------------------------------
+
+Since the dawn of time, the men and women of El Sallia have grappled
+with the threat of Darkness.
+
+In the flames of an ancient age of war, the Holy King Sieghart gave
+his soul to forge Langrisser, a sword to vanquish evil. Aided by
+the power of Light, mankind banished the Darkness to the desolate
+land of Velzeria. When the war concluded, the descendants of Lewin,
+first king of Baldea, were charged with the blade's safekeeping.
+
+Centuries passed, and the greed of a would-be Kaiser wrested the
+blade from Baldea's grasp to unleash Darkness upon the land once more.
+The surviving prince of the fallen kingdom and his comrades defeated
+the Darkness and put to rest an evil god.
+
+In the following years, Baldea lost its influence and fell into ruin.
+The kingdom's sole heir escaped with his fencing instructor.
+
+Today, a new nation has risen to power in El Sallia. Under
+the leadership of Kaiser Bernhardt, a former mercenary bent on uniting
+the lands no matter the means or the cost, the Rayguard Empire
+has claimed Alhazard, the sword of the demon tribe.
+
+An unknown magician supports him and his Four Heavenly Dragon Generals
+from the shadows in their campaign. The quest has been long and
+bloody, and few nations dare to stand against the imperial powers
+aside from Kalxath, a kingdom only a few centuries old.
+
+It was in these times that Erwin, a young swordsman, was roaming the
+lands of El Sallia with his friend Hein, a magician. The two friends
+had traveled to many towns on their journeys and learned
+of the people's bitterness.
+
+Their journeys brought the two to a small village on the outskirts
+of Salrath, a territory once allied with Baldea.
+
+One day, General Leon of the Imperial Blue Dragon Knights rode into
+town seeking Liana, a young village girl and shrine maiden whom Hein
+had known since childhood. As the chaos of battle engulfed
+the village, the two men set out to stop the Imperial forces.
+
+Unfortunately, capturing Liana was only the beginning of the Empire’s
+ambitions...
+
+Why were the most honorable knights in the land now petty kidnappers,
+and why was Liana a target at all?
+
+None could say for certain, and the quest for an answer would teach
+Erwin more than he could ever imagine.
+
+
+                                                        .:[controls]:.
+----------------------------------------------------------------------
+
+Directional Pad – Moves the game's cursor up, down, left or right
+SELECT Button   – Display unit's move range
+START Button    – Open scenario menus
+B Button        – Cancel action / Close menu
+A Button        – Confirm action / Open menu
+Y Button        – Move cursor to next available commander
+X Button        – Speed up scrolling of the screen
+L Trigger       – Unused
+R Trigger       – Toggle display of unit HP and attributes
+
+
+                                                         .:[changes]:.
+----------------------------------------------------------------------
+
+Revision 1.3 (2012/10/23)
+
+* Restores Elementals to working order by overwriting the game's
+  unused Demon class
+* Hand-kerned item stats to remove wasted space
+* Corrected item descriptions that did not match internal game data
+* Removed "Gold" from inventory listing for aesthetic value
+* Lowered "Spoils of War" text and raised integer height to be flush
+  with bottom of "P" (improves visual alignment)
+
+Revision 1.2 (2008/04/01)
+
+* Rewrote a considerable amount of dialogue
+* Reworded several lines which were translated based on faulty
+  assumptions of who the speaker was
+* Corrected a bug in the original game which caused Lana's injured
+  portrait to appear in the end of Scenario 35
+* Corrected a bug in the original game which listed Elementals as
+  hireable units
+* Enabled the dummied out class Demons as a hireable unit for
+  Living Armour.
+
+Revision 1.1 (2007/07/10)
+
+* Corrected a formatting error that rendered Scenario 27 unplayable
+ 
+Revision 1.0 (2007/07/08)
+
+* Initial release
+
+
+                                                    .:[instructions]:.
+----------------------------------------------------------------------
+
+This Der Langrisser translation is distributed in "beat" format.
+
+You can get the latest version of beat from byuu's homepage (byuu.org)
+or from ROMHacking.net (romhacking.net/utilities/893/).
+
+The patch file derlangrisser-1.3.bps is intended for use on a
+Revision 1.1 ROM with the checksum 35f9eecc. You may need to remove
+the game's 512-byte header if your checksum is incorrect.
+
+1. Run beat.exe and click "Apply Patch".
+
+2. Select the appropriate patch using the file browser.
+
+3. Select your unpatched Der Langrisser ROM. This is commonly named
+   "Der Langrisser (J) (V1.1).sfc"
+
+4. Enter a file name for the new rom the patcher will create.
+   I suggest "Der Langrisser.sfc"
+
+The resulting patched game will work in any Super Nintendo emulator,
+but we recommend using bsnes to prevent glitching.
+
+
+                                                         .:[credits]:.
+----------------------------------------------------------------------
+
+Programming: byuu
+Translation: Derrick Sobodash, Eddie Stemkowski, Hsing Chen,
+             Benjamin Whitting, ElfShadow and Haruka
+Editing:     John Grathwohl, Derrick Sobodash, Tyson Anderson and
+             Eric H. Krieger
+Graphics:    Derrick Sobodash
+Typefaces:   Derrick Sobodash
+
+
+                                                           .:[notes]:.
+----------------------------------------------------------------------
+
+For more game information and unit data, visit El Sallia, the
+community-created Langrisser wiki:
+
+http://elsallia.com/langrisser_ii
+

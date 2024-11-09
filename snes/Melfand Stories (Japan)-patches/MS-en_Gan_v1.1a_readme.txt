@@ -1,0 +1,45 @@
+Melfand Stories (メルファンドストーリーズ)
+Developed by Sting Entertainment / Published by ASCII in 1994
+(English Translation by Gan v1.1)
+
+
+1. Installation
+
+Apply the IPS patch to the No-Intro "Melfand Stories (Japan).sfc".
+
+If you want to have proper english punctuation and don't care about the original japanese graphics, pick the "-optional" patch instead. Changes the aesthetics slightly, see png for reference. Original is recommended.
+
+
+2. Game Summary
+
+This is a complete english translation of Melfand Stories for SFC/SNES. The game is a side-scrolling arcade like action game, with nice graphics and simple gameplay. The branching story is set in a stereotypical, but charming fantasy setting. Depending on the hero that you play and the paths that you choose, you get a little bit backstory about the characters. One of 3 companions will support you in the final battle. Game features 9 Levels totsal and is kind of short.
+
+
+3. Translation Notes
+
+Many parts of the game are already in english, these parts got translated:
+- Intro
+- Character profiles
+- Endings
+- Dialogues
+- Music Titles
+
+There isn't much space for text on the screen, basically just 1-2 lines with max 32 characters. The script was translated with these restrictions in mind for roman alphabet.
+
+On the character profile screens, the "RG" stands for "Range" and the hearts indicate the attack range, it's not in the original game but there was extra space for that.
+
+
+4. Game Tips from the Manual
+
+- You get an extra credit at 20k score and then every 40k
+- When you press down while jumping, you will be invincible for a moment
+- Press R and you can attack the other playable character (no damage is dealt though)
+- The little Thief guy that runs across the screen and tries to steal your items, wait until he stole from you, then attack him to get an extra apple
+- Necklaces give resistance
+
+
+5. Changelog
+
+v1.1a - option for proper english punctuation
+v1.1 - fixes and adjustments to the script
+v1.0 - initial translation release

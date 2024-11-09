@@ -1,0 +1,84 @@
+====================================================================================
+
+		     2 0 2 1
+
+		POLINYM PRESENTS
+
+
+	         A T   F I R S T .
+
+   		T H E R E   A R E
+
+       		  Q U I R I N O,   
+
+	       M E G A K O O P A X
+
+		   A N D . . . 
+
+
+ 		F I R E   E M B L E M
+	Shadow Dragons and the Blade of Light
+
+		 Retranslation 2021
+
+
+	This is a complete translation of Fire Emblem:
+Shadows Dragon and the Blade of Light (a.k.a. Dark Dragon and
+the Sword of Light, Shadow Dragon and the Blade of Light,
+Ankoku Ryuu to Hikari no Tsurugi, etc.) created from scratch
+by Polinym.
+
+	Translation-wise, this patch features original translation
+by Polinym, with much of the phrasing and dialogue based on the
+Mystery of the Emblem Book 1 translation by RPGuy96 and VincentASM.
+(Monshou hack: https://www.romhacking.net/translations/961/)
+(Script reference: https://serenesforest.net/mystery-of-the-emblem/scripts/)
+
+	All of the text was checked against the original Famicom version for accuracy,
+and some edits were made to that end. Some portions, especially the text absent from 
+Mystery of the Emblem, are original translations by Polinym (with the previous 
+fan-translation by Quirino and official Switch "translation" used for reference).
+
+	Regarding names and termonology, this translation aims to remain faithful
+to Shouzou Kaga's original Japanese creation while using official termonology where
+accurate and appropriate. Examples:
+
+Japanese	Polinym's Translation	Official Localization
+
+MARUSU		Mars			Marth
+
+RIFU		Wryf			Wrys
+
+BIRAKU		Biraku			Vyland
+
+RERAIBUnoTSUE	Relive (Staff)		Mend (Staff)		
+
+ARITIA		Aritia			Altea
+
+DEBIRUMOUNTEN	Devil Mountain		The Ghoul's Teeth			
+
+kurokishidan	Sable Order		Sable Order
+
+BOHA		Boah			Boah
+
+GATO		Gatoh			Gotoh			
+
+	In the name of accuracy, this translation does also not alter the
+bits of "Engrish" text (except fixing the names of characters).
+
+	In comparison to the other fan-translations for this game, this hack features
+expanded text boxes to fit more text in and thus be more accurate.
+
+	This hack has been tested to ensure that no bugs occur. However, it is possible
+that I, Polinym, may have missed a line. I reccommend that you use save states at each
+chapter if possible, because the game may crash if it encounters an incorrect pointer.
+You should be able to beat the game with no issues. Also, chapter names in the
+ending are shortened due to restrictions. The epilogue endings for each character
+got a bit mixed up, too, but should work fine.
+
+	This patch is to be applied to a clean original Japanse ROM of
+		Fire Emblem: Ankoku Ryu to Hikari no Tsurugi.
+
+		S O M E   D A Y ,   S E E    Y O U   A G A I N!
+
+====================================================================================

@@ -1,0 +1,16 @@
+Amazing Spider-Man, The - Lethal Foes
+2015 Ver 1.0 English Translation by kepeb
+
+
+I am proud to present a working and complete SNES translation of the 1995 Super Famicom
+title, which was only released in Japan, and is arguably the best Spider-man title for
+the SNES. This is quite a rare cartridge, and one of the most requested remaining SNES
+translations online. During this project I have gained a new found respect for the amount
+of patience and dedication it takes to do this kind of thing. I hope you enjoy it...
+
+
+Apply ips patch to:
+Amazing Spider-Man, The - Lethal Foes (Japan).sfc
+CRC32: 82f7f710
+MD5: 43d5d11a37c66a435fed06aa87dbbdff
+SHA-1: 94763d6fc3216082e33cafbecb1e737ef3c5bda9

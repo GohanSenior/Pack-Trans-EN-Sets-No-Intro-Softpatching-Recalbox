@@ -1,0 +1,472 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Wai Wai World 2 - SOS!! Paseri Jou   
+  Wai Wai World 2 - SOS from Parsley Castle
+  English Translation Patch
+  Version 1.01
+
+  Created by Vice Translations
+             http://vice.parodius.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+*NOTE* Please do not distribute the patch file without this documentation, since
+       it contains important information.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CONTENTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1 - Version History
+
+2 - Project History
+
+3 - How To Patch
+
+4 - Controller Functions
+  4.1 - Side Scrolling Mode
+  4.2 - Twinbee [Bells and Whistles] Mode
+  4.3 - Racing Mode
+  4.4 - Gradius/Parodius Mode
+
+5 - So who are these guys anyway?
+
+6 - What tools did you use on this project?
+
+7 - So... what emulators can run this?
+
+8 - Okay, what did you leave untouched?
+
+9 - Hey! Where the heck is the manual you mentioned before?
+
+10 - Anything else you want to tell us, Kitsune?
+
+11 - And who were the culprits that ruined this game for us?
+
+12 - To whom do you owe respect?
+
+13 - And who can go to hell?
+
+14 - Standard Disclaimer Text
+
+15 - And finally, do give credit where it is due, please.
+
+
+------------------------------------------------------------------
+1 - Version History:
+------------------------------------------------------------------
+Version 1.01 [10628 bytes] [October 11, 2003]
+ There was -one- untranslated graphic in the game, during the
+ Puzzle World bonus stage. When Konami Girl's balloon popped, the
+ sound was represented by Katakana symbols. It's now changed to read
+ "Pop!".
+
+Version 1.00 [10560 bytes]
+ *All done 'cept, er, nothing!*
+ The damned title screen is NO MORE~! *Dances*
+
+Version .99 [7855 bytes]
+ *All done 'cept the title*
+ As the title says, everything's done except the damned title screen.
+
+Version .90 [6982 bytes]
+ *The not so quite fully complete version* - 
+ All the text is done!!!!!!! All that's left is:
+  -The Title Screen
+  -The little scroll in the game map
+  -The Kanji in the Car Races
+  -The "Puzzle World" Logo
+
+Version .23 [3514 bytes]
+ *The version I finished before going to sleep* - Unreleased
+ Whew... all of the song names are in, and half of the sound names are there
+ too. I'm off to bed...  [9-13-2000]
+
+Version .15 [2150 bytes]
+ *The version that started maiming Akujin's translation* - Unreleased
+ I had to move stuff around, and I added some more letters and scrunched
+ names. Oh, the intro dialogue is in! [9-13-2000]
+
+Version .05 Beta [1930 bytes]
+ *The Version that stole Toma's font and got away with it*
+ I've just inserted the font, there is nothing translated yet, but the game 
+ will be hacked partially soon! 
+
+------------------------------------------------------------------
+2 - Project History:
+------------------------------------------------------------------
+
+April 21-22, 2001
+ Finally figured out the problems I was having with the title screen. It turns
+ out that the Konami programmers used certain codes that I could not touch
+ under any circumstances, else the title would go to hell. So I used only the
+ parts that were not protected. The result? Well, go and play it for yourself,
+ you'll see. *grin* Also, I nearly used all of the tiles in the block for that
+ title screen. Makes me wonder how do they do those titles anyway, it's hard o.o'
+
+ That title screen is an adaptation of Prez's original concept, which was way
+ cooler. It had a swirly circle behind the title. Anyway, that title proved to
+ be impossible to implement, in part because of the control codes in the game,
+ and in part due to Prez needing more tiles that the game had available.
+
+ Anyway, Prez couldn't do the title screen because of personal conflicts, but
+ I still appreciate him designing the title for me. If it wasn't for him, this
+ would never have been completed fully! ^_^
+
+April 11-12, 2001
+ Edited the remaining parts. Except the title screen. But it's done... finally
+ done!
+
+September 29 & 30, 2000
+ It's done! If only someone would come and vanquish those parts I'm missing...
+
+September 15, 2000
+ Got the Minibosses CD! ^_^ Yah, I know... can't a guy brag? ;D
+
+September 14, 2000
+ Gah! I started all over again so I could use some tiles I had ignored,
+ and now I have 20 more tiles to use! ^^;;;;;;;; Thanks to Translhextion, I
+ quickly transferred the dialogue from one version to the other, with just a
+ simple script dump!
+
+September 13, 2000
+ Moved stuff around, and accidentally deleted the new graphic for the map =P
+
+August 30, 2000
+ Partial script dumps have been made [the introduction, the song names and the
+ sound names]. Unfortunately, the rest of the script is spread out within the
+ rom at random. So the remaining parts will have to be translated using
+ screenshots [Ack! O_o]
+
+August 24, 2000
+ I've just started... anyone wanna help out translating? ^_^;
+ 
+--------------------------------------------------------------------------------
+3 - How To Patch
+--------------------------------------------------------------------------------
+
+  First, get yourself an IPS patching program. Follow the instructions that
+  came with the program. Ta-Da! I reccomend that you go to Zophar's Domain
+  [http://www.zophar.net/] and look there. Do not bother me with questions on
+  how to patch! (You will be ignored if you do.)
+
+------------------------------------------------------------------
+4 - Controller Functions
+------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+4.1 - Side Scrolling Mode:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Directional Pad 
+  Right - Makes your character move right. 
+  Left -  Makes your character move left. 
+  Up -    Unused. 
+  Down -  Unused.
+Select Button 
+  Unused.
+Start Button 
+  Pauses the game.
+A Button 
+  Makes your character jump.
+B Button 
+  Makes your character attack
+
+Special Commands
+  Hold the B Button until your character is flashing, and release: This makes
+  your character use the Hyper Battery and execute an Ultimate Attack.
+
+Press the A Button + Up on the Directional Pad
+  Makes Rickle use the Konami Transformation Chip and change into...
+  *Cue Sentai-style music* one of the five Konami Heroes! *POSE*
+
+Transforming into a Konami Hero
+  First, Rickle must collect a Call Battery [A ball with a C in the middle] As
+  you see, the bar on the status screen will start to flash. When the icon
+  representing the character that you want to change to is flashing, press
+  A + Up at the same time to change into that character.
+
+  You have sixty seconds of transformation time. After it ends, you will return
+  to Rickle mode. You can, however, recover 20 seconds of transformation time by
+  picking up a First Aid box. But you can't have more than sixty seconds of
+  transformation time at once.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+4.2 - Twinbee [Bells and Whistles] Mode:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Directional Pad 
+  Right - Makes Twinbee fly towards the right side of the screen. 
+  Left -  Makes Twinbee fly towards the left side of the screen. 
+  Up -    Makes Twinbee fly upwards. 
+  Down -  Makes Twinbee fly downwards. 
+Select Button 
+  Unused.
+Start Button 
+  Pauses the game.
+A Button 
+  Makes Twinbee drop a bomb at a ground-based enemy.
+B Button 
+  Makes Twinbee shoot.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+4.3 - Racing Mode:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Directional Pad 
+  Right - Makes you drive towards the right side of the screen. 
+  Left -  Makes you drive towards the left side of the screen. 
+  Up -    Makes you drive upwards. 
+  Down -  Makes you drive downwards. 
+Select Button 
+  Unused.
+Start Button 
+  Pauses the game.
+A Button 
+  Makes you jump.
+B Button 
+  Makes you shoot missiles [if equipped].
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+4.4 - Gradius Mode:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Directional Pad 
+  Right - Makes Vic Viper/Metalion fly towards the right side of the screen. 
+  Left -  Makes Vic Viper/Metalion fly towards the left side of the screen. 
+  Up -    Makes Vic Viper/Metalion fly upwards. 
+  Down -  Makes Vic Viper/Metalion fly downwards. 
+Select Button 
+  Unused.
+Start Button 
+  Pauses the game.
+A Button 
+  Activates the powerups.
+B Button 
+  Makes Vic Viper/Metalion shoot.
+
+------------------------------------------------------------------
+5 - So who are these guys anyway?
+------------------------------------------------------------------
+Super Robot Rickle [Rikkuru]:
+   Special Ability - Double Jump
+   From: Wai Wai World 2
+   He has the ability to jump twice as high as the other characters, by pressing
+   A just as he starts to fall from a regular jump. His attack is a straight
+   shot, that doesn't travel very far away from him. He's the only one who can
+   die by losing all his hearts.
+
+Ishikawa Goemon [The guy with the black hair]
+   Special Ability - Pipe Boomerang Attack
+   From: Legend Of The Mystical Ninja / Mr.Goemon / Ganbare Goemon
+   He attacks by throwing his pipe. However, when he throws it, it flies back
+   towards him! It can hit anyone or anything even when it is flying back at
+   you! ^^ Pretty useful! It flies very far too!
+
+Upa [The Baby]
+   Special Ability - Cloud Maker
+   From: Bio Miracle Boku tte Upa!
+   When he [she? :|] hits an enemy, he [she?] turns him into a cloud, which he
+   [she?] can use to climb to higher places. Oh, and his [her?] size allows him
+   [her?] to fit in small places [I think]. Oh, he [she?] must attack very
+   closely to the enemy. Upa is also the only one that can swim.
+ 
+Simon Belmont [The guy in the upper right corner]
+   Special Ability - The Vampire Killer [the whip]
+   From: Akumajou Densetsu / Castlevania III: Dracula's Curse
+   Uh... I've got no clue as to what can he do. Actually, he has very good
+   attacking distance,  but like the old Castlevania games, he can only use the
+   Vampire Killer [the whip] towards his front.
+
+Bill Riser [The blond guy]
+   Special Ability - 4-way Machine Gun [^^]
+   From: Contra / Gryzor
+   Ha! Now this guy really rocks! It's player one from Contra, in SD form! He
+   can shoot in four directions [up, right, down, and left] when he's jumping.
+   Sorry folks, no diagonals in this game [>_<]. His bullets reach all the way
+   to the end of the screen. Good attack power, as well.
+
+Fuuma [The guy with the red hair]
+   Special Ability - The Hadouken blade
+   From: Getsu-Fuuma Den
+   The best attack power in the entire game! His attack covers his entire front
+   and part of his head. But you have to be really close to the enemy to hit it.
+   The good thing is, that most regular enemies die with just one slash. So
+   he has a distinct advantage over the rest of the characters.
+
+------------------------------------------------------------------
+6 - What tools did you use on this project?
+------------------------------------------------------------------
+ Translhextion 1.5 & 1.6 [http://januschan.romhacking.com/] 
+ - Script dumper, editor, re-inserter and optimizer
+
+ Tile Layer .50b
+ Tile Layer Pro 1.0 [http://snowbro.romhacking.com/]
+ - Graphic editing
+
+ Microsoft Notepad 
+ - Table maker
+
+ Macromedia Fireworks 1[Full] & 3[Demo]
+ - Gif images and basic image editing
+
+ Famtasia Ver5.1 
+ - Game testing platform
+
+ Rocknes 1.2 [http://rocknes.emuviews.com]
+ - Game testing platform
+
+ NESten 0.6 Beta Final [http://tnse.zophar.net/] 
+ - Game testing platform
+
+ JWPce [http://www.physics.ucla.edu/~grosenth/jwpce.html]
+ - Japanese dictionary, japanese table maker and script dump editing
+
+ NJStar Communicator [http://www.njstar.com/]
+ - Kanji/kana table insertion
+
+ Compton's Interactive Encyclopedia [1996 Edition]
+ - Has one hell of a thesaurus... ^_^
+
+ Caffeine 
+ - ENERGY!!!!!! *walks like a Zombie*
+
+
+------------------------------------------------------------------
+7 - So... what emulators can run this?
+------------------------------------------------------------------
+ - Unofficial Nester (by TAKEDA, Toshiya)
+ - Rocknes (By Fx3 - Discontinued).
+ - Famtasia Ver 5.10.
+
+  I apologize to Mac OS/Linux/BeOS/ or other Os users, I only have Windows 98
+  and DOS. Just be sure that your emulator supports mapper #21.
+
+  Please consult your favorite emulation sites for information on these
+  programs. Emails concerning this will be ignored.
+
+
+------------------------------------------------------------------
+8 - Okay, what did you leave untouched?
+------------------------------------------------------------------
+  Nothing~!
+
+------------------------------------------------------------------
+9 - Hey! Where the heck is the manual you mentioned before?
+------------------------------------------------------------------
+  I screwed it up =D Unfortunately, I will not create it in HTML format; there
+  is no way that I can assure that everyone can view it in the way I intended
+  it to be seen. So, I'll try to whip up an FAQ! Hopefully, 2 to 3 weeks after this
+  file is posted, I'll write one up with my findings ;D
+
+------------------------------------------------------------------
+10 - Anything else you want to tell us, Kitsune?
+------------------------------------------------------------------
+
+  Well... be sure to play the games that spawned the characters that appear
+  in the game! All of them are great, especially Bio Miracle Bokutte Upa!
+  Who would have thought that playing as a baby could be so gratifying?
+
+  /*Begin Plug*/
+  Ganbare Goemon, Getsu-Fuuma Den, Akumajou Densetsu, Contra/Gryzor and
+  Twinbee 3 have english translation patches created by other, more
+  experienced groups; you can get them all at The Whirlpool
+  [http://donut.parodius.com/], RPGd [http://rpgd.emulationworld.com/],
+  or SGC [http://sgc.emu2k.com/index.phtml]. I would give out the addresses
+  to each group's site, but some are either discontinued, vanished, or just
+  changed their site address. Please refer to these sites for more info on
+  the games, the patches, and the groups themselves.
+  /*End Plug*/
+
+  If you like my patch, feel free to send praises, rolls of quarters,
+
+------------------------------------------------------------------
+11 - And who were the culprits that ruined this game for us?
+------------------------------------------------------------------
+
+ Kitsune Sniper -Me ^_^
+  Game hacking, script editing, project leader.
+  Email: kitsune@terra.com 
+
+ Akujin -Great Talent!
+  Almost complete Script Translation
+  Email: akujin_@hotmail.com
+
+ Prez [http://prez.lfx.org]
+  Original title screen design (which I later maimed :P)
+
+ Special Thanks to:
+  Pelrun
+  He did a spot translation that saved the project 'cause I forgot to
+  send 6 frickin' pics to Akujin [... >_<]
+
+
+
+------------------------------------------------------------------
+12 - To whom do you owe respect?
+------------------------------------------------------------------
+IRC:
+ #romh****
+ #mugen
+ 
+People:
+ Gideon Zhi, satsu, Arina, |pkiss, Avicalendriya, and too many other folks
+ that I can mention in such limited space - 
+           For bearing with my whining and being cool even though I'm mexican.
+           Heh, I'm -the- mexican in d4 sk33n ^-^
+
+ Demi - 
+           He translated part one, Wai Wai World (Konami World). Also for
+           being just plain creative. Yeah.
+ 
+ Mizuki Takase -
+           Patience, patience, lotsa patience.
+           Wish I had even a little bit of yours ^^
+
+ NeoGouki - 
+           The coolest gay guy I must avoid at all costs.
+           [I told you I'd mention you in a Readme file, sensei. I just didn't
+            say -what- file ^_-]
+
+ Adle - 
+           For being a b****, and not caring one bit about it ^_^
+
+------------------------------------------------------------------
+13 - And who can go to hell?
+------------------------------------------------------------------
+  Guillermo Alemán. Si tElo conoces, no confú‚s en él. Hazme caso. Y si estás
+  leyendo esto, Billydiota, que te sientes sobre un burro durante la primavera en
+  cuanto tu madre lo desocupe! >=P
+
+  [Note to all english-only readers: I basically told the guy above to screw a
+  donkey after his mother has finished up using it(the donkey); so it's a 
+  f***-you message directed to him. Pardon the language, but he truly deserves
+  it; his arrogance and stupidity exceeds my tolerance levels.]
+
+------------------------------------------------------------------
+14 - Standard Disclaimer Text
+------------------------------------------------------------------
+  There is no videogame company or any other company associated with
+  Vice Translations [be it current or former members]. In no event shall
+  Vice Translations be liable or responsible for any damages that may
+  occur from direct, indirect or consequential results of the ability or 
+  disability to use or misuse any material it provides.
+  
+  In other words, you'd better own the cart for the rom that you're patching
+  [insert hysterical laugh here], and if something goes wrong, don't blame me!  
+
+  Also, this patch must never be distributed with the rom. The zip file must
+  -not- be modified in any way, including [but not limiting to] archive
+  renaming, adding a file to the original zip [like a file that indicates
+  where you got the zip file], and the like.
+
+  If you post this file, or news pertaining to the file in your website [be it
+  an emulation news site, or a fan site] please notify me so that I may give
+  your site a visit! ^^
+
+
+------------------------------------------------------------------
+15 - And finally, do give credit where it is due, please.
+------------------------------------------------------------------
+
+ Wai Wai World 2 - SOS!! Paseri Jou, Castlevania/Akumajou Densetsu, Quarth,
+ Contra/Gryzor, Gradius, Frogger [Yes, Frogger], TwinBee [Bells and Whistles],
+ Goemon, Getsu-Fuuma Den, and all related names, indicia and characters 
+ are trademarks of Konami. Copyright 1984-2001 Konami. All other names and
+ programs mentioned in this document are trademarks of their respective owners.
+
+ Patch not for sale. Patch © 2000-2001 Kitsune Sniper.

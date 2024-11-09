@@ -1,0 +1,178 @@
+FAMICOM MINI - SUPER ROBOT WARS 2
+ENGLISH TRANSLATION V0.99 BETA
+Copyright 2013 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+0.FOR VBA USERS
+1.About Super Robot Wars 2
+1.5 About Famicom Mini Super Robot Wars 2
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+6.Optional Patches
+
+
+---------------
+0.FOR VBA USERS
+---------------
+You'll need to add the following to your vba-over.ini file to get it
+to play SRW2 if it isn't already present.
+
+# SRW2
+[FSRJ]
+saveType=1
+mirroringEnabled=1
+
+------------
+1.About SRW2
+------------
+SRW2 is a strategy game for the NES featuring licensed characters from
+several Bandai mecha properties. It's the first game in the series to
+have any real plot, the first game to introduce original characters,
+and the first game in the original SRW canon. It's a little primitive
+by some standards, but is nonetheless a reasonably fun entry in the
+series.
+
+The SRW2 translation was abandoned several years ago when it became
+apparent that ROM space was at a premium. As it turns out I didn't
+really know what I was talking about. ROM space *is* at a premium in
+a few places - notably where the system information such as unit, weapon,
+and pilot lists as well as the various interfaces are stored - but it's
+abundant in other places. With a little low-level hacking the script
+was fit back into the game with minimal fuss. That said, I did run into
+a really nasty issue with the Units map option; the original developers
+did not budget for more than 256 tiles to be printed to the screen at
+any given time, and I needed ~270 to render everything properly. The
+issue is fixed, but me-from-ten-years-ago probably would not have been
+able to handle it. So it all worked out in the end I guess, if for
+different reasons than initially stated.
+
+In any case, I picked the game back up a few years backed. Dumped the
+script, casually hunted around for someone to translated it. The duty
+was picked up by TheMajinZenki (JoJo, Royal Stone, TwinBee) in March
+or so, and he finished in about a month. It took a while before I was
+able to reinsert the system text, but once that happened, things moved
+forward quickly and the final patch is now in your hands.
+
+---------------------------
+1.5 About Famciom Mini SRW2
+---------------------------
+The Famicom Mini version of Super Robot Wars 2 was released as an
+extremely limited-edition promotional tie-in to Super Robot Wars GC
+in 2004. You had to register your copy of GC with Club Nintendo, and
+if you were one of 2,000 lucky people, you got your hands on a copy.
+
+It's essentially the same game as the NES version - hell, like all
+Famicom Mini titles, it IS the NES version, emulated. There are some
+small changes internal to the ROM to aid with emulation though which
+means that dropping the hacked game into the GBA version wholesale
+produced less-than-acceptable results. In the end, I had to extract
+the Japanese game and patch it with the NES translation's IPS to
+preserve as many of the changed code segments as possible. I then
+had to go into the game's script and make several dozen minor changes
+to control codes built into the text. I then copied the result back
+into the ROM, tested it a bit, and it seems to work.
+
+THAT SAID, THERE ARE A FEW CAVEATS:
+1) THIS HAS NOT BEEN TESTED EXTENSIVELY. It was quite literally
+thrown together in about three hours. There may very well be
+issues with some of the attacks/units/interfaces later in the game
+resulting from the decreased GBA resolution and the various changes
+that had to be made. That said, it should be mostly stable, and
+ought to be perfectly enjoyable as is.
+2) I HAVE NOT HAD A CHANGE TO TRANSLATE THE FAMICOM MINI INTERFACE.
+You can bring this up by pressing L and R at the same time. It's
+almost not even worth having, to be honest; the menu is exactly the
+same as in the US versions, and contains the following options:
+--Resume (dismisses the menu)
+--Reset (resets the game)
+--Sleep (Puts the game in sleep mode. Wake it by pressing L+R+SELECT.)
+  Note that this seems to crash emulators. YMMV.
+The interface also pops up briefly when saving, telling you not to
+turn off the system while it saves.
+
+---------------
+2.Patch History
+---------------
+December 24, 2013 - Initial V1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE SRW2 TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker, text editor, assembly hacking
+TheMajinZenki - Text translation
+Ryusui - Title screen
+optomon - "Gallant Char" music patch
+
+--------------
+4.Known Issues
+--------------
+I HAVE NOT HAD A CHANGE TO TRANSLATE THE FAMICOM MINI INTERFACE.
+You can bring this up by pressing L and R at the same time.
+The interface also pops up briefly when saving, telling you not to
+turn off the system while it saves.
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://agtp.romhack.net/pantheon)
+Screenshots are preferred, as are savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+512KB (4mbit NES) (shelled inside 4MB a GBA game)
+
+Simply use Lunar IPS (or an equivalent program for MacOS/linux) to apply
+the patch to the ROM.
+
+------------------
+6.Optional Patches
+------------------
+Included with the translation are two optional patches. Each comes with an
+"undo" patch which will remove the patch's effects from your ROM should you
+decide you don't like it. Each patch is entirely standalone from the others,
+including the translation, so if for instance you decide you just want Music
+Persistence in your Japanese copy of the game, you can apply that one patch
+and be on your way.
+
+MUSIC PERSISTENCE
+Super Robot War titles are strategy games, characterized by units moving
+around a map and attacking one another in special animated sequences, during
+which music plays from the player's (or boss's/Elzam's) unit's TV show,
+movie, OVA, etc. It's usually a theme song from the show's opening sequence;
+in SRW2 it's *always* a theme song from the show's opening sequence, bosses
+excepting.
+
+In later SRW titles, the unit's theme music will continue to play
+after the animated sequence ends and the game returns you to the map. This
+tends to make the games feel more exciting, as the music is generally
+designed to get the viewer invested in the show. Older SRW titles, however,
+would stop the theme music as soon as the animated sequence ends, and would
+start the map music over from the beginning. As a direct result, you never
+heard much of the robot's themes OR the map music unless you deliberately
+stuck around and waited to listen.
+
+The Music Persistence patch changes the music behavior in SRW2 to be more
+like the later games in the series. Once an attack sequence begins and a
+theme song starts playing, the theme song will continue to play until either
+the turn ends or a unit from a different series takes part in a battle
+sequence.
+
+GALLANT CHAR
+SRW1 and SRW2 feature the uncomfortably awkward "Tobe! Gundam" theme music
+for robots from the Universal Century MS Gundam timeline. It's bright, it's
+peppy, it's muzak-y, and it really doesn't fit the frequently serious,
+militaristic tone of the shows. Starting with SRW3, Tobe! Gundam was replaced
+with "Gallant Char", an orchestral piece that played during combat operations
+in the show. Starting with SRW4, different UC conflicts received music from
+their respective shows - "The Winner" for 0083 Stardust Memory, "Mobile Suit
+Battle" for Zeta, and "Silent Voice" for ZZ - but "Gallant Char" remained
+the music of choice for the original Gundam series for quite some time.
+
+This patch replaces "Tobe! Gundam" with "Gallant Char" and brings SRW2's
+soundtrack closer in-line with the later entries in the series.

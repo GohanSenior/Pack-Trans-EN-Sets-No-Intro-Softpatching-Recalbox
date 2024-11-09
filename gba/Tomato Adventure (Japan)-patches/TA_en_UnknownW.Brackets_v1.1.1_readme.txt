@@ -1,0 +1,109 @@
+Tomato Adventure - English Localization (v1.1.1)
+================================================
+
+This is an unofficial translation of Tomato Adventure, a Japanese RPG released
+in 2002 on the Game Boy Advance.  Tomato Adventure was developed by AlphaDream
+and involved some staff from Super Mario RPG.
+
+Please support continued development of quality games like Tomato Adventure by
+buying copies of the game, games in the Mario & Luigi series, and other RPGs.
+
+
+Patching instructions
+---------------------
+
+This patch is intended to be used on a ROM image of Tomato Adventure, which is
+not included.  Please use a backup of your own legally purchased game for this
+purpose.  As of writing, the game is still available to purchase online.
+
+Once you have the image, please use this tool to apply the patch:
+https://www.romhacking.net/patch/
+
+Select your backup image in the ROM file field, then select the provided patch
+named "Tomato Adventure [en-us 1.1.1].bps" in the Patch file field.
+
+The "update" folder contains additional patch files for use on ROM images that
+have older versions of this patch applied.  Select the patch file that matches
+your previous version for the Patch file field, instead.
+
+The tool will then validate your backup image's CRC32 checksum.  If it detects
+an issue, please make a fresh backup of your game and try again.
+
+Once ready, click Apply patch to save the patched ROM image.  You may use this
+in a Game Boy Advance emulator such as mGBA or no$gba, or use a device to play
+it on your physical GBA.
+
+
+Update history
+--------------
+v1.1.1
+ * Clarified a Gimmick action prompt.
+ * Dialogs with capital Vs now render without glitches.
+ * Fixed graphics corruption on Gimmick screen with certain stats.
+
+v1.1.0
+ * Doubled text drawing speed in dialogs.
+ * Fixed Abira's "rememer" typo before Mayonen Land.
+ * Clarified Alesa's second AWE description.
+ * Cleaned up minor line wrapping and spacing mistakes.
+ * Reword line in Soy City to avoid unintended interpretation.
+
+
+Reporting issues
+----------------
+
+If you encounter issues while playing the game or notice a typo, please report
+details about the issue, including a save file, here:
+
+https://github.com/unknownbrackets/tomatotrans/issues
+
+Please note that no help will be given toward obtaining the game illegally.
+
+When reporting any issue, please be as detailed as possible including:
+  1. What happened specifically.
+  2. What you expected to happen instead.
+  3. How you encountered this bug and what you were doing beforehand.
+  4. A screenshot of the issue and save game close beforehand.
+  5. If a glitch, whether the glitch occurs in the unpatched copy too.
+
+
+Save compatibility
+------------------
+
+Saves from the Japanese version of the game can be loaded without any problem.
+You can also take your saves back to the Japanese version, but character names
+longer than four letters will display strangely.
+
+Saves from older versions of the patch are fully compatible.
+
+
+Credits
+-------
+
+ * AlphaDream for creating Tomato Adventure.
+ * DeMille for a thorough and thoughtful translation of the entire script.
+ * CrazyMLC for the logo and all other graphics editing.
+ * Kingcom (and team) for armips, used heavily for modifying game code.
+ * Martin Korth for no$gba and its debugger.
+ * Tomato for the initial proof of concept patch.
+ * Samda Knowe, White Reflection, and El Jefe for the initial idea.
+ * otakuto for TomatoTool and its notes on some of the game's structures.
+ * MansourSorosoro for the initial VWF data.
+
+
+License
+-------
+
+Copyright (c) 2020, Unknown W. Brackets, et al.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.

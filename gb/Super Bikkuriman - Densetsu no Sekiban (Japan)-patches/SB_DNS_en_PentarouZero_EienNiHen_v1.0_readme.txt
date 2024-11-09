@@ -1,0 +1,70 @@
+  ============================================
+  |  SUPER BIKKURIMAN - DENSETSU NO SEKIBAN  |
+  |      English Translation Patch V1.0      |     
+  |            ©2003 PentarouZero            |
+  |         pentarouzero@hotmail.com         |
+  |       http://www.pentarouzero.com/       |
+  ============================================
+
+
+  ============
+  | The Game |
+  =============================================================================
+   This is a Game Boy side scroller based on Super Bikkuriman, the second
+   incarnation of Bikkuriman, which was apparently a quite popular anime in
+   Japan (and may have been based on a snack). The game is pretty generic -
+   one thing of note is that the dark grey part of your life bar increases as
+   you kill enemies, then you can press start to power up when it reaches a
+   certain point. It... doesn't do much, you just get a slightly better weapon
+   and maybe a change of outfit.
+  =============================================================================
+   
+
+  ==================
+  | Status/History |
+  =============================================================================
+   Version 1.0
+   Everything is translated, as far as I know.
+  ============================================================================= 
+
+
+  =========================
+  | Patching Instructions |
+  =============================================================================
+   Download an IPS patcher from somewhere like
+   http://www.zophar.net/utilities/genutil.html, and apply BIKURI10.IPS to 
+   a clean Super Bikkuriman Game Boy ROM image. Do not apply it to any other 
+   translation or hack of this game.
+  ============================================================================= 
+
+  ================
+  | Known Issues |
+  =============================================================================
+   None 
+  ============================================================================= 
+
+  =================
+  | Patch Credits |
+  =============================================================================
+   ROM Hacking: PentarouZero
+   Text Translation: Eien Ni Hen
+  ============================================================================= 
+
+  =========================
+  | Original Game Credits |
+  =============================================================================
+   © Yutaka 1992
+   © Lad/Shogakukan-Nas-Toei Animation
+   Producer: Masato Utsunomiya
+   Director: Hitoshi Muto
+   Project Leader: Nobuyuki Tanaka
+   Main Programmer: Takeshi Kozumi
+   Programmer: Keiki Hatakeyama
+   Cobatti Programmer: Mami Shimanuki
+   Planner: Naoki Kasahara
+   Music Composer: Taku Terada
+   Designer: Masaru Ikeda
+   Enemy Character Designed By: Taichiro Sato, Asaka Tanji, Daisuke Mochida,
+   Tetuta Yazaki, Azuma Ohkubo
+   Special Thanks To: Junko Sato, Tomoaki Uemura, Yuuichi Satou
+  ============================================================================= 

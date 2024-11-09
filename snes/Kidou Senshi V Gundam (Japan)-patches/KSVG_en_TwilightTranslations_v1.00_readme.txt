@@ -1,0 +1,130 @@
+V Gundam
+English Patch
+Version 1.00 IPS
+Current Release: Apr. 29, 2007
+Intial Release: Oct. 31, 2006
+by Twilight Translations
+copyright 2006
+--------------------------------------
+
+1. Introduction
+2. Development
+3. Patch History
+4. Credits
+5. Acknowledgements
+
+--------------------------------------
+
+1. Introduction
+
+--------------------------------------
+
+V Gundam is an action game based on the anime series by the same name. It was released by
+Bandai in early 1994.
+
+As a game, it doesn't really stand up to criticism. The enemy AI is laughable, at best; 
+the V Gundam controls like a brick; and your most effective weapon is also your weakest, so
+be ready to spend a lot of time hiding behind your shield firing your Vulcans at the enemy.
+
+Sadly, V Gundam, like nearly every other video game based on an anime, avoids going out of the
+way at all cost to explain to the player exactly what the hell is going on. In that sense,
+V Gundam should not be considered as a replacement to the series. If you play it after you've
+seen the series, however, you might enjoy it.
+
+Easily the thing that stands out the most about the game is the graphics. The majority of the
+graphics are very, very pretty, and, in the case of most of the cutscenes, breath taking. If
+only the developers had spent as much time on the core gameplay and design as they had on the
+graphics.
+
+--------------------------------------
+
+2. Development
+
+--------------------------------------
+
+After all this you might be wondering why I would even bother going through the trouble of
+hacking the game and finding a translator for it. Well, back when I first started, I thought
+about working on this game but didn't understand things well enough to do it at the time.
+
+In retrospect, this is a really simple, straight forward game to hack. Flash forward a couple
+years and I decided to take another whack at it and use it as a stepping stone for learning
+the ins and outs of the SNES. So during the summer of last year (2005), I sat down and
+managed to shrink the font down from the 16x16 font used in the Japanese version to a more
+English friendly 8x16.
+
+Over the next couple of months, there were a couple of translators who signed on to help, but
+then disappeared. Then in March (of 2006), the clouds parted and the lights shined through.
+Suzaku (a fellow Gundam fan) signed on board and worked on translating the game's script over
+the next 7 months or so.
+
+When he finally completed it earlier this month (October '06), he suggested the script could
+be a lot better if it weren't for the space (on-screen; space in the ROM wasn't a problem)
+restrictions. I mentioned a variable width font would probably help and set out to implement
+one. Seeing as how it was the first (and probably the only stock ASM translation "tricks" I
+hadn't done), I didn't exactly know where to start. Luckily, Gideon Zhi of Aeon Genesis fame
+was kind enough to let me take a look at his source code for his Rudra patch, which was more
+than enough for me to figure out how to do it.
+
+With the VWF in, Suzaku and I sat down and stepped through every single string and meticulous
+revised the script. In some cases we were even forced to add filler to pad the text out to
+avoid having a string break amongst 6 word sentence. In the end, I feel that despite the "lite"
+nature of the game's script, it is really worth reading.
+
+Some time during all of this, I approached Kitsune_Sniper of Vice Translations to design a
+title screen in the same vein as the official English title screen. Once he had the design
+finished, I asked Ryusui of Watercrown Productions (*SYLVANIANS*), having seen how accurately
+he had reproduced the color scheme for his Sylvanian Families 4 translation, if he would care
+to take a whack at V Gundam. The end result is quite possibly my favorite title screen ever.
+If you have no other reason to play the game, play it just to see the title screen. It's that
+good.
+
+--------------------------------------
+
+3. Patch History
+
+--------------------------------------
+-Version 1.00 IPS
+
+ The archive now includes the patch in both the NINJA format and the more common IPS format.
+ If you choose to use the IPS patch, apply it to a headerless ROM. No changes have been made
+ to the content of the patch.
+
+-Version 1.00
+
+ Everything is translated and thoroughly tested. That doesn't mean that there aren't
+ still bugs lurking around, just that we didn't find them. If you find any read
+ drop me an email about it.
+
+ The patch is in NINJA format, for information on this see the official site at:
+ http://ninja.cinnamonpirate.com/
+
+ I'm actually very, very pleased with the patch. When I started working on it, I wasn't
+ really excited about it, and now I want to tell everyone about it, despite the cardboard
+ like gameplay.
+
+--------------------------------------
+
+4. Credits
+
+--------------------------------------
+
+V Gundam - The Game
+Translation Team:
+
+RedComet - Programmer (me)
+Suzaku - Translator
+
+Kitsune_Sniper - Title Design
+Ryusui - Title Color Scheme
+
+--------------------------------------
+
+5. Acknowledgements
+
+--------------------------------------
+
+I think I mentioned everyone who contributed to this project, but I'd just like to thank
+everyone who did. This wouldn't be even half as good as it is without you.
+
+Ultimately, I hope you enjoy this patch. Check back with Twilight Translations for future
+releases! Cheers!

@@ -1,0 +1,14 @@
+Working Chocobo: English v1.0
+
+Patch using xdelta
+==============================================================================================
+Version History:
+1.01: Bugfix (weather effect softlock)
+1.0: Initial release
+==============================================================================================
+Note:
+==============================================================================================
+Credits:
+-Specialagentape: Hacking/Graphics editing
+-Higsby: Translation
+-sliter: Logo

@@ -1,0 +1,82 @@
+================Dream Master==========================
+==================V1.01===============================
+Genre: RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha
+
+E-mail: aishsha@gmail.com/
+Web-site: aishsha.blogspot.com
+ 
+ 
+======================================================
+Dream Master
+======================================================
+This game was a long-running project (first, due to
+hacking issues, than - due to real life). Anyway,
+it took like 50kb of new code and some serious work
+with the text, but it's finally finished.
+
+The game itself is a project of Birthday (the company
+that worked on Kaijuu Monogatari) and has no relation
+to the "Little Nemo" game for the same platform.
+
+The story itself is quite simple from the first glance,
+but the more you play this game, the more it shines
+in every aspect.
+
+This visuals are freaking awesome for that time and
+the gameplay system is very unique (I did notice some
+elements from Druaga series). 
+
+This project is really worth your efforts and do buy
+the original, if you like it.
+======================================================
+SPECIAL NOTICE
+======================================================
+You may face some slight glitches during gameplay, but
+that was the only way to make the translation as it is.
+So don't worry about moment-twitches of the screen
+during text-loadings routines or item sprites,
+appearing in wrong places after use - nothing can be
+done with those at the moment.
+
+The game is VERY capricious with emulators and I cannot
+guarantee it will work on real hardware as I have no
+opportunity to test that. The best emulators to play
+it so far are: Nester (ideal), fceuxdsp-1_0. You can
+also try the latest FCEUX version, but it runs this
+game with slight glitches due to specific original
+mapper changing routine.
+
+I'd very grateful, if you send me reports about bugs
+or glitches found during gameplay, but please, do not
+forget to add some descriptions, savestates and names
+of emulators you use. (screenshots would be useful
+as well).
+
+The Version 1.01 has some misspellings gone and
+some other misc glitches removed.
+=====================================================  
+Credits go to:
+aishsha - translation, hacking, testing.
+
+Djinn - help with hacking the swapping routine and
+        other misc things.
+
+KingMike - help in cracking the swapping system
+           for the specific Namcot mapper.
+
+Pennywise - general help, proofreading, editing.
+
+ReyVGM - main beta-tester.
+
+all those who contributed into bug and misspeling
+elimination hunt :)
+======================================================
+
+
+Compiled by aishsha. January 2011.

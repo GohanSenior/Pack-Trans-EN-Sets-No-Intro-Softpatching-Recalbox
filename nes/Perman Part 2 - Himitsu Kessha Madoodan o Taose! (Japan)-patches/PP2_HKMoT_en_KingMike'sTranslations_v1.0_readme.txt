@@ -1,0 +1,100 @@
+KingMike's Translation
+http://www.emuxhaven.net/~kingmike/index.html
+
+SPAMLESSkingmike2001@SPAMLESShotmail.com (hopefully, only SPAMLESS e-mails will be sent. So, remove the SPAMLESS portions,
+ and send me, well, spam-less e-mails.)
+
+Paaman 2 - Down with the Madou Society!
+Patch v1.0
+Release date: 4/18/2003
+*********************************************
+Original Title: Paaman Part 2 - Himitsu Keesha Madoodan wo Taose!
+Original Language: Japanese
+*********************************************
+This translation was produced by:
+
+KingMike - graphics, insertion, a couple minor ASM mods.
+Shih Tzu - translation of the text.
+
+Thanks to:
+Chris Covell - for his CHR optimizer program, CHARlie. The title screen was just barely insertable after use of his program.
+ Without it, I'd probably have run out of tiles, and then I wouldn't have been able to insert it!
+*********************************************
+Contents of package.
+Paa2ev10.ips  : Japanese to English patch.
+Paaman2e.txt  : This document.
+*********************************************
+Emulation Status:
+Any emulator supporting Mapper 65 (one of the Irem mappers) should do it.
+Preffered: Unofficial Nester, FCE Ultra, Nesten (needs program v0.61 beta 2 and mapper pack v1.3).
+*********************************************
+
+What's done:
+ - A couple ASM touches.
+ - Translations inserted.
+
+What's not so good:
+ - Password screen has a display bug. I'm not sure what it is. I'll have to look.
+ - Also, as for weapons, "Balloon" became "Ball", "Freeze" became "Cold", "Transform" became "Mystery", and finally "Myst",
+   and "Powerball" became "Pow ball". This is because the game uses sprites for each text character (only Irem knows why),
+   so I was very limited in how many letters I could use. Also, the available space for font characters was very marginal.
+*********************************************
+How to patch (Windows, sorry non-Windows users. I succumbed.):
+ - Download this zip file.
+ - Download the game ROM. (I won't provide this. You find it.)
+ - Download IPSWin 2.0 from somewhere (www.zophar.net might have it, but no guarantees. Look for "Utilities").
+ - Open IPSWin 2.0, click the little folder thing in the first box. Choose the original Japanese ROM. 
+   Choose the IPS patch in the lower text box in the same manner. Click Patch. Enjoy!
+*********************************************
+Who is Paaman?
+Paaman is an anime superhero created by Fujiko Fujiro, who was also the creater of Doraemon, Obake no Q-Taro, and several
+ others. It was a B&W anime from 1967 to 1968, and there was a color anime from 1983 to 1985.
+Unfortunately, I wasn't able to come up with much background on Paaman besides that. He looks like an interesting hero,
+ though.
+
+How to play:
+This game has both side and overhead view areas.
+In either case:
+ D-Pad: Move
+ Select: Nothing.
+ Start: Pause/Change weapons.
+ B Button: Shoot
+ A Button: Jump (side+top) / Fly (side only)
+Flying:
+ In side view, Paaman and company can also fly. Press A once to jump, then press A again while in midair. 
+ You can now use the D-Pad to fly around. You can still use B to attack. If you press A again, you will stop in place.
+ Press B to drop back to the ground. If you get hit by an enemy, you will also drop.
+You will also be able to enter doors (walk into them in top-view, press Up while in side-view). Doors with a P are bonus
+ rooms, others let you continue with the stage.
+There are three types of bonus rooms.
+CRATES: Break the crates to find powerups... and enemies.
+TILES: Make a path around the room without retracing your steps. Use the arrow tiles to jump two tiles forward. Clear all
+ the tiles to get a prize. I believe you can also get a password here, but I don't know how to use the passwords.
+ HINT: In rooms with many arrows, notice the directions that they are going. Since you must remove all tiles to win, know
+ that you'll have to cross every arrow. So, use the arrow tiles as a guide to plan a path around the room.
+CARDS: Match the cards. You get three chances. If you turn over an "X" card, you lose.
+
+Weapons:
+ Punch: Level 1 - Just punch the enemy!
+        Level 2 - You can shoot beams at the enemies.
+ Ball: Level 1 - Shoot balloons at the enemies.
+ Cold: Level 1 - Shoot ice crystals at the enemy.
+         Level 2 - Shoot once to stop the enemy, twice to kill 'em.
+ Myst: Level 1 - Shoots question-blocks at enemies (?)
+ Pow ball: Transform Level 2 - Strongest weapon.
+
+Powerups (from completing mini-games):
+ #L - Recovers # of units in life bar.
+ #P - Increase lives.
+ K  - Effect unknown.
+
+*******************************************
+Paaman Part 2 - Himitsu Keesha Madoodan wo Taose!
+	(c) 1991 Irem Corp.
+        (c) Fujiko, Shogakukan, TV-Asahi
+
+English Translation:
+	(c) 2003 KingMike
+
+No distributing the patch with ROM, either pre-patched, or in one zip.
+That's wrong.

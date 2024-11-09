@@ -1,0 +1,157 @@
+MYSTIC ARK
+ENGLISH TRANSLATION V1.00
+Copyright 2009 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Mystic Ark
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+6.Translation Notes
+
+------------------
+1.About Mystic Ark
+------------------
+Mystic Ark is a fairly unusual RPG from Enix and the people
+who brought us The 7th Saga ("Elnard" as it was known in Japan.)
+The gameplay mixes old-school adventure/puzzle elements liberally
+into the RPG formula, and it tosses out the concept of an
+overarching plot in favor of seven seperate vignettes.
+
+---------------
+2.Patch History
+---------------
+Mystic Ark is, unfortunately, a project fraught with drama.
+However I will spare the reader most of that, and say that this
+project was started well after the previous group working on it
+stopped updating their website. After the script translation
+finished, I spent a good year or two formatting the damn thing.
+The script is full of EVIL, and after finishing up the more
+difficult work, I didn't really feel like looking at it. So it
+languished for a year or two, then the old group came back to
+life and released theirs. Two weeks and lots of midnight oil
+later, AGTP's Mystic Ark was ready.
+
+September 26, 2009 - V1.01 release
+--Fixes a bug which causes random battles to stop entirely.
+  Bug occurs immediately prior to fighting the final boss of
+  world 3. This one was a real head-banger, and occured
+  simply because a string started at a particular place in
+  the ROM... I swear, sometimes I want to punch the people
+  who made this thing. 
+
+September 22, 2009 - Initial v1.00 release
+
+---------------
+3.Patch Credits
+---------------
+THE MYSTIC ARK TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker, utility
+             programmer, assembly hacker
+Ian Kelley - Translator
+disnesquick - Proportional font hack
+
+Special Thanks
+Wildbill - Kanji table
+Klarth, MKendora - Utilities
+
+--------------
+4.Known Issues
+--------------
+A cat in the first world and the Wolf in the seventh, at
+one point, will continue to walk around after talking to
+them, to the point where they walk through the wall. We're
+not sure what's causing this at present; it's very possible
+that the issue is symptomatic of something that occurs
+rather earlier in the game. Frankly though, these two
+problems are purely cosmetic and should not effect your
+enjoyment of the game.
+
+No other known issues! Enjoy.
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+4.00MB (32mbit HiROM), WITHOUT Header (*exactly* 4,194,304 bytes)
+*DEINTERLEAVED* If you need to deinterleave your ROM, use NSRT.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "mysticark.smc" make sure the patch
+is "mysticark.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 4.00 MB (4,194,304 bytes)".
+
+-------------------
+6.Translation Notes
+-------------------
+*PALACE*
+Yes, the fireplace is supposed to talk like that. It
+talked like that in Japanese, so it talks like that in
+English.
+
+*FRUIT WORLD*
+The character "Sly" was originally "kosukkara" in Japanese;
+"Coskkara" romanized. According to Ian, this is a pun on the
+word "Kosukkarai" which means "sly" or "crafty." We elected
+to go with the name "Sly" to convey the meaning, rather than
+literally romanizing the name.
+
+*GRAY WORLD*
+Many of the characters are named after people of historical
+importance. We paid special attention to getting the proper
+romanizations of these names. In particular, the curious
+reader will note that Wolfgang Amadeus Mozart did express an
+interest in marrying one Aloysia Weber...
+
+*FAIRYTALE WORLD*
+The names are deliberate transformations of "real" fairytale
+and nursery rhyme names. Most of these are fairly obvious.
+
+The King       <---> The Emperor
+Hensel         <---> Hansel
+Gresel         <---> Gretel
+Little Red Hat <---> Red Riding Hood
+Hinocchio      <---> Pinocchio
+Cinderenna     <---> Cinderella
+Woz            <---> Oz
+
+*ITEMS ETC*
+One piece of equipment for Lux could have been translated as
+either "Chitin Plating" or "Titanium Plating." We originally
+translated it as "Chitin" as it literally romanizes to such;
+however, one of the betatesters pointed out that it could
+just as easily been translated as "Titanium." This was more
+in line with the rest of Lux's equipment (which are metals,
+not shell) so we went with it.
+
+The same tester pointed out that "haken" is german for
+"hook." So "Rock Haken" became "Rock Hook."
+
+
+*CONNECTIONS TO 7TH SAGA*
+They are few, but they exist. Here are some of them...
+
+--The male main character's name defaults to "Remeer";
+  katakana "REMI-RU." The katakana matches the name of the
+  first town in Elnard/7th Saga, which was translated as
+  "Lemele." Note that while 7th Saga refers to the King
+  in this town as "Lemele" as well, Elnard has his name in
+  katakana as "SHI-DA", so Sheeda or Cida or something.
+--The mechanoid character Lux appears in both games.
+--Several enemy sprites and animation are reused from
+  Elnard in Mystic Ark. These include at the very least the
+  Tole enemies ("Demon" in 7th Saga), the Undead Tole enemies
+  (just "Undead" in 7th Saga), and the Metal Gate enemies
+  ("Statue", I think.)

@@ -1,0 +1,43 @@
+Power Blazer
+English Translation V 1.0
+Copyright 2009 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Power Blazer
+2.Patch History
+3.Patch Credits
+4.Known Issues
+5.COntact
+------------------------------
+1.About Power Blazer
+------------------------------
+Power Blazer is a laughable Megaman clone for the NES. That's pretty much all you need to know.
+
+---------------
+2.Patch History
+---------------
+
+
+---------------
+3.Patch Credits
+---------------
+Me- Hacking
+Guadozoku and all the other guys at RHDN- Translation
+
+--------------
+4.Known Issues
+--------------
+None
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or check out my site at
+
+yojimbo.eludevisibility.org

@@ -1,0 +1,49 @@
+Cosmo Police Galivan
+English translation patch v. 1.00, 4/21/2000
+By Jair, http://fly.to/vale
+
+------------------------------------
+You should now have:
+
+galivan.txt (This file)
+gali-100.ips (The patch)
+
+------------------------------------
+What it is:
+
+This is a patch to translate Galivan into English.  Galivan is a nifty platform RPG (!) that's sort of like a cross between Metroid and Strider but cooler.  This patch translates all known text and there are no known bugs.  The only thing that could use improvement is the "[Item] Found" message that appears when you get something, but I decided it would have been way more trouble than it was worth to improve it.
+
+You may not sell this patch for profit.  You shouldn't distribute the patched ROM.  Feel free to redistribute the patch, but please include this readme.
+
+------------------------------------
+What you'll need and what to do:
+
+A Galivan ROM
+A patching program (Snes-tool recommended)
+An NES emulator (loopyNES recommended, Nesticle OK)
+
+Please don't ask me for a copy of the ROM.  Try the ROM Request Boards at http://members.tripod.com/~DooMStalk/ if you're having trouble finding one.
+
+You can find Snes-tool and a variety of emulators at most general emulation sites, such as sgc.emu2k.com and www.zophar.net.
+
+First make a backup copy of the ROM.  Run Snes-tool and choose "Use IPS."  Choose "gali-100.ips."  Choose your Galivan ROM.  It should say, "IPS patched ok."  Now you're ready to play!  Fire up your emulator of choice and enjoy.
+
+------------------------------------
+Gameplay notes and advice:
+To talk to people, duck in front of them.  And if you want to talk to them again, you have to leave and re-enter the room.
+To use the warp holes (the computer terminals), push A and B at the same time in front of them.
+Crystal Power (CP) is like MP.  You need it to use special weapons and items.
+When the "GP" gauge fills up (by collecting P's), your nifty cyborg armor will activate.  When you're wearing your armor, you take half damage, but every hit reduces the GP gauge, and when it runs out your armor vanishes.
+This game is full of secret passages that you must find.  If you don't pay close attention to the clues people give you, you won't have a chance.  If you get stuck, remember to try using your special weapons and the Crystal items in likely places.
+This game's bosses are difficult, but they move in fairly simple patterns.  Try to figure out a way to avoid damage and wear them down.
+If all else fails, I'm writing an FAQ / walkthrough which should be online in a few days.  Or you can ask on the Vale message board.
+
+------------------------------------
+Special thanks to:
+MO, for valuable translation help
+SnowBro, for making Tile Layer
+Necrosaro, for making Thingy
+BPSoft, for making Hex Workshop
+loopy, for making a great NES emulator
+AWJ, for helping me figure out DTE ages and ages ago, which is totally irrelevant to this particular project, but I never thanked him publicly and felt like it, so there
+All the other people who've helped me out or have just generally been fun to hang out with ^_^

@@ -1,0 +1,13 @@
+Super Aleste (Japan)
+English Translation by asiwish
+
+Japan rom is better than US/EU version with more and cuter scene pics.
+Translated all Japanese words in game options and ending scene except those staff names.
+Game mode "normal/hard/hyper/tricky/wild(lunatic)" are translated as "easy/normal/hard/hyper/insane" due to final score screen number of displayed charactor constraint.  
+
+
+Original Rom
+Super Aleste (J).sfc
+MD5: 9943B6B85583FACB088869DB8D6A5F78
+SHA1: DA4F108D894DABE16ABA9C25F04443DF3ED4945A
+CRC32: 94D28FF9

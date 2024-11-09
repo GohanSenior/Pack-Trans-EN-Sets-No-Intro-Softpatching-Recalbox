@@ -1,0 +1,19 @@
+Nishijin Pachinko Monogatari 2 English Translation Project
+Version 1.0
+3/11/2019
+
+Modified by MrRichard999
+Translated by TheMajinZenki
+Graphics & Title Screen redone by FlashPV
+Title Screen Extraction by [J]
+Title Screen Insertion by D.D.S.
+
+Here is a full English translation patch for the game Nishijin Pachinko Monogatari 2 for the SNES. All the dialogue, menus, title screen, password entry menu, name entry menu, and about 95% of the graphics with Japanese have been translated! Now you can enjoy one of Japan's favorite forms of gambling in this translated title.
+
+Please use on a non-headered ROM that matches the hash type below.
+
+Nishijin Pachinko Monogatari 2 (Japan).sfc
+CRC32: 3DA9BB8C
+MD5: 0006A7723BF016FC959B61D06FB0DCFA
+SHA-1: DA3A751794FCF81AC48DEDBBC61650C98D861F43
+SHA-256: 38143BFEC5859487DD6767E321D7335EACA63916D35D5B542F97D1B0CCA1BD62

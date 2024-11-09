@@ -1,0 +1,91 @@
+Mini Putt English Translation 
+v1.00 
+(26 July 2000)
+
+--------------------
+Members
+--------------------
+- Klarth (kefka_5000@hotmail.com)
+
+--------------------
+I.   The Game
+II.  Project History
+III. Completed
+IV.  Incomplete
+V.   Thanks
+VI.  Tools Used
+VII. Legal Crap
+--------------------
+
+--------------------
+I. The Game
+--------------------
+- It's a cracked out, difficult, and yet strangely addicting 
+game of mini golf, and it has good music.
+
+--------------------
+II. Project History
+--------------------
+- I wanted to find an extremely difficult, time consuming, and 
+challenging game to translate.  Mini Golf seemed like the 
+perfect candidate.. b/c most of the game was already in 
+english.  So, after playing for several hours trying to beat 
+par (and I did... on a hole or two), I came to the realization 
+that I'd never beat the game, so I'd never get to see if there 
+was any ending text or credits or other stuff in Japanese.  So 
+I went through the game with a couple of programs and saw no 
+japanese whatsoever besides the title screen.  So I translated 
+the title screen (gee, really hard.. it's the title of the 
+game!), editted the tiles to make an extremely poor title 
+graphic, and made the patch.
+End of story.
+
+--------------------
+III. Completed
+--------------------
+- To the best of my knowledge, everything.
+
+--------------------
+IV. Incomplete
+--------------------
+- Nothing, hopefully.  May make the title screen prettier 
+sometime, though.
+
+--------------------
+V. Thanks
+--------------------
+- Ballz, Shih Tzu, Gideon Zhi, Mr. Saturnine, Naflign, and 
+(wraith), for replying to my thread on the Whirlpool's message 
+board..  Without the help, I wouldn't have known whether this 
+was a translation or a hack, what to do with softcore porn in 
+translations, or the fact that Umihara Kawase rocks.
+
+- The Whirlpool (http://donut.parodius.com), RPGd 
+(http://rpgd.emulationworld.com), and all the other cool
+translation/emulation sites I regularly visit.
+
+- final exams for summer school, for giving me the drive to do
+something creative other than studying.
+
+- my computer, for not completely dying yet.
+
+- all other people out there who helped or encouraged me, or 
+who are just cool people.
+
+--------------------
+VI. Tools Used
+--------------------
+- Tile Layer v0.50b by Snow Bro
+
+- JNES v0.30a by Jabo 
+ (http://jnes.vintagegaming.com)
+
+- Snes-Tool 1.2 by the M.C.A and Elite
+
+--------------------
+VII. Legal Crap
+--------------------
+- You may not redistribute this patch without this readme file 
+included.  You may not sell this patch for profit of any kind. 
+Mini Putt is property of Accolade, copyright 1991.  Blah blah.  
+If you can beat par on this game, give yourself a cookie.

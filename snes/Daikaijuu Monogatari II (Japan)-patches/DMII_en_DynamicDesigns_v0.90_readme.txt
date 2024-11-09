@@ -1,0 +1,242 @@
+Super Shell Monster Story II English Language Patch V0.90
+
+
+
+Introduction:
+
+	Japanese Developer:				Birthday and Hudson Soft.
+	Japanese Publisher:				Hudson Soft.
+	Japanese Release:				August 02, 1996
+	English Patch Production:			Dynamic-Designs
+
+
+
+Dynamic-Designs Patch History:
+
+	V0.90:  Initial Dynamic-Designs Release:	November 10, 2020
+
+
+
+Dynamic-Designs Production Credits:
+
+	Project Coordination:				Wildbill
+	Hacking/Tools/Bug Fixing:			Bongo`
+        Assembly: 					Bongo`
+	Translation:					Gerb, Wildbill
+	Translation Support:				Filler, Wildbill
+	Story Writing:					Wildbill
+	Production Assistant and Alpha Testing:		SylerDean,
+
+
+
+NOT FOR SALE INFO
+
+This game in English or patch to make it English is
+NOT for sale under any circumstances!  If you paid
+for this game in any way, including in a cartridge,
+demand your money back immediately!  File a complaint
+with your credit card company and/or paypal as well!
+Especially if you obtained this game in cart form!
+
+
+
+Overview (adapted from https://www.giantbomb.com/daikaijuu-monogatari-ii/3030-45532/):
+
+The player is once again embodying the Fire Shell Hero, a legendary champion of the friendly
+shell monsters, who is summoned to help the shell monsters defeat the evil sorcerer Dark.
+Dark has managed to locate six of the eggs of the Demon King, who was defeated in the previous
+game, and used his magic to hatch all six into formidable monster generals. He plans to use
+these monster generals and their armies to conquer the globe.
+
+The gameplay is similar to Dragon Quest and other turn-based RPGs. The game also includes
+side-quests and an empty lot of land that the player can use to build a settlement. This
+settlement can have shops, arenas, inns and other useful facilities, but the player is
+limited in space.
+
+
+Bugs that are still in the released translation that may or may not ever be addressed.
+
+1. Unpredictable possible save-state-induced glitches appear to randomly spur garbled text,
+especially in regard to NPC dialogs.
+
+The SSMS-II English patch may become unstable in an unpredictable manner whenever
+save-states are used routinely while playing the game. Even more perplexing is that
+what occurs with one player in a given place may not happen with another in that same
+exact spot. However, something similar may occur somewhere else.
+
+To repeat, this glitch appears to trigger when someone uses save-states routinely.
+What happens is that a string spoken by an NPC will "scramble" with bits and pieces from a
+different string or strings. This bug appears to be more prevalent around Grantham Castle
+in the early going, but may recur later in Marinela Town. Therefore. the best opportunity
+to play a trouble free game is to avoid using save-states.
+
+The workaround for this "scrambled text" bug is to go back to a save point/location, save,
+and reload the game. In all cases, whenever I did this, upon returning to the character formerly
+speaking gibberish, he spoke his intended string correctly.
+
+2. The Inez song to Andre, taught to a talented Porhoi Tree in Blauer Forest. In these
+scenes, the lyrics to Inez's song appear to slow down from their initial tempo toward the
+mid-point of the auto-scrolling text. Since we have no control codes for speed in this
+game, this glitch cannot be corrected without shortening the translated lyrics to a length
+that is unacceptable to us.
+
+3.  Random graphic battle messages and the very final short ending credits still appear in
+Kana. Given our present resources, these cannot be converted to English without
+decompression, redrawing, and reassembly.
+
+
+
+Caveat and Invitation:
+
+In a MAJOR departure from our previous policy, we are releasing an unfinished patch. This is due
+to both time factors and downsizing in the diversification of our production team. In no way are
+we suggesting anything but positive support for all of our highly dedicated and hardworking
+teammates in the past. It's simply that changing life circumstances for some of us have dictated
+the realities of where we find ourselves today.
+
+At this time, we active members of D-D cannot guarantee that we'll ever revise this patch in any
+way. This means we may never release a Version 1.00. At the same time, we're not saying we won't.
+As per usual, D-D will establish a feedback topic within the Super Shell Monster Story II forum
+on our WWWBoard.  After receiving the patch "as-is" and playing the game, if someone comes along
+who really loves this work and possesses the know-how to rectify certain technical issues, we will
+be standing by, ready and willing to discuss the matter."
+
+
+
+Production, Testing, and Thought Processes: (Wildbill)
+
+I have really enjoyed my part in creating this English patch. The quality of everyone's efforts
+leads me to the realization that everything we've achieved is due to a strong team effort. It's the
+dedicated contributions of each member who recodes, translates, designs fonts, redraws graphics,
+writes story scenes, and tests the developing product that ensures a successful conclusion.
+
+Let me add that anyone in the world is free to pursue this "not for profit" hobby. This means that
+any human who inhabits this planet has free rein to start in the same places we did and create stories
+and  finished products that suit their own personal interests, motivations, and tastes.
+
+That said, I'll add this:
+
+For quite some time, I've deliberated over releasing this English patch to the general public.
+
+However, the span of years that I've held this file is related more to losing the work that
+contained the most recent revisions. I've been moving around quite a bit and even sold a major
+residence, but try as I might, I couldn't locate that patch in any of the 20 or more storage media I
+checked at multiple locations. Finally, I searched the files on a loose HDD once installed inside a
+PC in which I had installed increased storage capacity, and there it was, buried within a sealed
+packing box that was stored inside a shut-off room, along with dozens of other moving containers.
+
+It took some doing, but my teammates finally convinced that a fair number of good people in the
+world who really love vintage RPGs, folks who have extended enthusiastic and appreciative support
+over several decades, deserved to play these fruits of our labors. As said before, we’ll build a feedback 
+forum on our SSMS-II message board, and as always, we'll respond to congenially-offered inputs, as
+well as errata involving grammatical oversights and such.
+
+Here's the back story on how I became involved in coordinating the SSMS-II translation project.
+It all started shortly before we released SSMS-I, a partially completed patch that Bongo`
+extracted from a list of abandoned works. As we proceeded with the first game, my research turned
+up that a sequel existed but in Japanese only. I played some of SSMS-II, then convinced Bongo` to
+start working on an insertion system.
+
+I translated 80% of SSMS-II by myself before bogging down, so I contacted Gerb (who translated
+SSMS-I). He agreed to finish the 20%, as well as backstop everything I had done previously, and
+working together, I thought we made quite a team knocking out the story. Bongo` found the complex
+coding system to be quite tedious, but he kept hacking away at the challenges until everything
+began taking fine shape.
+
+Unfortunately, as mentioned above, we couldn't solve every little detail, but all who
+participated in beta testing told me that SSMS-II is a really fine play. So here it is, released
+despite my previous reservations. 
+
+-Wildbill
+
+
+
+Patching:
+
+Contained within this archive is an IPS (international patching system) file or a patch file in another
+format for the end user's convenience that when used in conjunction with a ROM file will make the
+game playable in English.
+
+Do note, as I touched on above, that this patch is a result of countless hours of love and labor.
+Hence, they are not meant to be sold at any price under any circumstance, be it in digital form or
+burnt into a donor cart's ROM chip.
+
+To patch the ROM file, one needs to procure a patcher for their preferred format, a widely available
+class of programs, many of which can be found at http://www.romhacking.net/ for one source.  A few
+can even be found on our download page for your convenience at
+http://www.dynamic-designs.us/downloads.shtml.  Search at the bottom under utilities.  We did not
+write these utilities.  We merely provide them as a convenience.
+
+At some point, ROM sites may upload pre-patched ROMs of our Super Shell Monster Story II translation.
+Obviously, Dynamic Designs cannot endorse playing these versions.  Neither will we support resolution
+of any associated problems. Moreover, pre-patched ROMs may float around the web for years.  Only by
+downloading patches containing just our original work from D-D's web site may gamers obtain revisions
+to these patches - if any - and take advantage of possible bug-fixes and corrections.
+
+
+
+
+Information pertaining to the Super Shell Monster Story II ROM:
+
+
+Size before patching: 5.00 MB (5,242,880 bytes)
+
+Size after patching: 5.50 MB (5,767,168 bytes)
+
+       Name: DAIKAIJYUMONOGATARI2 
+    Company: Hudson Soft
+     Header: None
+       Bank: Extended HiROM
+Interleaved: None
+       SRAM: 64 Kb
+       Type: S-RTC + Batt
+        ROM: 40 Mb
+    Country: Japan
+      Video: NTSC
+  ROM Speed: 120ns (FastROM)
+   Revision: 1.0
+   Checksum: Good 0x8528
+  Game Code: AE6J
+      CRC32: A6C98FFE
+        MD5: A356461694F781EB64EE75A29AA984FF
+
+
+Notes:
+
+1. Not all ROMs will necessarily be patch-able with our file.
+2. If the ROM you attempt to patch has a header, you may need to remove it.
+3. A number of tools are available to remove headers: SNESTool, Smile, Toolbox, etc.  
+
+Alternatively, most emulators support a feature called soft patching, which keeps the ROM file
+intact, merging the patch data only during run time. To make use of it, make sure both the ROM file
+and the IPS are in the same directory as your emulator of choice and have the same name, but not the
+same extension. Do note that this is case-sensitive.  (Also, do note this soft patching is only
+available using the IPS patch file, and may NOT work with the other patch file formats.)
+
+i. e.:  SSMSII(E).smc and SSMSII(E).ips will trigger soft patching at the emulator's run time.
+
+
+
+Emulator Compatibility:
+
+This patched game works in most emulators and on real hardware.  We
+cannot guarantee compatibility with all emulators, however so far it
+has worked on all emulators we have tried it on.  Our recommendation
+is SNES9X, ZSNES, HIGEN/BSNES or Real Hardware.
+
+
+
+
+Special Thanks:
+
+The "usual suspects"! I am shocked, SHOCKED YET AGAIN, that we have finally released Super Shell
+Monster Story II - English! In the order of performing critical tasks, thanks Bongo`, Gerb,
+Wildbill, Filler, SylerDean and Taskforce for the production support. Testers included MariusB,
+Swordmaster, akualung, and Recca.
+
+
+
+Dedicated to Gerb!
+
+
+Readme 2020 Dynamic-Designs

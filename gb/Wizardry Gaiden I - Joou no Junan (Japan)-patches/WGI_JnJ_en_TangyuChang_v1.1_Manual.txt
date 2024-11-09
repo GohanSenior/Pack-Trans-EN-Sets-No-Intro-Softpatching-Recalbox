@@ -1,0 +1,499 @@
+Wizardry Gaiden I - Suffering of the Queen V1.1 8/1/2014
+
+        w*W*W*W*w
+         \"."."/
+          //`\\
+         (/a a\)
+         (\_-_/) 
+        .-~'='~-.
+       /`~`"Y"`~`\
+      / /(_ * _)\ \
+     / /  )   (  \ \
+     \ \_/\\_//\_/ / 
+      \/_) '*' (_\/
+        |       |
+        |       |
+        |       |
+        |       |
+        |       |
+        |       |
+        |       |
+jgs     |       |
+        w*W*W*W*w
+
+____________________
+Current Patch Status
+====================
+
+99% of the game is fully translated into English :D HOORAY!!
+After months of hard work, here is the end result. Next project..
+Wizardry Gaiden II!
+
+
+Version 1.1 Update
+
+Special Thanks to Ken Arromdee for fixing the ROM to now work on Everdrives :D
+
+Also did some minor grammar corrections.
+
+_______
+Credits
+=======
+Tangyi_Chang - Project Lead & Hacker
+Gameboyre - Hacking
+uffmain - Hacking - Rebalancing Patch
+MrRichard999 - Hacking - Final text
+Helly - Translation
+Suzune - Translation
+Mark Patraw - Script Revisions & Game Assistance
+
+_________________________________
+Wizardry Gaiden I Player's Manual
+=================================
+
+Content
+
+1. Spell List
+ 1.1 Mage Spell
+ 1.2 Priest Spell
+2. Item List
+ 2.1 Weapons
+ 2.2 Armors
+ 2.3 Shields
+ 2.4 Helmets
+ 2.5 Gloves
+ 2.6 Miscellaneous
+ 2.7 Event Items
+
+===========================
+
+1. Spell List
+
+1.1 Mage Spell
+
+LV1
+	
+Sleep [Katino]
+Attempt to put one group of enemies to sleep.
+
+Fire [Halito]
+Fireball that deals 1-8 points of fire damage to a single target.
+
+Map [Dumapic]
+Allows you to view a map of the dungeon level that your party currently occupies.
+
+Shadow [Mogref]
+Lowers the Armor Class of the caster by 2 for the duration of a single battle.
+
+LV2
+
+Bolt [Melito]
+Magical sparks that deal 1-8 points of fire damage to all the members of one group of enemies.
+
+Armor [Sogref]
+Lowers the Armor Class of a party member by 2 for the duration of a single battle.
+
+Fear [Dilto]
+Raises the Armor Class of a group of enemies by 2, for the duration of a single battle.
+
+Rock [Bolatu]
+Attempt to petrify one monster.
+
+LV3
+
+Panic [Morlis]
+Attempt to frighten one group of enemies, raising their Armor Class by 4 and preventing them from taking any actions other than defending or fleeing.
+
+Flame [Mahalito]
+Firestorm that deals 4-24 points of fire damage to all the members of one group of enemies.
+
+Res [Cortu]
+Creates a magical barrier that may protect the entire party from spells and breath attacks.
+
+Dark [Kantios]
+Attempt to confuse one group of enemies.
+
+LV4
+
+Elec [Tzalik]
+A giant fist crushes a single target, dealing 24-58 points of non-elemental damage.
+
+Blaze [Lahalito]
+Inferno that deals 6-36 points of fire damage to all the members of one group of enemies.
+
+Float [Litofeit]
+Levitation spell that allows the party to float safely above pit traps and chutes in the dungeon floor. 
+
+Petri [Rokdo]
+Attempt to petrify one group of enemies.
+
+LV5
+
+Summon [Socordi]
+Randomly summons a group of monsters to aid the party in battle.
+
+Frost [Madalto]
+Arctic frost that deals 8-64 points of cold damage to all the members of one enemy group.
+
+Cancel [Palios]
+Cancels out magical energies.
+
+Ray [Vaskyre]
+Attempt to inflict random detrimental effects on all the members of one group of enemies.
+
+Silence [Bacortu]
+Erects a magic dampenng field around one group of enemies, which may prevent them from casting any spells.
+
+LV6
+
+Curse [Mamorlis]
+Attempt to frighten all enemies, raising their Armor Class by 4 and preventing them from taking any actions other than defending or fleeing.
+
+Dispel [Zilwan]
+Disruption spell that deals 500-1,000 points of damage to a single Undead enemy.
+
+Ice [Ladalto]
+
+Icy annihilation that deals 34-98 points of cold damage to all the members of one group of enemies.
+
+Doom [Lokara]
+Attempt to instantly destroy all enemies.
+
+LV7
+
+Warp [Malor]
+Teleportation spell.
+
+Wish [Mahaman]
+Wish spell that invokes divine intervention on the party's behalf. A deity will appear and present the caster with a choice of one of three randomly.
+
+Nuclear [Tiltowait]
+The catastrophic energies released by this magic deals 10-150 points of non-elemental damage to all enemies.
+
+Astral [Mawxiwtz]
+Attempt to inflict random detrimental effects on all enemies.
+
+
+1.2 Priest Spell
+
+LV1
+
+Heal [Dios]
+Restores 1-8 hit points to a single ally.
+
+Harm [Badios]
+Inflicts 1-8 points of non-elemental damage on a single target.
+
+Lamp [Milwa]
+Lesser light spell that illuminates the dungeon, allowing you to see farther. Only lasts for 40 steps.
+
+Shield [Kalki]
+Lowers the Armor Class of the entire party by 1 for the duration of a single battle.
+
+Glass [Porfic]
+Lowers the Armor Class of the caster by 4 for the duration of a single battle.
+
+LV2
+
+Wall [Matu]
+Lowers the Armor Class of the entire party by 2 for the duration of a single battle.
+
+Cafo [Calfo]
+Identifies the type of trap, if any, on a treasure bag/chest, with 95% accuracy.
+
+Seal [Montino]
+Attempt to silence one group of enemies.
+
+Find [Kandi]
+Gives the coordinates of missing or dead party members in the dungeon so that you know exactly where to look for them.
+
+LV3
+
+Identify [Latumapic]
+Automatically and correctly identifies all opponents for the duration of your stay in the dungeon, or until dispelled.
+
+Soft [Dialko]
+Cures paralysis and awakens sleepers.
+
+Pray [Bamatu]
+Lowers the Armor Class of the entire party by 3 for the duration of a single battle.
+
+Light [Lomilwa]
+Greater light spell that illuminates the dungeon, allowing you to see farther. It lasts until you exit the dungeon or until the effect is dispelled by entering a magically darkened zone.
+
+Draw [Hakanido]
+Attempt to drain a single enemy's magic power, depleting their spell levels/slots.
+
+LV4
+
+Heal2 [Dial]
+Restores 2-16 hit points to a single ally.
+
+Wound [Badial]
+Inflicts 6-30 points of non-elemental damage on a single target.
+
+Detoxify [Latumofis]
+Neutralizes poison in one ally.
+
+Ward [Maporfic]
+Lowers the Armor Class of the entire party by 2 for the duration of your stay in the dungeon, or until dispelled.
+
+Razorcut [Bariko]
+Deals 6-15 points of non-elemental damage to all the members of one group of enemies.
+
+LV5
+
+Heal3 [Dialma]
+Restores 3-24 hit points to a single ally.
+
+Para [Lanifo]
+Attempt to paralyze all the members of one enemy group.
+
+Death [Badi]
+Attempt to instantly slay a single target.
+
+Revive [Di]
+Lesser life magic that revives one fallen comrade with 1 hit point and a permanent subtraction of one point from their vitality score. There is a chance of failure, if that happens, the dead character's body will be reduced to ashes.
+
+Necro [Bamordi]
+Randomly summons a group of monsters to aid the party in battle.
+
+LV6
+
+Plague [Bamilwa]
+Attempt to confuse one group of enemies.
+
+Cure [Madi]
+Fully restores all the hit points of a single ally and removes all negative status effects.
+
+Drain [Labadi]
+Reduces a single target down to 1-8 hit points, regardless of their hit point total. 
+
+Recall [Loktofeit]
+The party is teleported out of the dungeon and back to town, but the caster forgets the spell in the process and must relearn it.
+
+LV7
+
+Meteor [Mabariko]
+Meteor shower that inflicts 18-58 points of non-elemental damage on all enemies.
+
+Life [Kadorto]
+Greater life magic that revives one fallen comrade with full hit points and a permanent subtraction of one point from their vitality score, even if all that remains is ashes. 
+
+Expel [Bakadi]
+Attempt to instantly slay an entire group of enemies.
+
+Allheal [Madial]
+Greater healing spell that restores 6-20 hit points to all party members.
+
+---------------------------
+
+2. Item List
+
+[P]=Protects against
+[C]=Cursed
+[D]=Double damage to
+[R]=Resistant to
+[M]=Mage spell resistance (X% = Resist chance)
+[C]=Priest spell resistance (X% = Resist chance)
+[A]=Attacks may decapitate enemies
+[G]=Steadily regenerate hit points over time (X = points per one time)
+[U]=Use as an item (X% = Item breakage)
+[S]=Special
+
+2.1 Weapons
+
+Name		ST	AT	Range	Damage	Equip	Special Properties
+
+Dagger		4	0	Short	1бл3	FTMSLN
+Rod		3	0	Short	1бл4	All
+Kris		3	0	Short	1бл5	FTLN
+Sword		3	0	Short	1бл6	FTLSN
+Mace		3	0	Short	3бл6	FPBLN	[P] Undead
+Axe		2	0	Short	2бл8	FN
+Spear		2	0	Long	3бл7	FLSN
+Hammer		1	0	Long	4бл9	FPN
+Flail		1	0	Long	2бл7	FPBLN
+Bow		1	0	Long	5бл8	FLSN
+Longbow		2	2	Long	2бл7	TN
+Baselard	4	2	Short	3бл7	FTLSN
+Rapier		3	2	Short	3бл9	FLSN
+Epee		0	0	Short	1бл10	FLSN
+Katana		2	0	Short	6бл13	SN
+Battle Axe	2	0	Short	5бл11	FN
+Godendag	0	0	Long	1бл8	FPBLN	[C] AC+2 [S] Forget all spells
+Morningstar	1	0	Long	4бл9	FPBLN	[D] Insect
+Halberd		3	0	Long	5бл9	FLSN
+Crossbow	1	0	Long	7бл10	FLSN
+Seal Rod	3	2	Short	3бл6	MPBLN	[D] Mage, Priest [U] Seal 10%
+Earth Rod	2	2	Short	3бл8	MPBSN	[R] Level drain [U] Doom 25%
+Cutlass		4	3	Short	6бл10	FTLSN	[S] STR-1, AGI+1
+Spatha		3	2	Short	8бл12	FLSN
+Javelin		4	0	Long	7бл13	SN
+Otenta		1	3	Short	10бл18	SN	[A]
+Pollaxe		2	0	Short	10бл16	FN
+Life Wand	0	0	Short	8бл24	PBN	[U] Life 80%
+Laevatain	6	0	Short	8бл13	FLSN	[U] Flame 5%
+Holy Flail	2	2	Long	7бл12	FPBLN	[D&P] Undead
+Faustlance	2	0	Long	11бл15	FLSN	ST+1 [D&P] Demon [S] VIT-1
+Scepter		1	4	Short	5бл8	MPBN	[U] Necro 15%
+Stormeye	5	2	Short	2бл10	MBN	[U] Elec 5%
+Cuisinart	6	4	Short	10бл12	FLSN
+Harthnir	2	3	Short	8бл13	FTLSN	[D] Animal & Beast
+Bardiche	3	0	Long	12бл18	FLN	[D] Dragon [S] STR+1
+Runebow		4	2	Long	7бл14	M	[D] Mage [S] Age-1, HP-1бл4
+Arbalest	2	0	Long	12бл15	FTLSN
+Mjollnir	1	3	Long	12бл26	F	[D] Giant
+Dagger of Thief	5	5	Short	5бл11	T	[A] [D&P] Thief & Ninja
+							[S] Change job to Ninja
+
+Saber of Evil	4	3	Short	8бл18	Evil,FLSN	[D] Priest
+Diamondeye	5	0	Short	11бл17	FPBLN
+Sword of Jinn	0	8	Short	7бл19	M	ST+3 [A] [D] Insect
+							[R] Cold [U] Frost 5%
+
+Gungnir		8	0	Long	7бл24	LN	[D] MagicCreature [S] AGI+1
+Shuriken	4	4	Short	11бл26	N	[A] [D] Ninja [S] HP+1бл4
+							[R] Poison & Level drain
+
+Muramasa	0	10	Short	10бл50	S	[A] [D] Undead [S] VIT+1
+Excalibur	6	3	Short	14бл19	FL	[D] Legend & Dragon
+							[S] Change job to Lord
+
+Sword of Sorx	-4	0	Short	16бл31	ML	[C] [A] [E]
+							[D] Undead, Demon & MagicCreature
+							Game clear item
+
+2.2 Armors
+
+Name		AC	Equip		Special Properties
+
+Robe		-1	All		[M&C] 5%
+Leather Armor	-2	FTPBSLN
+Chainmail	-3	FPBSLN
+Breastplate	-4	FPSLN
+Platemail	-5	FLN
+Hard Armor	-3	FTPBSLN
+Temperedmail	-4	FPBSLN		[M&C] 5%
+Copper Armor	-5	FSLN
+Hauberk		-6	FLN		ST+1
+Luxury Armor	-4	FTPBSLN
+Silvermail	-5	FPBSLN		[M&C] 10% [G] 1 [R] Beast & Undead
+Musha		-6	SN		[R] Fire
+Best Armor	-7	FLN		[R] Fire
+Armor of Neutral-7	Neutral,FSLN 	[R] Petrification
+Armor of Hope	-6	FPSLN		[M&C] 10% [D] Insect
+Scarlet Robe	-4	All		ST+2 [M] 40% [R] Fire & Petrification
+Emerald Robe	-4	All		[C] 40% [R] Cold [G] 2
+Armor of Hero	-7	FPSLN		[M&C] 15%
+Armor of Protect-8	FLN		[R] Fire, Cold & Petrification
+Elvenmail	-6	Elf,FPBSLN	ST+1 [M&C] 10% [R] Fire & Cold [G] 2
+Armor of Evil	-9	Evil,FLN	[C] 25% [D&P] Priest [R] Poison
+Domaru		-9	SN		ST+2 Hit+3 [P] Dragon
+Mythrilmail	-10	FLN		[M&C] 15% [R] Fire & Cold
+Holy Armor	-10	L		[M&C] 25% [A] [P] Legend, Dragon, Undead & Demon
+					[R] All [G] 5 [S] Restore HP of all members
+
+2.3 Shields
+
+Name		AC	Equip		Special Properties
+
+Shield		-1	FPTLN	
+Buckler		-2	FPLN	
+Aspis		-2	PTSN	
+Scuta		-3	FPLN		[M&C] 5%
+Guardian Kite	-6	FPLN		[M&C] 15% [R] Level drain
+Dragon Kite	-6	FLN		[M&C] 25% [R] Death
+Yoroyi		-3	SN		[D&P] Fighter & Ninja
+
+2.4 Helmets
+
+Name		AC	Equip		Special Properties
+
+Helm		-1	FPBSLN	
+Hat		-1	All	
+Brass Helm	-2	FPLN	
+Steel Helm	-3	FLN	
+Kabuto		-3	SN	
+Crown		-2	All		[U] Warp 100%
+Ahmet		-4	FLN		[D&P] Insect
+
+2.5 Gloves
+
+Name		AC	Equip		Special Properties
+
+Gloves		-1	FTPBSLN	
+Gauntlet	-2	SN	
+Iron Gloves	-2	FLN	
+Kasuga		-3	SN		ST+1 [R] Petrification
+Silver Gloves	-3	FLN		[P] Beast & Undead
+Hobbit Gloves	-3	Hobbit,FTPBSLN	ST+3 [R] Cold & Petrification
+Myrdall Gloves	-4	FLN		[R] Level drain & Petrification
+
+2.6 Miscellaneous
+
+Name		AC	Equip		Special Properties
+
+Torch		0	-		[U] Lamp
+Lamp		0	-		[U] Light 35%
+Compass		0	All		[U] Map 5%
+Magnet		0	All		[U] Recall
+Poison		0	-		[U] Wound
+Salve		0	-		[U] Heal
+Smokeball	0	-		[U] Wall
+Antidote	0	-		[U] Detoxify
+Tonic		0	-		[U] Soft
+Potion		0	-		[U] Cure
+Sleep Pot	0	-		[U] Sleep
+Rock Pot	0	-		[U] Rock
+Fire Pot	0	-		[U] Flame
+Devil Pot	0	-		[U] Summon
+Ash Gem		0	All		[S] Become ash 70%
+Regen Gem	0	All		[S] Age-1гиInvalid to characters under 18гй
+Mind Gem	0	All		[S] INT+1
+Pray Gem	0	All		[S] PIE+1
+Power Gem	-1	All		[S] STR+1
+Life Gem	-1	All		[S] Full restore 85%
+Thief Pick	-1	SN		ST+2гм[R] Poisonгм[D&P] Thief & Ninja
+Dragon Fang	-1	All		[D&P] Dragon
+Unead Ring	-1	All		[D&P] Undead
+Troll Ring	-1	All		[A] [G]
+Lord Ring	0	All		[S] Change job to Lord
+Oberon Ring	0	All		[D&P] Legend [R] Fire [G] 1
+Devil Ring	0	All		[D&P] Demon
+Felis Ring	0	All		Hit+4
+Toad Ring	0	All		[R] Poison
+Guard Ring	-4	All		[U] Ward 5%
+Life Ring	0	All		[U] Cure [G] 8
+Boots		-1	FTPBSLN
+Tora Emblem	-3	SN		[D&P] Animal & Beast
+Sylphy		-2	All		[U] Float 5% [G] 1
+Scarab		-2	PB		[M] 25% [C] 50% [D&P] Insect
+Amulet		-2	All		[R] Fire & Cold
+
+2.7 Event Items
+
+Permit
+Allows you to pass the barred temple doors at 5E-5N and 5E-6N on Basement 3.
+
+Key
+Unlocks the door at E12-N1 on Basement 1.
+
+Clock
+Need to use in conjunction with the explosives inside Chest, to create a time bomb which will open up new areas of the dungeon for exploration. 
+
+Chest
+Found at E10-N15 on Basement 4. This chest contains the explosives that you need to combine with the clock item in order to create a time bomb that you will eventually use to open up new areas in the dungeon. 
+
+ChestгиFakeгй
+Found at E9-N15 on Basement 4. This item is actually a useless fake.
+
+Orb
+A "game half clear" item you're awarded after defeating Taros and Flack in B6. Bring it to the Castle to advance the game's storyline and receive diamond symbol status markers after your party's names.
+
+Book of Nature
+You must fill up the shop in Boltac's Trading Post with at least one of EVERY single item in the game in order to obtain this extremely rare object. SP this item and you will get a password of your character who take it, then you can "reincarnate" this character by typing the code in Gaiden II.
+
+Eye of Odin
+Need to present as proof of your wisdom so that you may pass through various "locked" portals.
+[M&C] 20% [U] Panic 0% [R] Posion, Level drain, Petrification & Death [G] 3

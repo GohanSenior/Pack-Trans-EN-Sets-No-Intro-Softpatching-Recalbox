@@ -1,0 +1,101 @@
+Glory of Heracles: Snap Story
+English Translation Patch - version 1.01 2/5/12
+By HTI  http://hti.rpgclassics.com
+hiryuu@rpgclassics.com
+
+Please visit http://www.rpgclassics.com/shrines/gb/goh for tons of additional
+information on the game!
+
+What You'll Need:
+-----------------
+1. This patch you just downloaded
+2. A Glory of Heracles: Snap Story ("Hercules Eikou") ROM for the Gameboy
+3. Lunar IPS or other patching program.
+
+
+What You'll Need To Do:
+-----------------------
+After you've downloaded the ROM, this patch, and Lunar IPS, put them all into
+the same directory.  Backup the ROM if you wish, then run Lunar IPS and follow
+the prompts.  Just remember the ROM is the *.gb file and the patch is the
+*.ips file.
+
+
+Boring Patch History:
+---------------------
+This game is the main reason I started translating in the first place.  After
+cutting my teeth on some very basic translations, I started tackling this one.
+That was 10 years ago.  I made good initial progress, but the lack of a consistant
+translator, school (then work) issues, and the size of this game compared to my
+other projects put this game on the backburner.  I then sort of fell out of the
+whole translation loop, along with internet communities as a whole...
+
+Then in the process of moving around the country and looking at my old laptop, I
+stumbled across the work I had done on this game.  Feeling nostalgic, I put an
+ad for a translator at romhacking.net, and lo and behold, this one delivered.  A
+few months later, I had a completely translated script.  But I still had no time
+to actually work on the project.
+
+Fast forward a couple years later.  Similar story with me feeling nostalgic about
+this project, and I decided to play around with the scripts.  Now, I'm anything
+but a hacker, and I don't know anything about programming, but I still had my old
+.tbl files and my trusty 12 year-old copy of Thingy, so I tested the feasibility
+of inserting the whole thing script in manually.  I realized that I still had
+the know-how to do at least that, although it would take much more time than I had...
+So, like all sane men, I blew the majority of a 3-week vacation doing nothing but
+inserting the script of a 10 year-old Gameboy RPG with only the use of a couple
+of hex editors.  But the game's fully translated now, and I'm quite proud I was 
+actually able to finish the translation after giving up on it at least 4 or 5 times
+over the last 10 years. 
+
+Version 1.01 is the same as the original, except I fixed a rather boneheaded translation
+error I made on the final boss in the game.  Not a huge deal, but it really bugged
+me for some reason.
+
+
+Gameplay Notes:
+---------------
+For the most part, this is a pretty typical RPG.  You shouldn't have any problems with
+the basics.  However, instead of gaining permanent party members, you gain the 
+ability to travel with various gods as you level up.  You can travel to Olympus in
+most towns and talk to Zeus to switch out the god you're traveling with.  But when
+a god's in your party, s/he doesn't act like a full party member.  Each round, you
+can either choose to have your god perform an action or not.  If your god doesn't
+do anything, it's like you're fighting the battle alone, and the god can't be targetted.
+If the god performs an action, it can be attacked by the enemy just like any other
+RPG.  
+
+Visit http://www.rpgclassics.com/shrines/gb/goh for information.  If nothing else,
+you'll probably need the world map found on that site, as it's quite easy to get lost
+in the latter part of the game.
+
+Known Issues:
+-------------
+The main issue I have is the way the game pushes the text to the right in text boxes
+from named characters.  For characters with short names, this isn't too big of a
+deal, but for some of the longer-named characters, this can make the text somewhat
+hard to read, since only one or two words can fit per line.  It's probably not too
+difficult to fix, but I have quite minimal skill when it comes to romhacking, so it's
+a bit beyond my scope.
+
+Also, some names had to be truncated, but that shouldn't be too big of a deal.
+
+Plus, some emulators seem to have trouble displaying the Yes/No menus in the game, but
+that's an issue with the game itself, not the patch.  Ditto with the Data East logo
+when the game starts up.
+
+E-mail me at hiryuu@rpgclassics.com if you notice any bugs/errors.
+
+Credits:
+--------
+Hacking: Hiryuu
+
+Translating: wonderprojectj
+
+Additional Translating: There were a few others who helped from when I first started the
+project, but it's been so long that I unfortunately forgot who all helped...
+
+Font: toma
+
+
+

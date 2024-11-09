@@ -1,0 +1,49 @@
+Version 0.9
+
+This is the first public release of Sarysa's Spelunker II Translation Patch. All the menus and messages have been translated. It should be mostly bug free, but it may contain a few errors with the text less important to the gameplay. Please email me at sarysa2@yahoo.com if you find any problems.
+
+Known Problems:
+
+- There's supposed to be a way to continue using controller 2. (I'd rather not spoil the game's built in hint) I haven't been able to get this to work, though. If anyone has any information about this, please let me know.
+
+Special Thanks:
+
+- To the makers of xchar, which I used to edit the graphics/fonts. Finally, something that works!
+- To the makers of Hexpose and Thingy, both which I used to edit the text. (Thingy for the JP version, Hexpose to edit the ENG version's text)
+- To Irem Corp., if they still exist, for making this odd gem.
+- To Broderbund, whose licensing of the game allowed me to squeeze in "Translated by Sarysa" somewhere.
+- To the Monash Nihongo Archive, which has utilites that helped me learn...
+- To Geyla, for having the strangest name I've ever seen on any RPG villain. (I almost went with Gila, Gayla, and Geela)
+
+Translation F.A.Q.
+
+Q: Why are you doing this?
+A: I'm trying to learn Japanese, and I thought it would help to try and translate a simple game. Then I realized that translating a game written entirely in katakana is a nightmare. Still, most of my translation should be accurate, and all of the hints needed to complete the game are there.
+
+Q: Will you send me the ROM for this game?
+A: No. Find it on your own.
+
+Q: What is speleng.tbl?
+A: I conveniently included it for anyone who wants to use Hexpose to view/edit the text. Just don't write over anything in *. CR signifies a line break.
+
+Q: What's with the heart meter?
+A: I changed a few things here and there. The life bars are now a zelda-like heart meter. I made up a few names for certain weapons. (changed Explorer and ESPer's "knife" to "sword" and "rapier" respectively, gave ESPer specific secondary weapon names, changed "canned food" to "ration" and "clergyman" to "priest" for space reasons)
+
+Q: Will my save states of the Japanese original work?
+A: You mean, you played it BEFORE my translation? Seriously though, they will work, but you still won't be able to read anything. The old graphics/fonts are saved in your old save state.
+
+Q: Will you translate the title screen.
+A: No. My art skills are atrocious. Feel free to edit it yourself, with xchar, if it's that important to you.
+
+Game F.A.Q.
+
+Q: How do I use the orb?
+A: Stand in front of a fairy door, the giant barred door, and place it in the center while kneeling. It's finicky about where you put it, you MUST place it dead center, or nothing happens, which is annoying...
+
+Q: How do I avoid staying in hell?
+A: Keep your holy up, DON'T kill deer. Kill worms over and over if you need to get your holy high enough to use the rosary, then kill undead("evil") monsters.
+
+Q: Are there multiple endings?
+A: Yes! (of course, if I add this to my FAQ, the answer would be yes...) Your Holy power decides which ending you get. Oddly enough, it's harder to get the bad ending than the best one. (since killing monsters makes you holy)
+
+Website: http://www.geocities.com/sarysa2/translations

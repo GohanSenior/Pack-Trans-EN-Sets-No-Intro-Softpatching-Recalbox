@@ -1,0 +1,191 @@
+SPACE HUNTER TRANSLATION 1.0 README
+ZATOS HACKS & FYR
+
+************************************
+************************************
+
+Zatos' notes:
+
+Back from the dead?  Well, never thought this was going to happen.  Closing in on two decades since I last released anything, here is another translation hack.
+This project wasn't planned, but my brother really wanted to learn how to do ROM hacking and translating, and so the best way was just to find something easy and dig in.
+At that point, we kind of became committed, and so here is the end result.  It's not as good as I'd like, but it's plenty good enough for this game.
+
+The biggest thing I can say about this game is that it really makes me wonder if the programmers struggled with a simple integer overflow or if it was a design choice.  
+I honestly am not sure, it seems like it would have been such an easy problem, but maybe programming was hard in those days.  You have power in this game which is 
+increased by drops/powerups, but it will overflow back to 0 after passing 255.  There are a bunch of messages trying to warn the players not to get too much power.  
+Considering the final weapon requires at least 250 power, this seems rather sloppy.  There also was some weird messages in general that seem to troll the player, 
+so that's not actually a result of mistranslating.  All in all, the game is an interesting and short play.  It was featured on Game Center CX so some of you might 
+be familiar with it.
+
+The text in the ROM was stored in really weird ways, everything was broken up in to small bits and not stored together. This was somewhat 
+challenging getting everything to fit and make sense, but I think everything came through okay.  There was some custom graphics made to 
+squeeze all the text in.  Thankfully there wasn't a ton of text in this game to deal with.
+
+At the moment I'm not planning any more releases, this was just a one-off sort of thing.
+
+I do want to take a moment to apologize to everyone in the scene that was around back in 2001.  I'm not sure how many remember or even care, 
+but I want to give my sincerest apologies to anybody I might have offended through my behavior.  I'm sure most might not have even been aware, 
+and many might not remember, so I'm not going to get into what happened.  I just want to apologize, it was a long time ago and I've changed a 
+lot since then.  I hope that you can forgive me.
+
+
+************************************
+************************************
+
+
+ROM TO USE:
+
+Space Hunter (Japan).nes    (No Intro)
+CRC32:     b155899c
+MD5:       b7b0473b60e259838d087849c408893e
+SHA-1:     6dfe0bcc89a78f39e56269da013c5a4dd2aeb6a0
+
+Use either the IPS or BPS patch and go play!
+
+This game has been completely tested and no errors have been found and is 100% beatable.
+The password system was not affected and is completely untouched, meaning passwords will still work as intended.
+
+
+************************************
+************************************
+
+
+Space Hunter Translation Notes by Fyr
+*yes, this does contain spoilers*
+
+This game was translated by Fyr. I used as many internet sources as I could, including the most helpful of all: 
+GCCX, which translated the bulk of the dialogue. However, there was still about 20% left that japanese wikipedia, yahoo, and google translated.
+This covered the basic nouns. The remaining 10% or so took some sleuthing and direct queries from those more knowledgeable than I.
+
+Unfortunately, as far as I can tell, a sizeable chunk of the katakana appears to not be used in the game, making the translation efforts a futile effort.
+Stuff like "Warp Tunnel" hint at possible game elements that were left on the cutting room floor. The most intruiging was "A secret in the rock."
+And what a Power Time Band is or was, is anyone's guess (if it shows up somewhere, it's been reinterpreted as Super T. Band).
+
+The biggest challenge with substituting the katakana with english in the ROM was the order of the words. A direct translation would make for
+stilted sentences, so in many circumstances, we liberally reinterpreted the katakana into something useful that would convey the message. While it's not
+perfect, given the space limitations, we feel this was satisfactory for the small amount of dialogue this game actually uses.
+
+We also took this as a chance to reimagine some of the names for the items. Crystals became Orbs, and Hair Arm became Headset.
+Speaking of Hair Arm, that is an interesting case, where the name doesn't appear to be related to the game sprite which looks like headphones, but
+when equipped it operates like a boomerang. Overall this reimagining of the names does nothing to affect a player's understanding of the game. 
+Only a lack of a manual will account for that, so I've added what I can below. Here's a run down:
+
+
+Item B
+Except for the first three, these items appear to be mostly static upgrades to your character Altiana.
+
+Jet 
+- Your main item that allows you to fly through the levels
+
+Fins 
+- Only used on Aquanit to swim through the level.
+
+Time Band 
+- An item that you should be quick to ween yourself from. Use it to stop enemy movement, then requip your Jet.
+
+
+Shields
+
+Magic Mirror 
+- The Magical Mirror (Shield) protects against laser attacks.
+
+Blue Orb  
+- AKA Blue Crystal Shield protects against bomb attacks.
+
+Red Orb 
+- AKA Red Crystal Shield protects against beam attacks.
+
+
+Item A
+These items are offensive weapons, most of which have the direct purpose of killing certain bosses. Different weapons deal different amounts of damage.
+
+T. Bomb 
+- The Time Bomb is actually not a time bomb as much as it is a proximity bomb. The bomb triggers so long as you are far enough away and not
+located along the X axis of the bomb. I believe you have to be about 1 and a half to 2 rows away from the X axis for it to trigger. The T. Bomb is 
+used to kill bosses that don't require special weapons.
+
+Orb 
+- Or the white Crystal. Another offensive weapon. Best used to kill certain mobs. Requires 40 power to operate.
+
+Laser Saber 
+- AKA the light saber, though it operates like a laser gun. Used to kill Gazzom on Semyuf.
+
+Headset 
+- AKA Hair Arm. A boomerang-like weapon. Not used to kill any bosses.
+
+<3 Beam 
+- AKA Heart Beam. This operates similar to the white Orb, but has the advantage of being the achille's heel of Watersks and apparently Firex
+
+Super T. Bomb 
+- AKA High-Power Time Bomb. This operates just like the T. Bomb except it also has a Y-axis explosion. It is the only weapon that
+will kill Icerem.
+
+Final Arm
+- The only weapon that will kill De Gaulle.
+
+
+Powerups
+Hidden through the game are powerups that add to your power, and thus, the ability to use the other weapon items.
+
+Bat
+- Restores 1 Power
+
+Capsule
+- Restores 5 Power
+
+Robot
+- AKA Dogukun, restores 5 Power
+
+Sundae
+- AKA Shaved Ice, restores 10 Power
+
+Amen
+- The thing that looks like a cross on a tombstone. Restores 10 Power.
+
+Soft Cream
+- AKA Ice Cream Cone, restores 20 Power
+
+Beard Man
+- AKA Bearded Papa, restores 30 Power. Yes, I understand he only has a moustache, it's a Japanese cultural thing.
+
+
+Mob Drops
+There are two more kinds of items. Sometimes they are dropped from mobs.
+
+Moon - Refills 5 Power.
+
+Star - Recovers all life.
+
+
+Secret Doors
+There are secret doors scattered throughout each planet, usually a few per world. Inside some of them are special items. I believe, that perhaps
+some of these may have been inteded to be warp tunnels to lead to other parts of the planet.
+
+The Planets and cyborg bosses
+- Generally speaking, here is the order of the worlds you want to visit and the bosses that inhabit them.
+
+1. Zobaria (AKA Zorbaria) - Shadow
+2. Flexid (AKA Furekisid or Furkisi)- Firex (AKA Fireks)
+3. Azbesar (AKA Azbestar or Ubestor) - Storm (AKA Stormill)
+4. Aquanit (AKA Aquanet) - Watersks
+5. Semyuf (AKA Semyufu) - Gazzom
+6. Solidia (AKA Soridia) - Icerem
+7. Afrair (AKA Affraire, Afria, Afuraia, Afurasia) - DeGaulle (AKA De Gaulle, or Dogol)
+
+
+************************************
+************************************
+
+Some extras:
+
+A walkthrough with all item and door locations:  (its in Japanese, but translates well enough for this game)
+http://www.geocities.co.jp/Playtown-Bingo/5647/xoin/spacehuntertop.html
+
+
+Cheatcode:
+Works in both FCEUX and Nestopia - 
+
+Address 063E 
+Value 6
+
+This is the address where the health value is stored, you will be invincible with this cheat

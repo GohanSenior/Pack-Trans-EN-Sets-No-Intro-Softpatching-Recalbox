@@ -1,0 +1,387 @@
+               ________
+              /        \         ___________
+             .\_    _   \......./           \.............
+             : /   / \   \      \_____    __/[J3d!]      :
+             :/   /  /   /            \   \ /----\       :
+             /   /  /   //-----\      /   //      \   /--------\
+           /-   ----   //   _   \ ___/   //   /\   \ /   ____   \
+           \__________//   //   //      //   /  \   \\   \  /   /
+             :         \   \\__/ \_____/ \   ----\   \\   \/   /
+             :          \   ----\         \______/\__/ \   \__/
+             :...........\______/.......................\   \
+               [q U A L I T Y   t R A N S L A T I O N S] \__/
+                                PRESENTS
+
+                      STAR OCEAN PUBLIC VERSION 1.0
+
+
+=======================================================================================
+ABOUT THIS PATCH
+=======================================================================================
+
+Welcome to the Star Ocean patch! One of the most-delayed and most-desired
+translations for SNES is finally finished! Just about every bit of Japanese
+we could find in the game has been translated to English and gone over with a
+fine-toothed comb. The only things not translated are the Japanese voices.
+A project for dubbing these voices is in the planning stage, so stay tuned!
+
+=======================================================================================
+PLAYING STAR OCEAN
+=======================================================================================
+
+You'll need the following for the full Star Ocean experience:
+
+-The Star Ocean ROM. DO NOT ASK US FOR THE ROM. Any such e-mails will be deleted.
+
+-An emulator. As of this writing, SNES9x (www.snes9x.com) has fully implemented
+S-DD1 compression, which is what Star Ocean uses, and therefore does not need
+any graphics packs to run.
+
+-Using ZSNES (www.zsnes.com) currently requires graphics packs to properly
+play the game (if you're missing them, you'll only see colored boxes instead of
+the actual in-game graphics). The graphics packs are downloadable from the
+DeJap Star Ocean page (www.dejap.com/so.php). Instructions for using them are
+included in the download and on the message forum.
+
+-The IPS file included in this zip file: both SNES9x and ZSNES can "auto-patch"
+the ROM. All you need to do is rename the IPS file to match your ROM and put
+them in the same folder. For example, if your ROM is called "starocean.smc",
+rename the patch to "starocean.ips" and start up your emulator. The ROM will
+then be automatically patched after loading Star Ocean, so the game will appear
+in English.
+
+=======================================================================================
+KNOWN BUGS
+=======================================================================================
+
+-If you have savestates from an earlier version of the patch, or the Japanese
+version, those savestates WILL NOT WORK with this new patch. The best thing
+to do is save normally using the in-game save function. This information is
+constant among versions and will allow you to play the game normally regardless
+of which version you use.
+
+-We tried getting rid of the Japanese subtitles in the intro (the dialogue's
+in English anyway), but some are still there. We're not planning on translating them
+since it's a pain and the people speak in English anyway. 8p If you can't make out
+what they're saying, check the Star Ocean Shrine walkthrough (link below).
+
+-Only two colors can be displayed in the dialogue at any time. A very few places
+try displaying more than that and ends up looking a bit strange.
+
+-The techniques for Fear, Perisie, and Marvel don't have the yellow tech name
+in their description that the other characters' techniques have.
+
+-The ?Guard item has the same description as ?Item.
+
+-There are numerous bugs that are inherent in the game and have nothing to do with the patch
+itself (such as an item duplication bug, and various freezing or crashing bugs). Check the
+Star Ocean Shrine (link at the bottom of the file) for info on these bugs.
+
+Because Star Ocean is such a huge game and has so many variations as far as
+party make-up goes, it's quite possible that there are bugs or bad translations
+we missed during beta testing. If you've found one, please post it on the
+Star Ocean Bug Report Forum:
+
+http://board.zsnes.com/phpBB2/viewforum.php?f=16
+
+The forum has been created after the first full release, so anyone can
+register and post bugs there. Please read the Rules thread before posting, as there
+are detailed instructions on what to do there.
+
+=======================================================================================
+THINGS TO DO IN THE FUTURE
+=======================================================================================
+
+-Make Yes/No dialogue menu to display in English
+-Add an 8x8 variable width font.
+-Voice dubbing.
+-Add four-line descriptions in the menu (many descriptions had to be shortened
+ to fit the three-line maximum).
+-Replace the elemental symbol images
+-Do some extra hacking to include some of the dummied-out items in shops, etc. 8-)
+-Add list of donators to in-game credits
+-Fix rom checksum
+-Bug fixes.
+
+=======================================================================================
+CREDITS
+=======================================================================================
+
+Game Programming:
+Dark Force
+Anus P.
+
+English Translation:
+Tomato
+Akujin
+
+Script Editing:
+Tomato
+Cidolfas
+Dark Force
+LifeBlood
+
+Graphics Editing:
+Dark Force
+Bisqwit
+Hades Shingami
+
+Editing/Testing Coordination:
+Cidolfas
+
+Utility Programming:
+Dark Force
+Bisqwit 
+
+Graphics Decompression Packs:
+The Dumper
+zsKnight
+Dark Force
+Katharsis (hosting)
+
+Beta Testing:
+Bisqwit
+Opoth
+Erdrick
+Gafgarion
+Carnivol
+Maczbel
+Cybergoth
+Andrew Kelley
+
+Special Thanks:
+F.H
+LordTech
+
+Special Special Thanks:
+To everyone who donated money or hardware to the Star Ocean cause. As you can
+see, your contributions really saved the project! Thank you for believing in us!
+NOTE: if anyone has been incorrectly credited or is missing (i.e. you mailed
+in a donation and we didn't have a record) please let us know.
+
+List of Donators:
+
+Jim Wigginton
+Ryan Scuderi
+Ben English
+Ryan Berry
+Kevin Callis
+Benjamin Hourigan
+James Powell
+Judy Diehl
+Nawid Rostayee
+Aaron Elkiss
+Miguel Manzanares
+Luke Stimak
+antoine cabrol
+Cynthia Howland - **
+James Flynn
+Brian Smithson
+Ari Margo
+Philip Snijder
+benjamin miller
+Evan Yost
+Edward Younskevicius
+John Weidman - **
+Marc Lyle
+James Saito - *
+Matthew Lindblom
+Rosa Olazabal
+Darren Stoner
+mark fons
+Sebastien Demers
+Javier Vidal Mata
+Robert Brown
+Johan Hedqvist
+Timothy Baron
+Michael Frank
+Evan Brott
+Iuri Augusto
+jayson dobbins
+Seth Burns
+David Wiedeman
+Camelot Characters
+Zach Kantola
+Jesse McNeil
+Luc Thibeault
+Larisa Desyatnikova
+Christian Karasch
+Roland Poldervaart
+Daniel Wagoner
+Joshua Hall-Bachner
+Joseph Rodriguez
+Enguerrand DAULON
+Andrew Henry
+Derrick Wang
+Marco Cavicchi
+Simon Toft
+Dale Zeutenhorst
+Devon Nelson
+Nick Huang
+David Sweeney
+Sean Brady
+Robert Lemon
+William Beisel
+JM Bon
+Marc McLeod
+Timothy Hodges
+William Johnson
+Kevin O'Young
+Jonathan Fung
+Emilio Ereza
+Richard Ott
+Brian Sidharta
+Christian Daigle
+Delany Brittain
+Jonah Wallerstein
+Richard DeFilippi
+Keng Hwa Koh
+Christian Gutierre
+Lindsay McKinley
+daniel kranich
+Eric James
+Andre Petrillo
+Lee Bast
+Anthony Giannini
+Paul Tripodi
+Josh Earel
+Benjamin Aragon
+Nick Ratelle
+Mike Kowalik
+Steven Dougan
+King David White
+ROBIN SCIONTI
+jared parshley - **
+Jacob Froude
+James Miley
+Yee Cheng Chin
+Tang Tzer Fong
+Eric St-Georges
+Travis Fahs
+Tarrick Clayton
+Paul Flaherty
+Justin Quesenberry
+Mike Cofoed
+Thomas Backmark
+Niteen Vaidya
+Nathan Champion
+Thomas Evans
+James Huval
+Daniel Gendron
+Bryan Flannery
+Jason Kocian
+Sam Bowling
+Benjamin Shih
+Andrew Toth - *
+John Rademan
+Stephanie Legault
+Philip Beach
+Michael Reed
+Steve Pable
+Seth Brown
+Jonathan Williamson
+Aaron Kelley
+Everett P Gray Jr
+Andrew Butash
+Ethan Rutter
+Jason Berg
+Home of the Underdogs (www.the-underdogs.org) - ***
+Tormod Tjaberg
+Emmanuel Peters
+Shasti Schilling
+Chris Perluss
+Alex B.
+satsu
+Daria
+Luke Drelick
+Peter San
+Grant Shearsmith
+Syed Rabbi
+Jonathan Hays
+Hyun Ho Kim
+Matthew Behm
+James Lincoln - *
+
+
+=======================================================================================
+WORDS FROM THE AUTHORS
+=======================================================================================
+
+=======Dark Force:
+
+Argh.. not enough time to finish everthing.. damn this game is evil.
+Dark Force will now be recuperating from Star Ocean-induced injuries.
+
+=======Tomato:
+
+There's probably tons of stuff I could say about the Star Ocean translation project, but I'm too exhausted to go through it all, so I'll just say this. I can't believe it's finally (almost) done. I went through the script in like 2 weeks or so, so I was expecting the project to end very quickly. Instead it's taken 2 and a half years. What with real life issues, school, hardware problems, and everything else, I'm glad to see that the translation project is finally coming to a close.
+
+As I said, I translated the script in about 2 weeks' time, working about 8 - 10 hours a day during my summer break back in 2001. I then went to work on Bahamut Lagoon, and when I finished that, I came back and edited the 600 KB SO script. It was still too literal and translationesey so I edited it again. Literally, within 5 minutes of completing this 2nd edit, my hard drive completely failed. The hard drive recovery was semi-successful, but a huge chunk of the script had to be completely redone. Once this was done, my work with the project was pretty much over. Later on, I played demi's stunning Radical Dreamers translation and immediately felt that the SO script needed more oomph to it. But I was too busy with work to do anything for SO anymore, so luckily Cidolfas stepped in to spiff up the script a bit. And now here we are. Yay!
+
+I owe many thanks to everybody on MO's game translation message board. These guys helped me out in many a jam. There were some helpful people on the GameFAQs SO board at one point too, I believe. Also I owe thanks to a bunch of Japanese sites whose addresses I no longer have. They offered a lot of useful information when I needed context for stuff. But most of all, thanks go out to everyone who helped us get the data recovery stuff done. I actually found the accursed hard drive the other day when I was digging around in my closet. I have no idea why I still have it when it's nothing but a useless piece of junk, but oh well.
+
+MANY, MANY thanks go to Dark Force, I have no idea how he does the stuff he does, and the amount of time and effort he puts into his work is amazing. I can honestly say that most of his work is equal or superior to professional game re-programming work. Cidolfas also gets my thanks for picking up the ball when I found myself swamped in work. Akujin gets props for going through those list text files and translating and documenting everything so well. And thanks to everyone who's waited so patiently.
+Enjoy the translation!
+
+=======Cidolfas:
+
+Well, this was interesting. 8-) After playing (and loving) both ToP and Star Ocean 2, I 
+was of course enthralled with Star Ocean. However, at the time the only menu patch 
+(by Chief Ug) was,  I thought, woefully inefficient. I went so far as to teach myself 
+basic ROM hacking and created my own menu patch based on his. With DeJap's beta patch,
+this rendered the game playable, though by no means beautiful. After volunteering my
+services to DeJap (and being rebuffed), I was contacted by Tomato and Dark Force almost
+a year later asking to be involved in the project. Naturally I said yes. 8-)
+
+Turns out I'd be spending the majority of two months in intense conversation (i.e.
+argument) with Dark Force about this patch. 8-) Nearly every technique and skill name
+and a whole bunch of items, enemies, terms, etc. were the subject of discussion by
+myself and DF. I can say I got my way about 40% of the time, which is pretty good. 8-)
+I know that some of you will be angry about how certain things were translated, but
+localizing something, not only in language but also culture, is an extremely challenging
+procedure. Something will always have to give. If we stay too close to the original
+(as Star Ocean 2 did) we risk sounding long-winded and robotic, not to mention
+confusing to many of our strictly North American audience. If we stray too far,
+we end up with something that isn't what the creators wanted. As an example, DF and I 
+had a whole argument about the Sacred Beast techs. I wanted to use their Japanese names, 
+and DF wanted to use the original Chinese names. We settled on English ones. 8p We also
+had to decide how close we wanted to be to the SO2 names. Many translations given in that
+game were just terrible. Generally, if the name was more or less correct we used it, but
+if it just sounded bad or was inaccurate or would never actually be used in the English
+language, we changed it (most notably is the change from Specialties to Abilities, since
+a specialty is really an area of expertise, not something you can use or do). Some item
+names (like Stone Check) were also changed because they didn't make a whole lot of sense.
+While technically we could work our way around the language to make them make sense,
+we decided that it would just be better to use a name that was actually meaningful. 8p
+In the end, I think we struck a very good balance with this patch, and I'm proud of it.
+
+By the way, I also took the liberty of adding in a conversation in the bar in Ionis which 
+explicitly discusses something that was sort of skipped over in the original script.
+(People who've previously played the game will know what I'm talking about.)
+However, I'm not 100% sure the conversation appears in all party configurations (I only
+tested it without any extra characters). We'll double-check this in future versions.
+
+=======================================================================================
+LINKS
+=======================================================================================
+
+For news on translations and the graphics packs downloads, visit DeJap at:
+http://www.dejap.com/
+
+Dejap Main Forum:
+http://board.zsnes.com/phpBB2/viewforum.php?f=6
+
+Star Ocean Bug Report Forum:
+http://board.zsnes.com/phpBB2/viewforum.php?f=16
+
+For game help, lists, walkthroughs etc., as well as a COMPLETE list of name
+changes from the old patch versions to the new one, visit the Star Ocean Shrine: 
+http://www.rpgclassics.com/shrines/snes/so1/
+
+=======================================================================================
+Hope you enjoy Star Ocean!
+
+DeJap Team - http://www.dejap.com
+December 2003
+
+Star Ocean (c) 1996 Enix/Meimu/tri-Ace

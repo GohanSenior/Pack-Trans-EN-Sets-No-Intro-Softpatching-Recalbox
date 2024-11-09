@@ -1,0 +1,429 @@
+Background and general info for Shinsenden universe.
+
+The universe of Shinsenden is loosely based on a rather philosophical works
+of a Chinese philosopher Ge Hong (283-343 AD). His works generally referred
+to the way on obatining immortality through proper studying and learning.
+Some of his works were later translated into Japanese and pretty much
+adapted. Honcho Shinsenden or "Biographies of Immortals" was a compilation 
+of fables and legends involving immortals who lived among ordinary people.
+Anyway, backgrounds in this game are a sort of mix between Chinese and 
+Japanese cultures of Heian period. The authors throw different religious and
+fabulous events and heroes into a single pot, making a rather good story
+in tyhe end. Well, for a NES game.       
+
+==============================================================================
+
+Encylopedia. 
+==============================================================================
+In this case, if comparing to Kitaro, I'll try to explain those 
+names I had to shorten or transliterate due to technical reasons (see readme).
+Some of them are still unknown to me so if you're willing to help with finishing
+this mini-guide - I'd be much obliged for any comments. Here we go. 
+-----------------------------------------------------------------------------
+2-Senkan (baidosenkan) - have no idea about this one - wouldn't mind any help...
+
+Arhat (Lohan) - in the sramanic traditions of ancient India (most notably 
+those of Jainism and Buddhism), signified a spiritual practitioner who had – to 
+use an expression common in the tipitaka – "laid down the burden", realising 
+the goal of nirvana, the culmination of the spiritual life (brahmacarya). 
+Such a person, having removed all causes for future becoming, is not reborn 
+after biological death into any samsaric realm.
+
+Armakuri - it's a pun. Armakuri=Armoured Karakuri (see Karakuri).
+
+Azatofu (along with Yogsotofu) - seems to be a parody of Yog Sothoth and 
+Azathoth respectively (by changing the "thoth" to tofu). Tofu is a traditional 
+Japanese bread. 
+
+Bakegani - I know that was the name of a villain from Kamen Rider saries but
+that's it.  
+
+Bakuenryuu (lit. "burst dragon") - dragon-like enemy.
+
+BeiDuck - Beijing Duck.
+
+Benigumo (lit. crimson spider) - another spider type)
+
+BlueCent - Blue Centipede - nothing to explain here. 
+
+Bukon - see Masou.
+
+BukonA - Bukon Arhat (see Arhat).
+
+BukonF - Bukon Fencer.
+
+BukonL - Bukon Lord.
+
+BukonR - Bukon Rasetsu (see Rasetsu).
+
+Byakko - or "White Tiger" - During the Han Dynasty, people believed the tiger 
+to be the king of all beasts. Legend had it that when a tiger reached 500 years old, 
+its tail would turn white. In this way, the white tiger became a kind of mythological
+creature. It was said that the white tiger would only appear when the emperor ruled 
+with absolute virtue, or if there was peace throughout the world. Because the color 
+white of the Chinese five elements also represents the west, the white tiger thus 
+became a mythological guardian of the west. One of friendly NPC's.
+
+Chimi - Small ghastly being. Generally, it's a mountain Youkai shown as a small
+one-eyed mushroom in the game.
+
+Daitetsujin (lit. "great iron man") - robo-like enemy.
+
+Dokuari (lit. poisonous ant) - ant-type enemy. 
+
+Donburi - also frequently abbreviated as "don", thus less commonly spelled 
+"domburi") is a Japanese "rice bowl dish" consisting of fish, meat, vegetables 
+or other ingredients simmered together and served over rice. Donburi meals are 
+served in oversized rice bowls also called donburi. Donburi are sometimes called 
+sweetened or savory stews on rice. Have no idea why they called a monster this
+way as I haven't seen it...
+
+Evil Kashin - Kashin is basically a fire spirit. 
+
+FBlowBug - Fireblow Bug. 
+
+FireCent - Fire Centipede - nothing to explain here.
+
+Genjutsu (lit. "illusion techniques")- master of illusion techniques that use the
+chakra in the victim's nervous system to create illusions. The most commonly seen 
+genjutsu in the series is the simple creation of phantasms causing the targeted 
+person(s) to hear, see, smell, taste or feel sensations that are not actually 
+there in order to manipulate them. Most genjutsu affects the five senses, though 
+other applications of genjutsu exist.
+
+Hanbou (lit. "half-staff") - a quarterstaff used in martial arts. Traditionally, 
+the hanbou was three shaku (90 cm) long, exactly half the length of the usual staff, 
+the rokushakubou ("six shaku staff"). As with any weapon, bearers would often find 
+one best suited to their build, opting often for one that comes up to about 
+waist/hip height.
+
+FArhat - Fair Arhat (see Arhat).
+
+FMadara - Fire Madara (see Madara).
+
+FOrochi - Fire Orochi (see Orochi).
+
+Garuda - a large mythical bird or bird-like creature that appears in both Hindu 
+and Buddhist mythology. Sometimes called "the emperor's bird".
+
+Gebaku - Gebaku Lion. Gebaku Hand gesture formed by clasping both hands together 
+with the fingers interlocking. When the fingers are interlocked on the outside, 
+it is called gebaku (lit. "outer bind"), while when they are interlocked on the 
+inside, it is called naibaku (lit. "inner bind"). 
+(jishi - lion or maybe other symbolic creature). 
+
+
+Genbu (King Genbu) - black tortoise god said to rule over the northern heavens 
+in Chinese mythology. It's also a legendary general in Chinese mythology. One of 
+the main villains in the game.
+
+Gougu - Gougu Theorem is the Pythagorean Theorem in China but focuses more on 
+astronomical calculations. It's a 2-head snake in the game though.......
+
+Haja - Byddhist term of "crushing evil". 
+
+Hakuga - painting on silk. In ancient China, before paper-making was developed, 
+silk or haku was used for paintings and calligraphy (called hakusho). Generally, 
+the subjects of these paintings were Buddhist, depicting cosmology, mythological 
+tales and religious rituals. Many such paintings, dating from the Han Dynasty, 
+were discovered in the Ma Wang Dui tombs at Zhang-sha.
+
+Hippou (lit. a brush stroke) - haven't seen this one in the game...
+
+HMadara - Hell Madara (see Madara).
+
+Hyakki (lit. "Night Parade of One Hundred Demons") - was a Japanese folk belief. 
+The belief holds that every year Yokai, the Japanese supernatural beings, will 
+take to the streets during summer nights. Anyone who comes across the procession 
+will die, unless protected by some Buddhist sutra. 
+
+Ikkakuryuu (lit. "mono dragon") - dragon-like enemy.
+
+Inazuma or Inazumaryuu (lit. "lightning dragon") - dragon-like enemy.
+
+Jaken - see Masou.
+
+JakenA - Jaken Arhat (see Arhat).
+
+JakenF - Jaken Fencer.
+
+JakenL - Jaken Lord.
+
+JakenR - Jaken Rasetsu (see Rasetsu).
+
+Jumonryuu (lit. "spell dragon") - dragon-like enemy.
+
+Kaimeiryuu (lit. "dark dragon") - dragon-like enemy.
+
+Kaisenryu (lit. "battle dragon") - dragon-like enemy.
+
+Kakutei - see Masou.
+
+KakuteiA - Kakutei Arhat (see Arhat).
+
+KakuteiF - Kakutei Fencer.
+
+KakuteiL - Kakutei Lord.
+
+KakuteiR - Kakutei Rasetsu (see Rasetsu).
+
+Kantou (kantou-bito) - have no idea why they called this "batman" a Kantou-dweller...
+
+Karakuri - Japanese call different mechanical gizmoz this way. Robo-like enemy. 
+
+Katsugyo (lit. fresh fish)- fish-type enemy.
+
+Ketsuyoku (lit. wing beast) - I need help with this one too...
+
+Kiyo - turkey-like monster - need help with this one too...
+
+Kokuunryuu (lit. "dark cloud dragon") - dragon-like enemy.
+
+Koujin - also known as Sambo-Koujin or Sanbo-Koujin, is the Japanese kami (god) 
+of fire, the hearth, and the kitchen. He is sometimes called Kamado-gami, 
+literally the god of the stove. He represents violent forces that are turned 
+toward the good of humankind.
+
+Kurokan (lit. boiler) - haven't seen this one and have no idea what's that...
+
+Kyonshi (lit. "stiff corpse") - sometimes called Chinese vampires by Westerners, 
+are reanimated corpses that hop around, killing living creatures to absorb life 
+essence from their victims. Jiangshi is pronounced goengsi in Cantonese, gangshi 
+in Korean, and kyoushi or kyonshi in Japanese. They are said to be created when 
+a person's soul fails to leave the deceased's body, due to improper death, 
+suicide, or just wanting to cause trouble.
+
+Lohan (Luohan) - see Arhat. 
+
+Madara - I have a suspicion that Madara is a way of pronouncing "Mandala"...
+
+Manda is a serpentine creature similar to a Chinese dragon with four small legs 
+and prominent horns. It can constrict its body around an enemy and crush them like 
+a snake does. Manda can also swim very fast and can breathe underwater.
+
+Masou - is a clan of undead warriors found in several locations of the game 
+(mostly in Fangshui Pagoda), wearing the white mask - a symbol of evil. The other
+clans are Kakutei, Bukon, Jaken and Soken. All clans generally include the
+following warriors: Lord, Fencer, Arhat (see Arhat) and Rasetsu (see Rasetsu).
+
+MasouArh - Masou Arhat (see Arhat).
+
+MasouFenc - Masou Fencer.
+
+MasoRas - Masou Rasetsu (see Rasetsu).
+
+Menshien - have no slightest idea...
+
+Mikkun - have no idea about this one...
+
+MScarab - Madara Scarab.
+
+Mugenryu (lit. "dream dragon") - dragon-like enemy.
+
+Orochi (lit. Eight-Forked Serpent) - a legendary 8-headed and 8-tailed Japanese 
+dragon that was slain by the Shinto storm-god Susanoo.
+
+Raseryuu or Rasetsuryuu (lit. "rasetsu dragon", see Rasetsu) - dragon-like enemy.
+
+Rasetsu - is a demon or unrighteous spirit in Hindu and Buddhist mythology. 
+
+Rouki - have no idea - help me, if you can. 
+
+Ryuuin - a dragon-like enemy. 
+
+Ryujin or Ryojin also known as O-watatsumi - tutelary deity of the sea in Japanese 
+mythology. This Japanese dragon symbolized the power of the ocean, had a large mouth, 
+and was able to transform into a human shape. Ryujin lived in Ryugu-jo, his palace 
+under the sea built out of red and white coral, from where he controlled the tides 
+with magical tide jewels. Sea turtles, fish and jellyfish are often depicted as Ryu-jin's 
+servants. Ryu-jin was the father of the beautiful goddess Otohime who married the 
+hunter prince Hoori. The first Emperor of Japan, Emperor Jimmu, is said to have been 
+a grandson of Otohime and Hoori's. Thus, Ryu-jin is one of the ancestors of the Japanese 
+imperial dynasty.
+
+Ryuujinki (lit. dragon sprout) - dragon-like enemy.
+
+Ryuujitsu - have no idea...
+
+Ryuusenki - have no idea...
+
+Ryuushin - Dragon Monk.
+
+Seioubo - The Queen Mother of the West is an ancient Chinese goddess 
+whose origin can be traced back to oracle bone inscriptions of the 
+fifteenth century BCE that record sacrifices to a "western mother". 
+Even though these inscriptions illustrate that she predates organized 
+Taoism, she is most often associated with Taoism. From her name 
+alone some of her most important characteristics are revealed: 
+she is royal, female and is associated with the west. 
+The growing popularity of the Queen Mother of the West, as well as 
+the beliefs that she was the dispenser of prosperity, longevity, 
+and eternal bliss took place during the second century BC when 
+the northern and western parts of China were able to be better 
+known because of the opening of the Silk Routes. 
+
+Seiryuu - In Japan, the Azure Dragon (Seiryuu) is one of the four guardian 
+spirits of cities and is said to protect the city of Kyoto on the east. 
+The west is protected by the White Tiger, the north is protected by the 
+Black Tortoise, the south is protected by the Vermilion Bird, and the 
+center is protected by the Yellow Dragon. In Kyoto there are temples 
+dedicated to each of these guardian spirits. The Azure Dragon is represented
+in the Kiyomizu Temple in eastern Kyoto. Before the entrance of the temple 
+there is a statue of the dragon which is said to drink from the waterfall 
+within the temple complex at nighttime. Therefore each year a ceremony 
+is held to worship the dragon of the east. One of the main villains in
+the game. 
+
+Shinigami - is the personification of death that evolved in Japan, having 
+been imported to Japan from Europe during the Meiji period. 
+
+Shinigani - pun with a rather known Youkai name (see Shinigami).  
+
+Shouki - is a figure of Chinese mythology. Traditionally regarded as a vanquisher 
+of ghosts and evil beings, and reputedly able to command 80,000 demons, his image 
+is often painted on household gates as a guardian spirit, as well as in places 
+of business where high-value goods are involved.
+
+Shuukouki (lit. "condenser") - have no idea what this is...
+
+Soken - see Masou.
+
+SokenA - Soken Arhat (see Arhat).
+
+SokenF - Soken Fencer.
+
+SokenL - Soken Lord.
+
+SokenR - Soken Rasetsu (see Rasetsu).
+
+Soutouryuu (lit. "double-headed dragon") - dragon-like enemy.
+
+Suzaku - name for the Chinese Vermilion Bird (Zhuu Que), bird guardian of the 
+South and one of Japanese emperors. One of the main villains in the game.
+
+Teikou - judging from the anime called "Qwan", it's a four-winged, 
+six-legged demon. However, I've never met this one in Yokai guides...
+
+Tetsubu - Tetsubujin (lit. "iron woman") - robo-like enemy.
+
+Tetsujin (lit. "iron man") - robo-like enemy.
+
+Tobigumo - specific type of a spider, residing in Japan
+
+Totetsu - it's a shape-shifting Yokai in japanese mythology.
+
+Toumaryuu (lit. "savage dragon") - dragon-like enemy.
+
+Unshaku - non-refined liquer proposed to the gods. Another odd name for a
+monster...
+
+Vajra - is a Sanskrit word meaning both thunderbolt and diamond. As a 
+material device, the vajra is a short metal weapon that has the symbolic
+nature of a diamond (it can cut any substance but not be cut itself) and 
+that of the thunderbolt (irresistible force). The vajra is believed to 
+represent firmness of spirit and spiritual power. It is a ritual tool or 
+spiritual implement which is symbolically used by Buddhism, Jainism and 
+Hinduism. 
+
+Yogsotofu - see Azatofu. 
+
+YouraiMon - Have no idea about this one... 
+
+Youshou - Right-hand, advisor.
+
+Zakkun - basically, it's a Thunder Monk in the game.
+========================================================================
+
+Items and weapons
+========================================================================
+Aikuchi - a form of mounting for Japanese blades in which the handle and 
+the scabbard meet without a guard in between.
+
+Ashoka cloth - Ashoka was an Indian emperor of the Maurya Dynasty who 
+ruled almost all of the Indian subcontinent from 273 BC to 232 BC. Often 
+cited as one of India's, as well as the world's, greatest emperors,
+Ashoka reigned over most of present-day India after a number of military 
+conquests. 
+
+Bashou fan - a fan made of Japanese banana plant. 
+
+Bujutsu-gi - another traditional uniform for martial arts' masters. 
+
+Deba knife - Japanese style kitchen carvers used to cut fish, but also 
+chicken and meat. There are different sizes up to a length of 30 cm 
+(12 inches). 
+
+Dougi - a uniform for training, used in martial arts derived from Japan.
+
+Gabishi - one of the deadliest swords ever. 
+
+Ginyou sword - a demon-beating sword. 
+
+Gouma staff - a demon-beating staff.
+
+Hama Blade - a blade to exorcise demons.  
+
+Hiryuu Axe - a flying dragon axe. 
+
+Houken (lit. "treasured sword") - ceremonial sword used in the game.
+
+Houtengeki - a legendary Japanese spear. 
+
+Jindan (lit. "golden elixir") - mythical substance of Chinese alchemists,
+granting infinite life and powers. A way to become immortal.
+
+Kan Nu Ren - a legendary demon beating sword. 
+
+Kan Kon Tan - a famous kind of cake in Toyama, soft sponge cake filled 
+with custard.
+
+Kinkoji ring - a ring blessed by Buddha believers. 
+
+Kirin's tail - Kirin is a beast also spelled Kylin or Qilin is a mythical 
+hooved Chinese chimerical creature known throughout various East Asian 
+cultures, and is said to appear in conjunction with the arrival of a sage. 
+It is a good omen that brings rui (roughly translated as "serenity" or 
+"prosperity"). It is often depicted with what looks like fire all over 
+its body.
+
+Kouyou Mallet - a demon-beating hammer of charming power. 
+
+Kuchiba Kimono - a traditional yellow-red kimono. 
+
+Onmyou - a whip imbued with powers of Yin and Yang. 
+
+Qi Xing (lit. "seven star") - a legendary Chinese sword named after a
+holy mountain.
+
+Rou Nai Tan - another type of cake. 
+
+Ruyi Sphere - is a curved decorative object that is of ceremonial nature 
+in Chinese Buddhism or a talisman symbolizing power and good fortune in 
+Chinese folklore. A traditional ruyi sceptre has a long S-shaped handle 
+and a head fashioned like a fist, cloud, or lingzhi mushroom. Ruyi are 
+constructed from diverse materials. For example, the Palace Museum in 
+Beijing has nearly 3000 ruyi that are variously made from valuable 
+materials like gold, silver, iron, bamboo, wood, ivory, coral, rhinoceros 
+horn, lacquer, crystal, jade, and precious gems. The "ruyi" image 
+
+Ryuuko - a sword imbued with power of two mighty rivals, like dragon
+and tiger. 
+
+Ryuusen - sword from the famous temple called Ryuusen-ji, in Japan. 
+
+Sanzou mirror - mirror, reflecting three holy images.  
+
+Senkafu - a blossom axe. 
+
+Shinsen sword - the sword of the Immortals. 
+
+Shumei - another legendary sword.
+
+Sougyo - twin-edge knife used for cutting fish. 
+
+Tai Bai sutra - sutra blessed by the power of Venus. 
+
+Tenkou Blade - a divine celestial blade. 
+
+Zijin Crown - a helmet named after famous Purple Mountain in China. 
+

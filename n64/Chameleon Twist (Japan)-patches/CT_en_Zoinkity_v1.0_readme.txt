@@ -1,0 +1,14 @@
+﻿Chameleon Twist Japanese to English Patch
+
+  Yes, you read that right. Yes, it +was+ released in the English.
+  This patch shoehorns (one of) the official translations into the Japanese game.  It was edited minorly to remove obvious typos, and some redundant lines were dropped in the interest of all the important dialog getting stuffed in there (Get a high score, and try to get a high score!).  Where text needed to be localized I tried my darnedest to retain the original style of "talking down to a 7 year old through a language barrier".
+  The Japanese game has a number of noticable differences.  There is a carrot in each world to collect, unlocking two minigames and...something else!  Several rooms are completely different, the "boss rush" is more difficult, powerups appear in single player, there's two more characters, and 1P can play multiplayer against up to three COMs.  There's several internal differences too, like how it doesn't bork the save commands and isn't silly about controller paks.  Messy code though; honestly not certain if v1.1 fixed more bugs than it introduced--script included.
+
+  Apply the .bps to an original Japanese ROM in native (big-endian) byteorder.
+Internal Name	Chameleon Twist     
+Game ID	NCTJ
+Internal Checksum	A4F2F521 F0EB168E
+MD-5	C0EB519122D63A944A122437EC1B98EE
+SHA-512	C725C585831E566037ACFA819863F4E72619264FE190D260D4F01F900B80617C59DE6D8EFE0B9DF777B709FE1CD66FAE8AF8BAFF59CE630629969F7B4200035F
+
+-Zoinkity

@@ -1,0 +1,88 @@
+Batsu & Terry
+Hacked & Translated by Zynk Oxhyde
+2013
+
+---------------
+Date Completed:
+---------------
+December 25, 2013
+
+------------
+Description:
+------------
+This is an English translation of Batsu & Terry for the NES!
+
+--------
+Changes:
+--------
+Aside from translation, here are some note-worthy to trivial changes:
+*The titlescreen
+*The stage name alignment
+*LFT. changed to LEFT:
+*The "kiken" sign changed to "DANGER"
+*The ending
+
+---------
+Controls:
+---------
+Left & Right = Move
+Up & Down = Climb ladders
+A = Jump
+B = Attack
+Up/Down + B = Shooting direction for Batsu
+Hold B + Move = Move faster
+Hold B + Move + A = Do a super dash jump
+Start = Pause
+
+---------
+Gameplay:
+---------
+The game is an action platformer. The objective is to get to the finish line
+at the end of each world with a limited amount of time. There are 6 worlds,
+each world has 4 sub-levels.
+
+You have two playable characters, Batsu (default ball throwing green guy) &
+Terry (if Batsu's HP is depleated, Terry appears in his place armed with a
+baseball bat). Gain HP by eliminating enemies on the way. Destroy blocks to 
+get heart icons; collect 100 of those to gain a 1UP. Pickup a POW to powerup 
+your attacks.
+
+----------
+Item List:
+----------
+Heart	  - Collect 100 hearts to gain a 1UP
+POW	  - Powerup attack
+1UP	  - Extra life
+
+---------
+ZIP file:
+---------
+1. This readme
+2. Batsu & Terry - English.ips patch
+
+----------------
+ROM Information:
+----------------
+File:   Batsu & Terry (Japan).nes
+Length: 131088 Bytes (1 Mbit)
+CRC32:  CA80FA58
+MD5:    E427E36F 287874DF 10150862 CDCA3E1B
+SHA1:   F6177C58 1ED0B1D4 625EC478 CAEC3AA5 939DC229
+
+--------
+Credits:
+--------
+Zynk Oxhyde - Hacking, translation & titlescreen edit.
+
+--------
+Contact:
+--------
+Email: zynkoxhyde@yahoo.com
+
+-----------
+Disclaimer:
+-----------
+Zynk Oxhyde is not related/affiliated with Nintendo & USE in any way.
+USE owns this game, all rights reserved. This patch is not for profit! 
+This patch is free! Don't distribute this in pre-patched ROMs!
+Don't ask Zynk Oxhyde for ROMs. Get your ROMs from anyhow you like.

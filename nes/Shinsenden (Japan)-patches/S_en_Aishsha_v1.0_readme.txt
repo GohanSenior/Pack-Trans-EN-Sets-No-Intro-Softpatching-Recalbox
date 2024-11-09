@@ -1,0 +1,80 @@
+================Shinsenden============================
+==================V1.00===============================
+Genre: RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha
+
+E-mail: aishsha@gmail.com
+Web-site: aishsha.blogspot.com
+ 
+ 
+======================================================
+Shinsenden
+======================================================
+Background: Ok, for those willing to know the background
+of this story - please, refer to the info file
+attached in the same archive. 
+
+To tell the story short, that's a pretty cool "pure"
+Oriental game with charming characters and rather
+good plot. 
+
+This was one of the hardest hacks for me ever. The game
+has a dimwitted printing routine which was hell to
+change and still far from ideal. So don't be afraid
+of shortened monster names and different length for
+some dialogue lines - it HAS to be this way unless
+you want to rewrite the whole printing routine from
+the scratch. In that case - feel free to contact me 
+and I'll gladly make an "expanded" translation :) 
+
+Use a patching IPS utility of your choice to apply the
+patch (I do recommend Lunar IPS). 
+
+I would be highly grateful, if you find some time to 
+contact me with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated. It refers to Encyclopedia, in particular.    
+
+Enjoy the playing and do buy the game, if you like it!
+
+======================================================
+IMPORTANT NOTE BEFORE YOU START PLAYING!!!!!!!!!!!!!!!
+======================================================
+PLEASE DO NOT CHANGE THE SPEED FOR BATTLES AND TEXT!
+ONCE AGAIN - DO NOT DO IT, IF YOU WANT TO SEE CORRECT
+MESSAGES!!!!!!!!
+======================================================
+
+Credits go to:
+ASchultz - my constant helping hand in editing and 
+proofreading activities.
+Thanks man, you're the best ;)
+
+bongo' - for useful notes and help at the start of
+this project.
+
+ded302 - one of the authors of this translation 
+especially in the tasks related to expansion and
+fonts.
+
+Djinn - without him this project would be dead at
+its start. Another author of this work whose
+hacking skills did real magic in our case.
+
+fuzzball, BRPXQZME - for their professional
+help with Japanese in damn-hard cases.
+
+threetimes - for locating a stupid bug I've
+missed. 
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by aishsha. August 2009.

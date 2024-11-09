@@ -1,0 +1,56 @@
+                              Gargoyle's Quest II
+                              The Demon Darkness
+
+                 English Translation v1.0 for GameBoy Classic
+                  based on the original English NES version
+
+===============================================================================
+||     CREDITS                                                               ||
+===============================================================================
+
+Programming                 :: bailli
+
+Translation/Script matching :: Hiei-
+
+Title screen graphics       :: FlashPV
+
+Beta testing                :: Pikachumanson
+
+===============================================================================
+||     CHANGELOG                                                             ||
+===============================================================================
+
+10/02/2013 :: v1.0 first public release
+
+===============================================================================
+||     FEATURES                                                              ||
+===============================================================================
+
+There are some minor differences to the official NES version script. Some
+weird expressions have been corrected and the "Legend" told by Lethe has been
+shortened because of technical difficulties.
+On the bright side the patch introduces DTE compression for the ingame text
+to fit all text blocks inside its original ROM bank. Some windows have been
+widened to allow for more readable English labels.
+Save states should be compatible as long as there is no open dialog box. In any
+case you should try to get to a map/town/action sequence transition as soon as
+possible to carry all changed bits over to RAM.
+
+===============================================================================
+||     BPS PATCH                                                             ||
+===============================================================================
+
+You need beat to apply the bps patch: http://byuu.org/programming/beat/
+
+===============================================================================
+||     MD5SUM                                                                ||
+===============================================================================
+
+Makaimura Gaiden - The Demon Darkness (Japan).gb
+untouched ROM    :: de731a5f2f4e7d16bcdc4b5953ddcc12
+patched ROM      :: 3574c3ae7c83faeb018cb1c05950c25d
+the patch itself :: 1e148d938ec49b77ef511b84bbc07b71
+
+===============================================================================
+||     ENJOY PLAYING THE GAME                                                ||
+===============================================================================

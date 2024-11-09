@@ -1,0 +1,125 @@
+                              __    __ _ _   _    
+                             / / /\ \ (_) |_( )__ 
+                             \ \/  \/ / | __|/ __|
+                              \  /\  /| | |_ \__ \
+                               \/  \/ |_|\__||___/
+
+                                        
+                                     Wit's
+                               Instruction Manual
+                                     v1.00
+                                    
+-------------------------------- INTRODUCTION ---------------------------------
+
+Wit's is an action game released by Athena for the Famicom game system in 1990.
+It was never officially translated into English but was translated by Suicidal
+Translations and released on February 28th, 2003.
+
+This file serves as an instruction manual for the translated game. It is not a
+translation of the original instruction manual but is an original work based on
+my experiences playing the game.
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+  I. Introduction
+ II. Table of Contents
+III. The Story
+ IV. Gameplay
+  V. Distribution Notes
+ VI. Conclusion
+
+---------------------------------- THE STORY ----------------------------------
+
+Joe was hit by a car and transformed into the superhero Naked Man. Dr. Wit's
+attempted to recruit Naked Man into his evil Joke Army, but Joe refused. Now he
+must do battle the evil Joke Army in a battle of speed and skill to prevent them
+from taking over the world.
+
+---------------------------------- GAMEPLAY -----------------------------------
+
+As with most NES action games, gameplay isn't particularly difficult. The
+initial options should be obvious. You can choose between 1, 2, 3 and 4 player
+games. After that, it's just run and gun, baby, run and gun.
+
+General play control is as such:
+
+Left/Right: move left/right
+   Up/Down: move up/down
+         B: jump
+         A: speed up
+     Start: tea & crumpets
+
+
+LEVELS
+------
+
+You must do battle with the five members of Dr. Wit's Joke Army in order to
+save the world. You can choose to fight them in any order, but they are
+increasingly difficult from left to right. For the purposes of this manual, I
+will refer to them as levels one through five, with one being on the left and
+five being on the right. There are five rounds in each battle. The first three
+are on foot (or wing, or belly, or ice skates, accordingly) and the fourth and
+fifth levels are on Segways.
+
+Level One - Suicide Smurf: Sure, he looks like a man in a blue spandex suit in
+the portrait, but once you get into the game, you realize he's just a kamikaze
+smurf with Nikes. Nothing special about this level, just surround him and ram
+him.
+
+Level Two - Herman Birdman: In level two, you take to the skies. The only
+difference between this level and the last is that Herman can jump multiple
+times. I don't know why you don't just fly under the wall when it approaches,
+but I guess maybe Dr. Wit sabotaged your wings or something.
+
+Level Three - Jonny Madrox: Level three brings you the
+cheating motherbitch twin brother of Multiple Man. You don't just have to ram
+him into the wall, you have to ram all four of him into walls!
+
+Level Four - Waterboy: Next up is Aquaman's heterosexual life partner Waterboy.
+In this level, you swim instead of run or fly. Basically, this means that the
+game makes different noises when you're moving. There are also walls on the
+field before you start, which makes it slightly more difficult than the previous
+levels. Oh, and you get boats instead of motorcyles in this one.
+
+Level Five - Tony Harding: Time for the obligatory slippery ice stage. Just like
+the stage before it except you have to start turning a couple of blocks earlier
+than normal because you'll slip, slide and crash. I like crashing in rounds four
+and five because you get to see the dogs from the dogsleds run away.
+
+Level Six - Dr. Wit: And now it's time for the final battle. But wait, Dr. Wit
+isn't a real doctor, he's actually Sully from Monsters Inc.! He's pissed off
+that you dented the bumper of his car when he ran over you in the intro and is
+out for revenge! He has the cloning ability of Johnny Madrox, the slippery level
+of Tony Harding and the gay breast stroke of Waterboy. How can you ever hope to
+defeat such a menace? Pretty much the same way you beat all the rest of them.
+
+----------------------------- DISTRIBUTION NOTES ------------------------------
+
+This Wit's translation should be distributed in a file named witse100.zip and
+should contain the following files:
+
+	  witsev100.ips - the translation patch
+ 	  witsev100.txt - this readme file
+	   wits-man.txt - a manual for the game
+
+These files are (C)opyright 2003 by Suicidal Translations. All rights reserved.
+You may distribute this translation in any manner you desire as long as the
+original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Wit's is (C)opyright 1990 by Athena Co. LTD.
+
+---------------------------------- CONCLUSION ---------------------------------
+
+So there you have it. Not the most complex game of all time but it's quite fun
+in multi-player mode. So if you ever have 2 friends over and are thinking to
+yourself that it would be nice to have a 3 player game, here you go!
+
+If you have any questions, feel free to ask. The official site of the 
+Wit's translation is at http://www.pigtails.net/ST and you can find the most
+current contact information there as well.
+
+-InVerse
+
+-------------------------------------------------------------------------------
+Wit's          -          (C)opyright 2003 InVerse          -          02/28/03

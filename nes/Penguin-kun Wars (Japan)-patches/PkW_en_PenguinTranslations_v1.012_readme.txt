@@ -1,0 +1,37 @@
+Penguin Translations
+--------------------
+
+Penguin Kun Wars - Famicom - (c) 1985 ASCII - 100% Translation
+
+Changes
+-------
+1.012 - When I released 1.011, way back when, someone pointed out that the title was infact 
+Penguin Kun Wars.  As this is the way that the game is named in the all-english arcade 
+version, I decided to redo the title screen once again. :P
+
+1.011 - Made a much nicer Title Screen
+
+1.01 - Fixed a bug where the game would freeze when you reach the Whack-A-Mole bonus round after round 2.
+
+1.0 - Translation of Menu Screen, fixing of some Japanenglish sayings.
+
+Notes
+-----
+
+I have now officially joined the translation scene :)
+
+This is a patch for Penguin Wars for the Famicom.  It is 100% complete as the only japanese from it came from the title screen (thanks for the idea InVerse :)
+
+Actually, I came upon this ROM by accident.  I was looking for Penguin Dream Story, and downloaded this one thinking that was it.
+
+This is a neat little game, it is actually many games in one (Pong/Air Hockey, and Whack-A-Mole - for as far as I got).
+
+This game translates the one word in the title screen, as well as fixing some annoying Japanenglish.  You Get A Set is now You Won A Set.
+
+Other
+-----
+
+Translation by Mickey McMurray
+http://www.emucamp.com/penguin
+Thanks to ASCII for making this game.
+Thanks to InVerse for inspiration :)

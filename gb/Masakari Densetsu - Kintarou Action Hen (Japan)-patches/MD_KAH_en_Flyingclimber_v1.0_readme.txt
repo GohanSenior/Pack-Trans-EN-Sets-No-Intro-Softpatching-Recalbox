@@ -1,0 +1,53 @@
+Masakari Densetsu Kintaro Action Hen
+Version 1.0
+08 August 2021
+flyingclimber
+
+==================================================
+|Description
+=================================================
+
+The first installment in the Tonkinhouse line of games featuring the legendary hero Kintaro is now in English!
+
+Journey with Kintaro on a mission to find his lost father. Sumo with bears. Fight the great Demon. And eat lots of rice balls as you explore a colorful world of mysterious friends and fearsome foes. 
+
+==================================================
+|Changelog
+=================================================
+
+v1.0
+ -> Initial Release
+
+==================================================
+|Frequently Asked Questions
+=================================================
+
+Q. What is the level select code?
+A. ERFAYPMI'''
+
+Q. How can I learn more about Japanese folklore?
+A. Wikipedia and/or http://yokai.com are great resources
+
+==================================================
+|How to Patch
+=================================================
+Get copy of the "Masakari Densetsu - Kintarou Action Hen (Japan).gb" SHA-1 (ec23af3d5590b75b2a3b33708a4fe5cffe495a1f) and an IPS patching program like MutliPatch.
+
+Apply the patch. Enjoy!
+
+==================================================
+|Special Thanks
+=================================================
+
+@zuvittonan - Original inspiration
+ifightdragons - Editing
+ProstatePunch - Editing, Testing
+MarcMax - Testing
+anjiera - Translation notes
+
+==================================================
+|Feedback
+=================================================
+
+Questions? Suggestions? Glitches?
+translations@retropagoda.com

@@ -1,0 +1,41 @@
+Mickey Mouse III - Dream Balloon translation
+07 APR 2013
+-Nikc
+
+Once upon a time there was a series of Mickey Mouse games on the original Nintendo. Most were translated faithfully, but a few were altered due to licensing agreements. Mickey Mouse III - Dream Balloon (aka: Yume Fuusen) was one such game - in English-speaking countries it was called "Kid Klown", with (in my opinion) rather hideous graphic changes and a completely different story.
+This patch translates the game into English, so you can see what Disney felt they weren't being paid enough in 1992 to show you.
+(*Yes there's a prototype version that was translated, but the English was pretty terrible*)
+
+
+
+
+v1.1
+--------
+*Translated 'Hard Mode' winning message (didn't realized it changed!)
+*Fixed a few typos and alignment issues
+
+
+**************
+Possible Future Updates?
+*Make the title screen look better (especially 'Mickey Mouse')
+*Add lowercase letters
+**************
+
+How to patch:
+Get a copy of the Japanese "Mickey Mouse III - Yume Fuusen" rom, choose the correct patch for that version, and an IPS patching program (Lunar IPS seems to be the standard).
+Run the program, click 'Apply patch', and viola! Enjoy.
+
+
+
+Credits/Utilities
+---------
+*reyvgm -- for including this game in a 'needs translation' list
+*Beatnaut (http://www.youtube.com/user/Beatnaut) -- For having video translations
+
+Tile Layer Pro & FaTILEty -- Graphics editing
+Hex Workshop -- Editing the text
+fceuxd -- Emulating the game
+
+Questions? Glitches? Typos?
+nikcdc@gmail.com
+nikcdc.110mb.com

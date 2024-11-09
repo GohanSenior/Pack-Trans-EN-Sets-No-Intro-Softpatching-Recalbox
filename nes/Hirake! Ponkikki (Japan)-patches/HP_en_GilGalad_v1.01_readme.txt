@@ -1,0 +1,57 @@
+===========================================
+============Hirake! Ponkikki===============
+==========100% translation patch===========
+=============2005 Gil_Galad================
+========http://gilgalad.panicus.org/=======
+===========================================
+
+Game Details
+---------------
+Hirake Ponkikki is a easy to play platformer. You have a few overworld maps that you navigate and each one has several missions to accomplish. One is a Sis Janken game much like the rock,paper,siscors hand game. Another where you have a side scrolling adventure like Super Mario Bros for example. You have 2 characters you can chose from in the beginning of the game,Gakipan and Mutsuku. 
+
+Update History
+-----------------
+Version 1.01 12-01-2005
+Changed a misspelled word.
+
+Version 1.0 03-31-2005
+Fully translated.
+
+Patching Details
+-----------------
+1.)Use SNES Tool to patch the rom. Or your favorite patching application.
+
+2.)Make sure the "good name" is Hirake!_Ponkikki_(J).zip . The size of the rom should be 64.00KB after being unzipped.
+
+Emulation Details
+------------------
+This game is mapper #3 and you should not have a problem finding a NES emulator to run the game.
+
+Known Issues
+------------------
+This game is fully translated and shouldn't have any issues. If there is any issues then contact me and state the issue and savestate and snapshot would be good.
+
+Tools used
+------------------
+Hex Workshop
+FCEUD
+Nesten
+DCC6502
+Table Manager
+Tile Layer Pro
+SNESTool
+Thingy
+Font Package
+
+Credits
+------------------
+Authors of the above stated tools and emu's.
+
+Contact Info
+-------------
+email: Gil_Galad75@hotmail.com
+AIM: Klingox1001
+
+Futher Notes
+--------------
+This is a fan based game modification and is not affiliated with Nintendo,and Takara or any other company. This patch is not for sale and must be included with the readme.Thanks and enjoy. 

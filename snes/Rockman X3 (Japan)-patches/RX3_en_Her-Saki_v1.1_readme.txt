@@ -1,0 +1,33 @@
+========================
+	Rockman X3
+ English version 1.1
+========================
+
+Source code: https://github.com/Her-Saki/Rockman_X3
+Discord: https://discord.gg/G9nd22F
+
+===================
+Description:
+===================
+This is a translation patch for
+Rockman X3, using an improved
+VWF engine.
+
+======================
+Instructions:
+======================
+Open Lunar IPS and apply
+the patch to a headerless
+rom.
+
+======================
+Changelog:
+======================
+1.0 First version
+1.1 Proofreading
+
+======================
+Thanks to:
+======================
+supersonicjc
+DarkHunter

@@ -1,0 +1,512 @@
+Little Master
+English Translation 1.00
+
+--------------------
+©2018 by Zatos Hacks 
+
+Written 6-5-2018
+--------------------
+
+I am very pleased to finally release the English translation of
+Little Master, completed 17 years after the project started!
+
+------------------
+Applying the Patch
+------------------
+
+The ROM you'll need (both filenames are the same version):
+
+Little Master (J).gb
+Little Master - Raikuban no Densetsu (Japan).gb
+
+CRC32:    31cd9670
+MD5:      de95d425f6a2836960f4ee2a9aa2f6f7
+SHA-1:    7c83b3c6cd9571c422e66e64e522a0416fa477b2
+
+I've included both IPS and BPS patches.  Use LunarIPS or beat
+to patch, unless you prefer another.
+
+-------------------
+About Little Master
+-------------------
+
+Welcome to the Kingdom of Rainac.  Recently the Kingdom has been 
+experiencing terrible tragedies since the mysterious Demon
+King Gezagain has appeared and started conquering the country.
+My chosen knight, Liam Richban, we need you to fight off this 
+evil and return peace to our kingdom.  Please help us!
+
+Little Master is the first game in the trilogy of the Little Master
+series.  This game and the series as a whole are quite terrific
+experiences!  The game is a strategy RPG which features great 
+gameplay and some great music.  There's variety in the levels so
+the game doesn't get repetitive.  You can also find new troops in
+certain scenarios (i.e. levels) which you can use with the unity 
+system the game has.  You can combine troops to form more powerful
+ones!  I don't believe I'm being biased, but I truly believe this
+game (and Little Master 2) are some of the best games ever made for 
+the Game Boy.  That is one of the main reasons I wanted to do this
+project.  Not only to play for myself, but I also wanted to drum
+up some interest this game and show others how great this game 
+series is!  Hopefully someday we can get a full translation of
+Little Master 3 (I've already started work on Little Master 2)!
+
+---------------------------------
+About Me & History of the Project
+---------------------------------
+
+Project Started 2001
+Project Halted 2001
+Project Completed 2018
+
+I first entered the scene quite literally, on the first day of the
+millenium (not technically I guess, since it was 2000 and the 
+millenium technically started in 2001).  At that time, I launched 
+one of the first sites for news on ROM hack translations.  I was a 
+big fan of being able to play many great Japanese games in English, 
+so I wanted to follow all the WIP translations.  
+
+You can view it here to check out some history: 
+https://bit.ly/2kPBx18
+
+While comprehensive, the site was short-lived.  Later when a new 
+site called Whirlpool arrived, I joined the staff there.  During
+this same time I started working on some projects of my own.
+While Little Master really was the first game I wanted to do, I
+ended up doing a couple PC Engine games - Photograph/Gekisha
+Boy and Aoi/Blue Blink.  These were easier projects that eased
+me into doing ROM hacking.  After those, I had the skills I felt
+I needed to work on Little Master.  At that time I had ended up
+getting the table made, the text dumped, I had translators who
+finished translating it, and I had condensed and edited the
+scripts by myself.  All that was left to do was reinsert!  But
+about that same time, I made some very immature decisions in a
+lot of the popular ROM hacking site forums at the time, including
+Whirlpool.  This got me removed from staff, as well as probably
+pissing some folks off.  Ultimately, I ended up distancing myself
+from the scene.  I also grew discouraged with the project after
+making some mistakes and running into some issues.  So the project 
+died, and I left the scene.
+
+You can view my other old site with my ROM hacking projects,
+including this one (apparently I wayyy overestimated or 
+exaggerated about my progress with inserting text):
+https://bit.ly/2kLzISW
+
+Honestly, I don't think anybody even remembers about what happened
+with me back then, and I don't entirely remember exactly what 
+things I did.  But for everyone around at that time, I really do 
+apologize for my behavior.  I hope it can stay in the past, I'm 
+very much a different person now than I was back then.
+
+I did end up poking my head in on Romhacking.net (RHDN) a couple 
+times several years later, but under the alias CapnCrunch.  I 
+created the account to post my project files for Little Master. 
+Other than a few interactions, my time spent there was brief.  I 
+still wasn't sure how people felt about what had happened back in 
+2001. Fast forward to 2018 though, and my brother (Fyr) showed great 
+interest in wanting to learn ROM hacking.  Through his persistence, 
+I ended up walking him through Space Hunter, and because it didn't 
+require a ton of work, we ended up releasing a translation patch for 
+it.  If it wasn't for that, I never would have touched ROM hacking
+again.  If you enjoy the game as much as I have, you also have him
+to thank!
+
+-------------------------------------
+About the Patch & Hacking Experiences
+-------------------------------------
+
+I would say as a hacker, I'm probably more on the inexperienced side.
+Before Little Master, my completed projects were smaller and didn't
+require as much to complete.  I definitely learned a lot from this
+experience, both now and 17 years ago.  I wanted to have some info
+here that might be helpful for anyone that might have an interest
+in learning ROM hacking.  Experienced ROM hackers may also be 
+interested in learning about what sorts of things I encountered
+while working on it.  
+
+When I started this project back up again, I didn't have a copy of
+work I did on the ROM.  I still had all the project files.  However,
+this was totally okay, because I think even if I still had that
+work, I would have started the hacking from scratch anyway.  I made
+errors back then, and who knows what I might have messed up.
+
+One thing I did change from the original work that I did was use a
+different font.  I'm pretty sure the original font was done by 
+SpoonyBard (not specifically for Little Master I don't believe).  I 
+actually ended up liking one of his other fonts that I downloaded off
+RHDN, and I thought it fit better with the somewhat light hearted
+nature of this game.  
+
+One thing that was really great about working on this game, was the
+generous amount of extra space for text I had to work with, which is
+not so common with many Japanese games/ROMs.  The game had a few 
+reasons for this.  In much of the text, they used the Japanese style
+quotes, which is not uncommon for Japanese games.  However, it was
+not necessary to use these until about 2/3 into the game when story
+scenes transitioned from being monologues into dialogues.  The devs
+also left blank spaces on all the other lines so as not to render
+any text in the same columns as the quotes.  
+
+Another benefit for me was that they also used a separate value for 
+diacritical marks: the dakuten/ten-ten and handakuten/maru.  These 
+are the quotation mark and circle looking shapes that appear on some 
+Japanese characters.  Some games use alternate values for the 
+characters when these appear, but because this game uses an extra 
+value, every time one appeared was extra bonus space for me (I'm not
+sure which method is more commonly used, though).  When I was 
+replacing text though, this meant I couldn't just overwrite everything 
+with English and still have it fit.  Those diacritical marks are 
+rendered above the character they follow, so text overflows were 
+possible if I didn't adjust these.  I also had to make sure to keep 
+some in there (they are invisible) so that it wouldn't affect text 
+alignment in certain areas.  
+
+Another area I gained a little bit of space was with their Katakana
+alphabet.  The game actually used a control code to swap between the
+Hiragana and Katakana alphabets (this means that there were actually
+two characters sharing one value for the table, and the control code
+was used to switch between them).  I'm told this isn't very common.
+Because my font replaced the Hiragana alphabet, I didn't need to 
+use this control code except in a couple very limited situations.  
+The Katakana in this game was used almost primarily for character
+names and troop types.  Although in those instances, the game
+was actually set to default to the Katakana alphabet instead of
+Hiragana.  So this one didn't glean me as much space, but there were 
+still some spots that it did.  I'm going to talk again about that
+control code later.
+
+One other area they were generous with was character names/types.  
+They actually gave extra space on all of them, as if they gave
+themselves more just in case they needed it.  Up to 6 characters
+per name (which in this case was plenty) and up to 9 characters
+per troop type.  
+
+Altogether, all this extra space allowed me to put together what I
+feel is close to a professional/official quality product.  There are
+still a few minor abbreviations, which is amazing to me to have so
+little.  This also allowed for better quality text, as I found that
+there wasn't really much lost in translation.  
+
+The other control codes I encountered while working on this game were
+used for x,y coordinates.  I'm told this is pretty common on SNES 
+games, but pretty rare for a Game Boy game to be using them.  Anyway,
+most of the non-story text (battles, menus, etc) used these codes. It
+was actually nice in some instances, since I was better able to align
+text to make the game look as nice as possible.
+
+Alright and now back to the alphabet swap control code.  I wanted to
+bring this up because I've been trying to remember how I dealt with
+this when I started this project.  Maybe there is a way of doing this
+that I am not aware of, but you can't build a table to account for
+this control code, as multiple characters will share the same value.
+So dumping the scripts is problematic, as everytime that control code
+appears, it would have to switch to a different table.  So I'm not
+sure how I got correctly translated scripts back.  My best guess at 
+this point is that I might have just manually copied those portions
+in Katakana into the script dump.  This wouldn't have been too bad
+since as I mentioned, it wasn't used a tremendous amount.  I do bring
+it up since it is something I'll have to figure out for working on
+Little Master 2 - since it still has this same "feature."  I didn't
+have to this time since the work had already been done years ago.
+
+There's some other things I encountered in this game that I'm sure
+experienced ROM hackers are very familiar with.  Just because it 
+seems like you've figured out how things are programmed in the ROM,
+doesn't mean that it's always going to work the same way.  There are
+no rules.  You never know when one of the original devs did some weird
+hacky stuff in a single instance (just like any programming really,
+sometimes you have bad devs or just sometimes some small things were
+done in a hacky way for who knows what reason).  What I found was
+that in one instance, there was a hard-coded location pointer that
+worked differently from all the others.  Normally, I was able to
+move around line breaks and section breaks, except in this one
+instance.  The ROM was expecting to find a section break at a specific
+location, otherwise it just blew past it and went to the next one.
+The other weird hacky thing I found was for the unit type text
+encoding.  Each unit is either a land/air/sea unit.  The text for 
+these were stored completely different from everything else.  The
+characters for "land" were actually stored in 2 different places,
+one for in the battle map screen, and the other for on the troop
+report screen.  The ones for "air" and "sea" were only stored once
+instead of twice, but were near the beginning of the ROM, far away
+from any of the other text.  I wasn't able to find them on my own
+because it was done completely differently, with the 2 byte values
+having a control code in between them.  Seemingly a completely random
+one-off deal with the unit types text.  Expect to encounter weird.
+Another tip for beginners would also be to never expect all text is
+going to be encoded the same way.  For instance, in this ROM, all
+the character names, types, scenario names, in battle text and story
+scene text were stored in different ways.  For example, character
+names were all allocated up to 6 character spaces (values) and used 
+a unique control code that was basically just a "skip" character for
+any unused characters in the 6 length string.  The story text was 
+allocated a certain amount of characters, and in this instance it just
+used line breaks, section breaks and an end code, which I was free to 
+move around at will, except for exceeding the original end point.
+
+Because a lot of control codes were used, I actually ended up 
+replacing all the text in the game straight from the hex editor.  I'm
+not sure how commonplace that is these days in ROM hacking, but I know
+it was much more prevalent back in the early days.  I know I actually
+could have reinserted the story scene scripts since those weren't so 
+precise, but I just ended up doing it in the hex editor.  Everything
+else was just so location specific it didn't seem like a importing a
+script file would have worked well.  Some things I did want to point
+out for any beginners, is my usage of WindHex32.  I found that by adding
+my control codes to my table, helped immensely on keeping track of where
+I was editing text.  Part of the table looks like this:
+
+00=(END)
+FF=(sect)
+0D=(line)
+01=<01>
+
+WindHex32 seems to change the color of the text to yellow when you load
+in a table like this where there's more than one character listed for a 
+value. This makes it much easier to keep track of text and to make sure 
+you don't overwrite any control codes you don't intend to.  This might not 
+work for all ROMs as they could be coded in a different way where you'll 
+have to watch out for random-seeming values.  I have no idea how common 
+that is, but this definitely helped a lot, so give it a try!
+
+One last thing I wanted to talk about with this game was the character
+names.  I really wanted to preserve these as best I could.  The text 
+allows for a total of 8 characters per name before text overflows and
+redraw issues start occurring. I am a big fan of the cute little names
+and I had some people look at the ASM of the game to see what could be 
+done to preserve these.  Unfortunately it looks like it may take some 
+work to pull this off.  So unfortunately I had to replace about 75% of
+the names because they were too long.  Simple abbreviations wouldn't
+really work well, so I opted instead for names that stayed within the
+spirit of the game.  To be clear, the main characters names are already
+short enough, so theirs didn't need to be changed.  If anyone is 
+interested in doing an ASM hack to restore the full names, please contact
+me as I would love to see this happen.  For now, I think my new names
+will still have that cute, whimsical nature about them, to try and 
+preserve that spirit.
+
+All in all, this was a really cool project.  It was great to work on a
+really fun game.  What's best is just being able to wrap up this project
+when a couple months ago was something that never would have been in the
+cards.  I hope you guys enjoy it!
+
+---------
+Emulators
+---------
+
+I recommend using VisualBoyAdvance M for this game.  It's one of
+or maybe even the only emulator with proper Super Game Boy support.  
+While Little Master wasn't a game with official support (with 
+enhanced palettes), it still uses the built in palettes for the 
+Super Game Boy.  It actually makes this game look pretty good. It's
+also funny that my original notes for this 17 years ago stated that 
+the best emulators from that time had a few small issues running 
+this game.
+
+-----------
+Tips / Info
+-----------
+
+This is a makeshift manual to explain how parts of this game work.
+
+Selecting Heroes
+----------------
+Before you begin the mission, you get to select the troops that will
+go into battle.  The one you must always take is Liam Richban, the
+main character.  However, if you don't take a troop, they can't get
+any experience from the battle.  You will also notice some stats for
+each character.  You will see their level, experience, and health
+next to their name.  On the bottom you will also see what type of
+character they are (i.e. hero, minotaur, chicken, etc.), their
+attack power, their defense power, what type of unit they are
+(Land, Air or Sea), and how many movement points the character has.  
+When you are done selecting which troops you want to join the battle, 
+select Liam to begin the battle.
+
+Controls
+--------
+Select - Not used
+Start  - Not used
+A btn  - Select unit to move
+B btn  - Options (Report/Retreat/End/Save) screen
+
+When you select units, you will see dots appear - that is where they
+can move.  You can also select your character to have them stay in the
+same spot. To attack an enemy, you must move to a spot directly next
+to an enemy - i.e. up/down/left/right, -not- diagonal.  However, if a
+character has projectile attacks, they can attack from afar, diagonal
+or up to 1 tile away between your character and the enemy. You can tell 
+if the character has projectile attacks, by looking below their defense 
+points.  If they have a projectile attack, you should see a black circle 
+right below their defense.  The battle scenes are automatic and based on 
+the stats of each character.    
+
+*** You can hold the A button to make battles speed up
+
+Pressing the B Button accesses the menu. Here are what each of the
+menu functions do:
+
+Report   - Gives a troop report
+Retreat  - Quits the current scenario
+End      - Ends your turn
+Save     - Save the game 
+
+Saving the Game
+---------------
+Saving the game only allows you to continue at the last scenario you have
+reached.  So if you kill half the enemies on scenario 1 and then save...
+you will have to replay the scenario over again.  It would be better to 
+save right when you start a new scenario... or just use savestates.
+
+Land, Air and Sea 
+-----------------
+Each character travels by a different method.  When you select the
+character in battle, you will notice in their information that it will
+either have a person, a fish or a bird.  Basically those represent either 
+land, air or sea type units.  I actually borrowed these graphics from Little
+Master 2, as in this game it was originally just a two byte string that
+spells them out. Each type will obviously be able to move differently.  
+
+Terrain Effects
+---------------
+You will see a box labeled 'LandEffect' (shortened for text limitations)
+every time you attack an enemy. This box refers to the landscape that
+each character is in.  Depending on what type of terrain you are on, 
+it alters the statistics of each attack. For instance, forest squares are
+listed as 30%, this means that whoever stands on a forest square, will 
+have all attacks reduced by 30%.  Try each square for the results.  
+However, generally squares with greater protection are also harder 
+to traverse - resulting in the character not being able to move as many
+spaces.
+
+Healing Spots
+-------------
+On the map, you will probably see a 6 pointed star inside of a circle.
+These are healing spots.  It is a source of a god's power whom grants
+refreshment by restoring lost hit points.  Be careful, the enemy will 
+use these also... and it will be destroyed if a battle occurs while
+you or the enemy is on it (bosses might be immune to this, so be
+careful!).  Also, if your characters do not perform any actions during
+their turn, they will gain back a little bit of HP.
+
+Houses/Misc Spots
+-----------------
+Sometimes there will be certain places you can go on the map.  For
+instance, in Scenario 1, you will find a mouse waiting for you in the house,
+who will join your party.  Look around in all scenarios to see what you
+can find.
+
+Temples/Unities
+---------------
+First seen in scenario 2, you will find temples that will allow you to 
+combine troops into a new soldier.  Just move both troops on the temple
+to initiate a combination.  Not all combinations work, but the game will 
+let you know when it's not possible, so you can't lose troops from failed
+combos.  I'm aware that there are powerful unities if you keep experimenting 
+with all different combinations.
+
+Hero Stats and Gaining Levels
+-----------------------------
+There's three stat categories for each hero.  Strength/Attack denoted by 
+a sword.  Defense, denoted by a shield.  And life, denoted by a heart.  
+Each time you gain a level, your stats may go up.  The screen will show
+you using icons what the values of attack, defense, and life are with
+your new level.  For instance it should look like this "<sword> 21, 
+<shield> 6, <heart> 54 up!" This means that these are now what values
+you have for that character (not that your character went up 21 attack,
+for instance).  You can also replay older scenarios in this game if you 
+are having a hard time and need to level up your characters.  It's also 
+possible to re-recruit troops again, such as with the mouse in the first
+scenario (and giving you another character to use for unities).
+
+Winning the Battle
+------------------
+To win each battle, you must meet certain conditions.  Most of the time,
+this is generally just to defeat the boss, who is marked with a black
+skull icon.  Defeating this character will result in winning the battle,
+even if you didn't defeat all of the enemies.  This might be a bad idea,
+since defeating all the enemies will give you more experience.
+
+-------
+Credits
+-------
+
+Hacking:         Zatos
+
+Translators:     Alexander Beetle (2001)
+		 Tomato (2001)
+		 Danke (large number of retranslations)
+		 
+ASM:		 Danke (looked up unit type text locations)
+
+Font:		 SpoonyBard
+
+HUGE Thanks:     Fyr
+		 ---
+		 While not a contributor to this project, it wouldn't
+	 	 have happened without him.  He's my brother and was
+		 persistent in getting me to teach him ROM hacking.  
+		 We worked on Space Hunter together and ended up 
+		 finishing it.  He inspired me to finally finish this 
+		 project!
+
+		 -----------------------
+Special Thanks:  2001
+		 -----------------------
+		 Gideon Zhi (BIG Thanks!)
+                 Akimaru
+		 Taskforce
+		 Musashi (aka Paragon)
+		 Mudd Zero
+		 Six Feet Under
+		 Akujin
+		 Dave (of Gaijin)
+		 Bongo`
+		 SD Tetsuo
+		 spSPiff
+		 David
+		 Haeleth
+		 -----------------------
+		 2018
+		 -----------------------
+		 Everyone on RHDN & Discord
+		 YasaSheep (retranslations)
+		 Bunkai (retranslations)
+		 Buckwheat (retranslations)
+		 Aerdan (retranslations)
+		 Gideon Zhi (retranslations)
+		 mz & danke (attempting to solve names issue with ASM)
+
+I'd be interested to know how many of the people from 2001 are still 
+around!
+
+------------
+Known Issues
+------------
+
+There are no known issues with my patch, but I do not know how it will
+run on actual hardware.
+
+I would like to point out an issue with the game that is present in the
+original game, overlooked by the developers.  At the end of the game, there
+is a level with warp panels.  The AI here can very easily end up blocking
+you from being able to beat the level by blocking the spaces your
+characters are transported to.  I've found that once they move there, 
+they don't want to move anymore.  Luckily it's at the very beginning, and
+if you try to make it to the 3rd "islands" within 2 turns, you'll probably
+be fine.  The good thing is there is no penalty for starting the level
+over in case you need to do so.
+
+Also, not really an issue, but it's interesting in the game that once you
+reach the second half of the map, you aren't able to go back and replay
+any of the levels on the second half.  The first half is still totally
+accessible.
+
+----
+Bugs
+----
+
+If you find any bugs in the translation, please report them on 
+Romhacking.net (forum account: CapnCrunch) and I will fix them ASAP.
+

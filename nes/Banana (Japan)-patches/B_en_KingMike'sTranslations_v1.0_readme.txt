@@ -1,0 +1,39 @@
+Banana translation by KingMike
+v1.0
+1/17/2010
+
+Introduction
+------------
+Banana is a puzzle game for the Famicom, created by Victor/JVC.
+The idea is you're this mole, and you crawl around in the dirt.
+I think you just need to lead his girlfriend (I don't know) Keyko
+to the door to finish the level.
+
+But he can go only down. If you want to go back up, you need a ladder.
+Also, once you dig under a boulder, it will fall after you pass it.
+That may block your path later.
+Try to complete the level in fewer moves for a better score.
+
+I didn't really play this one a whole lot. I just tried it out,
+noticed the only Japanese text in the game is a single graphic.
+So I quickly whipped out a translation patch.
+
+Patching
+--------
+I've seen a few different ROM dumps of this game going around.
+The properly dumped ROM is 48KB. Apply the "banana48K" IPS to that ROM.
+I've also seen a 64KB ROM. That one's an overdump, and what I used to create the original version of the patch "banana-e.ips"
+Last I checked, the GoodNES "good" ROM was 40KB. THAT ONE IS A BAD DUMP!
+Sorry, it's missing data. I can't help you with that one. It's trash. Just delete it and find a good one.
+
+Controls
+--------
+Title screen
+------------
+D-Pad: Choose level (only in increments of 5?)
+Select: Change mode
+Start: Play
+
+Start - Pause
+Select - Menu
+A+B - give up (costs one life)

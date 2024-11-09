@@ -1,0 +1,132 @@
+                               Musashi no Ken
+                          English Translation Patch
+                 by GAFF Translations (pluvius3 @ gmail.com)
+                      v1.00 (Created October 11, 2015)
+--------------------------------------------------------------------------------
+
+
+*TABLE OF CONTENTS*
+ -----------------
+
+I.    VERSION HISTORY
+II.   INTRODUCTION
+III.  INSTRUCTIONS FOR USE
+IV.   KNOWN BUGS
+V.    CREDITS
+VI.   TECHNICAL NOTES
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+
+
+********************
+I.  VERSION HISTORY
+********************
+
+v1.00 (10-11-15):  First release.
+
+
+******************
+II.  INTRODUCTION
+******************
+
+This is an English translation patch for Musashi no Ken: Tadaima Shugyou Chuu
+("Musashi's Sword: Now in Training"), a platformer for the Nintendo Famicom
+released by Taito in 1986.  It is based on the anime adaptation of Musashi no
+Ken, an '80s coming-of-age shounen manga about the son of two kendo masters and
+his trials and exploits through his childhood and high-school years.  This game
+takes place in his early life and has you racing your pet dog through three
+platforming levels while dispatching various creatures and obstacles with your
+kendo sword.  After powering yourself up in these levels, you move on to a kendo
+tournament where you compete against your rivals in a simplistic fighting-game
+format.  Like most platformers that came out immediately after Super Mario
+Bros., Musashi no Ken is a pretty rough game, with floaty controls and
+ceaselessly spawning enemies.
+
+I decided to translate this game after discovering Chrontendo, an Internet
+gaming show where the narrator aims to play through every legitimate NES and
+Famicom game in chronological order of release.  This gave me the idea that
+older games would likely be easier to translate than newer ones, and indeed this
+(the oldest yet-untranslated game that isn't a classic Japanese board game)
+was without a doubt my easiest translation job yet.
+
+
+***************************
+III.  INSTRUCTIONS FOR USE
+***************************
+
+1.  Download and install Lunar IPS or a similar IPS patcher if you haven't
+    already.
+	
+2.  Get a copy of the Musashi no Ken ROM.  No, I don't know where.  The correct
+    ROM is identified by GoodNES 3.23 as the verified good dump.
+	
+3.  Apply the desired patch to the ROM using the aforementioned IPS patcher.
+
+
+****************
+IV.  KNOWN BUGS
+****************
+
+On the character listing for the two-player mode, Ranko's coloring is wrong.
+It would take a lot more trouble than it's worth to fix it, so I left it.  (I
+think the look suits her anyway.)
+
+
+***********
+V.  CREDITS
+***********
+
+Rob "Pluvius" Browning: Hacker, translator/editor, tester
+
+
+********************
+VI.  TECHNICAL NOTES
+********************
+
+As I said above, this translation was mostly really easy.  There was very little
+text, and even though most of it was in kanji form, it turns out that the game
+doesn't actually have a special kanji-printing routine, just using the same 8x8
+text-printing routine that the rest of the game uses.  This led to the possibly
+unique occurrence of the English translation actually taking up less space than
+the original Japanese did.  I edited everything by hand since most of it didn't
+even use pointer tables anyway.  The game already had an English font which in
+most cases was already mapped to ASCII encoding, making things even easier.
+
+The hardest part of the hack was actually in a part of the game that most people
+aren't even going to look at--the two-player mode.  In that particular place, 
+Musashi no Ken actually does use a special routine to print characters' names
+on the select screen, and even hacking that routine wouldn't have given me
+enough space for the longer characters' names without a lot of work.  Therefore,
+I decided to just replace the names with the characters' faces, which looks a
+lot nicer anyway (despite the aforementioned bug).
+
+
+****************************************
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+****************************************
+
+Thanks to:
+
+Taito, for developing and publishing this game.
+
+Nintendo, for making the system this game runs on.
+
+Chrontendo, for being an informative show about the 8-bit era and giving me the
+idea to do this hack.
+
+The developers of FCEUX, the very useful debugging emulator which I used for
+this entire project.
+
+Romhacking.net, for hosting this hack and many others like it, as well as
+providing useful hacking information.
+
+The NESDev Wiki, the premier resource for NES hacking information.
+
+And, of course, you for reading and playing.
+
+Questions, comments, criticisms, and bug reports can be sent to
+pluvius3 @ gmail.com (without the spaces obviously).  Please put "Musashi no
+Ken" or something similar in the subject line so I will know what the email is
+about.  If you alert me to a bug, I will fix it in a future update and give you
+credit.
+
+Copyright 2015 GAFF Translations, all rights reserved.

@@ -1,0 +1,77 @@
+METAL MAX RETURNS
+ENGLISH TRANSLATION V1.00
+Copyright 2007 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Metal Max
+2.Patch History
+3.Patch Credits
+4.Known issues
+5.Application Instructions
+6.Mini-FAQ
+
+-----------------
+1.About Metal Max
+-----------------
+Metal Max is an open, nonlinear RPG with a heavy focus on sidequests and
+tank tweaking. The main game has you chasing bounty heads and finding
+new vehicles for your entourage, but there's so much other stuff to do!
+You can pimp your tanks with decals and accessories, you can buy furniture
+and wall hangings for your home, play with little critters that eat your
+money and grow to enormous proportions, or enjoy a host of minigames. Go
+hunting for this week's target and become a rich and famous bounty hunter!
+
+---------------
+2.Patch History
+---------------
+The Metal Max project has been frought with difficulties since the very
+beginning. The font is stored sideways (yes, sideways!) which presented
+its own problems, the text was compressed, and the menus were a -bitch-
+to work with. This thing had more bugs than I care to think about, and
+its betatest took longer by many months than most. But we got there, in
+the end!
+
+November 6th, 2007 - Initial v1.00 release.
+
+---------------
+3.Patch Credits
+---------------
+Gideon Zhi - Project leader, lead romhacker
+Liana - Translator
+Neil_ - Font tool
+Special thanks to byuu for helping out with the name entry screens!
+
+--------------
+4.Known Issues
+--------------
+- No known issues.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+4.00MB (32mbit LoROM), WITHOUT Header (*exactly* 4,194,304 bytes)
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "metalmax.smc" make sure the patch
+is "metalmax.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 4.00 MB (4,194,304 bytes)".
+
+-----------------
+6.Troubleshooting
+-----------------
+--If the game does not run at all, read the above section on
+  application instructions (specifically on header removal.)
+  Make sure your ROM is not read-only when you toy with it.
+  Also make sure that if you previously hard-patched the ROM and
+  the game crashes as described, you will need to re-apply the
+  patch a clean, Japanese original ROM.
+--Also note that if it looks like the text is broken in the text
+  boxes, you'll need a different version of ZSNES. The game doesn't
+  work in a lot of recent ZSNES versions.

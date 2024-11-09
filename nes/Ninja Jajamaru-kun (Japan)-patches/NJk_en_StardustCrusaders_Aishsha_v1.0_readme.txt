@@ -1,0 +1,51 @@
+===============Ninja Jajamaru-kun=====================
+==================V1.00===============================
+Genre: ACT
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: aishsha@gmail.com/
+Web-site: aishsha.blogspot.com/http://yojimbo.eludevisibility.org/
+ 
+ 
+======================================================
+Ninja-kun
+======================================================
+Background: Remember we said we wouldn't touch another Jajamaru
+game soon? Well, we kinda lied... The hack for this
+one was done by Pennywise like in a day, I did some
+additional pointer hacking, title screen and stage
+names. That was actually everything that had to be done. 
+
+This Jaja-game has no plot at all except for that you
+have to defeat your ever-lasting foe - Namazu Daiyuu
+and his minions.
+
+This one is the first in the series and re-released
+several times for different platforms.
+
+Use a patching IPS utility of your choice to apply the
+patch (I do recommend Lunar IPS). 
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.   
+
+Enjoy the playing and do buy the game, if you like it!
+
+======================================================
+
+Credits go to:
+aishsha - translation, additional hacking, testing.
+
+Pennywise - main hacking, testing.
+
+======================================================
+
+
+Compiled by aishsha. November 2009.

@@ -1,0 +1,51 @@
+Robocco Wars
+English Translation V 1.00
+Copyright 2008 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Youkai Club
+2.Patch History
+3.Patch Credits
+4.Known Issues
+5.Contact
+
+---------------------------
+1.About Robocco Wars
+---------------------------
+Robocco Wars is a platformer/shooter for the NES. It's kind of kewl.
+---------------
+2.Patch History
+---------------
+V 1.00
+
+What done:
+
+-Everything!
+
+What's Left:
+
+-There might be two hidden/unused stages in the game. If anyone can find out a way to access them, let me know. This might be possible with a level select cheat.
+
+-Also one smal graphic found in the ROM and haven't been able to find it in the game. It means Sayo-chan with a heart. Let me know if you find it.
+---------------
+3.Patch Credits
+---------------
+Me- Hacking and graphic hacking
+FlashPv- English title screen
+--------------
+4.Known Issues
+--------------
+None that I know of.
+--------------------------
+--------------
+5.Contact
+--------------
+If you have questions or comments, you can contact me at 
+
+yojimbogarrett at gmail dot com 
+
+and check out my site
+
+yojimbo.eludevisibility.org

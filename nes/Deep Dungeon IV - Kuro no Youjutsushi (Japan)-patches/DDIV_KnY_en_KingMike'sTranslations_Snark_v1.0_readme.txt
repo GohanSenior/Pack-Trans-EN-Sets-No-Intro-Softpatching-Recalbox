@@ -1,0 +1,204 @@
+Deep Dungeon IV: The Black Sorceror
+v1.0
+November 4, 2011
+KingMike Translations (http://kingmike.emxuxhaven.net)
+
+***********
+INTROUCTION
+***********
+This is a dungeon crawler RPG, and the last of the series.
+The first two were on the Famicom Disk System. You were a hero who
+explored a large dungeon to find and defeat the evil villian inside.
+
+The third game added multiple party members (including player-created members)
+and multiple dungeons to explore.
+
+This last game keeps the open world (much of the game is non-linear),
+but it drops the custom character creation aspect. This one also drops the
+party size effectively from 4 to 3. (at some points in the plot, you will
+have one NPC member, but they won't participate in battles.)
+
+Actually, one previous group, Dragoon-X, did translate this game before.
+But shortly after I released the translation patch to the first game,
+the original author asked to have that patch declared dead and incomplete.
+I noticed that game did have serious bugs. So me and odino started work on
+a fresh translation.
+****
+TEAM
+****
+ KingMike - tools, assembly, graphics, script editing
+ odino - translation
+ snark - script editing
+ Paul Jensen, Darkness Savior - spot re-translations
+
+***********
+WHAT'S DONE
+***********
+ Should be complete.
+
+************
+WHAT'S BUGGY
+************
+ Not aware of any bugs.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+ Either apply the IPS version of the patch to an original Japanese ROM,
+ or use a program such as upset (from byuu.org) to apply the UPS version.
+
+ And I suppose you know not to apply it to a pre-patched ROM.
+
+****************
+EMULATION ISSUES
+****************
+ Not aware of any.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+Controls:
+ D-Pad
+   Move cursor
+   Left/Right : Turn
+   Up : Step forward
+   Down : Step backward
+ Select
+   Change message speed
+ Start
+   Start game, unused during the game
+ B Button
+   Cancel option
+   Open/close Camp menu outside battle
+ A Button
+   Enter option
+   Step forward
+
+Starting a game
+ Continue adventure : Continue a saved game
+ Create character : Begin a new game. Name the hero, up to 5 letters long.
+ Erase character : Erase saved game
+
+Menu screen
+ Press B to enter the Camp menu.
+ You will see your Gold supply as well as a list of any requests (sub-quests) you've accepted.
+ Character
+   View character stats.
+     Level - experience level. Collect enough EXP to raise it and get stat boosts.
+     Condition
+       Pure - normal
+       Paralysis - can't do anything. Remains after battle. If everyone is dead or paralyzed,
+                   the game is over and you must restart from the last saved data.
+       Poison - lose HP as you walk. In this game, you can die from poison outside of battle.
+                  So keep a couple antidotes for protection because you might not live to
+                  the Temple.
+       Sleep - can't do anything. Wears off after a few turns or after battle.
+       Dead - no HP left.
+     Until Next Level - how much EXP you need to reach the next Level.
+     HP - your health.
+     MP - magic points, consumed by casting spells. Can't you magic when you run low.
+     Attack power - ability to damage the enemy
+     Defence power - ability to take damage from the enemy
+     Strength - affects Attack power
+     Spirit - ability to resist magic
+     Agility - attack speed and the ability to avoid hits
+     Resistence - ability to resist special attacks?
+ Item
+   Use or equip an item, or give an item to another character, or discard unwanted items.
+ Crystal
+   Once you obtain the crystal, use this to view an auto-map in dangerous areas.
+ Order
+   Change the order of your three main characters.
+ Magic
+   Use a spell.
+ Return
+   Return to the game (or just press B).
+
+Explore towns to find subquests or get hints or to buy needed supplies.
+Armory
+ Buy weapons, armor or speak to the owner
+Tool shop
+ Buy or sell items or speak to the owner
+Inn
+ Rest to restore all HP and MP for the party. Cost depends on location and number of party members.
+ Record your adventure to save the game.
+ Or speak to the owner.
+Temple
+ Speak to the monk or bishop.
+ Get treatment for paralysis or poison.
+ "Call back" to revive a dead character.
+ Any services have a cost depending on experience level of the victim.
+
+Go to the exit of town and a menu will appear asking you to choose where to go next.
+
+As you explore the countryside you will encounter characters. When you do, a menu will appear.
+ Move - leave the scene
+ Speak - talk to the character
+ Examine - Take a closer look. Most often used to open treasure chests
+ Items - Show a character an item.
+ Attack - Mostly used with bosses. There a few bosses you can choose to fight, but you can
+   avoid combat if you follow the story progress.
+
+Combat
+ When an enemy attacks, you can choose to Attack or try to Escape from combat. If you fail to
+  escape, the enemy gets a free turn.
+ Attack - attack the enemy with your weapon
+ Protect - Take a defensive posture to reduce damage
+ Escape - attempt to flee battle. If you choose this for one character, it will override
+    other commands and all members will attempt to flee.
+ Magic - use a spell
+ Items - use an item
+
+Item              Magic         MP Effect
+Terk potion       Terk           3 Recover some HP (member)
+                  Laterk         6 Recover some HP (full party)
+Terka potion      Terka          7 Recover a little more HP (member)
+                  Laterka       12 Recover a little more HP (full party)
+                  Terst         20 Recover full HP (member)
+Wake potion       Soleclarl      3 Recover from sleep and paralysis (member)
+                  Eclarl         4 Recover from sleep and paralysis (full party)
+Antidote          Ex             4 Recover from poison
+                  Flay           4 Fire damage (enemy group)
+                  Flare          7 Stronger fire damage (enemy group)
+                  Flast         12 Even stronger fire damage (enemy group)
+                  Flanos         6 Causes damage every turn (enemy group)
+                  Ray            8 Light-based damage (one enemy)
+                  Rea           12 Stronger Light-based damage (one enemy)
+                  Vark          25 Electric-based damage (all enemies)
+                  Varx          30 Stronger electric-based damage (all enemies)
+Hypnosis stone    Solima         4 Puts enemy to sleep (one enemy)
+Sleep flute       Lim            4 Puts enemy to sleep (enemy group)
+Silence stone                      Seals the enemy's magic (one enemy)
+Silence flute     Cross          8 Seals the enemy's magic (all enemies)
+Power potion      Ento           2 Raises Attack power (member)
+                  Enta           4 Raises Attack power (party)
+                  Soltect        2 Raises Defence power (member)
+                  Tect           6 Raises Defence power (full party)
+                  Kaito          5 Raises Spirit (full party)
+Ende potion       Ende          10 Raises Resistence (full party)
+Holy vase         Elemental     20 Summons Efreet
+Dragon vase       Dragorl       33 Summons Hiryuu
+                  Veil          12 Reduce encounter rate(?)
+Move stone        Turn          20 Warp to last saved point (you can even use to bail out of battle!)
+Hell water                         Recover MP
+Charm                              Recover MP
+Hades potion                       Revive a dead character with full HP and MP
+Flame scroll                       Fire damage (one enemy)
+Stamina sand                       Raise Max HP by 1 permanently
+Wisdom sand                        Raise Map MP by 1 permanently
+Power sand                         Raise Strength by 1 permanently
+Spirit sand                        Raise Spirit by 1 permanently
+Agility sand                       Raise Agility by 1 permanently
+Resistence sand                    Raise Resistence by 1 permanently
+
+*********
+COPYRIGHT
+*********
+Original game (c)1990 by Hummingbird Soft and Asmik
+English translation (c)2011 by KingMike, odino and snark
+I am not affiliated with Hummingbird or Asmik.
+Do not distribute the game image ("ROM") and the patch.
+This patch is for non-profit recreational use.
+Use it if you have an original, but play on emulator or flash cart. Don't destroy donors.
+I do not support or condone reproductions.
+If you're thinking of selling a reproduction of this translation, I don't care if you die in a fire (as I long don't have to see it).

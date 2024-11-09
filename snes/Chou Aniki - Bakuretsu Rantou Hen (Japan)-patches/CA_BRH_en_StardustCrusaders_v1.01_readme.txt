@@ -1,0 +1,82 @@
+========================Cho Aniki=========================
+===================Buff Battle Ballad=====================
+=========================V 1.01===========================
+Genre: Fighting
+
+Source language: Japanese
+
+Platform: SNES
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: antoniusblocko@protonmail.com
+		
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Cho Aniki
+======================================================
+Project History:
+
+This was a quickie project done in a few days due to
+the lack of Japanese text in the game. Basically only
+a title screen and credits needed to be translated.
+
+Also noteworthy for being the first Cho Aniki translation
+ever. I guess the game is a bit of an acquired taste and
+is probably only good for the lolz.
+
+======================================================
+Version History
+======================================================
+1.0 - initial release
+1.01 - additional endings translated
+
+======================================================
+Patching Instructions
+======================================================
+I recommend the patch be applied with RHDN's online
+patcher.
+
+https://www.romhacking.net/patch/
+
+Apply the patch to the Japanese ROM:
+
+Chou Aniki - Bakuretsu Rantou Hen (Japan).sfc
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking
+
+Ryusui - translation
+
+sharksnack - ending translation
+
+FlashPV - graphics
+
+cccmar- testing
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. September 2023

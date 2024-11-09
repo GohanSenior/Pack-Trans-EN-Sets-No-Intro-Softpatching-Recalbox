@@ -1,0 +1,80 @@
+Magical Chase GB faq
+written by Dave
+GaijinProduction@hotmail.com
+Version 1.00
+
+please do not email about:
+where you can find the rom
+how to translate roms your self
+and rom requests
+
+please do email about:
+translation bugs
+
+on to the faq!
+
+DISCLAIMER!!
+Please use the patch at your own risk, we are not responsible for any computer
+related damage, physical damage, or environmental damage from use of the patch.
+This patch was intended for people who own the original cartridge and would
+wish to play the game in English.
+
+Credits:
+
+Dave - Romhacking and translated a chunk of the translation,
+Look4sheep - Main Translator, took the bigger chunk of translation,
+Wraith - yay for his program and suggestions =)!
+Gideon Zhi - person who reccomended this game as a project and who also
+             helped me find the CRYSTAL graphic!
+Jair - thanks for translating the two items i couldnt figure out!
+Anus P - thanks for assisting!
+LordTech - thanks for showing me some ideas for hacking tutorial section of the game.
+Toma - this game uses the Toma "Kniggit" font, which I slightly edited to
+       contain some shading.
+
+Q.  How do i apply the patch to the rom?
+A.  Well there's two ways you can do it!, you can either use IPS.exe or SNESTL12.
+both of which are DOS programs.
+
+when using IPS.exe you simply go to the directory where the rom and ips is in (make sure
+they are in the same directory) and type
+IPS (romname) (IPS name)  
+example : c:\games\ips magchase.gbc magchase.ips
+
+Q.  How do i get to the directory in DOS mode?
+A.  ok two things to remember in DOS mode
+
+typing CD\   takes you back one directory
+so if you are at c:\windows\  typing cd\  will take you to c:\
+
+typing cd (foldername) takes you into a directory
+so if you are at c:\  and type cd windows it will take you to c:\windows\
+
+Also when using SNESTL12
+its alot simpler
+in DOS promt simply type SNESTL12
+press USE IPS, select the ips and the rom game and voila~! done!
+
+How to play
+well the game has a tutorial section.. if you're too lazy to read that then i'll
+repeate it here!
+
+press the B button to shoot
+push the A button and the stars will stay put..push it again to cancel
+(push the A button and the stars will be in position)
+push B, and then A, and the stars will shoot bullets
+
+Modes of the game.
+when first starting the game you get to choose easy, wild or hint
+Easy mode is the game in easy mode
+Wild mode is harder, you take more damage when hit, and enemies have more life.
+Hint.. the hardest game mode!  just kidding..its a tutorial on how to play the game.
+
+Tips.
+When playing..don't worry too much about crystals..as long as you kill all or most of 
+your enemies, you will have enough crystals to buy what ever you want.
+
+Beat the game in Wild to get the better ending!
+
+Magical chase faq January 2001
+

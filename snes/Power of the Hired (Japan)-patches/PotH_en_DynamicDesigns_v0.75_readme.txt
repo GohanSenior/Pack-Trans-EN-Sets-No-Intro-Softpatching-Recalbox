@@ -1,0 +1,223 @@
+Power of the Hired English Language Patch V0.75
+
+
+
+Introduction:
+
+	Japanese Developer:				Masaya
+	Japanese Publisher:				Masaya/Nippon Computer System Co. Ltd.
+	Japanese Release:				December 22, 1994
+	English Patch Production:			Dynamic-Designs
+
+
+
+Dynamic-Designs Patch History:
+
+	V0.75:  Initial Dynamic-Designs Release:	November 12, 2020
+
+
+
+Dynamic-Designs Production Credits:
+
+	Project Coordination:				Taskforce, Bongo`
+	Hacking/Tools/Bug Fixing:			Bongo`
+        Assembly: 					Bongo`
+	Translation:					gerb
+	Translation Support:				Wildbill
+	Story Writing:					Wildbill, Taskforce
+	Graphics 					Taskforce
+	Beta Testing					Recca, Draken
+
+
+NOT FOR SALE INFO
+
+This game in English or patch to make it English is NOT for sale under any
+circumstances!  If you paid for this game in any way, including in a cartridge,
+demand your money back immediately!  File a complaint with your credit card
+company and/or paypal as well, especially if you obtained this game in cart form!
+
+
+
+OVERVIEW:
+
+Description courtesy of Giant Bomb
+(https://www.giantbomb.com/power-of-the-hired/3030-50731/)
+with editing by Taskforce.
+
+Power of the Hired is a strategy RPG for the Super Famicom
+similar to Arc the Lad on PSX developed and published by
+NCS's video game division Masaya. It was released exclusively
+in Japan in late 1994.
+
+The game features four player-named heroes that the player must
+use to fight off overwhelming waves of enemies. The characters are each
+able to summon two beasts to help in battle, and with the help of
+these beasts the player is able to tactically conquer each of the
+game's scenarios. Depending on the beasts summoned, the player
+characters' magic will change and their spell composition will differ.
+Several scenarios requires that the player act quickly to avoid catastrophe,
+such as a burning bridge the player characters are stuck on that they
+need to quickly vacate.  Some scenarios have multiple ways to beat the scenario.
+Some scenarios also require you to protect other people while they are escaping
+from danger.
+
+
+
+Helpful Game Tips:
+
+Once other playable characters have joined you, make sure on the Beast Select Screen that
+you go to the top character portrait box and hit left and right to select other characters
+so that you can also give them their own beasts.
+
+All spells that show on the Beast Select Screen can only be used if the Beast that gave you
+that particular spell is directly vertically or horizontally one square adjacent to the Beast
+Master that controls them.  If they are anywhere else on the battlefield you cannot use the 
+spells they've given you on the select screen.
+
+Any scenario that lists more than one victory condition can be completed by doing one of the
+conditions listed.  You do not have to do both (or more.)  Sometimes the text will have slight
+changes depending on the condition you choose to satisfy.
+
+However, this is also true for fail conditions.  If any one fail condition happens, you've lost
+and the game is over. Even if there is more than one condition listed.  Only one will make you
+lose the game.
+
+
+
+
+Bugs that remain in the released translation that may or may not ever be addressed:
+
+Due to the lack of anyone on the team currently who possesses the skills of assembly coding there
+is an unresolved bug left in the text routine that occasionally corrupts a few letters of text at 
+certain points in the game. These bugs are minor and only last for 1 or 2 letters but it can make
+some text harder to read or appear with parts as gibberish. This bug does not happen a great deal
+but it is scattered through the game here and there and we have to mention it. Some scenarios play
+without issues while others might have a few screens with a word or two with text issues. Please do 
+not report these bugs, there is nothing we can do about them at this time. 
+
+The ending has a bug in it where text scrolls over other text (and also has the text bug mentioned
+above.)  The text here is mostly readable but it will look messy.  This only happens in about the 
+first six or seven small pieces of text and they're still readable.  The rest of the ending text
+should work without issue beyond these few screens of text and these screens are really short bits
+of text (which is still mostly readable.)
+
+This bug might be resolved but I'm including it in case we missed something.  The magic menu might
+become messy.  We think we've solved this bug but we can't rule out that it could happen at some
+point if we missed any of the spell names causing issues.  
+
+A couple of the spells appear to be broken in both our release and the original Japanese rom from what
+we can tell.  These spells either won't activate or appear to do nothing once activated.  These spells 
+might work and we just don't know what they're supposed to do but I wanted to leave a note about it
+in case others noticed it.
+
+
+Caveats and Invitations:
+
+This game is not for everyone. It is pretty short but still quite tough for a strategy RPG.
+There is no walking around on world maps.  Just like Arc the Lad on PSX it works by giving you 
+a quick story rundown and scenario info then dumping you in battle. There are more story segments
+once you are in battle as you play to flesh out the story. There is no exploration of any kind in
+this game. Also expect to get frustrated on a few of the scenarios.  They can get really hard to
+beat even with all the characters available to you.
+
+As in the case of several of our recent patch releases, this one remains unfinished also. As
+we have explained previously, both time factors and downsizing in the diversification of our
+production team have dictated this reality. The dilemma remains to either share a fully
+playable patch "as is" or keep it in "cold storage" indefinitely, hoping we will eventually
+be in a position to build toward a more "perfect" patch.
+
+At this time, we active members of D-D cannot guarantee that we'll ever revise this patch in
+any way. Positive feedback and offers to help us correct any and all patch flaws and
+shortcomings are invited via our "Power of the Hired" forum.
+
+
+
+Patching:
+
+Contained within this archive is an IPS (international patching system) file or a patch file in
+another format for the end user's convenience that when used in conjunction with a ROM file will
+make the game playable in English.
+
+Do note, as I touched on above, that this patch is a result of countless hours of love and labor.
+Hence, they are not meant to be sold at any price under any circumstance, be it in digital form or
+burnt into a donor cart's ROM chip.
+
+To patch the ROM file, one needs to procure a patcher for their preferred format, a widely available
+class of programs, many of which can be found at http://www.romhacking.net/ for one source.  A few
+can even be found on our download page for your convenience at
+http://www.dynamic-designs.us/downloads.shtml.  Search at the bottom under utilities.  We did not
+write these utilities.  We merely provide them as a convenience.
+
+At some point, ROM sites may upload pre-patched ROMs of our Shiji Hero Legend translation. Obviously,
+Dynamic Designs cannot endorse playing these versions.  Neither will we support resolution of any
+associated problems. Moreover, pre-patched ROMs may float around the web for years.  Only by
+downloading patches containing just our original work from D-D's web site may gamers obtain
+revisions to these patches - if any - and take advantage of possible bug-fixes and corrections.
+
+
+Information pertaining to the Power of the Hired ROM:
+
+
+Size before patching: 1.50 MB (1,572,864 bytes)
+
+Size after patching: 1.50 MB (1,572,864 bytes)
+
+       File: PotH(J).sfc
+       Name: Power of the Hired   
+    Company: NCS
+     Header: None
+       Bank: LoROM
+Interleaved: None
+       SRAM: 64 Kb
+       Type: Normal + Batt
+        ROM: 12 Mb
+    Country: Japan
+      Video: NTSC
+  ROM Speed: 120ns (FastROM)
+   Revision: 1.0
+   Checksum: Good 0xBCEA
+  Game Code: ALUJ
+      CRC32: CF276C80
+        MD5: 4296780E368C36B59DE3C17AE9148F87
+
+
+
+
+Notes:
+
+1. Not all ROMs will necessarily be patch-able with our file.
+2. If the ROM you attempt to patch has a header, you may need to remove it.
+3. A number of tools are available to remove headers: SNESTool, Smile, Toolbox, etc.  
+
+Alternatively, most emulators support a feature called soft patching, which keeps the ROM file
+intact, merging the patch data only during run time. To make use of it, make sure both the ROM file
+and the IPS are in the same directory as your emulator of choice and have the same name, but not the
+same extension. Do note that this is case-sensitive.  (Also, do note this soft patching is only
+available using the IPS patch file, and may NOT work with the other patch file formats.)
+
+i. e.:  Power of the Hired v0.75.smc and Power of the Hired v0.75.ips will trigger soft patching at the emulator's run time.
+
+
+
+Emulator Compatibility:
+
+This patched game works in most emulators and on real hardware.  We
+cannot guarantee compatibility with all emulators, however so far it
+has worked on all emulators we have tried it on.  Our recommendation
+is SNES9X, ZSNES, HIGEN/BSNES.  The game has not been tested on real
+hardware at this time.
+
+
+
+Special Thanks:
+
+As always, lately, I am shocked, SHOCKED, that we have finally released "Power of the Hired" in
+English! In the order of performing critical tasks, thanks Bongo`, Gerb, Taskforce, Wildbill, 
+and Recca for the all you do. 
+
+
+
+Dedicated to Taskforce! (Thanks for the dedication Wildbill, Draken, Bongo`, Filler, Recca and all the Dynamic Designs helpers. -Taskforce)
+
+
+Readme 2021 Dynamic-Designs

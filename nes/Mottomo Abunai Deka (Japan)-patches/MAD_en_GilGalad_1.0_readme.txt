@@ -1,0 +1,95 @@
+===========================================
+========The Most Dangerous Detectives======
+============Mottomo Abunai Deka============
+==========V 1.00 translation patch=========
+=============2009 Gil-Galad================
+===============2009 sqpat==================
+=======http://gilgalad.arc-nova.org/=======
+===========================================
+
+Game Details
+---------------
+Mottomo Abunai Deka has been translated and retitled to the name 
+"The Most Dangerous Detectives". This game is based on the Japanese 
+movie titled, Mottomo Abunai Deka, which is about two detectives 
+Taka and Yuuji.
+
+Taka and/or Yuuji begin their adventure against many enemies, later to 
+find out they are against the Yakuza gang, The Silver Stars and many 
+other enemies. You are armed with a pistol, along the way you can collect 
+grenades and machine guns. The machine gun is a pistol on turbo with 
+limited bullets. Grenades are also limited in number. Use them wisely.
+
+There are a number of things that make this sub-par game interesting. The
+first feature is that it's a one or two player game. You can also try
+Taka or Yuuji on their own.
+
+Most of this game is a side scroller where you battle against many enemies.
+This game also features three mini-games which are target practice at a
+shooting gallery, a shootout against a boss character, and last but not
+least a fast paced car ride.
+
+While playing the side scrolling levels, in order to switch weapons, press
+start and then the "A" button to change weapons.
+
+Last but not least, this translation is a Famicom game.
+
+Update History
+-----------------
+Version 1.00 - First public release.
+
+
+Patching Details
+-----------------
+1.)Use Lunar IPS to patch the rom. Or your favorite patching application.
+
+2.)Make sure the "good name" is Mottomo Abunai Deka (J).nes . The size of the rom 
+should be 128.00KB after being unzipped.
+
+Emulation Details
+------------------
+This game is mapper #2, you should not have a problem finding a NES emulator to run 
+the game. The game has been tried in most NES/Famicom emulators after the ASM hacks 
+with success.
+
+Known Issues
+------------------
+This game is fully translated. The game has an odd text display method that I'm
+unable to change at this time. The text display does not clear the text on a screen
+so the old text has to be over-written manually.
+
+Tools used
+------------------
+FCEUXDSP
+DCC6502
+Table Manager
+Tile Layer Pro
+Lunar IPS
+WindHex32
+Font Package by Toma
+NESticle
+Paint Shop Pro 9
+GIF Movie Gear
+Atlas
+NJStar
+EditPad Lite
+Cartographer
+
+Credits
+------------------
+
+sqpat - Japanese script translation.
+
+Authors of the above stated tools and emu's.
+
+
+Contact Info
+-------------
+email: gil_galad752003@yahoo.com
+AIM: Klingo1000
+
+Futher Notes
+--------------
+This is a fan based game modification and is not affiliated with Nintendo, Toei Animation, or any other company. This patch is not for sale and must be included 
+with the readme. Thanks and enjoy. 
+

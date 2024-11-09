@@ -1,0 +1,513 @@
+﻿********************************************************************************
+*                       Madou Monogatari I (Mega Drive)                        *
+*                          English Translation Patch                           *
+*                              v1.1 (13 May 2020)                              *
+*                                                                              *
+*                        TheMajinZenki -- Translation                          *
+*                               Supper -- Hacking                              *
+*                               cccmar -- Editing and Testing                  *
+*                               Filler -- Original Script Dump                 *
+*                             Xanathis -- Testing                              *
+*                          Oddoai-sama -- Testing                              *
+********************************************************************************
+
+It's the day of the graduation exam at Magic Kindergarten, but only one person 
+has qualified to take it: the promising mage but uninspiring student Arle Nadja, 
+who fluked into passing the preliminary by choosing random answers. Now, Arle 
+finds herself unexpectedly facing the school's terrifying final exam: to escape 
+from the massive, monster-infested Magic Tower in the playground. Will Arle make 
+it out? And more importantly, can she earn enough points to pass her exam and 
+graduate from kindergarten?
+
+Sorcery Saga I (Madou Monogatari I) for the Mega Drive is a 1996 dungeon crawler 
+by Compile. It's nominally a remake of the first episode of the Madou Monogatari 
+1-2-3 trilogy, originally released for the MSX2 home computer in 1990, but aside 
+from the basic story premise and a few gameplay concepts, it's essentially a 
+completely new game. Turn-based combat has been scrapped in favor of a fighting 
+game-inspired action battle system, the dungeon layouts are completely 
+different, and a new system for catching and battling with monsters plays a 
+prominent role. It also holds the distinction of being the very last game 
+officially released for the Mega Drive in Japan.
+
+This patch fully translates the game into English.
+
+                    ****************************************
+                    *          Table of Contents           *
+                    ****************************************
+
+  I.   Patching Instructions
+  II.  How to Play
+  III. Known Issues
+  IV.  Authors' Comments
+  V.   Version History
+
+                    ****************************************
+                    *       I. Patching Instructions       *
+                    ****************************************
+
+You'll first need a ROM image of Madou Monogatari I for the Mega Drive. It 
+should match the following specifications:
+
+  No-Intro filename: Madou Monogatari I (Japan).md
+  CRC32:             DD82C401
+  MD5:               41B8BA3569E3F4F98155DEA64318D223
+  SHA-1:             143456600E44F543796CF6ADE77830115A8F2F99
+
+The patch itself is a standard IPS patch. Use a tool such as Lunar IPS to apply 
+the IPS file to the ROM. The patch will expand the ROM to 4 MB, so don't use 
+ancient patching utilities that don't support that.
+
+                    ****************************************
+                    *           II. How to Play            *
+                    ****************************************
+
+    This is the story of a young girl called Arle Nadja.
+    It's just a little after lunch. Having just filled her belly,
+    this is a very pleasant time for Arle.
+    As you might expect, she's taking her nap right about now...
+
+    She's inside a building she's never seen before.
+    As she takes a few small steps, a terrifying shadow looms over her!
+    Before she can act, the shadow deals a mighty blow over her head.
+
+    She wakes up. She's inside a classroom in kindergarten.
+    That's right. Arle just dozed off... while taking the written test
+    for graduating kindergarten. It was the principal who tapped her head.
+    This written test is hard, and she has to pass if she wants to take part
+    in the final graduation exam.
+    
+    However, Arle is very bad at written tests.
+    She grips her pencil and just starts filling the answers in.
+    It's not like she really cares about graduating anyway.
+
+    The following day. Logically, you'd think that Arle would have
+    failed the exam, and only the other kids would take the exam now.
+    However, we wouldn't have a story to tell if that was the case...
+    Well, let's just say she passed the written test somehow.
+
+    And so, Arle is ready to take the exam to graduate from kindergarten.
+    As you might imagine, Arle is not particularly talented, so whether
+    she passes this exam or not will depend on YOU.
+    Do your best!
+  
+        - Sorcery Saga I manual
+
+  Sorcery Saga I works a little differently from your run-of-the-mill dungeon 
+crawler. This section explains how to play the game.
+
+  **************************
+  * Health and Magic Power *
+  **************************
+  
+  The most important thing to note about Sorcery Saga is that concepts like 
+health are not expressed using "points". Instead, status is conveyed indirectly 
+through graphics, sounds, and descriptive messages.
+  
+  Arle has two different attributes: health and magic power.
+  
+  Arle's health must be kept above zero, or it'll be game over. When not in 
+battle, Arle's health is indicated by her face on the side of the screen. If 
+Arle is happy and smiling, she's in good health! If she looks tired or hurt, 
+it's probably a good idea to heal her with an item or spell.
+  
+  Magic power is used to cast most spells. While Fire, Ice Storm, and certain 
+other spells don't consume magic power, running out will prevent Arle from 
+casting any spell that requires it. Arle's magic power is not explicitly shown, 
+but can be determined by reading the messages shown when a spell is cast. If 
+Arle is totally out of magic, the music will change to indicate this.
+  
+  It's also possible for Arle to become poisoned, causing her to lose health 
+simply by walking around. If this happens, it'll be indicated by the appearance 
+of an abnormal mark on Arle's face and a change in the music.
+  
+  Note that these indicators only apply outside of battle. During battle, you'll 
+need to pay attention to the messages that appear in order to figure out the 
+status of both Arle and the enemy.
+
+  **********
+  * Spells *
+  **********
+  
+  At any time, in or out of battle, Arle can cast spells.
+  
+  In this game, spells are not cast from a menu! Instead, you must input special 
+commands using the D-Pad to specify the spell you want to cast.
+  
+  To cast a spell, first, hold down the A Button. Arle will begin chanting. 
+While continuing to hold the A Button, press the directions on the D-Pad 
+corresponding to the spell you want to cast. To unleash the spell, release the A 
+Button.
+  
+  At the start of the game, Arle knows the following spells:
+    
+    =========================
+    =   Spell   =  Command  =
+    =========================
+    |   Fire    |  ^ < v >  |
+    +-----------+-----------+
+    | Ice Storm |  v < ^ >  |
+    +-----------+-----------+
+  
+  Over the course of the game, Arle will learn many more spells. To get a list 
+of all spells Arle currently knows and their commands, press the Start Button 
+during battle.
+
+  ***************
+  * Exploration *
+  ***************
+  
+  After starting a new game, you'll find yourself in the Magic Tower. In order 
+to get out and pass the exam, you must guide Arle through the Tower.
+  
+  When exploring, the screen is laid out as follows:
+    
+    Top-left        Arle's face.
+                    This indicates Arle's current status (see "Health and Magic
+                    Power" section).
+                    
+    Top-center      Area view.
+                    This shows what Arle is currently looking at from a first-
+                    person perspective.
+                    
+    Top-right       Directional stones and gold display.
+                    Though initially empty, the crystal ball on the right will
+                    eventually get filled in with a set of four stones that act
+                    as a compass, indicating which way Arle is facing.
+                    The numeric value below them is the amount of gold (money)
+                    Arle currently has.
+                    
+    Bottom          Experience meter and message windows.
+                    During normal gameplay, this is a meter indicating Arle's
+                    progress toward her next level. The series of holes will
+                    gradually light up as Arle defeats enemies, and when all
+                    of them become lit, Arle will level up.
+                    
+                    When an event occurs, or someone is talking, messages
+                    will appear in this area. Messages relating to Arle will
+                    appear on the left, while those relating to someone else
+                    will appear on the right.
+  
+  Here are the controls for this mode:
+  
+    D-Pad Up        Move Arle forward.
+    
+    D-Pad Left      Rotate Arle to the left.
+    
+    D-Pad Right     Rotate Arle to the right.
+  
+    D-Pad Down      Turn Arle around to face the opposite direction.
+    
+    A Button        Hold this down to begin casting a spell.
+                    See "Spells" section.
+    
+    B Button        Open the item menu.
+                    From this menu, you can select an item to use.
+                    Select one of your item bags and press the C Button to
+                    open it, then choose an item and press the C Button again
+                    to use it.
+                    
+                    Press the Start Button after highlighting an item to
+                    to view a description of it.
+    
+    C Button        Open the map.
+                    This shows a map indicating Arle's current position and
+                    the direction she's facing. The map is automatically
+                    filled in with the locations of walls and doors as Arle
+                    moves around.
+                    
+                    Press Up and Down on the D-Pad to move between different
+                    floors of the map.
+    
+    Start Button    Open the save menu.
+                    Here, you can choose one of two slots to save your
+                    progress to.
+
+  **********
+  * Battle *
+  **********
+  
+  While previous games in the Sorcery Saga series used traditional "turn-based" 
+combat, this one introduces a completely new system. Battles now take place in 
+real time and are totally action-based. Enemies won't just sit around and wait 
+for Arle to attack, so speed is key!
+  
+  Battle begins when Arle encounters an enemy in the dungeon. When this happens, 
+the screen will switch to a side view and battle will begin. In this mode, the 
+screen is laid out as such:
+    
+    Top-left        Arle (or an Amigo monster; see "A-Capsule" section).
+    
+    Top-right       The enemy.
+    
+    Bottom-left     Arle's message window.
+                    As battle progresses, messages relating to Arle will be
+                    displayed here.
+                    
+                    Because this game doesn't use "hit points", the only way
+                    to tell how much health Arle has is by reading the
+                    messages that appear here! The same also applies for
+                    Arle's magic power.
+    
+    Bottom-right    Enemy message window.
+                    As battle progresses, messages relating to the enemy will
+                    be displayed here.
+  
+  Here are the controls for this mode:
+  
+    D-Pad Up        Jump.
+    
+    D-Pad Left      Hold this down to block.
+                    While blocking, the damage you receive will be halved.
+    
+    D-Pad Right     Tap this twice rapidly to perform a physical attack.
+  
+    D-Pad Down      Duck.
+    
+    A Button        Hold this down to begin casting a spell.
+                    See "Spells" section.
+    
+    B Button        Open the item menu.
+                    See the corresponding entry in the "Exploration" section.
+    
+    C Button        Run away from the battle.
+                    Note that this may fail.
+    
+    Start Button    Pause the game.
+                    While paused, the a list of all spells Arle currently
+                    knows and their commands will be displayed. Use Left and
+                    Right on the D-Pad to scroll through the entries.
+
+  *************
+  * A-Capsule *
+  *************
+  
+  At a certain point in the game, it will become possible to obtain the 
+"A-Capsule" (Amigo Capsule). The A-Capsule is a special item that can be used to 
+turn monsters into "Amigos" who will fight for you in battle.
+  
+  When you first get the A-Capsule, it will be empty. To fill it, while you are 
+in battle, open the item menu (B Button) and use the A-Capsule. An angel will 
+then appear and fire an arrow at the enemy. If the capture is successful, the 
+enemy will go into the A-Capsule and the battle will end. (The capture may fail 
+if, for example, the arrow doesn't contact the enemy.)
+  
+  With a monster captured, you can now summon it to fight for you! During 
+battle, simply use the A-Capsule and the monster will emerge. You are now in 
+full control of the monster, just as though it were Arle.
+  
+  Amigo monsters are controlled similarly to Arle. However, instead of casting 
+spells, they can perform various attacks specific to that type of monster. To 
+use these attacks, input a spell command just as you would for Arle (see 
+"Spells" section). Amigo monsters use the exact same input commands that Arle 
+does for her spells, but with different meanings. For instance, the input "v < ^ 
+>" will make Arle cast Ice Storm, but will make a Blue Puyo drop a snowman on 
+the enemy. You'll need to experiment with each monster to learn its attacks.
+  
+  If an Amigo monster loses all its health, it will disappear permanently, so be 
+sure to call back monsters if they're close to being defeated. Amigos can be 
+called back by pressing the C Button, returning control to Arle and fully 
+healing the Amigo. Note that Amigo monsters cannot be summoned to the same 
+battle again after being recalled.
+  
+  To release your current Amigo, use the A-Capsule outside of battle.
+
+                    ****************************************
+                    *          III. Known Issues           *
+                    ****************************************
+
+    "While we have striven to release a perfect product, there may be unforeseen 
+issues in the final release."
+    
+      - Sorcery Saga I manual
+
+While the translation patch itself is not known to cause any issues, the 
+original game has a laundry list of weird bugs. Some of these are fixed by the 
+patch; others have been left as-is, because at the rate they kept popping up, 
+we'd never have been able to release the thing if we tried to fix them all.
+
+The following bug was encountered during testing of the translation, but 
+couldn't be replicated and thus hasn't been fixed. This is most likely an issue 
+with the original game, not the patch, but if you can find a way to reproduce 
+it, please contact us so we can see about fixing it too.
+  * At the start of the second floor, Camus is supposed to give Arle the 
+compass. Under unknown and apparently very rare circumstances, the compass 
+object may fail to spawn during this scene and it will never get added to the 
+HUD. If this happens, don't save the game; reload a save from before this event 
+and try again.
+
+The following bugs in the original game were found but not fixed due to being 
+rare, mostly harmless, and/or funny:
+  * Get in a battle with a Green Puyo. Charge up with Diacute either 2 or 4 
+times, then make the motions for Ice Storm but don't release the cast button 
+yet. Wait for the Puyo to launch its "Puyo Puyo Super Mega Attack" (it's rare, 
+so this may take a while), then immediately release the cast button to cast Ice 
+Storm. The Puyo will vanish, but the battle will not end. The only way out is to 
+run away.
+  * Using an Egg Bomb on the Demon enemy will often cause the Demon to drop off 
+the bottom of the screen and remain there indefinitely.
+  * Under very rare circumstances, casting spells can cause the music to stop.
+
+The following bugs are fixed by the translation:
+  * In the original game, the message shown when Problem 4 is solved was 
+slightly bugged and could cause corrupted text or graphics if certain buttons 
+were pressed quickly enough. A similar issue also occurred after learning 
+Heedon.
+  * When Lala bursts out of the wall during her introductory cutscene on Floor 
+2, pressing a button to advance the text too quickly would freeze the game.
+  * When attempting to capture a monster with the A-Capsule, there was a very 
+rare issue where, if the Capsule's arrow hit certain enemies on the exact frame 
+that they launched an attack, the capture would be considered successful but the 
+monster would not actually go into the Capsule, causing the game to get stuck in 
+an infinite loop waiting for the non-existent capture animation to complete.
+  * When combining items, backing out of the menu too quickly after selecting 
+the second item would cause some of the text to become garbled.
+  * The messages for defeating enemies were originally displayed very 
+inconsistently (sometimes disappearing at the end of combat and sometimes not), 
+and would occasionally get partially erased if Arle's victory animation 
+triggered at the wrong time.
+  * The message displayed after four Green Puyos stack up and self-destruct 
+would cause a semi-permanent black box to get stuck on screen after battle if a 
+button was not pressed to manually clear the text quickly enough.
+  * When the true final boss used its HP drain attack, casting certain spells, 
+such as Ice Storm charged four times with Diacute, would result in the boss 
+object despawning, making the fight impossible to finish.
+  * Viewing certain effects and then triggering the karaoke sequence would cause 
+the color-changing text effect to appear incorrectly (not covering the whole 
+text) and make the final line of text display erroneously.
+  * On floor 11, a bug caused the friendly Ms. Eve to leave the screen 
+prematurely and the game to get stuck if certain scenes had been viewed 
+immediately beforehand.
+
+                    ****************************************
+                    *        IV. Authors' Comments         *
+                    ****************************************
+  
+  ------------
+  -- Supper --
+  ------------
+  
+  We decided to release this to coincide with Valentine's Day... which means 
+we're also releasing it to coincide with the Sonic movie. Well, uh, hope 
+everyone's enjoying that.
+  
+  So here it is: the Madou Monogatari game that some people apparently actually 
+wanted to play, judging by how many people kept asking if we were going to 
+translate it every time we put out a patch for one of the Game Gear games. Hope 
+this sates your appetite.
+  
+  We started working on this game long enough ago that I've forgotten exactly 
+how the project came about. I think Zenki got interested in it at some point 
+after working on MM2 around the spring of 2019, and filler had previously put 
+together a kanji conversion table and an unformatted text dump, and somehow or 
+another things spiraled from there. The whole thing is very chronologically 
+confusing to me because I basically worked on this game, MM3, and MMA all at 
+once, often interrupting hacking on one project to dump a script for another, so 
+the whole thing is all mixed up in my memory.
+  
+  But however it came about, here we finally are. This is definitely our most 
+polished release to date -- not that I was slacking on past projects (I hope), 
+but we spent a lot more time than usual repeatedly testing and improving it. 
+It's a bigger and more complicated game than most of our projects have been, as 
+well as one I think we all really liked personally, so it ended up getting a lot 
+of extra love.
+  
+  I'm quite pleased with the results; I think this is the nicest I've ever 
+gotten a translation to look. I implemented a proportional-width font and went 
+to great lengths to try to make it look good instead of merely being functional 
+-- compared to my earlier releases, this one uses proper typesetting practices 
+such as variable kerning between individual letter pairs to achieve a more 
+professional look. You can also thank TheMajinZenki for pushing me to use the 
+nice font you see in the final product, which is a heavily modified version of 
+Stanberry by Jayvee Enaguas (CC-BY-SA 3.0). I initially used a bland homebrew 
+serif font, and while I was reluctant to drop it at first, the replacement looks 
+a million times better.
+  
+  There are also a lot of neat touches in there I expect no one will ever 
+notice. Items are prefixed with the correct form of the indefinite pronoun where 
+needed; same with the plurality of demonstrative adjectives. And much care was 
+taken to respect that, contrary to every other enemy in the game, the Cait Siths 
+are two monsters rather than one and should be addressed as such. No one would 
+notice or care if I didn't do this stuff, but I'd never be satisfied otherwise. 
+Still, try to appreciate it a little as you play? Please?
+  
+  Chronologically speaking, this is the last Japanese Mega Drive game that could 
+ever possibly get translated, since Compile somehow managed to delay it all the 
+way to March 1996 -- it was the very last Mega Drive game to come out in Japan, 
+with only a handful of additional games coming out later internationally. As it 
+happens, this translation may also be one of the last for the Mega Drive, as it 
+turns out we're running very low on games actually worth bothering with. Most of 
+what's left is just the dregs ("this game technically needs its title screen 
+translated"). Well, maybe now people will start expanding into the unexplored 
+territory of the Mega CD!... most of whose games are no better and take 10x more 
+effort to hack.
+  
+  Anyway, hope you enjoy this release. With it, I've hacked all four of the 
+ported-from-computer Madou Monogatari games into English in some form or 
+another. I still can't believe that no one ever bothered translating the series 
+until now, considering its connections with Puyo Puyo and all, but I guess we've 
+fixed that. For now, I'll definitely be taking a break from Madou Monogatari, 
+though I wouldn't rule out doing more someday if the opportunity arises...
+  
+  P.S. That whole A-Capsule thing may seem like a Pokemon knockoff, but this 
+game actually came out only a month after the original Japanese release of Red 
+and Green. Given cartridge manufacturing times (and that Pokemon didn't make it 
+big until the next year anyway), that means the game was done well beforehand 
+and it's just a coincidence. Funny one, though.
+  
+  -------------------
+  -- TheMajinZenki --
+  -------------------
+  
+  For one reason or the other, lately I've been working on multiple games in the 
+Madou Monogatari series, and here we are with another neat release, the Mega 
+Drive version.
+  
+  This game feels a little more "anime" than the previous games, possibly due to 
+the presence of Lala and Camus. The developers also tried many things to make 
+the game different from their other games in the series. Battles are more 
+"action", there's a pokemon-like mechanic, multiple endings...
+  
+  Apparently this was the latest official Mega Drive release in Japan, which 
+gives it a certain historical value.
+  
+  Personally I enjoyed working on this game. The team worked hard to make sure 
+everything was nice and proper. Please enjoy!
+  
+  ------------
+  -- cccmar --
+  ------------
+  
+  Madou Monogatari I (or Sorcery Saga I) happens to be the last Japanese 
+exclusive for the Mega Drive. It’s a remake of the first part of the series, 
+released earlier on PC-98/MSX. The remake introduces many new elements into the 
+mix, including some new spells and items. Also, the battle system is completely 
+different – instead of turn-based battles there is a semi-active battle system 
+in which you can avoid incoming damage by dodging/jumping over attacks. You also 
+have to use key combinations in order to cast spells. Interestingly, there are 
+monsters and cameos from all over the franchise present in this remake, probably 
+because it was released in 1996, after all the GG remakes of the original series 
+had already been completed. In my opinion, this game is probably the most fun to 
+play, due to all the changes, and it is one of if not the best version on the 
+consoles. Editing wasn’t too difficult in this case, but the game has some new 
+characters you’re not going to see in any other port. Overall, it’s a worthy 
+effort. I hope you enjoy it as much as we enjoyed working on it!
+
+                    ****************************************
+                    *          V. Version History          *
+                    ****************************************
+
+v1.0 (14 Feb 2020): Initial release.
+
+v1.1 (13 May 2020):
+  * Fixed yet another original-game bug: the conversation with Ms. Eve on Floor 
+11 didn't initialize a script synchronization variable, causing it to freeze the 
+game if certain arbitrary events were viewed immediately before triggering it. 
+Thanks to ZaRR for discovering and reporting this.
+  * Fixed the message for eating a Dragon Tail -- an error in the original game 
+caused the last line to disappear immediately after being displayed instead of 
+waiting for the player to press a button, unlike all the other eating messages.
+  * Also, this bug was already fixed in v1.0, but wasn't mentioned in the 
+readme: the karaoke sequence in the original game would display incorrectly 
+under certain circumstances due to the game failing to switch scrolling modes 
+correctly.
+  * Minor text updates.

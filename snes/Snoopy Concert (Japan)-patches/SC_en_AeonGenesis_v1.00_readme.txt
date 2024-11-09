@@ -1,0 +1,94 @@
+SNOOPY CONCERT
+ENGLISH TRANSLATION V1.00
+Copyright 2007 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1. About Snoopy Concert
+2. Patch History
+3. Patch Credits and Contributors
+4. Known issues
+5. Application Instructions
+6. Troubleshooting
+
+----------------------
+1.About Snoopy Concert
+----------------------
+Snoopy Concert is less a game and more a collection of four smaller
+ones. Snoopy (of Peanuts fame, yes that Snoopy) is preparing to give
+a concert to the Peanuts gang, but so far, Marcie and Patty are the
+only ones who've shown up. Snoopy (and occasionally Woodstock) must
+then help solve the gang's various problems - with each character
+having a distinctly different minigame to play. Rerun's segment is
+a stroller chase, Schroeder's is a standard point-and-click style
+abstract adventure game, Linus's is a bit of a reflex test and
+Charlie Brown's is a trading game.
+
+This is not the best game ever, but it is clever, cute, and a fun
+diversion while it lasts. Personally, I liked Schroeder's game the
+best.
+
+Snoopy Concert is mouse compatible, so if you're playing via copier
+or flashcart (or if your emulator supports the SNES Mouse) be sure
+to try it the way it was meant to be played. It makes Rerun's segment
+quite a bit easier, that's for sure...
+
+---------------
+2.Patch History
+---------------
+I don't even remember when I started working on this. If the file
+creation dates are anything to go by, it looks like I first dumped
+the script back in late summer, 2003... In any case, it was translated
+fairly quickly, but due to some craziness with the text, the project
+was shelved. The issue was resolved roughly three years later, in
+September '06, which is when the bulk of the work was done. The
+remainder of the project's work was script polishing, which was done
+both by myself and by intrepid also-hacker, danke.
+
+April 12, 2007 - Initial Version 1.00 release. Released in memory of
+                 author Kurt Vonnegut; may he rest in peace.
+
+---------------
+3.Patch Credits
+---------------
+THE SNOOPY CONCERT TEAM
+Gideon Zhi - Project leader, Romhacker, Assembly Hacker
+Tom/DDS/Shivalva - Script Translation
+danke - Script Edit, Text Display Deciphering
+
+--------------
+4.Known Issues
+--------------
+--If Rerun crashes during the stroller segment, the word "CRUSH!"
+  pops up in a little comic bubble. It should be "CRASH!"
+
+Please report any other bugs, spelling errors, and
+such on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are (ZSNES format) savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "snoopy.smc" make sure the patch
+is "snoopy.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 2.00 MB (2,097,152 bytes)". SNESTool will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net
+In the Utilities section, simply search for snestool.
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+have a header.
+
+-----------------
+6.Troubleshooting
+-----------------
+--If the game does not run at all, read the above section on
+  application instructions (specifically on header removal.)
+  Make sure your ROM is not read-only when you remove its header.

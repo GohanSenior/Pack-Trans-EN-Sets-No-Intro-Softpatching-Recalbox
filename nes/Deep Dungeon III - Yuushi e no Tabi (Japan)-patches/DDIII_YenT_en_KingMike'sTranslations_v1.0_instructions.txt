@@ -1,0 +1,478 @@
+Deep Dungeon III - The Journey to Become a Hero
+
+This isn't really an exact translation of the manual, but it should be generally the same
+information, to help you play the game better.
+
+------------
+INTRODUCTION
+------------
+
+Guided by an unseen force, the legend of the traveling swordsman begins anew...
+
+The Departure
+
+Within a small village, there was a young man.
+He grew up hearing the legend of the swordsman Ral.
+He had dreams that someday he would become a great swordsman.
+As the years went on, he grew to be a strong young man.
+He left his village in hopes of being a swordsman.
+After a few days of traveling, he arrived a bit weary in the nation of Dileej.
+He stopped for the night at the inn in the town of Huma.
+Though it might have been destiny that stopped him in the town of Huma.
+
+The Disaster
+
+The man feel into a deep sleep as soon as he settled in his bed.
+That evening, a storm suddenly swept around Dileej.
+An ominous cloud enveloped the skies above while a raging thunder roared.
+The villagers huddled until dawn while a heavy downpour slammed their windows.
+The next morning, the man awoke to the sound of the villagers.
+From his window, the man could see the town had strangely changed since yesterday.
+After leaving the inn, he could no longer faintly see the neighboring town he could yesterday.
+A very high wall now dominated the landscape.
+This wall that came out of nowhere completely surrounded and isolated the town.
+
+The Fright
+
+The villagers were stuck in awe as they heard a sudden scream.
+An injured man crawled out from the entrance to the underground on the north side of town.
+Breathing heavily, the man muttered "Below here, there are many great monsters!
+Together, they'll destroy us.
+We can't go any further.
+Someboday save this town, this country..."
+The town chief heard and said "Long ago, for excavating the ruins,
+an artificial underground center was created.
+These stairs led to it."
+Down these stairs is the only passage between the town of Huma and the outside world.
+
+The Decision
+
+There was a strange atmosphere among the villagers.
+"At this rate, we and our country are ruined."
+"Isn't there anyone who can save our country?"
+"Isn't there a courageous young man out there?"
+Among the whispers, one voice buzzers to answer the villagers' prayers, "Allow me to go!"
+That voice threw a ray of light into the still darkness.
+That man who stood there, that was HIM, the traveling man.
+And this begins this story...
+
+-------------------------------
+Summary of the nation of Dileej
+-------------------------------
+
+Dileej, led by King Sherman IV, rules over three towns (Huma, Isle and D'Elba), taking it from a small nation to large and prosperous.
+With its ancient ruins, this kingdom has many landmarks, especially the underground city connecting Huma and Isle, the tower rising in Isle.
+Those are some of the exemplary models of Dileej architecture.
+The king's castle is to the south of D'Elba.
+Currently, the three cities are separated by an unknown wall.
+As seen in the lower figure, it is impossible to go between the three.
+Also, the villagers tales speak of a house between Isle and D'Elba...
+
+
+                        Dileej Tower
+                         +-----+
+                         |     |
+                         |--- -|
+                         |   / |             Dileej Castle
+                         |- ---|             +-------+
+                         | \   |             |       |
+                         |--- -|             +---   -+
+                         |   / |             |     / |
+                         |- ---|             +-   ---+
+  Huma           Isle    | \   |    D'Elba   | \     |
++-------+    +-----------+--- -|   +---------+----  -+
+|       |    |               / |   |               / |
++-----  +-----  ----  ---+-----+---+  -------+-------+
+     |\        /|  |\                / |
+     +-----  ---+  +------------   ----+
+         | \    |  |              /    |
+         +------+  +  ----------------------------------+
+   Underground City|\                                   |
+                   +---------------------------------  -|
+                   |                                  / |
+               Cave+------------------------------------+
+
+
+-----------------------
+Character Introductions
+-----------------------
+
+Protagonist (swordsman)
+Master of the sword.
+He can't use magic, but can use almost all weapons except projectiles.
+His health grows rapidly as he gains experience.
+
+Hunter
+She excels at handling projectiles.
+After taking down far-away targets, she can learn a few spells as well.
+
+Priest
+He can effortlessly use the magics of life.
+Because he is relatively inexperienced fighting,
+repeating attacking and casting magic would be an effective strategy.
+
+Magician
+Because her combat ability and health will remain low as she gains experience,
+she should show off her learned magic in emergenices against many enemies.
+
+-------------------------
+HOW TO USE THE CONTROLLER
+-------------------------
+Control Pad
+    Game start: Select command
+    Shop: Select command
+    3D screen: Move party, select command
+    Battle: Select command
+    Level-up: Select ability
+Select:
+    Game start: Change text speed, select file
+    Otherwise unused
+Start:
+    Game start: Confirm command
+    Level-up: Confirm selection
+    Otherwise unused
+A Button:
+    Game start: Enter letter on name entry
+    Shop: Confirm command
+    3D screen: Confirm command, open door
+    Battle: Confirm command
+    Level-up: Enter Point
+B Button:
+    Game start: Erase letter on name entry
+    Shop: Cancel command
+    3D screen: Display command window
+    Battle: Cancel command
+    Level-up: Remove Point (only entered points)
+    While in Slow text mode, hold B to speed up the text display.
+
+------------
+REGISTRATION
+------------
+ Press Start at the title screen to go to the Game start menu.
+ Press Select to change the text speed.
+  (this is a new option added to the translation patch. Choose "Slow" for the original text
+   speed. While in slow text speed, you can hold B to speed up text printing.
+   Choosing "Fast" simply makes the faster speed the standard print speed.)
+ Use the Control Pad to choose your option and press Start to confirm.
+
+Create Character:
+ Choose this when you want to create a party.
+ Select an empty file, and you will be prompted to create a character up to five letters.
+ Press A to select a letter and B to remove. Select END when you are done.
+ Next you can create an ally. You can create a Hunter, Priest or Magician.
+ If you don't want to create any more, select "Don't create".
+ You can create up to three allies.
+
+Erase Character:
+ Choose this when you want to erase a party.
+ You will then be able to create a new party.
+
+Begin Adventure:
+ Choose this to start the game.
+ Push Start and you will see the Level each party has reached.
+ You will start a new game at the Inn in Huma, or
+ continue a saved game from the Inn you saved at.
+
+---------
+GAME OVER
+---------
+During the game, you'll get a game over if the protagonist dies or
+the entire party is paralyzed.
+If you want to continue the game, choose "Continue from saved point" to restart the last
+saved game.
+Choose "End adventure" to quit.
+
+City of Huma   City of Isle             City of D'Elba
+
+********      |************************|*****************************
+*      *      |*   *  * *  | |C * ** **|* * * B| *   *  *  *  * |   *
+***  ***      |  * |D * *  * *  * *   *|*   *  * ***-*E *  *C * *   *
+*D|  | *      |*   *  * **** **** ** **|* * ****     *-**-**-** *****
+* *  * *      |********           ** **|*   *  *****            * | *
+***  *********|   *                   *|* * *          **  **   | * *
+*         *  *|   ****   * * * *   ****|**  * * * *   *  **  *  * * *
+*         *  *|   * D|    *   *    |  *| |  |                   *****
+* ******* **-*|   *  *   *  *  *   *  *|**  * * * *   *  **  *  * * *
+* *  * E|    *|   ****     ***     ****|* * *          **  **   | * *
+* |  *  * ****|   *  *   *  *  *   *  *|*   *  *****            * |F*
+* ******* *  *|   *  *    *   *    *  *|* * ****     *-**-**-** *****
+* *  *  | * A*|   *  |   * * * *   |E *|*   *  * ***-*  *A *D * *   *
+* |C *  * **-*|   ****             ****|* * *    *   *  *  *  * |   *
+* *******    *|   *                   *|* *************************-*
+* *  * F| ****|   *****           *****|* *     *                   *
+* |  *  * *  *|       * **** **** *    |* *     *-*******************
+* ******* * B*|       * * A| |  * *    |* *     * *
+*         **-*|       * *  * *  * *    |* *     *-*
+* * * * *    *|       * *  * *  * *    |* *     * *
+**************|       * **** **** *    |* *     *-*
+              |       * *  | |  * *    |* *     * *
+              |       * *  * *  * *    |* *     * *
+              |       * **** **** *    |***     ***
+              |       * *  | |F * *    |
+              |       * *  * *  * *    |
+              |       * **** **** *    |
+              |       * *  | |  * *    |
+              |       * *  * *  * *    |
+              |       * ****-**** *    |
+              |       *   * B *   *    |
+              |       *   *   *        |
+              |       *************    |
+
+(A) Inn
+  Rest at the Inn:
+    Recover full HP and MP.
+  Record journey:
+    Save your party's current condition. You can only save at the Inns in the three towns.
+    It doesn't cost any money to record your adventure.
+    When you gain a level or get items, you should go back to the inn and record it.
+    When you are defeated or you turn off the power, you will return to the last saved condition.
+  Rearrange party:
+    Except for the protagonist, you can rearrange your party.
+    You should put those with poor defence in the back.
+  Remove from the party:
+    You can remove a character from the party.
+    Be careful, you cannot arrange more than one party.
+    (so once you remove a character, they're gone!)
+  Go outside:
+    Leave the inn.
+
+(B) Temple
+  Offer a prayer:
+    Offer a prayer to the gods. Give your prayer to the temple bishop before
+    your journey ends.
+  Summon deceased:
+    Use when you need to resurrect a dead ally. After being resurrected, you won't have much HP.
+    You should stay at the inn again before you go out on your journey.
+  Teach a spell:
+    Hunters and priests can learn a spell.
+    When you select a character, the spells they learn will be displayed.
+    You will need money to learn spells.
+    You'll be able to learn more spells when you gain Levels.
+    All temples teach the same spells.
+  Go outside:
+    Leave the temple.
+
+(C) Magic Shop
+  Teach Spell:
+   Magicians can learn spells. You can learn more spells as you rise in Level.
+   All shops teach the same spells.
+  Go Outside
+
+(D) Tool shop
+  Come to buy:
+   Use when you want to buy items.
+  Come to sell:
+   Use when you want to sell something. You can't sell equipped items.
+
+(E) Weapon shop
+  Buy weapon:
+   Buy a weapon. If the selected character can't equip the selected item, you will be asked again.
+  Buy protection:
+   Buy protective items. The same as buying a weapon.
+
+(F) Information
+  You can get important information for your journey.
+
+---------
+3D SCREEN
+---------
+ Press Up to advance forward, Left/Right/Down to turn, A to open doors and B to display the
+  command menu.
+
+------------
+COMMAND MENU
+------------
+ Items
+  When you want to use an item or arm you weapons or armor, choose "Use".
+  To give an item to another character use "Pass", to drop something choose "Discard".
+  After confirming the command, choose who, what to use, what to do with it, who to use it on.
+ Spells
+  Use a spell you've learned. Choose who will use a spell, what spell to use and who to use it on.
+ Examine
+  Check if there's something under your feet.
+ Status
+  From top to bottom:
+   Name
+   Class
+   Experience Level
+   Experience Points
+   Max HP. Character's health. When it reaches 0, the character is Dead.
+   Max MP. Character's magic. MP is consumed when a character uses magic. Without MP, spells cannot be used.
+   Armor. Defence strength.
+   Attack. Attack power.
+   Strength
+   Agility
+   Luck
+   Status. If nothing is displayed, the character is normal.
+  The message window will display the amount of EXP needed to advance a Level.
+ Speak
+  Use when you would like to speak with allies.
+
+ Whenever you get a weapon or protective item, you must put it on with the Item "Use" command.
+ Just having it isn't enough.
+
+  After gaining a Level, you will be able to allocate 2 extra points to Strength, Agility or Luck.
+  Use Up or Down to choose a stat, A to raise the stat one point, B to drop it, and Start to confirm.
+
+ And now, for those who've read this much, a SUPER SECRET PROTIP!
+ The original didn't bother to explain the stats, but I will.
+ Strength: affects physical damage done to enemies.
+ Agility: affects several things: Hit rate (average of Attack and Agility), Evasion (average of Defence and Agility)
+   Also influences turn order to a small degree. Higher Agility should also reduce damage from traps.
+ Luck: Adding extra Luck points affects the Deathblow rate and ability to dodge traps.
+  It also affects the Escape success rate.
+
+ There are also two hidden stats: Magic Attack and Magic Resistence.
+ Magic Attack is determined by max MP and increases magic damage and success rate
+ Magic Resistence is determined by remaining MP. So, with lower MP you will be more vulnerable to spells.
+
+------------
+BATTLE SCENE
+------------
+ Fight
+   Character attacks an enemy with the equipped weapon.
+   For the most part, you can only attack enemies in the front row.
+   But projectile weapons can hit any enemy.
+ Spells
+   Use a spell when you want to attack the enemy or defend.
+ Defend
+   You won't make any action during the turn,
+   but you will get a 25% boost in Defence and Agility for the turn.
+ Items
+   Use an item.
+   You can also use this to equip a weapon or armor during battle,
+   but you won't be able to attack the same turn.
+ Escape
+   Try to run from battle, but if you miss, you will take an attack
+   from the enemy.
+
+-------
+WEAPONS
+-------
+S = Swordsman
+H = Hunter
+P = Priest
+M = Magician
+
+Dart           5 SHPM
+Hand Axe      10 SH
+Club           8 SHP
+Dart          10  H   Projectile
+Sling         20  H   Projectile
+Dagger       100 SHP
+Arbalest     300  H   Projectile
+Maul         200 S P
+Spear        250 S
+Flail       1000 S P
+Rune Sword  6000 S
+Hammer      8000 S P
+Flame Whip 10000  H   Projectile
+
+-----
+ARMOR
+-----
+Scale Shield    20 S P
+Wood Shield     80 S P
+Iron Shield    300 S P
+Magic Shield 10000 S P
+Iron Ring      100    M
+Cloth           15 SHPM
+Leather         25 SHP
+Chain Mail     300 SHP
+Splint         500 SHP
+Banded        2000 SHP
+Plate         4000 S
+Scale Armor   5000 SH
+Heat Armor   15000 SHP
+Fullplate    20000 S
+
+-----
+ITEMS
+-----
+Vegetable Juice    20 Recover HP
+White Mushroom     40 Antidote for poison
+Solun Nut         100 Removes the body of paralysis
+Soumoulou Nut     120 Recover MP
+Lamp               50 Lights up a dark dungeon
+Circlet            80 When you get stuck in a maze, you can teleport outside in an instant.
+Rope Ladder       250 Descend in a place without a staircase.
+
+Hand Mirror
+  Shows your current surroundings.
+Key
+  You'll need a key to open the locked doors found in the dungeon.
+  But there isn't only one kind of lock.
+Tablet
+  This is the game's symbolic item.
+  It will play an important role in an emergency...
+
+-----
+MAGIC
+-----
+Effects:
+A  Anywhere
+B  Battle
+M  Movement
+
+F  Friend
+E  Enemy
+
+1  Single enemy
+R  Enemy row
+P  Full party
+
+
+Magician spells
+Spear  2 MP Effect:BE1
+ Attacks an enemy with magic power like a bow and arrow.
+Sharp  20G/3 MP Effect:BF1
+ When battling strong enemies, use this magic to raise Attack Power.
+Sleep  100G/3 MP Effect:BER
+ Hypnosis magic. Puts the enemy to sleep, lowering its attack power.
+Resist  200G/2 MP Effect:BF1
+ Increases Magic Resistence, raising defence against magic.
+Bomb  400G/6 MP Effect:BER
+ A firebomb attack. A powerful attack damaging an entire row.
+Speed  900G/2 MP Effect:BF1
+ Raises one ally's Agility, increasing their ability to dodge enemies and hit them.
+Storm  1500G/10 MP Effect:BEA
+ Cools the enemies with atmospheric bales. Does the damage of a strong frostbite.
+Berserk  1950G/5 MP Effect:BF1
+ Get rid of the enemies by letting loose a deadly spirit. Raises attack power, but reduces defence and evasion.
+Drain  3000G/3 MP Effect:BE1
+ Expunge the enemy's MP to a minimum. Reduces the enemy's ability to use and dodge magic.
+
+Hunter/Priest spells
+Cure  2 MP Effect:AF1
+ With this, you can mend a tired body, restoring up to a maximum of 30 HP.
+Sunshine  20G/8 MP Effect:BER
+ A powerful spell demonstrating absolute power over undead monsters.
+Antidote  100G/2 MP Effect: MF1
+ After being poisoned, this evelops the target in a light that removes the body of the effects.
+Shield  200G/2 MP Effect: BF1
+ Wraps the body in an invisible film that ligtens the damage taken from enemies.
+Restore  400G/4 MP Effect:AF1
+ A magic more powerful than Cure. Can recover up to a maximum of 50 HP.
+Remove  600G/20 MP Effect:AF1
+ Hits a paralyzed body with a powerful stimulant, restoring the body from a swooned condition.
+Acid  1200G/2 MP Effect:BE1
+ Reduces the enemy's attentiveness, generally allowing you to do big damage.
+Armor  1500G/4 MP Effect:BFA
+ Creates a mixture of the effects of the Priest's "Shield" and the Magician's "Resist" magic.
+Heal  1800G/8 MP Effect:AF1
+ Can recover to nearly full HP, and also recover from the effects of poison and paralysis.
+Recall  2100G/10 MP Effect: MF1
+ A magic to call back the spirit of an ally that died in battle.
+ Caution as they will be reborn with little HP.
+Flame  3000G/10 MP Effect:BER
+ Springs forth a fire column many meters high. Heavily burns the enemy.
+ The magic demands a priest of high intellect.
+Death  6000G/10 MP Effect:BE1
+ Sucks away all but the last of the enemy's HP, putting them on the brink of death.
+ This treasured spell is passed down throughout the ages to only the most skillful of Priests.
+
+About Undead Monsters
+ Undead monsters have been brough back from death, lacking any heart.
+ They have been manipulated the forces of evil.
+ To defeat them, you must break the power over them, breaking the
+ power of even is not...

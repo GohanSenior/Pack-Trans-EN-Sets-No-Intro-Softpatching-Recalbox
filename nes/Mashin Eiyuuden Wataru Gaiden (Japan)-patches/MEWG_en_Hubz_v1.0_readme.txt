@@ -1,0 +1,76 @@
+-=Mashin Hero Wataru Gaiden=-
+-=English Translation V1.0=-
+
+Genre: Action/RPG
+
+Platform: Famicom
+
+Source language: Japanese
+
+Patch language: English
+
+------------------
+Game Information
+------------------
+
+Mashin Hero Wataru Gaiden is a game based on a popular anime
+series known by the same name minus Gaiden. In this game you
+play as yourself and you must save Wataru who has been captured
+by the evil Dakdar.
+
+The game is fun and interesting in the fact that it is an
+action game but also has RPG elements that flow very nicely
+together. The map is overhead view similar to other NES RPG's
+of it's time while the battles switch over to a side view
+based screen similar to Zelda 2. It's too bad it was never
+brought to the US as I'm confident it could've done very well
+but since we never got the show over here I suppose that makes sense.
+
+You'll travel the world doing various tasks and trying to locate
+the Dragon Treasures in order to save Wataru. Each area has its
+own theme as well as enemies which adds to the overall charm.
+
+-------------------------
+Translation/Hacking Notes
+-------------------------
+
+By Hubz
+
+This is a hack I started many years ago before I knew much about rom
+hacking and it never progressed too far. Later after finishing Castle
+Quest pennywise contacted me and revamped and improved the Castle Quest
+translation quite a bit while teaching me various rom hacking techniques.
+With those I began to start hacking Wataru again and got much farther.
+
+I contacted tkcne to help translate the game and due to his prior experience
+with ASM he began to hack Wataru and helped speed up the process immensely. 
+There is no way the translation would have been completed without his expertise
+in the amount of time, nor would it likely be as well done.
+
+There are likely bugs (of course) but we have tried to catch them all. If you
+come across any please contact me at hardcorehubz@yahoo.com and we will likely
+release an additional patch once enough bugs have been found. Of course any
+game breaking bugs will be fixed immediately but there shouldn't be any.
+
+---------------------
+Patching Instructions 
+---------------------
+
+Use this patch on a rom of the Famicom game with Lunar IPS or another patching
+program.
+
+The rom name is usually known as Majin Eiyuu Den Wataru Gaiden.
+
+-------------------
+Credits
+-------------------
+
+Hacking - tkcne, Hubz
+
+Additional Hacking Assitance - pennywise
+
+Title Screen Hack - Zynk Oxhyde
+
+Translation - tkcne
+
+Beta Testing - Zynk Oxhyde, Pikachumanson

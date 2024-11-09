@@ -1,0 +1,123 @@
+CHAOS WORLD
+ENGLISH TRANSLATION V0.98F
+Copyright 2001 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Chaos World
+2.Patch History
+3.Patch Credits
+4.Known issues
+5.Application Instructions
+6.Translation Notes
+7.Patch Notes
+
+------------------
+1.About Chaos World
+-------------------
+Chaos World is a bloody excellent RPG for the NES. It has all the
+things that make today's next-gen RPGs great, without all the flashy
+graphics and sound. And if you think flashy graphics and sound make a
+game, then Chaos World is here to prove you WRONG.
+
+---------------
+2.Patch History
+---------------
+Chaos World started waaaaay back in the summer of '99, as my first
+really big translation attempt. Xeur offered to translate the script,
+and by sometime in October, had returned all of the smaller blocks and
+all but one of the large blocks to me. At that point, he took a job in
+Japan, and lost touch, leaving the last major dialogue block without
+a translation. So I pieced together what I had, and released an almost-
+playable patch to the masses. Unfortunately, there were a few fairly
+major bugs - the guild text was messed up in places, and King Ruval,
+when he was supposed to commission you to rescue Prince Levin from the
+kidnappers early in the game, just sorta stared blankly at you. As a
+result, the text-embedded story flag was never switched, and you could
+not go any further ^^; There was also a bug in the battle text which
+has since been resolved: In April or so of '00, Jair helped me with
+some minor assembly modifications. Basically, we rearranged the
+placement of monster names so that we could fit longer names in. After
+that, the project was unfortunately rather dead in the water... that is
+until Xeur resurfaced in January of 2001 and returned the last of the
+script to me ^_^
+
+March 7th, 2000 - Version 0.6a release
+
+March 7th, 2001 - Version 0.98F release
+
+---------------
+3.Patch Credits
+---------------
+THE YS IV TEAM
+Gideon Zhi - Project leader, lead romhacker
+Xeur - Translator
+Jair - Assembly work, spot translations
+
+SPECIAL THANKS
+Jair, for helping me get started back when I didn't know much ^^;
+Demi, for doing some initial class translations and that kinda stuff.
+
+--------------
+4.Known Issues
+--------------
+-Guild text is output strangely in a few instances.
+
+-Battle text is buggy (but fully playable anyway.)
+
+-Casino games are buggy.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Download SNESTool from your favorite emulation utility site, and unzip
+it to the same directory as your Japanese Chaos World ROM. Before doing
+anything else, make an extra copy of the Chaos World ROM by right-
+clicking it and choosing copy, then right clicking in a blank area and
+choosing paste. Now let's say your original Chaos World ROM is called
+"chaosw.nes". Double-click SNESTool, choose "Use IPS" from the menu.
+Pick whichever version of the patch you wish to use on the ROM, then
+pick the ROM itself. Load in your favorite emulator that's not LoopyNES
+or NESticle or any of the other numerous emulators that don't support
+Chaos World and have fun!
+
+-------------------
+6.Translation Notes
+-------------------
+I figured I'd better throw this in here, 'cuz a few things were, in
+fact, changed.
+
+The main character's father had a name change. He's now "Mars" instead
+of "Marvellous" which was just WAY too big.
+
+In each of the regions, at least one townie said something to the
+effect of "You're killing monsters as you travel? Wow!" I gave these
+poor, unimportant souls the Working Designs treatment. See if you can
+spot 'em ;)
+
+Karlintz became Carlint because it was already hacked in before anyone
+realized that it was a mistranslation ^^;
+
+Droll Ogre has become Draw Omega, just because that particular
+mistranslation RULED.
+
+-------------
+7.Patch Notes
+-------------
+What's the difference between the "a" patch and the "b" patch? Well,
+when hacking the game about a year and a half ago, doing all sorts of
+technical crap manually, I accidentally stumbled upon a bug that made
+me laugh my head of. The solution was fairly simple, but I just loved
+walking up to one townswoman in particular at the VERY beginning of the
+game, and having her curse at you and throw you into a battle that you
+can NOT win :D Of course, her text changes after speaking with the
+King, so there's no way for you to power up before talking to her ^_^
+
+Since I loved the bug, I figured I'd let the world see it. Apply the
+version A patch and talk to the woman walking around by the gravestone
+as soon as you start the game :) The version B patch is identical to
+the version A patch (except that it doesn't have her bug) so they
+should be hot-swappable without having to download a new ROM.
+
+Enjoy!

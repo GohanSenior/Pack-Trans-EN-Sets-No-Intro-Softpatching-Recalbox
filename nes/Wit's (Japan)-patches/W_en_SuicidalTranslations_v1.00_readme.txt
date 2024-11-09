@@ -1,0 +1,171 @@
+           $$$$$                                          $                $   
+         $$$$   $           $$               $$          $$               $$   
+       $$$$$                 $                $          $$               $$   
+      $$$$$                                              $$               $$   
+       $$$$$     $        $ $     $$$$$$$    $     $$$$$$$$    $$$$$$$$   $$   
+         $$$$$   $$      $$ $$   $$      $$  $$   $$    $$$   $$     $$   $$   
+           $$$$  $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+         $$$$$   $$      $$ $$ $$$           $$ $$        $ $$$      $$   $$   
+   $   $$$$$     $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+    $$$$$         $$    $$  $$   $$      $$  $$   $$    $$$   $$     $$$  $$   
+                   $$$$$$   $$    $$$$$$$    $$    $$$$$$$$    $$$$$$  $  $$   
+  $$$$$$                                                                       
+$$$$$$$$$$                            $            $   $$                      
+$   $$   $                            $$          $$    $                      
+    $$    $$$$$   $$$    $$$$   $$$$$ $$  $$$   $$$$$$      $$$   $$$$   $$$$$ 
+    $$   $$    $ $   $  $    $ $      $$ $   $    $$   $   $   $ $    $ $      
+    $$   $$    $ $   $  $    $  $$$$  $$ $   $    $$   $$  $   $ $    $  $$$$  
+    $$   $$      $   $  $    $      $ $$ $   $    $$   $$  $   $ $    $      $ 
+   $$$$  $$       $$$ $ $    $ $$$$$  $$  $$$ $   $$   $$   $$$  $    $ $$$$$  
+
+				    Wit's
+                             English to Japanese 
+                                 Translation
+                                   v. 1.00
+
+                   
+
+
+-------------------------- DEDICATION & INSPIRATION ---------------------------
+ 
+This translation is dedicated to SnowBro. Not only did I use one of his tools
+to do the actual work (and would have used another if it worked in XP), I also
+used him personally. SnowBro is the kewlest Norwegian 6502 assembly hacker in
+the entire world!
+
+Lately, I've been listening to an Everclear compilation that I made myself, so
+that's what I'll credit with inspiring this particular translation.
+
+	You know I want to be the way you want me to
+	Big hearted and tall enough to cover you 
+	I would break in half if you said it loud 
+	Splinter out of myself just like mercury 
+
+	-Everclear "Nervous and Weird"
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+    I. Dedication & Inspiration
+   II. Table of Contents
+  III. Introduction
+   IV. Version History
+    V. Distribution Notes
+   VI. Technical Notes
+  VII. Staff
+ VIII. Tools
+   IX. Patching Instructions (** READ THIS BEFORE ASKING QUESTIONS!! **)
+    X. Contact Information
+   XI. Closing
+
+--------------------------------- INTRODUCTION --------------------------------
+
+Wit's is a shitty game. Well, the game itself is fine. It's a clone of the
+Light Cycles level of Tron and actually has variety between the different
+levels. It's the coding of the game that sucks donkey balls. Don't let that
+deter you from trying the game, though. I'm just bitter do to the shit I had to
+put up with in order to translate this game.
+
+-------------------------------- VERSION HISTORY -------------------------------
+
+v. 1.00 - February 28, 2003
+
+What's Complete
+ - all text translated
+  
+What's Incomplete
+ - nothing that I am aware of
+
+------------------------------ DISTRIBUTION NOTES ------------------------------
+
+This Wit's translation should be distributed in a file named witse100.zip and
+should contain the following files:
+
+	  witsev100.ips - the translation patch
+ 	  witsev100.txt - this readme file
+	   wits-man.txt - a manual for the game
+
+These files are (C)opyright 2003 by Suicidal Translations. All rights reserved.
+You may distribute this translation in any manner you desire as long as the
+original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Wit's is (C)opyright 1990 by Athena Co. LTD.
+
+------------------------------- TECHNICAL NOTES -------------------------------
+
+There wasn't much text in this game, just the introduction which you don't even
+see unless you let the game cycle through a demo level, back to the title
+screen and then to the intro.
+
+Believe it or not, the intro isn't made up, it's more or less accurate to the
+original translation with the exception of the names. I don't know what the
+character's real name is because the person that translated the text for me is
+apparently bad with names. His superhero name is Uittsuman which probably
+doesn't mean a damn thing in English, so I went with Naked Man because, well,
+look at the graphics. The guy is naked. Oh, and I named the unnamed doctor
+Dr. Wit so as to concoct an explanation of the stupid apostrophe in the title.
+
+As for technical aspects of the hacking, I could talk about the ignorant way
+the programmers stored the font, but I won't because it just pisses me off and
+I'm not in the mood to be pissed off by this fucking piece of shit game.
+
+GoodNES calls this game Wit's (J). Your best bet for locating the ROM is to
+check a full GoodNES archive, though you should import the original cartridge
+from a shichiya (Japanese for pawn shop) for the sake of legality.
+
+------------------------------------ STAFF ------------------------------------
+
+Hacking:
+InVerse - http://www.pigtails.net/ST
+
+Translating:
+EienNiHen - (via Mo's board at http://donut.parodius.com/mo)
+
+------------------------------------ TOOLS ------------------------------------
+
+The following tools were used for this translation:
+
+       Hexecute: hex editing
+ Tile Layer Pro: graphics hacking & font insertion
+         IPS XP: patch creation
+     
+Most of these tools, as well as ROM hacking tutorials, can be downloaded from
+The Repository (http://www.romhacking.com).
+
+----------------------------- PATCHING INSTRUCTIONS ---------------------------
+
+Patching a ROM is extremely simple. You need three things. A ROM, the patch and
+a patching program. To patch with ips.exe, you simply type:
+
+	ips <ROM name> <patch name>
+
+So if your ROM was named wits.nes and the patch was named witsev100.ips you
+would type:
+
+	ips wits.nes witsev100.ips
+
+Make sure you have the ROM, the patch and IPS in the same directory.	
+	
+To patch with SNES Tool, simply select USE IPS, choose the patch and then 
+select the ROM to which you wish to apply the patch. It's self explanatory. If 
+you can't figure it out, the game is probably too hard for you anywayz.
+
+To patch with IPSWin, you simply select the ROM you want to patch, the patch
+you wish to apply and then click Patch. Once again, if you can't figure it out,
+the game is probably too hard for you.
+
+------------------------------ CONTACT INFORMATION ----------------------------
+
+The official Wit's english translation home page is currently located at
+http://www.pigtails.net/ST
+
+E-Mail addresses concerning the project can be located on the official page.
+
+Do NOT, under ANY circumstances, ask for ROMs. You will not only be denied,
+you will have your request for illegal files forwarded to your ISP.
+ 
+------------------------------------- CLOSING ----------------------------------
+
+ So there you have it. Have fun and remember, it's just a game.
+
+ -InVerse

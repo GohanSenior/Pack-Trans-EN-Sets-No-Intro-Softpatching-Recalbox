@@ -1,0 +1,65 @@
+===============Jajamaru-no Daibouken==================
+==================V1.00===============================
+Genre: ACT
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: aishsha@gmail.com/
+Web-site: aishsha.blogspot.com
+          yojimbo.eludevisibility.org
+ 
+======================================================
+Ninja Jajamaru's Great Adventure
+======================================================
+Background: Nothing much to say about this one except
+that this game is practically identical to Jajamaru
+kun we did a while ago. The only visible difference
+is that it has different stages. 
+
+Except for clearing stages this game also has some
+mid-bosses and has no ending like its brother.
+
+Hacking work took only a pair of days (and it would
+take even less, if not RLE for attribute table and
+tile map). Pennywise did some preliminary research
+and I finished hacking.
+
+Use a patching IPS utility of your choice to apply the
+patch (I do recommend Lunar IPS). 
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.   
+
+Enjoy the playing and do buy the game, if you like it!
+
+======================================================
+UPDATE as of March 2010
+======================================================
+Recently I have been informed that some of the players
+tried to use the original rom for patching and that
+didn't work. The original patch was developed for
+version hm66 of the rom (sorry for that :() due to
+technical problems with the mapper 87 of the game
+(some older emus just didn't play it). So, now the
+archive contains two different patches (87 or original
+one and mapper 66) for two different rom versions.
+Enjoy!
+======================================================
+
+Credits go to:
+aishsha - translation, main hacking, testing.
+
+marco perugini - for finding the mapper-based bug.
+
+Pennywise - research, testing.
+
+======================================================
+
+
+Compiled by aishsha. March 2010.

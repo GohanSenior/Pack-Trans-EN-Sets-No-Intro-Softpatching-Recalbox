@@ -1,0 +1,66 @@
+===============Ninja Jajamaru=========================
+==========Legend of a Demon's Attack==================
+==============Castle of Dreams========================
+==================V1.00===============================
+Genre: ACT/RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Author: aishsha/Pennywise
+
+E-mail: aishsha@gmail.com/
+Web-site: aishsha.blogspot.com/http://yojimbo.eludevisibility.org/
+ 
+ 
+======================================================
+Jajamaru Gekimaden - Maboroshi-no Kinmajou
+======================================================
+Background: The work on this project started like more
+than a year ago when me and Penywise finished working
+on Jarvas and were chatting about possible future
+projects. The talk was just talk back then and we
+forgot about that till August 2009. Pennywise
+coded a DTE routine for the game and passed that to
+me. I did some other additional hacking and translated
+the game. 
+
+The game itself belong to the series of a Jaleco mascot,
+red-hooded and big-headed ninja Jajamaru-Kun, saving
+Princesses, Kings, Japan and the whole world altogether.
+This time he's fighting with a Hellish Monk from the
+Underworld to protect humanity. Again...
+
+Anyway, the plot is quite blunt but not the game itself.
+It's a very good Zelda-like ACT/RPG, quite long for
+this genre and very nice looking. We've both enjoyed
+the game enough to pass it twice, so believe me, it's
+good.  
+
+Use a patching IPS utility of your choice to apply the
+patch (I do recommend Lunar IPS). 
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.   
+
+Enjoy the playing and do buy the game, if you like it!
+
+======================================================
+
+Credits go to:
+aishsha - translation, additional hacking, testing.
+
+Pennywise - main hacking, testing.
+
+Shmu-Hadron - that beatiful title screen is his own
+work - thanks for that, man! 
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by aishsha. November 2009.

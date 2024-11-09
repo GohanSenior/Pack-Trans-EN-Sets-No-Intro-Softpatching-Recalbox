@@ -1,0 +1,104 @@
+KingMike's Translation
+
+kingmike2001 AT hotmail DOT com
+
+Deep Dungeon III - The Journey to Become a Hero
+Patch v1.0
+Release date: 05/24/2013
+*********************************************
+Original Title: Deep Dungeon III - Yuushi he no Tabi
+Original Language: Japanese
+*********************************************
+Thanks to
+
+odino	- Japanese to English translator
+DarknessSavior, BRPXQZME, LostTemplet, other RHDN members - spot rechecks
+
+*********************************************
+Contents of package.
+dd3e10.ips  : Finished English translation, IPS format
+dd3e10.bps  : Finished English translation, BEAT format
+dd3e10.txt  : This document.
+*********************************************
+Emulation Status:
+ Most emulators should play this fine.
+*********************************************
+
+What's done:
+ - All dialouge.
+
+What's left:
+ - Any spelling, grammer, linebreak errors I missed?
+*********************************************
+How to patch:
+
+PROPER ROM:
+ -Japanese original.
+ -256KB in Windows Explorer.
+
+
+
+ - Download this zip file.
+ - Download the game ROM. (I won't provide this. You find it.)
+
+To apply the IPS format patch:
+ - Use the included patcher for DOS. It will expand the ROM and patch it.
+
+To apply manually:
+ - Download Lunar IPS. http://fusoya.cggames.net
+ - You will need to use a program such as nflate to expand the ROM by doubling up the PRG-ROM data.
+   Make sure to change the byte in the header at address $0004 from 0x10 to 0x20 account for the ROM size change.
+ - Open Lunar IPS. Click Apply patch. Pick the ROM and the patch.
+    -If that is too difficult, open Lunar IPS, then close it. Do this to associate IPS files with Lunar IPS.
+    -Now just double-click the IPS file, and double click the ROM.
+
+To apply the BEAT format patch:
+ - Or use beat (byuu.org) to apply the BPS version patch. I don't think ROM needs to or should be expanded first when using bps.
+
+This patch archive also includes a list of offsets.
+Originally the Japanese game was very biased towards the RNG and would decide enemy/player hit/miss, spell success
+and other things based on RNG rolls, and in less cases would decide the results based on further rolls that are influenced
+by stats. I've hacked that so that only the stat-influenced RNG rolls are used.
+
+I've also given HP-recovery spells 100% success in battle. It just seemed unfair to die because
+of a bad roll at a critical time. Even moreso because if your main character dies, you INSTANTLY game-over.
+
+I've also fixed a few bugs in the Japanese version. The "armor bug" is particularly game-breaking, and I found it I wa
+relieved to know that is probably why I first stopped the patch in 2008.
+What happens is that after every action in battle at the point when it checks if the enemy party is dead),
+the game will remove a potential item drop from a living enemy.
+That is already kind of questionable, but the armor bug comes in as a side-effect of that.
+The thing is that when the game tries to null the enemy's item drop, it will not recheck it is actually pointing at an
+enemy. After a party member uses a spell on another party member, the pointer will actually be left pointing at the
+caster's data. This causes the game to zero the Armor stat bonus granted by worn armor.
+This may not have an immediate effect as the game uses a separate battle Defence stat. However, if a stat-influencing
+spell is cast on the party member, this may refresh the Defence stat with the incorrect value.
+During battle, you may be able to correct it by equipping a weapon/armor, but that will cost a turn.
+After battle, you can force the game to correct the value by visiting the Status menu.
+You should, as the game will refresh the Defence stat when the next battle starts.
+
+Other bugs:
+- Resist and Armor increase Magic Resistance stat by 100 for the party, but do not include overflow protection.
+Enemies do have overflow protection, so I rebalanced it (sets to 255 if overflow).
+- The Death spell should set to a party member to very low HP, but not 0. The original left it possible to be at 0 HP
+  but not dead. According to the manual description translated by DarknessSavior, low positive HP was the intended effect.
+- The Heal spell does not work on paralyzed members. I think the spell description in the manual says it should restore most HP and
+  remove poison and paralysis effects, so I changed that.
+
+Since some might disagree on this "balancing" mod and whether translations should fix original game bugs,
+I've included an offset sheet to let others build their own custom balance/not versions of the translation patch.
+
+*********************************************
+How to play:
+
+I've included a file "instructions.txt" that is sort of a Google-assisted translation/summary of the manual.
+*******************************************
+Deep Dungeon III: Yuushi he no tabi
+	(c) 1987 Hummingbird Soft
+        (c) 1988 Square
+
+English Translation:
+	(c) 2008-2013 KingMike, odino
+
+No distributing the patch with ROM, either pre-patched, or in one zip.
+That's wrong.

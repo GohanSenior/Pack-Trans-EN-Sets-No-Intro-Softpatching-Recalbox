@@ -1,0 +1,37 @@
+Rockman 2 - Dr. Wily's Riddle English Translation
+AGTP Version 1.0
+http://www.pcpages.com/agtp/
+draw_omega@yahoo.com
+
+-----------------
+Those Responsible
+-----------------
+Gideon Zhi - Romhacker
+Demi       - The title.
+
+-----------------
+Stuff Done
+-----------------
+More than likely, everything.
+
+-----------------
+Stuff Not Done
+-----------------
+Nothing, I hope.
+
+-----------------
+Patching Instructions
+-----------------
+Go to your favorite emulation site and download SNESTool. Drop it, the
+patch, and the Japanese Rockman 2 ROM into the same directory. Then
+open SNESTool. If it's missing some extenders, you'll have to find 'em
+on your own. Once you get SNESTool running, select (Use IPS) then the
+cosmogen.ips patch file, then the Japanese Rockman 2 ROM. You should
+now be patched.
+
+-----------------
+If you find a bug
+-----------------
+More than likely, it's untranslated text. Send a savestate or screenshot
+(preferably the former, in NESticle format) to Gideon Zhi, and I'll try to
+fix it.

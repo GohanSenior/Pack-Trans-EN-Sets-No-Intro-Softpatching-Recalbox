@@ -1,0 +1,126 @@
+================================================================================
+ ######################                                             ###
+ ########################                                      ######## 
+ ##########################                                ############ 
+     #######        ########   ##########        #####     ############ 
+     #######       #########   ###########     #########         ######
+     ######################      ###    ###  #####    ###        ######
+     ####################        #########  ####                 ######
+     #######   ########          #####      ####     ######      ######
+     #######    ########         ###         ####      ###       ######
+     #######     ########        ###          ####    ####       ######
+     #######      ########     #######          ####### ##       ######
+     #######       #########                                    ########
+    #########       ########################################################## 
+  #############       ######################################################## 
+  #############          #####################################################
+  #############              #################################################
+
+    R   P   G   O   N   E      T   R   A   N   S   L   A   T   I   O   N   S
+================================================================================
+
+                                    Presents
+
+                         ==============================
+                         |                            |
+                         |       Magical Quest 3      |
+                         |           starring         |
+                         |       Mickey & Donald      |
+                         |                            |
+                         ==============================
+
+                            English Translation v1.5
+                         Copyright 2004 - 2020 by RPGONE
+
+                         http://rpgone.superfamicom.org
+
+================================================================================
+
+-----------------
+Table of Contents
+-----------------
+I.   About the Game
+II.  What's New
+III. Credits
+IV.  Application instructions
+V.   Disclaimer
+
+
+-----------------
+I. About the Game
+-----------------
+The evil King Pete is up to his old tricks again. When the guardian fairy of 
+Storybook Land fell asleep, King Pete and his minions took it over and are now 
+plotting to take over the real world as well. Not only that, Pete has 
+kidnapped Donald's nephews Huey, Dewey and Louie to use as his slaves. 
+
+Now that Mickey and Donald have found out about King Pete's terrible plans, 
+will they be able to save Donald's nephews and restore peace to Storybook Land 
+before it's too late?
+
+
+--------------
+II. What's New
+--------------
+v1.5 [18-06-2020] - New Title logo
+		  - Fixed bug on stage 5-3 where magician icon was corrupted
+		    (Thanks to Goro's Lair for reporting this)
+		  - Various improvements
+
+v1.4 [29-04-2019] - Fixed bug with Pause text when playing using controller 2
+
+v1.3 [21-03-2019] - Fixed bug in Bonus game options text during 2-player co-op
+		    (Thanks to Goro's Lair for reporting this)
+
+v1.2 [26-11-2018] - Updated Title logo
+		  - Script revision
+		  - Stage Name 2 line star effect
+		  - Updated Bonus graphic
+		  - Region protection removed
+		  - Startup screen graphic remade
+
+v1.1 [24-08-2004] - Script fixes (Thanks to Elf for reporting these)
+
+v1.0 [12-07-2004] - First release 
+
+
+If you find any bugs, please contact Jonny on romhacking.net
+
+
+------------
+III. Credits
+------------
+Jonny - Project Leader, Programming, Graphics
+BugCatcher - Translation
+Shih Tzu - Cast List translation
+FH - Bonus game sprite hack
+
+Thanks:
+Brightman
+Helena for getting me to play this game in the first place
+Bailey for the 2-player co-op last summer which made me work on v1.2
+Coronavirus lockdown for the opportunity to work on v1.5 
+
+
+----------------------------
+IV. Application instructions
+----------------------------
+You will need to apply this patch onto an unmodified, non-interleaved ROM with 
+NO Header (Rom checksum: 2F36, CRC32: 32EEA1E9, Size: 2,097,152 bytes).
+
+
+-------------
+V. Disclaimer
+-------------
+Mickey and Donald are Copyright (c) Disney. The Mickey and Donald 3 videogame 
+and all related images, names, and themes are trademarks of Capcom.
+
+RPGONE is in no way or form affiliated with Disney or related persons, nor with 
+Capcom or any other video game companies. It shall not be held liable for any 
+damages of any type arising out of, or in any way connected with your use of 
+this translation.
+
+This English translation is FREE and may NOT be sold.
+You may NOT distribute this translation applied to a rom. 
+
+We do NOT endorse piracy.

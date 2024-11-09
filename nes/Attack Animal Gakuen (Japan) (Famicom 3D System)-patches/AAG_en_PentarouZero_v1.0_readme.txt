@@ -1,0 +1,58 @@
+
+  ============================================
+  |          ATTACK ANIMAL GAKUEN            |
+  |      English Translation Patch V1.0      |     
+  |            ©2003 PentarouZero            |
+  |         pentarouzero@hotmail.com         |
+  |       http://www.pentarouzero.com/       |
+  ============================================
+
+
+  ============
+  | The Game |
+  =============================================================================
+   Basically, Attack Animal Gakuen (Gakuen translating to something like
+   "school" or "academy") is a Space Harrier clone. And it's a Pony Canyon
+   game, so I probably don't need to tell you that it sucks. (although it's
+   not much worse than the official FC port of Space Harrier, really) Umm, and
+   it does that 3D thing if you press the select button, but I think you need
+   Famicom 3D glasses to view it properly - you can't just use the standard
+   red 'n blue ones. Yep. 
+  ============================================================================= 
+   
+
+  ==================
+  | Status/History |
+  =============================================================================
+   Version 1.0
+   Title screen is now english. That's it.
+  ============================================================================= 
+
+
+  =========================
+  | Patching Instructions |
+  =============================================================================
+   Download an IPS patcher from somewhere like
+   http://www.zophar.net/utilities/genutil.html , and apply ATTACK10.IPS to 
+   a clean Attack Animal Gakuen ROM image. Do not apply it to any other
+   translation or hack of this game.
+  ============================================================================= 
+
+  ================
+  | Known Issues |
+  =============================================================================
+   Nope. Nothing.
+  ============================================================================= 
+
+  =================
+  | Patch Credits |
+  =============================================================================
+   ROM Hacking: PentarouZero
+   Translation: PentarouZero 
+  ============================================================================= 
+
+  =========================
+  | Original Game Credits |
+  =============================================================================
+   © 1987 Pony Canyon Inc. 
+  ============================================================================= 

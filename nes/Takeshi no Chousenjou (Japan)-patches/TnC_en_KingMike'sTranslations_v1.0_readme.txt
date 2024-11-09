@@ -1,0 +1,142 @@
+Takeshi's Challenge
+(aka Takeshi no Chousenjou or A Letter of Challenge from Takeshi)
+v1.0
+December 25, 2011
+KingMike Translations (http://kingmike.emxuxhaven.net)
+
+***********
+INTROUCTION
+***********
+This is a side-scroller adventure game.
+Designed by Japanese comedian Takeshi Kitano, it is infamous for being
+one of the worst video games ever made.
+It is said that the game was infact intenionally terrible as if the
+whole intent is to play a cruel joke on the player.
+Well, whichever, you can now play this legend in English.
+
+****
+TEAM
+****
+ KingMike - tools, assembly, graphics
+ Sexy Offender - translation (I have been told the main translator would
+  rather remain anonymous)
+ Paul Jensen, DarknessSavior, Pencil - additional translations
+
+***********
+WHAT'S DONE
+***********
+ Should be complete.
+
+************
+WHAT'S BUGGY
+************
+ I get the feeling there may be some hidden spots I missed testing the game.
+ If there's a place with wrong text or misplaced windows, a FCEUX savestate
+ right before the error would be helpful.
+
+ Do note that the original game was a bit glitchy. I know sometimes the
+ screen won't scroll far enough to allow you to access warp points.
+ That is a bug in the original, and in some places may have even been
+ intentional.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+ The ROM will need to be expanded with a program such as nflate first.
+ Expand the PRG-ROM.
+
+ Either apply the IPS version of the patch to an original Japanese ROM,
+ or use a program such as upset (from byuu.org) to apply the UPS version.
+
+ And I suppose you know not to apply it to a pre-patched ROM.
+
+ This translation was tested on the 1986 version of the ROM, but looking
+ at the differences between the two, it should be compatible with the 1990
+ ROM as well. (technically, the only visible difference seems to be the
+ date on the title screen. The mapper code was also changed slightly.
+ My guess is the 1986 version ran on a PCB with bus conflicts and the 1990
+ version did not. The 1990 version also contains a small additional routine
+ that doesn't appear to serve any useful function: it reads from some address
+ like $4420 that is believed to be unmapped and then follows with a branch
+ with a relative offset of 0 (which again appears to be a useless instruction).
+
+****************
+EMULATION ISSUES
+****************
+ Not aware of any. Again, the bugs I am aware of were present in the
+ original game and may have even been intentional.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+Controls:
+ Note this is a 1-player game but does utilize the mic on the FC second controller.
+  D-Pad
+   Move. Hold Down and press B to jump very high.
+   Push Up to talk to people.
+  Select
+   Open the Information Screen
+  Start
+   Pause
+  B Button
+   Jump, cancel selections on menus
+  A Button
+   Attack, confirm selections on menus
+  Second Controller
+   This game does use the microphone found on the Famicom Player 2 controller.
+   Additionally:
+    Down + A (on Controller II): Activate silent input. Takeshi will say Hello to
+     confirm selection.
+    A (on Controller II): With silent input turned on, push this repeatedly to
+     "speak" into the mic.
+
+Starting a game
+ You will control Takeshi on the title screen.
+ Walk towards START to bein a new game. Walk towards CONTINUE to enter the password-
+ input screen.
+
+Password input
+ Press Up to talk to the password man. Select RESUME to begin inputting a password.
+ Use the D-Pad to choose characters, A to enter and B to erase. Select END when you
+ have finished entering the password.
+ Do take note of the difference beteen O (the letter) and 0 (the number) and between
+ Y and the yen symbol.
+ If correct, you will notice Takeshi's stats have been immediately reloaded.
+ Walk to the left, outside of the room to continue your game.
+
+Information screen
+ Press Select during the game to display the Information screen.
+ You will see a list of the items you have obtained, as well as your health (which
+  will oddly display five digits even though it is capped at 127) and money.
+ There will be four options at the bottom. Select one and push A to continue.
+  BACK : Return to the game.
+  END : Go to the password screen to obtain your current password. Please note the
+   difference between O (the letter) and 0 (the number) as well as Y and the yen
+   symbol.
+  SPEAK : Choose to talk normally or threateningly (not sure what this affects).
+  WEAPON : Choose this to swap your current weapon between punch, rock and gun, if
+   available.
+
+Your goal is to explore the game. It's pretty open.
+
+Some additional minigames:
+
+Pachinko:
+  Push A to release a ball.
+  Push B to quit.
+
+Hang gliding:
+  Push Left, Right or Down to move.
+  Push A to shoot if you have a gun.
+
+*********
+COPYRIGHT
+*********
+Original game (c)1986 by Taito and Takeshi Kitano ("Beat Takeshi").
+English translation (c)2011 by KingMike and others above.
+I am not affiliated with Taito or Beat Takeshi.
+Do not distribute the game image ("ROM") and the patch.
+This patch is for non-profit recreational use.
+Use it if you have an original, but play on emulator or flash cart. Don't destroy donors.
+I do not support or condone reproductions.
+If you're thinking of selling a reproduction of this translation, I don't care if you die.

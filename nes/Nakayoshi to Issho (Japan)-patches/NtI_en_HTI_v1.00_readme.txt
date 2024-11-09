@@ -1,0 +1,148 @@
+Nakayoshi to Issho
+English Translation Patch - version 1.00 4/22/12
+By HTI  http://hti.rpgclassics.com
+hiryuu@rpgclassics.com
+
+Please visit http://www.rpgclassics.com/shrines/nes/nakayoshi for tons of additional
+information on the game!
+
+What This Zip Contains:
+-----------------------
+1. This readme
+2. A "manga" version of the patch.  The naming conventions for the Sailor Moon
+   chapter more accurate to the original Japanese
+   (the main character is named Usagi, etc.)
+3. A "dub" version of the patch.  The naming conventions for the Sailor Moon
+   chapter coincide with the dubbed version that aired on Cartoon Network
+   (the main character is named Serena, etc.)
+   
+
+What You'll Need:
+-----------------
+1. This patch you just downloaded
+2. A Nakayoshi to Issho ROM for the Famicom
+3. Lunar IPS or other patching program.
+
+
+What You'll Need To Do:
+-----------------------
+After you've downloaded the ROM, this patch, and Lunar IPS, put them all into
+the same directory.  Backup the ROM if you wish, then run Lunar IPS and follow the prompts.  Just remember the ROM is the *.nes file and the patch is the
+*.ips file.  Remember to patch either the "manga" or "dub" version of the patch only, not both!
+
+
+Boring Patch History:
+---------------------
+My second RPG project, I decided to do another small RPG to hone my hacking skills a bit after finishing Glory of Heracles: Snap Story.  After playing
+through various NES and Gameboy games to hunt for a good project (and
+finishing Booby Boys for the Gameboy in the meantime), I settled on this
+game, initially not realizing that it was based on Sailor Moon (and several
+other manga).  The game seemed easy enough to hack so I was on my way!
+
+While searching for information on the game, I found a walkthrough by a person named Frizzy, who had played the game previously.  A quick e-mail
+later and I sent Frizzy the game's script, which was promptly translated
+and sent back.  A far cry from the trouble I had getting Glory of
+Heracles' script translated!
+
+Overall, the project went mostly smoothly, especially once I got myself
+up to date with the usage of Atlas and Cartographer.  A few very basic
+assembly hacks were implemented and the game was finished rather quickly.
+Voila.
+
+
+What's Been Done:
+-----------------
+All text translated.
+
+Dual Tile Encoding script implemented.
+
+Main character's name limit expanded from 4 characters to 8.
+
+Added Ms. Takeuchi's portrait to the ending (it was inexplicably missing from the Japanese version).
+
+Recolored Ami's sprite's hair blue (it was inexplicably brown in the Japanese version).
+
+Slightly restructured how the menu displays food inventory.
+
+Added the power to the descriptions of several weapons that didn't display in theJapanese version.
+
+
+Gameplay Notes:
+---------------
+This game is based on a Japanese magazine, Nakayoshi, that publishes Shoujo (girl) manga. Your character must traverse six worlds, based on six manga (Goldfish Warning!, Pocket Park, MinMin!, Taiyou ni Smash, Kurumi and the 7 Dwarfs and
+Sailor Moon) to restore order.
+
+This game is somewhat of a beginner's RPG.  The battles aren't random, they are initiated by talking to NPCs.  All battles can be run from with 100%
+success, with the exceptions of three bosses.  Food items can be used to
+restore your HP without using up your turn.
+
+The biggest departure of this game is how it handles battles.  When fighting, other than choosing to eat food or run, the only thing you have control over
+is to select which element (Fire, Ice, Lightning) you want to use.  Then, a
+three-reel slot will start. Generally, you get three attacks per round, one
+for each reel, as does the enemy. A fist icon lets you attack, a bag icon
+lets you use a weapon from your inventory at random, a gem icon lets you use
+a magical gem from your inventory at random (the gems come in three elements,
+Fire, Ice and Lightning... the element you selected when you started the slots
+determines which type of gem you'll attack with), a star usually does
+nothing, unless you get two in a row, which causes a consecutive attack (this round's attack will do double-damage, but you'll only attack once), and a face
+will usually do nothing, but sometimes your companion will heal you completely
+when you land on a face. Getting three items, fists, gems or stars unleashes a
+super-powerful attack.  Also, in the final chapter, more icons are added to
+your reels as you rescue characters.
+
+Visit http://www.rpgclassics.com/shrines/nes/nakayoshi for much more information.
+
+Translation Notes:
+------------------
+
+As of the time of my writing this, the only manga featured in this game to have had any sort of English translation is Sailor Moon.  Thus, a unique
+dilemma presented itself concerning the translations of the names from that
+chapter.  Should we go  with direct translations?  Or use the established
+translations from the English dub?  I was initially going to go with the
+more accurate, direct translations, but I decided that  this may alienate
+some fans of the subbed version.  So, I decided it would be quite simple to 
+create two patches, one using the subtitled naming conventions, and one using the more direct translations.  Now, the choice is in YOUR hands as to what the character's names  will be called.  Here's a list of the differences between
+the two patches:
+
+Usagi                       Serena
+Ami                         Amy
+Rei                         Raye
+Makoto                      Lita
+Minako                      Mina
+Motoki                      Andrew
+Umino                       Melvin
+Naru                        Molly
+Sailor Soldier              Sailor Scout
+Moon Frisbee                Moon Tiara Magic
+Moon Prism Power Make-Up    Moon Prism Power
+Moon Princess Halation      Moon Scepter Elimination
+Burning Mandala             Mars Fire Surround
+Akuryo Taisen               Mars Fireball Charge
+Shine Aqua Illusion         Mercury Ice Storm Splash
+Sparkling Wide Pressure     Jupiter Thunderclap Zap
+Venus Love-Me Chain         Venus Love Chain Encircle
+Azabu-Juuban                Crossroads
+
+Keep in mind that the two patches are IDENTICAL except for the above differences.
+
+Known Issues:
+-------------
+In expanding the name limit from 4 to 8 characters, on the "load screen", if the name
+of your character is 7 or 8 characters, the seventh character will be overwritten by
+the chapter number your file currently is saved on.  Altering how the game handles
+this character seems to also alter how the flags are displayed at the end of the
+chapters, so I decided it'd probably be better to leave it alone, as it's honestly
+not a huge deal.
+
+Umino/Melvin's sprite doesn't have glasses.  This is also present in the Japanese
+version.  Not so much of a bug, but it does seem to bug me!
+
+E-mail me at hiryuu@rpgclassics.com if you notice any bugs/errors.
+
+Credits:
+--------
+Hacking: Hiryuu
+
+Translating: Frizzy
+
+

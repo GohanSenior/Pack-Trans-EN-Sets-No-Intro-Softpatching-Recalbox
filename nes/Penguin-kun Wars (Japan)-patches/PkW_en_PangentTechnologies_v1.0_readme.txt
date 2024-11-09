@@ -1,0 +1,13 @@
+Penguin-Kun Wars
+Hack by Pangent Technologies (PangentTech)
+9-21-2022
+
+"Penguin-Kun Wars" is an action game released in 1985, in arcades by UPL, and on Famicom by ASCII.
+
+Set in the village's original sports "DOJIBALL" tournament, unique animal characters face off across the table to throw a ball 10 times at each other.
+
+The winner is the first side to throw all of the balls out of their area. Launch yourself through heated ball-battles, and aim for first place in the tournament.
+
+Originally translated by Penguin Translations. Spinner8 made corrections which may or may not be present here.
+
+New title screen hack by PangentTech. This is based on the arcade title screen, but optimized to fit into the available space on NES.

@@ -1,0 +1,101 @@
+SHODAI NEKKETSU KOUHA KUNIO-KUN
+ENGLISH TRANSLATION V1.00
+Copyright 2007 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+0. Before You Begin
+1. About Shodai Nekketsu Kouha
+2. Patch History
+3. Patch Credits and Contributors
+4. Known issues
+5. Application Instructions
+6. Troubleshooting
+
+------------------
+0.Before You Begin
+------------------
+There seem to be a lot of issues with this game and emulators. Sometimes,
+when going to Nanba through the sewers the event where the garage door
+bursts open and people come through won't happen. There are graphical
+glitches with the ground bleeding into the bottom window at times, an
+invisible train will sometimes go by (stay off the tracks folks!) and
+there was some glitchiness in the ending. As far as I'm aware, I did not
+cause these issues.
+
+-----------------------------
+1.About Shodai Nekketsu Kouha
+-----------------------------
+Shodai Nekketsu Kouha (hereafter "Kunio") is an interesting fusion of
+the RPG and Beatemup genres of gameplay. You wander the streets of Osaka,
+getting into fights (randomly, if you don't start them yourself), beating
+people up, gaining items and experience, and levelling up. If you've
+played River City Ransom, you'll feel right at home - same series, really.
+Money has been replaced by random drops and experience, though; you can
+buy stuff from vending machines, but they take the generic "prepaid cash
+card" currency, at an exchange rate of one cash card for one item. You
+can also spend cash cards on crane games, slot machines, and fortune-
+telling machines, once you find a game center.
+
+---------------
+2.Patch History
+---------------
+I don't even remember much about this. It started a few years ago, the
+script was translated pretty quickly, but technical issues with the lower
+window (mostly related to the menus) held things back for a while. Intrepid
+hackers g8z et al. helped out with that, though. The script format was
+annoying, and it needed some polishing, done by yours truly. It's not perfect
+but it's a hell of a lot better than it used to be, and given the extreme
+sprayscatter of variables in the text, I think it came out rather well.
+
+March 7, 2007 - Initial Version 1.00 release
+
+---------------
+3.Patch Credits
+---------------
+THE SHODAI NEKKETSU KOUHA TEAM
+Gideon Zhi - Project leader, lead romhacker, assembly hacker, writer
+Tom/DDS - Script Translation
+g8z et al. - Menu assembly
+
+SPECIAL THANKS
+Laxidman - For lending me his notes in regards to his own project.
+
+--------------
+4.Known Issues
+--------------
+--Very infrequently, a random letter may show up on the right edge of your
+  menu or item list.
+--When handing the letter to Masaki in Koushien, the text isn't as... nice
+  as I'd like, but given the way it's stored, it's the best I can do.
+
+Please report any other bugs, spelling errors, and
+such on The Pantheon (http://donut.parodius.com/agtp)
+Screenshots are preferred, as are (ZSNES format) savestates.
+
+--------------------------
+6.Application Instructions
+--------------------------
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "shodai.smc" make sure the patch
+is "shodai.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT HAVE
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "Size: 1.00 MB (1,048,576 bytes)". SNESTool will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net
+In the Utilities section, simply search for snestool.
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+not have a header.
+
+-----------------
+6.Troubleshooting
+-----------------
+--If the game does not run at all, read the above section on
+  application instructions (specifically on header removal.)
+  Make sure your ROM is not read-only when you remove its header.

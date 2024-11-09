@@ -1,0 +1,50 @@
+Go for it!
+Goemon:
+The Twinkling Journey
+The Reason I Became a Dancer
+
+Translation Patch (Version 3)
+
+
+Version 3 Changes:
+ - Fixed the boss name not displaying properly for player two in the final battle.
+ - Fixed item name not being visible when grayed out in the second store in Kanai Town.
+ - Fixed background layering issue for Game Over screen if triggered by dying during level cleared animation.
+
+Version 2 Changes:
+ - Fixed the "Fail!" message for Bungee Katana Breaker when pressing Up too early.
+
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+ROM name: Ganbare Goemon - Boku ga Dancer ni Natta Riyuu - Kirakira Douchuu (J)
+CRC32: BB9D8E56
+
+
+This patch is for Goemon 4 on the Super Famicom.
+The text has been translated from Japanese into American English.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both formats of patches.)
+
+The target Japanese ROM must have a size of 3 MB (3,145,728 bytes),
+and have a CRC32 checksum of BB9D8E56.
+If not, the patch will not work as intended.
+
+
+
+-----------
+  CREDITS
+-----------
+
+Translation:
+Tom
+
+Graphics:
+FlashPV
+
+Programming:
+DDSTranslation
+

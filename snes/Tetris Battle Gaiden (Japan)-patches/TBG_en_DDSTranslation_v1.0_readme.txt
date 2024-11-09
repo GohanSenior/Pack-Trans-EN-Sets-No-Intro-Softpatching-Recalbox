@@ -1,0 +1,44 @@
+
+Tetris Battle Spin Off
+
+Translation Patch (Version 1)
+
+
+-----------------------
+  GENERAL INFORMATION
+-----------------------
+
+Filename:  Tetris Battle Gaiden (Japan)
+File size: 1.00 MB (1,048,576 bytes)
+CRC32:     B8F5F846
+
+
+This patch is for Tetris Battle Spin Off on the Super Famicom.
+The text has been translated from Japanese into American English.
+
+Two patching formats are provided, so you can use either .bps or .ips.
+(Do not apply both formats of patches.)
+
+The target Japanese ROM must have a size of 1.00 MB (1,048,576 bytes),
+and have a CRC32 checksum of B8F5F846.
+If not, the patch will not work as intended.
+
+
+
+-----------
+  CREDITS
+-----------
+
+Dedicated to:
+TiredandHappyLife
+
+
+Translation:
+Tom
+
+Graphics:
+FlashPV
+
+Programming:
+DDS
+

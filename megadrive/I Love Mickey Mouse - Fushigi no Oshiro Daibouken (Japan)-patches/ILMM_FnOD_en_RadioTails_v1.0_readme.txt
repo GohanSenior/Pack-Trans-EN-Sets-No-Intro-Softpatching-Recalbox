@@ -1,0 +1,40 @@
+     Game: Castle of Illusion
+  Console: Sega Meag Drive/Sega Genesis
+ Language: English
+  Version: 1.0
+
+Original ROM Information:
+         
+         Title: I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)
+      Database: No-Intro: Genesis (v. 20210226-213851)
+File/ROM SHA-1: 0679162757F375751A677FD05195C9248ABC84F0
+File/ROM CRC32: CE8333C6
+
+-------------------------------------------------------------------------------------------------
+
+Translation Details:
+
+     This IPS Patch changes all the Japanese text to English from the Japan
+version of “Castle of Illusion”. For a list of differences, check the following link:
+ - https://tcrf.net/Castle_of_Illusion_starring_Mickey_Mouse_(Genesis)#Regional_Differences
+
+     The English text has also been re-written to sound more natural in English. 
+
+     This re-translation was made possible thanks to the "Castle of Illusion - Disassembly
+(Translation)" that was put together by RadioTails. It can be download from romhacking.net:
+ - https://www.romhacking.net/documents/892/
+
+-------------------------------------------------------------------------------------------------
+
+Patching Instructions:
+
+     Use Lunar IPS (Windows - https://www.romhacking.net/utilities/240/) or
+UniPatcher (Android - https://www.romhacking.net/utilities/959/) to apply the 
+"Castle_of_Illusion (English Re-Translation).ips" re-translation patch to the rom.
+
+-------------------------------------------------------------------------------------------------
+
+Credits:
+
+     RadioTails - Inserted the translated text / created the disassembly.
+           Jate - Helped locate some graphic offsets.

@@ -1,0 +1,56 @@
+This text file is not intended to be a full explanation of the rules of Japanese
+mahjong; I advise you to go to Wikipedia for that.  This is a list of notable
+facts about 4 Player Strike Mahjong, including differences between it and the
+standard game.
+
+- In 4 Player Strike Mahjong, every game is made up of two rounds (East and
+  South) of at least four hands each.  The game does not end when someone loses
+  all of his points (he just goes into the negative), and the game does not
+  "enter West" if everyone has less than 30000 points.
+
+- As seen on the title screen, 4 Player Strike Mahjong allows you to choose
+  between two slightly different variants of the game.  These variants are
+  concerned with whether or not you get credit for completing a hand that
+  contains no terminals or honors (also known as a tanyaochuu hand, or in the
+  hack as a MIDDLES ONLY hand) when your hand is open.  As an open tanyaochuu
+  hand is also known as a kuitan hand, the variants are known as "kuitan nashi"
+  ("KUITAN INVALID") and "kuitan ari" ("KUITAN VALID").
+  
+- In both variants, 4 Player Strike Mahjong uses "pinfu-tsumo ari" rules, which
+  means that if you get a NO-POINT HAND (a hand worth no extra fu points) on a
+  TSUMO, you get credit for both the NO-POINT HAND yaku and the TSUMO yaku for a
+  total of two han.
+  
+- 4 Player Strike Mahjong does not require two sets of two identical sequences
+  (ex. a pair of ones, a pair of twos, and a pair of threes in both the dot suit
+  and the bamboo suit, referred to in the hack as "2X TWIN CHIIS") to be exactly
+  the same except for the suits. That is to say, you will get credit for 2X TWIN
+  CHIIS if you have, for example, a pair of ones, a pair of twos, and a pair of
+  threes in one suit, and a pair of sevens, a pair of eights, and a pair of
+  nines in the other.
+
+- 4 Player Strike Mahjong designates two yaku in particular as being worth "BIG
+  YAKUMAN," or 1.5 times yakuman.  These yaku are the NINE GATES yaku (up from 
+  1 yakuman) and the BIG 4 WINDS yaku (down from 2 yakuman).  However, this
+  half-yakuman advantage goes away if you have multiple yakuman (ex. if your
+  NINE GATES hand had NINE WAITS, you get 2 yakuman instead of 2.5).
+  
+- The yaku for when there are only terminal and honor tiles in the hand (known
+  in the hack as NO MIDDLE TILES) is worth three han in 4 Player Strike Mahjong
+  instead of two.
+  
+- 4 Player Strike Mahjong does not recognize the Big Seven Stars yaku.  Big
+  Seven Stars is recognized as a standard HONORS ONLY yaku worth one yakuman
+  instead of two.
+
+- The yaku that 4 Player Strike Mahjong recognizes that are not part of standard
+  Japanese mahjong are as follows: the three chained triplets yaku ("3 CHAINED
+  PONS," where you have three pons that follow a sequence), the CHARIOT yaku
+  (where the hand consists entirely of pairs of each of the middle tiles of the
+  dot suit), and the thirteen unconnected tiles yaku ("THIRTEEN UNLINKED," where
+  the hand would normally be completely worthless, containing only one pair).
+  In addition, the game recognizes an unofficial yaku not listed on Wikipedia:
+  the three identical sequences yaku ("TRIPLET CHIIS"), which is like 3 CHAINED
+  PONS except that at least one of the chiis has to be open and you only get one
+  han instead of two.  Furthermore, THIRTEEN UNLINKED is worth only mangan while
+  according to Wikipedia it is normally worth yakuman.

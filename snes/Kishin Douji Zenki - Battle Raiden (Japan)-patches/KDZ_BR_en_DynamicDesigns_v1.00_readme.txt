@@ -1,0 +1,61 @@
+Demon Child Zenki - Battle Raiden English Language PatchIntroduction:
+	Japanese Developer:				Computer Artist Production	Japanese Publisher	:			Hudson Soft	Japanese Release:				August 4, 1995	English Patch Production:			Dynamic-Designs
+
+Dynamic-Designs Patch History:
+	V1.00:  Initial Dynamic-Designs release:	January, 28, 2016
+
+Dynamic-Designs Production Credits:
+	Project Coordination:				Bongo`	Hacking/Tools/Bug Fixing:			Bongo`        Assembly: 					Bongo`	Translation:					Kakushiken	Translation Check:				Filler	Editors/Writers:				Taskforce, Draken	Beta Testing:					Taskforce, Draken	Anime Consistency Check:			Filler, Taskforce	Splash:						Taskforce
+
+Dedication:
+This project is dedicated to Filler for helping the group out every time we need a quick translation ora translation check. You've helped us out so much and deserve much praise.
+
+Game Description:
+Demon Child Zenki: Battle Raiden is a game based off of the popular (at the time) manga series by Kuroiwa Yoshihiro,which ran from 1993 to 1996 and spawned several games. This title is the only action/platformer related to the license.The player takes control of Zenki, a large and powerful demon imprisoned in servitude long ago by Enno Ozunu, theancestor of the female lead, Enno Chiaki. Zenki is revived from his long sleep by the re-appearance of hyoi no mi( úﬂàÀÇÃé¿, or "seeds of dependence" evil seeds that bind lives to the desires and needs of the physical world.
+However, to help keep him under control Zenki's powers are sealed the majority of the time, leaving him in a small
+and weak child's body.
+The game was a Japanese exclusive, however the anime has previously been released in the US andterritories in Europe.  Knowing the games source material (watching the anime or reading the manga)will definitely lead to better enjoyment of this game as little explanation is given for the backgroundevents leading to the events happening in the game or who the characters are.
+The game does feature an entirely original story; therefore, if you do not intend to check out the source material,at least read a general quick synapsis of the source material below so you are familiar with why these characterseven exist and act the way they do in game.
+-Description adapted from giantbomb.com-
+
+
+Source Material Description:
+Enno Ozuno, Master of the Enno temple used the demon guardian spirit Zenki to defeat the demon goddessKaruma. After defeating Karuma, he later sealed Zenki away in a pillar until needed again.
+Centuries later, his descendant, a school girl named Chiaki Enno (ñ è¨ñæ, Enno Chiaki, or Cherry Nightin some dubs) is able to free Zenki; though, the demon currently has the form of a brattish demon child.To transform this extremely defiant demon into the form that made him useful by her ancestor, she uses abracelet that appeared on her wrist when servants of Karuma broke the seal that imprisoned a seed of Karuma.Zenki appears because the seeds of Karuma (which look like eyeballs) start appearing and turning people intomonsters and Zenki needed again to eradicate this menace.
+Zenki and Chiaki do not have a typical master servant relationship.  Zenki looks for any and every opportunityto be a free man (demon).  And he does try to attack Chiaki and relieve her of the bracelet that controls histransformation on multiple occasions in the show.  This typically leads to Chiaki reverting him back to child form.In child form, Zenki has no access to his amazing powers and Chiaki can easily handle him without breaking a sweat.Zenki needs Chiaki because only she can transform him into adult form.  Chiaki needs Zenki as only he has the strengthto fight the evil threatening the peace of their city and the world.  Therefore, Zenki and Chiaki, while seeming to bebuddy-buddy one second can turn on each other the next.  The main thing to remember is that they get along well at timesand want to have nothing to do with one another at others.  And yes, Chiaki tends to not be very nice to Zenki at times.Kind of like an older sister might torment a little brother now and then.  Also a final note:  Zenki does not care forhumans in general.  He sees humans and their desires as the reasons behind his enslavement.
+-Description adapted from wikipedia-
+
+Production and Testing:
+This game's production happened very fast.  Bongo` took a suggestion from our forums and ran with it.He did the initial hacking very fast, made the graphics, and found a translator.  Since the game didn'tfeature a great deal of text compared to an RPG (though a good amount for this kind of game), the translatorknocked it out fairly quickly.  Then Bongo` asked Recca to take over production, but unfortunately, he was busyso I (Taskforce) volunteered with Draken offering to be support. 
+At this point I needed to get a bit of clarification on a few of the text passages, and I asked Filler if he would mind doing a translation check for me.  He agreed and did just that, including researching some on thesource material to make sure the translation was accurate.  Many thanks for that Filler.
+Finally, I edited the script and sent it to Draken for him to check my work and add whatever he thoughtappropriate. 
+At this point the game had already been fully played twice, so I gave it one final beta test, made a splashscreen, wrote this Readme, and here we are at release day.
+All-in-all this was a very fast project turnaround.  Probably even faster than our previous fastest project Galaxy Robo.
+-Taskforce-
+
+Patching:
+Contained within this archive are an IPS (international patching system) file or a patch filein another format for the end user's convenience that when used in conjunction with a ROM file,preferably one extracted from an original, legally bought Super Famicom Demon Child Zenki - BattleRaiden cartridge, will make the game playable in English.
+Do note that these patches are a result of countless hours of love and labor. Hence, they are notmeant to be sold at any price under any circumstance, be it in digital form or burnt into a donorcart's ROM chip.
+To patch the ROM file, one needs to procure a patcher for the preferred format, a widely availableclass of programs, many of which can be found at www.romhacking.net/ for one source.  A few can evenbe found on our download page for your convenience.
+At some point, ROM sites may upload pre-patched ROMs of our Demon Child Zenki - Battle Raiden translation.Obviously, D-D cannot endorse playing these versions, nor will we support resolution of any associated problems.Moreover, pre-patched ROMs may float around the web for years.  Only by downloading patches containing just ouroriginal work from D-D's web site may gamers obtain revisions to these patches - if any - and take advantage ofpossible bug-fixes and corrections.
+Below is the information pertaining the ROM file our patch requires, 
+according to Nach's SNES ROM Tools:
+
+
+NSRT v3.4 -  Nach's SNES ROM Tools
+
+---------------------Internal ROM Info----------------------       File: KDZenki(J).smc       Name: KISHINDOUJI ZENKI BAT    Company: Hudson Soft     Header: None                        Bank: HiROMInterleaved: None                        SRAM: 0 Kb       Type: Normal                       ROM: 16 Mb    Country: Japan                      Video: NTSC  ROM Speed: 120ns (FastROM)         Revision: 1.0   Checksum: Good 0x9A80            Game Code: AZ6J---------------------------Hashes---------------------------      CRC32: 0BECFC92        MD5: 2152CCA035B8E3080D9EDDB5BEA8D94D
+*Take SPECIAL NOTE that the original rom lacks a header.  You may have to remove the header from yourROM file, but don't worry as there are a variety of programs that do this, such as SNESTool, Smile,Toolbox, etc.  
+Size before patching: 2.00 MB (2,097,152 bytes)
+Size after patching: 2.00 MB (2,097,152 bytes)
+Alternatively, most emulators support a feature called soft patching, which keeps the ROM file intact,merging the patch data only during run time. To make use of it, make sure both the ROM file and theIPS are on the same directory as your emulator of choice and have the same name, but not the sameextension. Do note that this is case-sensitive.  (Also, do note this soft patching is only availableusing the IPS patch file, and may NOT work with the other patch file formats.)
+e.g:  KDZenki.smc and KDZenki.ips will trigger soft patching at the emulator's run time.
+
+Emulator Compatibility:
+The game behaves itself properly in a wide range of emulators such as ZSNES, Higan, SnesGT and SNES9X, so theuser is free to use whichever he/she is most comfortable with.
+
+
+Special Thanks:
+Without these people, it just wouldn't have been possible or fun:All of the great staff at D-D, Kakushiken, Filler and Implicid for suggesting it, as well asthe rest of the D-D forum community!
+
+Readme 2016 Dynamic-Designs

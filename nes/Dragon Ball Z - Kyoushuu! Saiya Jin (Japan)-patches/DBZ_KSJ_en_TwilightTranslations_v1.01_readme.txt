@@ -1,0 +1,102 @@
+Dragonball Z: Assault of the Saiyans
+English Patch
+Version 1.00
+Current Release: Nov. 20, 2005
+Intial Release: Feb. 1, 2003
+by RedComet
+copyright 2005
+--------------------------------------
+
+1. Introduction
+2. Patch History
+3. Known Bugs
+4. Acknowledgements
+
+--------------------------------------
+
+1. Introduction
+
+--------------------------------------
+
+DBZ:AotS (as it will be referred to from now on.
+Was the first Dragonball Z game EVER, and was
+largely based on the Dragonball games that had
+come before it. They both use nearly the same
+battle system and movement systems. It was
+released in 1989 and marked the painful beginning
+of the DBZ saga on Famicom. There's 2 more
+after this one and then a sidestory. Go figure.
+
+Use your favorite IPS patching program and apply this
+to a CLEAN copy of the Japanese rom.
+
+--------------------------------------
+
+2. Patch History
+
+-Version 1.01
+ There were a few bugs in the Tournament mode
+ that caused it to do a number of things that
+ hindered one's ability to play it. All of these
+ bugs are now fixed. Also, the translation credits
+ have been added to final credits at the end of the
+ game. I also fixed Bandai's crazy Engrish in the
+ credits, too. This patch is the final version.
+
+-Version 1.00
+ Everything is in and working properly. The only
+ thing that hasn't been tested is the Tournament
+ mode (Tourney in the patch due to space and
+ motivation issues). I don't really think anyone
+ cares about the Tournament mode too much; so, 
+ unless someone playes it and finds some bug,
+ this will probably be the final patch.
+
+-Version 0.99 Feb. 1, 2003
+ Initial release. 99% if not 100% of the text is
+ translated.
+
+--------------------------------------
+
+3. Known Bugs
+
+--------------------------------------
+
+There are no known bugs.
+
+--------------------------------------
+
+4. Acknowledgements
+
+--------------------------------------
+
+This project would probably not have turned into
+what it has today had it not been for the help of the
+following, wonderful people (in no particular order):
+
+-Myself(RedComet): All of the programming, script editting, and
+ insertion was done by me.
+-MukiMuki(Kamaitachii): The translator.
+-MO's Board: Saved my ass many a time. 
+-Elf: He created that ass kickin' English subtitle for me.
+-Danke
+-DodgyAussie
+
+Version 0.99:
+
+-Myself: Hey, without me there would be no patch. :P
+-Kamaitachii: The translator who so graciously retranslated
+ a script because I screwed it up to begin with.
+-RougePaladin Trian & Vorpy: They both did there far share
+ of script editing to make the scripts fit in the limited space.
+-The guys at MO's board: Without these guys I probably wouldn't
+ have been able to get some of this stuff translated as quickly.
+-MO: For make the Translation board.
+-Gil: For doing some ASM hacking (not present in this patch), and
+ for being a really fucking cool guy in general.
+-The guys at #gametrans over on DALnet: Just some pretty cool
+ fellows to sit and talk with when you're unwinding after a long
+ day of work.
+
+And lastly, I'd like to thank anyone I might have forgotten to. Thanks you guys,
+without you, this patch wouldn't have been possible. Cheers!

@@ -1,0 +1,347 @@
+  _______________                          ________                   
+ / _____   _____ \                        / ______ \               
+/ /     | |     \ \    Nightcrawler's    / /      \ \
+\/      | |      \/                     / /        \ \
+        | |                            / /      ____\/ /\___  /\_____
+        | |  /\___   ___/\ /\___    /\ | |     //--\\  |/--\\ |/----\\
+        | |  |/--\\ //--|| ||--\\  / / | |     ||  ||  ||   ` ||    || 
+        | |  ||   ` ||  || ||  || / /  | |     ||__||  ||     ||____|| 
+        | |  ||     ||__|| ||  || \ \  | |     \____/  ||     ||_____/
+        | |  ||     \___|| ||  ||  \ \  \ \          /\\/     || 
+        | |  \/         \/ \/  \/  / /   \ \        / /       ||
+        | |                        \/     \ \______/ /        ||  
+        \ /  (c)2018 All rights reserved.  \________/         \/
+         `                                  
+***********************************************************************
+               Tenshi No Uta - Shiroki Tsubasa no Inori
+             Song of the Angel - Prayer of the White Wings
+                       English Translation Patch
+                             presented by:
+
+                            Nightcrawler's
+                        Translation Corporation
+                    http://transcorp.romhacking.net
+
+
+                     Version 1.0 October 14th 2018
+***********************************************************************
+
+
+
+Table of Contents
+
+1.0 Information
+    1.1 Patch Information
+    1.2 Distribution and Licensing Information
+    1.3 Copyright Information
+    1.4 Disclaimer
+2.0 The Project
+    2.1 History of the Project
+    2.2 Words from the Translator
+3.0 About the Game
+4.0 Credits of who worked on this Patch
+5.0 What you will find in the Patch
+6.0 Known Issues in the Patch
+7.0 Special Thanks
+
+
+
+1.0 Information
+
+
+1.1 ****Patch Information****
+
+    This patch when hard patched correctly will result in a VALID checksum.
+
+    This patch was created for use on an original ROM that has:
+
+    * NO header
+    * CRC32: 6E030B96
+    * No-Intro (http://www.romhacking.net/utilities/1002/) identified as
+        Tenshi no Uta - Shiroki Tsubasa no Inori (Japan), Version 1.0 
+
+    The 'TransPatch.exe' custom patching application can be used to ensure 
+    you have the correct ROM and patch, and apply the patch to headered or 
+    non-headered ROMs automatically. This is the recommended way to apply 
+    the patch for novice patchers.
+
+    The patcher should work on Win95/98/ME/2000/XP/Vista/7/8/10, as well as 
+    Linux under Wine. It should be self explanatory to use. You will be 
+    asked for your ROM file and your IPS patch file. The program will alert 
+    you if any errors are found or upon a successful patching job. 
+
+    An xDelta format patch is also provided for reliable patching in all other
+    cases. xDelta patchers are available on all platforms. Popular choices are:
+        
+    * MultiPatch (MacOS X)  - http://www.romhacking.net/utilities/746/
+    * Delta Patcher (Win/Linux) - http://www.romhacking.net/utilities/704/
+    * xdelta UI (Win .NET/Linux Mono) - http://www.romhacking.net/utilities/598/
+
+    Patch History:
+    
+    * 1.0 - October 14th 2018
+          - Initial Release
+
+1.2 ****Distribution and Licensing Information****
+
+    This patch is licensed under the Creative Commons Deed as:
+        
+    Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+    This means you are free to share, copy, or distribute the work under the
+    following conditions: 
+    
+    * Attribution:
+        You must give appropriate credit and provide a link to the work's
+        website.
+
+    * NonCommercial:
+        You may not use the material for commercial purposes.
+
+    * NoDerivatives:
+        You may not alter, remix, transform, or build upon the work and
+        distribute the modified work.
+    
+    A full copy of the license (CC BY-NC-ND 4.0) can be found at:
+
+    http://creativecommons.org/licenses/by-nc-nd/4.0/
+        
+    The only files found in the official distribution archive are 
+    'readme.txt', 'tenshi_eng_v10.ips', 'tenshi_eng_v10.xdelta', and 
+    'TransPatch.exe'. If anything else has been found in this archive, this 
+    is not an official distribution. Only official distributions may be 
+    distributed freely for public use per the license. 
+
+1.3 ****Copyright Information****
+
+    Tenshi no Uta was a 1994 trademarked, copyrighted property of Telenet 
+    Japan. Nightcrawler's Translation Corporation is not affiliated with the 
+    above company in any way. 
+
+    Nightcrawler's Translation Corporation title, melodies, and all logos are 
+    not to be used under any circumstances without the expressed written 
+    consent of the original creator/s.
+
+1.4 ****Disclaimer****
+
+    No warranties are given. The license may not give you all of the 
+    permissions necessary for your intended use. Nightcrawler's Translation 
+    Corporation, Nightcrawler, nor any affiliates of the aforementioned shall 
+    be held liable or responsible for any losses, damages, injury, and/or 
+    legal consequences due to the misuse, or illegal use, of any of the files 
+    contained within this archive. 
+
+
+2.0 The Project
+
+
+2.1 History of the Project
+
+    Boy am I glad this project is finally done! I was really getting scared 
+    there. This project was in high danger of being abandoned. The history 
+    of this project is really one of how not to do a project! It was done 
+    piecemeal across many years, with shifting attention, shifting available 
+    people, missteps, side projects, backtracking, and more! That's just how 
+    it goes though sometimes with spare time projects involving multiple 
+    people with differing lives and availability. A last ditch effort these 
+    past two years finally pulled everything together and brought it up to 
+    polished standards. Had this last effort failed, it would have been 
+    abandoned. Don't let this wishy-washy story fool you. This project 
+    turned out to be very good and some of my best work in the end! 
+    
+    The project was originally announced in December of 2003. Progress in 
+    early 2004 was off to a very swift start completing basic dialog 
+    hacking. However, progress was quickly slowed when attention shifted to 
+    Emerald Dragon. 2005 saw further time competition with other projects 
+    along with difficulties of being able to complete a full script dump. 
+    The script was hard to dump due to a difficult to decipher game 
+    scritping engine (embedded event code and text). It was easy to get most 
+    of the text, but very hard to get all of it. There was always new 
+    discoveries of different text calls missed in previous dumps that would 
+    plague the project. Each time this occurred, things would need to be 
+    reworked, translated, and delayed.
+
+    The non-dialog text wasn't much better. Many of the menus had isolated, 
+    hard coded strings. This means they have absolutely no organizational 
+    structure, and aren't even grouped together. With no organizational 
+    structure, you can't easily find and extract them (let alone all at 
+    once, together). The game also typically used various macros and hard 
+    coded pointers to embedded text. It even used hard coded sub-tables 
+    within tables. I used reverse pointer lookups, heuristics (pattern 
+    searching), and every other trick I could think of to find it all, but 
+    still missing strings would pop up here and there. In the end, you 
+    simply didn't know of some strings existence until you saw it in-game. 
+    These types of recurring issues led to constant starts and stops with 
+    both myself and the translator. Working like this killed any type of 
+    momentum every time. 
+    
+    Serious progress resumed in 2008 on Tenshi No Uta with much menu 
+    hacking being accomplished, including a partial VWF conversion. However, 
+    progress was killed once more upon discovering many different text 
+    routines being used on various menu screens for printing. Sometimes 
+    different text engines were even used to print the same text! I have to 
+    assume this game was worked on simultaneously by different people who 
+    all wrote their own text engines for whatever pieces they were working 
+    on. This would require a universal VWF hack approach. 2008 ended with 
+    first attempt at an SNES universal VWF hack for all the routines, but it 
+    was a bit kludgy and too slow. Like a broken record, once again progress 
+    was killed when 2009 and 2010 saw interruptions with medical issues. It 
+    became apparent with all the new text formats discovered that new 
+    tooling was necessary to handle it all. Finally, a working universal 
+    VWF and new tooling was completed in 2012, however attention was turned 
+    to finishing Glory of Heracles IV (using all of the same tools and 
+    advancements) until 2015. 
+    
+    After so much starting and stopping, the project wandered far away. The 
+    project was in danger of being abandoned. A final attempt was made to 
+    make a serious push to enlist some extra help, get everybody together at 
+    the same time, and finally finish the project. We all spent time coming 
+    back up to speed, went over the entire project, polished it up, and 
+    finally got the whole thing done! 
+            
+    At least it all worked out in the end and we have a another completed 
+    translation! I probably did more than any other person on the planet 
+    would do for this game, so please enjoy my continued passion and 
+    dedication to this hobby and community. You can now have the opportunity 
+    to play Song of the Angel in English! Thank you to all who have given me 
+    words of support, all who have lent a helping hand to the project, and 
+    the fans of TransCorp and our community. As always, take it, love it, 
+    cherish it! 
+
+2.2 Words from the Translator (by Liana)
+
+    Tenshi no Uta represents my commitment to studying Japanese, and for 
+    that reason I'm proud that this translation is complete. I started 
+    learning Japanese in college, and after I graduated, I recognized how 
+    much work mastering the language would actually be. I was at a 
+    crossroads: continue studying, sinking tremendous amounts of effort into 
+    Japanese, or leave it and spend my time on something else? I chose to 
+    keep studying, and one thing I did to motivate myself was to download 
+    this game and start to try translating it. At the time it was a 
+    laborious effort, and I must have learned thousands of basic words from 
+    my work on it. But I'd always been curious about the Super Famicom RPGs 
+    that had never been translated and released on the SNES, and it was a 
+    delight to work my way through this unabashedly sentimental, beautifully 
+    written little game. 
+
+    There was a period of several years between when I finished the bulk of 
+    the translation and when Nightcrawler was able to devote his attention 
+    to the project. I had thought it was unlikely to ever be finished, so I 
+    was delighted by the prospect of seeing it done and also being able to 
+    revise my old script, as I'd studied intensively and improved my 
+    Japanese skill in the past few years. However, I was in a very different 
+    phase of my life, as I was now a mother and dealing with post-partum 
+    depression. It took time to check my old work and translate every bit of 
+    the script, and I was deeply grateful for Nightcrawler's patience with 
+    me! 
+
+    Tenshi no Uta is a deeply thoughtful, unique game that was clearly 
+    designed and written with great love. I appreciate its gentle sense of 
+    humor, its focus on the relationships between the characters and the 
+    epic scale of its story. It's an honor for me to release it, all these 
+    years later, and I hope you'll delight in the characters and their 
+    struggles as I do. 
+   
+       
+3.0 About the Game
+
+
+    Song of the Angel was a game released in 1994 by Telnet Japan and had 
+    many of the developers who would eventually form the famous 'Wolf Team' 
+    that brought us Tales of Phantasia and Star Ocean! Many musical tracks 
+    were also done by the same composer too. Play the game, and the music 
+    and atmosphere will be very familiar to fans of the aforementioned 
+    games. Even though the game is rather obscure, its developers certainly 
+    are not! 
+    
+    The graphics are colorful, crisp, and get the general point across. 
+    There is also some beautiful hand drawn artwork during cut scenes, which 
+    really adds to the game. The character portraits are also a nice touch 
+    to bring the tiny character sprites to life. The music is top notch and 
+    with a good variety of tracks, a few of which you will undoubtedly find 
+    yourself humming along with or being stuck in your head. The soundtrack 
+    is amongst some the best of any 1994 SFC games I have heard. I do miss 
+    the era where game music was composed for melody and emotion rather than 
+    simply being atmospheric. 
+    
+    The gameplay is the typical 1994 RPG fighting engine, with a few 
+    additions. The most notable addition is the Parley system. This system 
+    allows you to parley with monsters using several languages in order to 
+    befriend or negotiate outcomes. Options include gaining gold, purchasing 
+    special items, gaining experience, raising friendship points, and more! 
+    There are day/night cycles that effect dialog as well as changing wares 
+    in certain shops. You will walk, teleport, sail on a boat, and fly on an 
+    ancient ark by the time your adventure concludes. 
+    
+    Tenshi No Uta is a love story at its core. A young man named Rayard 
+    meets a traveling circus performer and songstress named Callana. They 
+    fall in love early, but part ways due to Callana's traveling 
+    lifestyle. After many days of misery, Rayard pulls himself together and 
+    sets out to tell Callana how he really feels. Thus, the real journey 
+    begins! This game has angels, demons, and even Satan himself! The story 
+    and writing are the stand-outs of this game. If you appreciate substance 
+    over style, you'll enjoy this game for it's charming core! 
+        
+        
+4.0 Credits
+
+
+    Here are the people that helped make this translation possible. 
+    Be thankful to all. ;)
+
+    Hacking:        Nightcrawler
+    Translators:    Liana, SamIAm
+    Script Editing: cccmar
+    Beta Testers:   Nightcrawler, Liana, Erik, Princess, cccmar
+    Title Screen:   FlashPV
+
+
+5.0 What you will find in this patch:
+
+
+    It's complete now, so you SHOULD find everything 100% translated! 
+
+    If you find any bugs, please report them at the TransCorp message board.
+
+    Easter Egg:
+
+    Unfortunately, due to how many years this project took, I did not do my 
+    previous tradition of adding myself to the game. You would be looking in 
+    vein. Maybe next time. :) 
+
+    
+6.0 Known Issues:
+
+
+    None with the patch, however the original game is slightly buggy. I 
+    fixed as many original game bugs as I could that were detrimental to 
+    gameplay and the intended behavior of the original code was clear enough 
+    for a reasonable quick fix. 
+    
+    Two notable fixed bugs were the inventory eating Rurimon Bell glitch and 
+    the level checkpoint level 99 glitch, which are documented on some 
+    Japanese sites. Some original game bugs remain such as minor visual 
+    pixel glitches during area or battle transitions with a full party. 
+
+    Please try and see if the issue occurs in the original game 
+    before reporting any patch bugs. It would be greatly appreciated. 
+
+
+7.0 Special Thanks
+
+
+    Special Thanks go out to these people for their contributions and help 
+    in this project. Without you guys, this patch may not have been 
+    possible! 
+
+    (in no particular order)
+
+    Special Thanks to:
+
+    Gemini
+    TransCorp message board supporters
+    ROMhacking.net message board supporters
+
+    I'm terribly sorry if I forgot anyone. I didn't mean to! It's been
+    so many years and I'm getting old! : )
+

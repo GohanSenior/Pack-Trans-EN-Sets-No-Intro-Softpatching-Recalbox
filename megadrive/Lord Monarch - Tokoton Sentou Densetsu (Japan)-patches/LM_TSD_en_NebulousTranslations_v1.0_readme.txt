@@ -1,0 +1,97 @@
+Lord Monarch - Tokoton Sentou Densetsu Sega Mega Drive English Translation
+
+Contents:
+1. Foreword
+2. Game description.
+3. Project background.
+4. Project notes (by Lord Oddeye)
+5. Translation notes (by TheMajinZenki)
+6. Editing notes (from cccmar)
+7. Hacking notes (by cybermind)
+8. Disclaimer
+9. Staff and special thanks
+10. Contacts
+
+1. Foreword
+
+Hello and long time no see! After a long hiatus we present our new translation project for Sega MD, which took quite a long time to finish – Lord Monarch: Tokoton Sentou Densetsu.
+
+2. Game description.
+
+This castle-vs-castle RTS is OmiyaSoft (of Culdcept's fame)'s take on the Lord Monarch franchise.
+This game features an original Story Mode, where you play as Prince Al of Monarch Kingdom as he goes on an adventure where he meets a cast of cheerful characters, such as Princess Rubia or Spanky the fairy. Though very simple to pick up, this game has a deep set of rules to master, and each chapter introduces a special gimmick to keep you on your toes, a must-see for fans of the franchise.
+The Challenge Mode features stages from the PC version of Lord Monarch and Advanced Lord Monarch. It's like three games in one!
+"Lord Monarch" is the seventh entry in Nihon Falcom's "Dragon Slayer" franchise, taking the form of a real time strategy game. Soldiers of both sides will automatically occupy territory, so players need to bide their time carefully in order to expand and surpass the enemy.
+The player has to be careful of terrain and the constantly fluctuating amount of funds while they keep the enemy and roaming monsters in check. If you can defeat the enemy leader, you will obtain their territory.
+
+3. Project background.
+
+Lord Monarch English translation had a really long timeline. Through time the translation has gone through hands of 4 hackers. The game even saw a Russian translation release in the meantime.
+The first steps in Lord Monarch hacking were done in 2007 by some anonymous hacker on romhacking.net. He hasn't gone too far, and everything that he left is a starter pack with basic script extraction tool and some engine explanations.
+Several years later, a team of hacker bybyc9lc9l and translator Kujira have released the aforementioned Russian translation. Unfortunately, it’s unfinished: only the first 2 chapters have correct translation, the rest were translated by bybyc9lc9l without Kujira, and it’s far from correct. 
+The story make turn in 2016, when Lord Oddeye and TheMajinZenki in their localization attempt found the starter pack on romhacking.net and translated all in-game text. Their search for a hacker led them to a guy nicknamed Tryphon, who agreed to work on the game. In a half year span, they almost completed the game hack, but, due to various reasons, Tryphon lost the development files and eventually got out of the project, thus putting it on hold.
+A year later, celcion was contacted by the former team to help them complete the project. He had redone the hacking part from scratch, having only the aforementioned starter pack from RHDN (luckily, Lord Oddeye and TheMajinZenki managed to save the translation files). celcion managed to implement a lot in his try – he wrote a text export-import tool and programmed variable-width font (VWF) system for dialogue text. Unfortunately, his hacking approach had a flaw (the same flaw was present in Tryphon’s version, more info in “Hacking notes” section), which forced him to redo the project after a several month hiatus using another approach. But the amount of work that should have been done and lack of free time didn’t allowed him to finish the project.
+And, at last, in 2020, the project was handed from celcion to cybermind, who recently joined the team to help complete the project. Luckily, after several month of studying and hard work, the project was finished. 
+
+4. Project notes (by Lord Oddeye)
+
+This is my first personal translation project and I’m grateful to the people who made this release possible. I was mainly involved with playtesting and some proofreading, with 4 cumulative playthroughs between this and Tryphon’s version. I originally heard of Lord Monarch through a list of games that use the Cube (Iwadare) sound driver found in Shining Force and became a big fan of the series’ signature RTS gameplay, not very common on console. I eventually brought it up to TheMajinZenki who was looking for something to translate at the time, then once he finished working on the partial script dump we had, I tried to get in touch with someone to dig out the rest of the text and insert it all back into the game. The initial attempt fell apart very close to completion but the revived project brought a lot more to the technical side of things, even if hacking had to be restarted from scratch. This version has been tested thoroughly and I hope you enjoy it as much as I did!
+
+5. Translation notes (by TheMajinZenki)
+
+The translation process of the game has been pretty convoluted for a number of reasons, working first with a tool we found online to extract part of the text, and then working with different programmers until we were eventually able to translate everything. 
+The interface text was probably the most difficult part to get right. For example, there are a bunch of terms used to describe a unit's action, which are evident when playing the game, but ambiguous without context (because they are simple hiragana, no kanji). Only during thorough testing were we able to catch them (I had some zombies claim to be "transferring", while instead they were shambling around :D).
+The original version already featured some "English" names here and there (in the name tags and credits roll). For example, most characters were called with an indefinite article ("A Chief"), or with weird spellings ("A Mashroom"). Some names were written using a romanization style I don't favor ("Syakuren"). We made some slight alterations, keeping the nature of the original names.
+This is without a doubt my favorite game in the Lord Monarch series, and probably one of my favorite translations thus far. Few games in the genre are so lighthearted and fun. I hope you enjoy the adventures of Prince Alfred of the Monarch Kingdom as much as I did!
+
+6. Editing notes (from cccmar)
+
+My involvement in this project wasn’t very elaborate this time around (I think Lord Oddeye deserves most of the credit here). I mostly just did a couple passes waaaay back in the day and played through the game some, but LO did the bulk of the heavy-lifting for sure this time. However, this is the project thanks to which I met TheMajinZenki and got him on board to help with the vast majority of the translations. That also means getting him on board for the projects both with Nebulous Translations and later down the road with Supper, so this was possibly the most important project for me in that sense. Hope you guys enjoy this game, it really is fun, and holds a special value for me!
+
+7. Hacking notes (by cybermind)
+
+This was my first hacking project for Sega MD. In the past I had worked only with NES and x86 projects (most of them were simple hacks). 
+I’ll start with some aspects of Lord Monarch’s game engine that were crucial during hacking:
+1. Game dialogues: 
+The game engine implements a simple state machine to drive dialogue events - it uses about 20 codes for script control and 1-2 bytes for characters. Most of codes are simple (line break, delay, portrait setting), but there are some that turn the script into a mess, so to speak. There is a control code that runs inline assembly code, code that calls ASM subroutines and a couple of codes that redirect the script flow.
+Codes and text are arranged in order (let’s call them scripts) and scripts themselves are referenced in the actual game code by various kinds of pointers: 4-byte, 2-byte, absolute, relative… there are even pointer lookup tables.  That diversity became a real disaster when I started to develop an export-import utility (more info below)
+2. Game resources.
+For some graphic resources the game uses a simple resource manager, and resources could use 2 types of LZ-like compression. Their format was already decoded by Tryphon.
+Now, about the hacking process:
+In “Project background” part it’s mentioned that the approach Tryphon and celcion used to hack the game had a flaw. Well, now it’s time to talk about it:
+The game uses 2MiB ROM to store everything in game. The problem is that 2MiB is the maximum ROM size for games that use battery-backed up SRAM to save data. Though Sega MD could address up to 4MiB ROM for a game (and even more with advanced bank switching), but when SRAM comes to play - it uses a part of ROM address space starting at 2MiB mark to address SRAM data. Very few games surpass that limit (Phantasy Star 4 as for example, which uses 3MiB cart) by using on-cart Sega Mapper to bank-switch between upper ROM part and SRAM.
+ You could ask "Why not use that Sega Mapper bank-switching technology and expand the ROM file?" Unfortunately, ROM bank-switching is poorly supported by emulators. Some emulators even use an internal database with ROM checksums to apply bank-switching hacks on runtime (which makes it impossible to implement bank-switching for any homebrew project). 
+celcion warned me about that caveat, so I had to fit everything in 2MiB, which seemed a rather difficult task, considering the fact that there is almost no unused space in ROM to insert translation. So instead of usual approach with expanding the ROM file, inserting the English translation and making hooks in original code to use translated text instead of original, I had to replace the original scripts with translated ones.
+And that’s where the real development hell started – the scripts weren’t stored in one place in ROM file, they were fragmented, and referencing each other with different kinds of pointers which turned everything into a real “spaghetti-code”-like mess. There were even some position-dependent “optimizations” to save space in ROM (obviously, original developers did a great job by packing everything into 2MiB ROM).
+So, before actual programming, I had to examine the ROM and find out all references to scripts in game code, so I could later parse the scripts in order to figure out the amount of space they use in ROM. This part has been mostly done by celcion already, I only included the pointers he missed somehow. This is where I used Ghidra reverse engineering framework that helped greatly to study the internals of Lord Monarch.
+ After the analysis (which took quite a long time, since I also studied Sega hardware programming along with the hacking), I had to program an utility that:
+• Reads the helper file with script references, reads the ROM file and parses all script codes, making a map of occupied space;
+• Imports the translation file and applies it to script;
+• Repatches to game with a simple memory manager (similar to malloc from C) that redistributes ROM space by allocating blocks of required space and fixes pointers in code so they point to the new location of script in code.
+That was a pain to implement, but soon it worked – the program was able to insert the translation while keeping all references in code correct. But there was not enough space in ROM to include all English text (original scripts occupied ~66 KiB of ROM space, whereas English script took a little more than 100 KiB). One of hints celcion gave to me was to delete 16x16 Kanji game font (since there was no longer use for it). That gave a whooping 30 KiB of space, but it was still not enough. So, the next trick I used was to repack all game data referenced by resource manager with a more efficient algorithm.  I have chosen LZSA2 because of its speed and efficiency. That worked out, repacking gave me ~55 KiB more free space, which was more than enough to fit everything in.
+Since there was no more 16x16 font, I reused the variable width font system (VWF) from celcion’s project, improving it and applying to every text in game. The game also uses small font to print hints for actions, I had to expand the text limit for it to 16 characters. To ease the ASM hack development, I included a simple linker into my utility that automatically applied ASM hacks to ROM file. 
+Then there were minor hacking issues like the challenge mode ending graphics (which had quite weird nametable mapping) and “translating” tile-mapped “ロードモナーク” label on tutorial map (making me to study in-game map format).  
+And the final bit of trouble was the tutorial demo playback (the one that starts after introduction with Spanky). The tutorial mode progression is driven by predefined set of keypresses that activate at exact time. If you’re familiar with early game replay systems (like Doom LMP files) – that’s exactly the same thing. And it suffers from the same problems – there is no synchronization between game and keypresses, so adding or changing anything that affects game state (like adding aforementioned VWF system or changing the map) breaks the demo sync with high probability. And, unfortunately, it did break – the demo starts doing weird keypresses after ~20 seconds after beginning. It took several days just to fix that demo sync. While fixing it, I’ve found out that different emulators may behave differently on demo playback. I even had to ask celcion to check the demo playback on real Japanese Sega MD2 just to be sure that it works as intended.
+Overall, I got a lot of fun and experience while working on that game, I hope you’ll get the same fun while playing it!
+
+8. Disclaimer
+
+We release this translation in the form of a patch. Please, don’t ask us to send you the disks, or where you can find them – we can’t help you with that.
+You can redistribute this translation freely as long as you don’t ask money for it and include this readme.txt file with it. We don’t condone any form of commercial redistribution. Please, keep that in mind.
+
+9. Staff and special thanks
+
+cybermind – hacking, graphics
+celcion – original hacking
+Miralita – manual editing
+TheMajinZenki – lead translator, manual translation, additional help
+cccmar – editing, proofreading
+Lord Oddeye – original project idea, betatesting, early proofreading
+Special thanks go to:
+Spolan - additional betatesting
+
+10. Contacts:
+
+cybermind – cybermindid@gmail.com
+celcion - celcion@gmail.com
+cccmar  - cccmar111@gmail.com

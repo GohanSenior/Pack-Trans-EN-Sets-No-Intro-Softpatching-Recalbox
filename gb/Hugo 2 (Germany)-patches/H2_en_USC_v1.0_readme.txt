@@ -1,0 +1,36 @@
+Hugo GB 2: English Translation
+Version 1.0
+7 September 2020
+-NikcDC
+
+Another German-exclusive Game Boy title has been translated for English-speaking audiences! Help the Scandinavian troll Hugo - last seen in Bugs Bunny: Crazy Castle 2 (...in Europe, anyway) - escape the evil Scylla's own magic castle. Fortunately, all Hugo needs to do to earn his freedom is compete in some mini-games. Unfortunately, the wicked witch has made these games range from mildly to extremely frustrating to play - but hey, at least the music's good!
+
+Keep your eye out for bags of gold as you make your way through challenges like snowboarding, log hopping, scuba-diving, and more - two more, to be precise. Escape from the castle and rob Scylla blind in the process!
+
+v1
+------------
+*English translation added
+
+**************
+Future Updates
+*Fixing any missed dialogue or formatting issues
+*Adding a lowercase font
+**************
+
+How to patch:
+Get a copy of the Hugo GB 2 ROM, and an IPS patching program (Lunar IPS seems to be the standard).
+Run the program, click 'Apply patch', and viola! Enjoy.
+
+Tools Used:
+----------------
+VBA-M
+XVI Hex Editor
+-----------------
+
+Special Thanks
+----------------
+Meine Tante Wanda
+----------------
+
+Questions? Glitches? Comments?
+nikcdc@gmail.com

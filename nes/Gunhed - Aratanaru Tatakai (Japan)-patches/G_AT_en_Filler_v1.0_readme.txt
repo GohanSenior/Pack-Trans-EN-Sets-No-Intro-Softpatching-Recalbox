@@ -1,0 +1,75 @@
+Gunhed: The New Battle (Gunhed: Aratanaru Tatakai ガンヘッド 新たなる戦い) for the Nintendo Famicom English Language Translation Patch Readme
+Released November 17th, 2019
+Version 1.0
+
+MrRichard999 - Basic adjustments
+Dr.Floppy - Item name expansion
+Proveaux - Major adjustments/intro & ending reworking
+CCCMar - Playtesting
+Filler - Initial script dump/translation
+
+The patch included in this archive is to be applied to a ROM dump of the Nintendo Famicom game "Gunhed: The New Battle" using an appropriate patching program. The patch translates the game's text to English. Details follow in this document.
+
+The game has been been completed by Cccmar. We urge you to report any issues to MrRichard999 via RHDN's forum.
+
+--------------------------------------------------------------------------------
+
+Original ROM Information
+
+Name: Gun Hed (J).nes
+Size: 262160 bytes (256 KiB)
+CRC32: B14F0757
+CRC64: D553267D1053223B
+SHA256: 1B0F644173CD428FBE6CB1A53750ED7DC7D3488D9F563010B41C99F8CBD261BE
+SHA1: 0ED46949C7CE7907126C56E418DC725D9B53C492
+BLAKE2sp: D4693661A03A9B2AAFA1CC96DAD20C0A71F64A4FBA112E388B8795FB71B5A7A6
+
+--------------------------------------------------------------------------------
+
+Licensing
+
+This patch contains NO portion of the original game. It is to be distributed as a patch, in an archive with this readme and any other materials originally provided in the archive.
+
+This patch is NOT to be distributed with the original ROM image, either pre-patched, or separately. The contents of this patch are NOT TO BE SOLD in any way, including as a ROM image applied to the original ROM, or as a physical cartridge using the patch applied to the original ROM image.
+
+As the work contained in this patch is derivative, our rights regarding it are limited. However, we're releasing materials related to the translation project ONLY, including the English language script, under CC BY-NC (Creative Commons Attribution-NonCommercial, https://creativecommons.org/licenses/).
+
+For additional materials and information please see the project page: http://projects.mattsmessyroom.com/
+
+--------------------------------------------------------------------------------
+
+Game Description
+
+GunHed: Aratanaru Tatakai is a Strategy game, developed by Toho and published by Varie, which was released in Japan in 1990.
+
+--------------------------------------------------------------------------------
+
+MrRichard999's Notes
+
+I used the Terminator NES font to replace the main font and used the Metal Gear font in the battle menus and the parts menus.
+
+--------------------------------------------------------------------------------
+
+Cccmar's Notes
+
+Gunhed is a turn-based strategy game MrRichard999 asked me to test a couple of months ago. It's based on an old Japanese movie. Overall, I have to say that working on it has been somewhat challenging, due to how finicky the text boxes and such can be. I managed to beat it though, and we hopefully fixed the vast majority of issues this game had, but if you notice something, be sure to notify MrRichard999.
+
+Anyhow, I wanted to give some tips/pieces of advice to any potential players, since there's unfortunately a serious dearth of information on this game in English online. Firstly, play on the defensive. In this game, the goal is to assemble about 30 mechs in order to be able to assault Kyron's hideout and win the game. If you stick to looking for mech parts instead of attacking the enemies, some of them will eventually run out of energy, and you will no longer be threatened by them. Each enemy wave/squadron gets strong as well, so the best course of action is to assemble all the robots before the 2nd enemy squadron is destroyed. Secondly, make use of items to make your life easier. Items can be used by picking a mech and opening the item menu. You have items which steal stuff, deal serious damage to your enemies, or even convert them to your side! Be smart about it, and you will succeed. Thirdly, try to level one of your mechs as much as you can, and use it to attack Kyron's hideout. The higher the level, the better during the final battle with Kyron. Good luck and have fun!
+
+--------------------------------------------------------------------------------
+
+Filler's Notes
+
+I started this project on March 10th of 2018 by deciphering the text encoding and dumping the script. I don't think I chose this for any other reason than it appeared in a list of Famicom games not yet translated to English, but I did like the fact that the game is based on a manga by Kia Asamiya and live-action movie of the same name. I picked away at translating the very small script until early October of the same year and I probably moved the project from the "In-Progress Scripts (Partial Script Translation)" to the "Orphaned Projects (In Need of Technical Help)" section of my website.
+
+I deferred to the official localization as written in Viz's adaption of the manga translated by James D. Hudnall and Matt Thorn for specific terms and spellings. Specifically, I translated 8JO as "Hachijo", as there is a real island in Japan called Hachijou-jima, but later deferred to the official "8JO". I was also confused and amused by a term that appeared to be "texmexium" in the ending, and sure enough was confirmed to be "texmexcium" in the official localization which is also how it appears in this unofficial translation. I'd also originally translated the name of the computer as "Chiron 5", but again deferred to the official "Kyron 5" spelling.
+
+I don't remember exactly, but I think MrRichard999 reached out to me about working on some of my outstanding projects and I offered what I had on Gunhed. After accepting some feedback from me on the intro, he took the lead on getting additional technical help from Proveaux, and play-testing support from Cccmar.
+
+During the testing process it was discovered that the ending had not been dumped or translated, so working from some screenshots I deciphered the alternate text encoding used for the ending, dumped, and translated the remaining text in late August of 2019. After that, it was just a matter of bringing the inserted script up to a reasonable standard and the project was ready for release.
+
+Big thanks to MrRichard999 for largely serving as project coordinator on this project, tackling some of the technical challenges, and bringing on additional help as needed. Thanks to Dr.Floppy and Proveaux for handling some of the specific technical challenges, and Cccmar for play-testing this somewhat obscure game with little English language information available on how to complete it.
+
+Speaking of which, below is a link to a Japanese language guide which can be machine translated in order to assist anyone looking for more information on how to play the game.
+
+http://setsumei.html.xdomain.jp/famicom/gunhed/gunhed.html

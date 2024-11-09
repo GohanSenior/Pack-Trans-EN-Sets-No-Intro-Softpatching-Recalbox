@@ -1,0 +1,61 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Keroppi & Keroleen's Splash Bomb v1.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3-28-2000
+~~~~~~~~~
+Platfom: NES
+~~~~~~~~~~~~
+Get the latest version at Suicidal Translations (http://www.pigtails.net/ST)
+or my site (http://come.to/sixfeetunder)
+
+Email me at s1xftunder@hotmail.com
+
+
+Introduction
+~~~~~~~~~~~~
+
+Splash Bomb is a pretty fun Bomberman-ish game, with a nice free roaming aspect to the levels, meaning you have to find your way through the levels to get to the boss, unlike most Bomberman games where each level is primarily one screen.  It also features a very original story line.. little white thingy (who is revealed as Teruteru Chan in the ending.. probably a normal Sanrio character, but since I only know the names of maybe three...) is bopping around to *gasp* be kidnapped!  So... being the heroes that Keroppi & Keroleen are, they set off, armed with water balloons to rescue Teruteru Chan.
+
+It uses passwords at the end of each level to "save" your progress, but it's probably short enough for most people to finish in one sitting.  Plus, in the emu-age, passwords aren't needed since we've got savestates now :)
+
+Splash Bomb won't work in some NES emulators, including Nesticle.  I haven't tested all the various emulators, but it should work perfectly in Loopynes and Biones, and wouldn't doubt it if it works in a few others as well.  It DOESN'T work in Nesticle, fwNES, or NESten.  That's all I can think of off the top of my head, just experiment with your favorite NES emus and figure it out for yourself.
+
+Two player mode features simultaneous play, which can work to your advantage in single player mode.  Just map the controls for both players to the same keys and move to a corner or something so both characters occupy the same space, and then you have extra bombs from the second character.
+
+
+Quick Instructions
+~~~~~~~~~~~~~~~~~~
+
+D-Pad: Take a wild guess.
+A Button: Set bomb
+B Button: Unused
+Start: Pause/Show map
+Select: Navigate menus
+
+
+How to use it
+~~~~~~~~~~~~~
+
+Use ips.exe or Snestool to patch your Splash Bomb rom with the .ips patch.  If you can't figure out how to use these, I guess you're just out of luck, try reading the docs.
+
+
+Progress
+~~~~~~~~
+
+Everything in the game *SHOULD* be translated, but if for some reason I missed something, let me know so I can fix it.
+
+
+Thanks
+~~~~~~
+
+Thanks to InVerse for the idea, and I suppose that's pretty much it, since I just did everything on my own with this project.
+
+
+March 2000
+
+Suicidal Translations
+http://www.pigtails.net/ST
+
+Six Feet Under
+http://come.to/sixfeetunder
+s1xftunder@hotmail.com

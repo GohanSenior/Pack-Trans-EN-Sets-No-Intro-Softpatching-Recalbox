@@ -1,0 +1,134 @@
+SUPER ROBOT WARS GAIDEN: - MASOUKISHIN - THE ELEMENTAL LORDS
+ENGLISH TRANSLATION V1.05
+Copyright 2018 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.  About SRW Gaiden
+2.  Patch History
+3.  Patch Credits and Contributors
+4.  Known issues
+5.  Application Instructions
+6.  Optional Patches
+
+------------------
+1.About SRW Gaiden
+------------------
+Super Robot Wars Gaiden follows the original story of Masaki Andoh, herald
+of the Elemental Lord Cybuster, both before and after events of the original
+Super Robot Wars canon (SRW 2, 3, EX, 4.) It is the first Super Robot War to
+only contain original characters and plots, the first (and one of the few)
+to have its mechanicals represented in a realistic, non-SD style, the first
+to be isometric. It and its followups are, to my knowledge, the only SRWs
+to feature directional and height modifiers to damage and accuracy
+calculations. Due to its nature as an original story, and due to it taking
+place at the very beginning of Masaki's timeline, it serves as an excellent
+entrypoint into the Super Robot Wars series.
+
+This project's history is long and fraught with trouble. The initial script
+translation turned out to be wrong more often than it was accurate; it was
+eventually decided that the entire script would need to be retranslated.
+Work on the script essentially re-started from scratch in late 2013 after
+TheMajinZenki graciously offered to doublecheck the older version of the
+translation. Though a variety of factors (lack of resources, split
+attention, and the like) contributed to a less-than-optimal velocity,
+the script was considered to be fully retranslated in April of 2017.
+Work on the technical pieces resumed at this time; additionally, at this
+point we passed it off to Caitlin, who worked closely with Zenki as an
+editor, to produce the script as it currently stands. She finished in
+October. Playtesting began in February and completed in mid May.
+
+For all the problems it has had during its long development period, I am
+extraordinarily proud of how the final release looks. Have fun!
+
+---------------
+2.Patch History
+---------------
+
+Sept 4, 2018 - Version 1.05 Release
+-- Fixes several typos
+-- Fixes an issue causing blank repair screen if you end up with a destroyed
+   Elemental that does not have a pilot
+
+May 29, 2018 - Version 1.01 Release
+-- Updates the patch to use the No-Intro ROM as its base
+-- Adds logo intro
+-- Fixes a few minor typos
+
+May 22, 2018 - Initial Version 1.0 Release
+
+---------------
+3.Patch Credits
+---------------
+THE MASOUKISHIN TEAM
+Gideon Zhi       - Project leader, lead romhacker, assembly work
+TheMajinZenki    - Translation
+Caitlin Newberry - Script edit
+optiroc          - Music persistence patch + helped with a menu
+FlashPV          - Title screen logo
+
+--------------
+4.Known Issues
+--------------
+There are no known issues.
+
+Please report any other bugs, spelling errors, and such on
+on The Pantheon (http://agtp.romhack.net/pantheon/)
+Screenshots are preferred, as are SRAM saves.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+3.00 MB (24mbit SA-1) WITHOUT header. (*exactly* 3,145,728 bytes)
+No header.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "srwg.smc" make sure the patch
+is "srwg.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM DOES NOT
+HAVE A HEADER!. If you right-click the ROM and select Properties, it
+should read "3.00MB (3,145,728 bytes)". TUSH will remove all
+of your headers for you easily, and you can find it at
+http://www.romhacking.net/utilities/608/
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+have a header.
+
+------------------
+6.Optional Patches
+------------------
+Included with the translation is one optional patch, and an additional
+"undo" patch which will remove the patch's effects from your ROM should you
+decide you don't like it. The patch is entirely standalone and does not
+require the translation, so if for instance you decide you want Music
+Persistence in your Japanese copy of the game, you can apply that one patch
+and be on your way.
+
+MUSIC PERSISTENCE
+Super Robot War titles are strategy games, characterized by units moving
+around a map and attacking one another in special animated sequences, during
+which music plays from the player's (or boss's/Elzam's) unit's TV show,
+movie, OVA, etc. It's usually a theme song from the show's opening sequence,
+but since Masoukishin does not contain any licensed properties, they're all
+various theme songs written for the original characters that appear in the
+game.
+
+In later SRW titles, the unit's theme music will continue to play
+after the animated sequence ends and the game returns you to the map. This
+tends to make the games feel more exciting, as the music is generally
+designed to get the viewer invested in the show. Older SRW titles, however,
+would stop the theme music as soon as the animated sequence ends, and would
+start the map music over from the beginning. As a direct result, you never
+heard much of the robot's themes OR the map music unless you deliberately
+stuck around and waited to listen.
+
+The Music Persistence patch changes the music behavior in SRWG to be more
+like the later games in the series. Once an attack sequence begins and a
+theme song starts playing, the theme song will continue to play until either
+the turn ends or a unit from a different series takes part in a battle
+sequence.

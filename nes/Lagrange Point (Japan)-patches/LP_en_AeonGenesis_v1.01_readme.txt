@@ -1,0 +1,101 @@
+LAGRANGE POINT
+ENGLISH TRANSLATION V1.01
+Copyright 2014 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Lagrange Point
+2.Patch History
+3.Patch Credits and Contributors
+4.Known issues
+5.Application Instructions
+6.Optional Patches
+
+----------------------
+1.About Lagrange Point
+----------------------
+Lagrange Point is a sci-fi RPG for the NES. A biological catastrophe has
+occurred in the series of space colonies collectively known as the Isis
+Cluster, and after communications cease, Earth sends a recon unit to
+investigate. Shortly after landing, the squad is ambushed by violent robots.
+Their pilot, Gene, wakes up in an infirmary with his dying captain, whose
+last words are to "find Stolte."
+
+The game itself features multiple swappable party members, item fusion,
+and a semi-linear plot (at one point the player is tasked with acquiring
+three macguffins, but it's up to you which you go after in which order.)
+Lagrange Point is unique among NES RPGs, the only game on the system to make
+use of Konami's proprietary VRC7 FM sound hardware. As such, it's gained no
+little notoriety for the quality of the music it outputs; whether the actual
+compositions are to your liking is up to taste, but I can guarantee that no
+other NES game sounds like this.
+
+The translation itself is almost as old as the community that produced it.
+The project originally belonged to J2E Translations; it was passed to Aeon
+Genesis in... 2007, I think, after necrosaro disbanded J2E to focus on his
+doctorate. It's also the very first game that Tomato did the script for.
+His relative inexperience at the time unfortunately showed in the text, and
+several of the strings needed to be doublechecked throughout the editing and
+testing processes.
+
+The game's text was originally compressed, with six bits of every byte being
+used per character instead of all eight (25% savings in space.) By rewriting
+the dialog engine we managed to get that up to about 33% (closer to 42% if
+you only count the main dialog, which makes as full use of the changes as
+possible) but it's still an awfully tight squeeze. Romhacker Pennywise
+(http://yojimbo.eludevisibility.org/) helped move some of the game's data
+around a bit, and we both worked on menu expansions to allow for twelve-
+character item names instead of the original eight. I'm reasonably happy
+with the final result.
+
+---------------
+2.Patch History
+---------------
+November 5, 2014 - V1.01 Release
+--Fixes issue where some characters (notably Tic) gained inappropriately high
+  stats at level up
+--Fixes issue where weapons of type Chemical, Special, and ???? displayed as
+  Electric, Plasma, and Sonic respectively
+
+October 22, 2014 - Initial V1.00 Release
+
+---------------
+3.Patch Credits
+---------------
+THE LAGRANGE POINT TEAM
+Main Team:
+Gideon Zhi - Project leader, romhacker, assembly hacking
+Pennywise - Assembly hacking
+tomato - Text translation
+Deets - Text edit
+
+Special Thanks
+g8z et al. - No-compression dialog routine
+necrosaro - Initial hacking and compression discovery
+
+--------------
+4.Known Issues
+--------------
+--The name of the character last played persists in memory through reset.
+  This will cause the game's name-entry screen to be prepopulated with a
+  name each you start a new game after the first. This behavior does not
+  negatively affect the game's execution in any way; I'm just noting it
+  here as it is behavior not observed in the original Japanese game.
+  (The techincal reason for this is that we're using SRAM as scratch
+   memory for a longer player name, if you're at all curious.)
+
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://agtp.romhack.net/pantheon)
+Screenshots are preferred, as are FCEUX savestates.
+
+--------------------------
+5.Application Instructions
+--------------------------
+Quick ROM Info:
+512KB (4mbit NES)
+
+Simply use Lunar IPS (or an equivalent program for MacOS/linux) to apply
+the patch to the ROM. Note that if you've patched previously and are
+upgrading to version 1.01, you'll want to patch a clean version of the rom.
+Saves from the v1.00 version *are* compatible with the v1.01 version.

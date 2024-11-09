@@ -1,0 +1,108 @@
+PROJECT HISTORY AND BRIEF TRANSLATION NOTES
+
+satsu - 18 April 2011
+
+=======
+1. A Brief History of How This Project Came to Be
+2. Translator's Notes
+3. Special Thanks
+
+=======
+1. A BRIEF HISTORY OF HOW THIS PROJECT CAME TO BEIt's December 2010 at the time of writing, and the beta test for Hourai Highhas just started. Now that the game's being checked by people with fresh eyes,I feel like I can take a moment to relax for a moment and take some time towrite about the project.This project is one with several different histories. I think it's fair to saythat the origin of everything was back in 1999, when I was a high school kid(and a massive weeaboo). I spoke no Japanese and my ROM hacking skills wereminimal - that skill I never really managed to brush up much - but despitethat, I managed to partner up with Akujin on this neat game I'd found.As I said, it's December 2010 now, so my memory of 1999 isn't so great. If Irecall correctly, though, I'd met Akujin on the RPGd message board in thecontext of me posting about Hourai. I remember being amazed at how friendlyand helpful he was - he was very patient with me despite my lack of skillsat the time, very enthusiastic and very capable as both a translator and aprogrammer.Akujin dumped the script himself with a program he'd used for another project,while I struggled with the substring pointers. These were 16-bit pointers thatwould fetch a commonly-used long piece of text to save space in the ROM image.If it gives you any idea of what a sucky ROM hacker I was, I was hoping to usethese to expand out the text elsewhere in the ROM because I couldn't figureout any other way to move and expand text. It was a mess.At any rate, Akujin eventually translated everything in pretty much no time atall, and I struggled with getting the script inserted. Not too long afterwards,Akujin suggested teaming up with his friends Wildbill and Taskforce,.Sure, I said, I could certainly use the help. I felt a bit sad that myinfluence in things was diminished even further, but I looked at it objectivelyand it was clear that I needed help. Wildbill and Taskforce joined the team,and I was very pleased and grateful to see the improvements coming in - fonthacks, menu hacks, work on an insertion tool (I'd been struggling withpublicly-available tools) and so on. I was confident that things were movingin the right direction, and I was keen to improve my skills so I couldcontribute more.Before I knew it, a couple of years had passed. Communication had ceased.I found myself unable to contact the others, and a bit distressed becauseI had lost my copy of the script files, and I'd been unsuccessful in myattempts to get copies. On top of that, I'd just started university, andso many things in my life changed - I was a massive weaboo in school, butI grew up quite quickly once I went to university. With this came a sociallife, and coupled with my studies, this left me with a distinct lack oftime to work on Hourai.2005 came and the Hourai bug bit me again. I set about trying to contactAkujin again to procure the script files, as the others would not give mewhat they had, and they had seemed to “retire” from the ROM hacking scene.Akujin was completely unreachable, and after scouring various media that I'daccumulated over the years, I managed to only find some non-dialoguetranslations. By this point, however, I'd learnt a great deal of Japanese. I wanted tosee Hourai in English, so I decided that I'd bite the bullet and retranslatethe whole thing myself. I got in touch with Gideon Zhi, and agreed totranslate Lady Stalker's script in exchange for him handling the hackingon Hourai. This is the point where the history of the project diverges.Eventually, Wildbill and Taskforce would reappear, carrying on the old work.Meanwhile, Gideon Zhi and I more or less restarted from a blank slate - Ithink the only thing from the original project that went into our versionwas the table file. I have, however, included some nods to Akujin's originaltranslation.A lot of things happened in between then and the time that things got movingagain in earnest for Hourai. I spent a year in Japan, finished university andstarted working as a freelance translator in the games industry. I translatedscript files for Energy Breaker, then retranslated or edited the bits I didn'tdo. With Gideon Zhi, I translated the Star Fox 2 beta. With the help of Bongo`,byuu, Gideon Zhi and other kind collaborators, I translated Eternal Filena,another project that I'd first started back when I was a high-school kid.There were a variety of other things I worked on as well, in addition toprofessional work.By 2008, I was working full-time translating games. During a long quiet periodat work lasting two or three weeks, I decided that I'd spend my time moreproductively and sneaked the script files for Lady Stalker and Hourai Highinto the office. I blazed through the Lady Stalker script in a few days, sentit back, and then got cracking on the Hourai High script. It took about a weekand half. It was an interesting experience, sneakily doing a fan translationat work. I think that subversiveness kind of shows in the scripts that Itranslated, as I felt more open to slipping in jokes and stuff. I wasn'tafraid to rewrite bits to make more sense or be more interesting in Englishwhile remaining faithful to the source material.Once the first draft was dealt with, there was another gap. I waited forGideon Zhi to handle the technical side of things, but I had plenty ofthings at work and otherwise to keep my occupied anyway. There were onlya few windows during the course of 2008 and 2009 when enthusiasm, plentyof free time and other elements all came together to allow me to do somemeaningful ROM hacking work. During these windows of opportunity, I mostlydirected my efforts towards Filena and Energy Breaker. (That's basicallywhy all of my projects take so long - they often involve windows ofopportunity, enthusiasm, availability of involved parties and so on toall come together, and sometimes that may not be such a regular occurrence.)Come November 2009, I started to direct my efforts towards Hourai. Thingswere slow at first; I was pretty busy at work, so I mostly wanted to spendmy free time blowing of steam by playing games rather than working on them.I'd received an edit pack from Gideon Zhi so that I could edit and insertthe script as I played, allowing me to quickly check changes and fix partswhere I'd got it wrong. I did this while Gideon Zhi worked on the script,and come October 2010 or so, I'd finished playing through the game and thehacking had reached an advanced stage. For the next couple of months, I'dtranslate small files and bits and pieces that were missed, continue fixingup the script and answer questions about the game while Gideon Zhi continuedto work industriously on the hacking.That more or less brings us to this late stage of the project. I'm keen to
+see how people receive the finished project, more than ten years after it
+all began.
+
+satsu, December 2010
+
+=======
+
+2. TRANSLATOR'S NOTES
+
+The game is supposed to be quite light-hearted with a dash of weirdness, so
+I did my best to preserve that element. While I understand a lot of people
+are quite keen on sticking to literal text very closely, it would have killed
+the game here. So no, the Musketeers didn't have outrageous French accents in
+the original script, and there isn't a reference to Godwin's Law either.
+
+One part of localisation that I find constantly fascinating is naming things.
+I didn't go as far as changing the setting, so by and large, I kept the
+Japanese names in. There are a few exceptions, of course, which were made
+for characterisation or to prevent from creating barriers for a non-Japanese
+speaking player. However - not a lot of people in the English-speaking world
+know this, but Hourai High the SNES game is a spin-off of Hourai High the
+play-by-mail role-playing game. Based on the PBM game were novels, table
+RPGs, magazines, a card game, mobile phone games and at least one CD. As
+such, I didn't want to go in and start changing around things too much,
+so I tried to tread carefully. 
+
+Here are a few interesting odds and sods in no particular order.
+
+White Horse Cafe, Sketchy Soup, etc.
+These two places originally had Japanese names, but because the player is
+told to go to these places, I gave them easily-recognisable names. We also
+translated signs for places where the player is explicitly told to go to.
+
+Side Street
+This name came from Akujin's early translation. I liked it and decided to
+keep it for the English. It's a more or less literal translation of the
+Japanese name.
+
+The Subterra Society
+There was a rather decent pun in the Japanese text that took me 10 years
+to notice. The original Japanese name is "Kouzan Nosutora", which I took
+as "Corzan Nostra", a play on "Cosa Nostra". It turns out I was only halfway
+there. "Kouzan" also means "mine", and their emblem is a shovel. They also
+live underground. Clearly, this name wasn't getting the translation it
+deserved, so I came up with an all-new English name to better reflect the
+group.
+
+Great Leader
+Japanese: "Soutou". An exotic word for a leader that's generally applied
+to the Fuehrer of Nazi Germany. (In Chinese, it just means "president".)
+The word "Fuehrer" has a lot of baggage and seemed quite out of place, so
+I looked towards North Korea for inspiration here.
+
+Rachael and Beatrice Kanuma
+These two are actually named thus in the source text. Beatrice appears in
+the novel "Hourai Gakuen no Hatsukoi!" ("The First Love of Hourai High!").
+Apparently she has the nickname of "Bad Luck Becky" - it didn't come up in
+the game, though, so I slipped in a reference to it myself. I did take the
+liberty of changing "Becky" to "Betty", though, since I've never heard of
+"Becky" as a short name for "Beatrice". It makes zero difference to anything
+in the game, but I thought it'd be a nice touch.
+Julia and Isaac's names are untouched as well, but I made them sound them
+less silly - originally, they spoke bad Japanese with lots of English words
+thrown in. At first, I was trying to retain this, but it didn't turn out very
+well at all and I decided the best thing to do was just to try and make them
+sound more American. They don't have many lines anyway.
+
+The Adventures of Hourai High: Transfer Student Dramabomb
+The game's title screen graphic featured the legend "The Adventure of Hourai
+High School", which people unquestioningly stuck with when referring to the
+game. I don't think it's such a snappy title and it feels a bit non-native
+to me, so I revised it slightly. "Dramabomb", of course, is not a word used
+anywhere in the original game, but I needed a word of that many characters
+to fit in with the title screen animation. I think it sets the tone for the
+game quite nicely.
+I made a colossal mistake in consistently mistranslating "Transfer Student"
+as "Exchange Student" on the basis of a mistranslation I must have seen about
+ten years ago - even once I'd learnt the Japanese, I was so used to the
+mistranslation that it didn't occur to me. I finally got around to fixing
+this the night before release (title screen included).
+
+Resonator stones
+Japanese: "Ouseki". Literal translation. These are ancient OOPArts that gave
+players in the table-top RPG special powers. They were jewels with a Chinese
+character written on them, and would grant powers based on what was written.
+Additionally, the number of strokes that the Chinese character was comprised
+of would give an equivalent bonus. For example, a stone with the character
+for "wind" would give the player a corresponding power and a +9 bonus, because
+the Chinese character for "wind" is made up of nine strokes.
+
+=======
+
+3. SPECIAL THANKS
+
++ Akujin - for getting me started
++ RPGd
++ All supporters since 1999

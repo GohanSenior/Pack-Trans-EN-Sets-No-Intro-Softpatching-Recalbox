@@ -1,0 +1,216 @@
+********************************************************************************
+*                                  Metal Max                                   *
+*                          English Translation Patch                           *
+*                              v1.0 (6 Dec 2018)                               *
+*                                                                              *
+*                               Supper -- Hacking                              *
+*                        TheMajinZenki -- Translation                          *
+*                               cccmar -- Editing and Testing                  *
+*                             Xanathis -- Testing                              *
+*                               Filler -- Special Thanks                       *
+********************************************************************************
+
+Metal Max is a 1991 RPG for the Nintendo Famicom, and the first game in the 
+critically acclaimed (and criminally underutilized) Metal Max series. It follows 
+a boy's quest to become a Monster Hunter in a post-apocalyptic world, which 
+mostly means acquiring lots of tanks and blowing up wanted people. Featuring 
+groundbreaking open-world gameplay and masterfully realized vehicle mechanics, 
+it's one of the most innovative and easily one of the best RPGs on the console.
+
+This patch fully translates the game into English.
+
+                    ****************************************
+                    *          Table of Contents           *
+                    ****************************************
+
+  I.   Patching Instructions
+  II.  Authors' Comments
+  III. Known Issues
+  IV.  Localization Notes
+  V.   Special Party Names
+
+                    ****************************************
+                    *       I. Patching Instructions       *
+                    ****************************************
+
+You'll first need a headered ROM image of Metal Max. It should match the 
+following specifications:
+
+  No-Intro filename: Metal Max (Japan).nes
+  CRC32:             334f45bb
+  MD5:               8d029bd9c53d0b49215fa1bf2bf77bbb
+  SHA-1:             6219be1826d51ec5a53aaed2efe5520afcee4ae9
+
+Before trying to apply the patch, make sure the ROM image has an iNES header. If 
+your ROM's filesize is 524,304 bytes, it's headered. If the filesize is 524,288 
+bytes, it's unheadered (and will not work with this patch!).
+
+The patch itself is a standard IPS patch. Use a tool such as Lunar IPS to apply 
+the IPS file to the ROM. The patch will expand the ROM to 768 KB, so don't use 
+any ancient patching utilities that don't support that.
+
+                    ****************************************
+                    *           II. Known Issues           *
+                    ****************************************
+
+* Users of FCEUX, please note: FCEUX has a bug that causes some of the text on 
+the tank overview screen (Start button) to flicker rapidly. This is an emulator 
+bug that occurs even with the original Japanese game, but not on real hardware 
+or more accurate emulators. If possible, use a less inaccurate emulator, such as 
+Nestopia, to play the game.
+
+* In some scenes, very rarely, part of the screen may "flicker" with the wrong 
+graphics for a frame. This is due to a limitation of the MMC3 mapper used by the 
+game; because interrupts must be disabled to switch to the banks containing the 
+new code needed for the translation, mid-frame graphics swaps can occasionally 
+fail to go through. The most viable fix for this (i.e. the one that wouldn't 
+require shuffling enormous amounts of code around) would cause heavy lag 
+throughout the game, and a rare cosmetic issue seemed like a better deal than a 
+constant gameplay impediment.
+
+                    ****************************************
+                    *        III. Authors' Comments        *
+                    ****************************************
+
+  ------------
+  -- Supper --
+  ------------
+  
+  In the darkest recesses of the metaphorically dusty folder containing my LMMS 
+music projects is "RR.mmpz", a very poor recreation of the boss theme from this 
+game. It's dated December 12th, 2009, which is approximately the time that I 
+discovered the game and was very disappointed to find it wasn't translated. What 
+I'm getting at here, other than that I'm a really bad musician, is that I've 
+been waiting a long time for this. Back then I didn't even know how to program 
+and never dreamed I'd end up doing the hacking for a translation, but here we 
+are. Feels good.
+  
+  This project was technically started by Filler, who asked me around the start 
+of the year if I'd be interested in working on the game. I certainly was, so I 
+cobbled together a basic script extractor and inserter in a few days. Filler 
+subsequently dropped out before doing anything due to having too many projects, 
+so I more or less inherited the project. After shelving my work for several 
+months, things eventually resumed with TheMajinZenki and cccmar on board, and 
+Xanathis later joining to help test.
+  
+  So I'm sure the question on many people's minds is "Why translate this game 
+now? Didn't Aeon Genesis already do the remake years ago?" My answer is that 
+this is a different game made at a different time by (somewhat) different 
+people, and also happens to be the one I personally wanted to play. And it has 
+better music, so there. Now you can Bang Bang with your Sensha in English.
+  
+  This was a project near to my heart, so I didn't cut corners and put a lot of 
+effort into adding all the special touches. Party member names have been 
+expanded from 4 to 8 characters, allowing the original random names to be used 
+without alteration. Tank names are 7 letters instead of 6 -- I wanted 8, but the 
+save file was 2 bytes too small. Enemy and item names are doubled to 16 
+characters, and battle messages correctly respect the plurality of enemy groups 
+(and man, does seeing "Killer Amoebae drew near!" make me feel like it was all 
+worth it).
+  
+  Thanks to the rest of the team for making this a reality. It's a big game for 
+1991 and took a lot of work on everyone's part, but I think we've done it 
+justice. Hope someone out there's as happy to have it in English as I am.
+
+  -------------------
+  -- TheMajinZenki --
+  -------------------
+  
+  Metal Max was more challenging to translate than I thought, mostly due to the 
+variety of locations (and thus npcs) present in the game, more than I'm used to 
+(I don't usually translate rpgs), the variety of shops (each with different 
+reactions for using their services), and the unique items that have different 
+effects, all things that I cannot see while translating.
+
+  Difficulties aside, the game is definitely interesting. I know this its SNES 
+remake was already translated, but I think it's worth showing off that the NES 
+was capable of having such an ambitious game in its catalog. I hope you enjoy 
+this little gem.
+
+  ------------
+  -- cccmar --
+  ------------
+
+  I had played through the remake of Metal Max, Metal Max Returns, a while ago. 
+It added some new 'Wanted' missions, a couple of NPCs here and there, and also 
+the interface was somewhat changed, to be a bit more intuitive. The FC version 
+in my opinion has better sound, for the most part, and it's also quite charming 
+in its own right. Script editing for this one had some challenges too, mostly 
+related to informal language this time around. Overall, this is probably one of 
+the most ambitious RPGs for the Famicom, with various minigames and lots of side 
+missions that you can do for fun. I really enjoyed working on this game, and I 
+hope you - the players - will enjoy it too!
+
+                    ****************************************
+                    *        IV. Localization Notes        *
+                    ****************************************
+
+This is a pretty Westernized game to begin with, so we didn't have to change 
+much to get it into sensible English. These are the main differences:
+
+* Guorilla Clan -- Originally "Salmonella Gang" (サルモネラいっか). This is a pun on the 
+Japanese pronounciation of "salmonella" (sarumonera) with "saru" (monkey).
+* Malone -- Originally "Warugeryo" (ワルゲリョ). The Japanese name is vaguely 
+Spanish-sounding, like many other names in the game, and includes the word 
+"waru" (bad). The English name was chosen on the basis of including "malo" 
+("bad" or "evil" in Spanish).
+* Foo-G -- One of the engines, this was originally "Chiyonofu" (チヨノフ), an 
+oblique reference to Fuji Engines ("chiyo no fu" = "ancient Fu[ji]").
+* Dr. Mortem -- Originally "Dr. Minchi" (ドクターミンチ), which is literally "Dr. 
+Mince[meat]". The English name comes from the official English translation of 
+Metal Saga.
+* Dudette -- One of the possible random names for the Soldier, this was 
+originally "Machoko" (マチョコ), which literally means "macho girl".
+
+While not exactly localization changes, this patch also fixes a couple of bugs 
+in the original game because they were easy to encounter and caused major 
+issues:
+
+* In the original game, putting 9 or more items in the Trunk Room, opening the 
+Trunk Room summary from the Start menu, pressing A, and then scrolling the list 
+would severely corrupt the display. This can crash the game, so fixing it was a 
+must.
+* It's possible to run from the Bionic Pooch battle where Red Wolf first shows 
+up. That isn't changed in the patch, but in the original game, successfully 
+running on the first turn of the battle, before Wolf enters, would change your 
+second party member's name to "0000". This won't happen in the translation.
+
+There are various other bugs not fixed in the patch, since they're half the fun 
+of an RPG anyway.
+
+                    ****************************************
+                    *        V. Special Party Names        *
+                    ****************************************
+
+Metal Max has a lot of obscure secrets, but the most relevant to the translation 
+are the "special" party configurations: giving the hero certain names causes the 
+other party members to get predetermined names instead of the usual random ones. 
+Here's a list of these special names:
+
+  ----------------------------------------------------------------------------
+  |    Hero    |  Mechanic  |  Soldier   |              Notes                |
+  ----------------------------------------------------------------------------
+  | Hanta      | Tamper     | Anne       | Also the default party if no name |
+  |            |            |            | is entered.                       |
+  |            |            |            | "Hanta" because it sounds like    |
+  |            |            |            | "Hunter", especially in Japanese. |
+  |            |            |            | "Tamper" because he's a mechanic. |
+  |            |            |            | "Anne" because... uh, something.  |
+  ----------------------------------------------------------------------------
+  | A          | B          | C          | The original Japanese game only   |
+  | AA         | BB         | CC         | recognizes "AAAA" (ああああ).      |
+  | AAA        | BBB        | CCC        | "Naming your character AAAA" is   |
+  | ...        | ...        | ...        | an established joke in Japan but  |
+  | AAAAAAAA   | BBBBBBBB   | CCCCCCCC   | not so much outside of it, so     |
+  |            |            |            | the translation expands on this   |
+  |            |            |            | a bit so you're more likely to    |
+  |            |            |            | see it.                           |
+  ----------------------------------------------------------------------------
+  | Tom        | Haman      | Cecil      | Some developer in-joke? Japanese  |
+  |            |            |            | fans have no idea either.         |
+  ----------------------------------------------------------------------------
+  | Sylph      | Niobium    | Selenium   | Niobium and selenium are          |
+  |            |            |            | elements. Apparently this fact    |
+  |            |            |            | was significant to someone.       |
+  ----------------------------------------------------------------------------
+

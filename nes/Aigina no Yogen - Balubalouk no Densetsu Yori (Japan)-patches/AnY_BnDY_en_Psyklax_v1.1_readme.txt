@@ -1,0 +1,150 @@
+AIGIINA NO YOGEN - FROM THE LEGEND OF BALUBALOUK
+Translation by Psyklax
+v1.1 (20170627)
+
+CONTENTS
+1. Intro
+2. Changes
+3. ROM Information
+4. Background
+5. Gameplay
+6. Final Thoughts
+7. Credits
+
+INTRO
+This is a 100% English translation of
+Aigiina no Yogen - From The Legend of Balubalouk.
+The introduction, title screen, password system and all
+non-player character dialogue has been translated, and the
+originally English ending has been corrected to fix errors
+in spelling, vocabulary and grammar.
+
+CHANGES
+- INTRODUCTION
+ Changed from 8x16 to 8x8 text
+ Made the text scroll 50%
+ slower (there was too much new English text to comfortably
+ read at the normal speed)
+- TITLE SCREEN
+ Translated the title
+ Translated Vic Tokai's logo
+- PASSWORD SCREENS
+ Translated the 'oracle's' dialogue, including a line that
+ read (in English) "I LONG FOR YOUR ANOTHER CHALLENGE"
+- NPC DIALOGUE
+ Changed text window from 16x3 to 20x3
+ Used DTE routine to compress text
+- ENDING
+ Corrected various spelling, vocabulary and grammar
+ items (originally written in English)
+- VERSION 1.1 CHANGES
+ Added an apostrophe when you buy a magic key from a merchant
+ Translated Vic Tokai's logo in the ending
+
+ROM INFORMATION
+GoodNES name:
+Aigiina no Yogen - From The Legend of Balubalouk (J) [!].nes
+CRC32: 04FC4764
+
+BACKGROUND
+Originally released on 21 November 1986, Aighina's Prophecy
+is an arcade-style action game by Vic Tokai, intended as a
+sequel to Baluba-Louk No Densetsu, which was only released
+in the arcade. It is among the first Famicom games to make
+use of large amounts of Japanese text, thanks to the use of
+memory management controller (MMC) chips to get around the
+limitations of Famicom hardware. This Famicom version never
+saw an English language release. An English prototype was
+apparently found, but it was never dumped to a ROM file and
+the whereabouts of the cartridge appear to be unknown at
+time of writing, so its existence is questionable.
+Interestingly, the game was released in Europe on the
+Commodore 64, in English, and it plays in a similar fashion
+to the Famicom version. However, although the English
+translation was useful to help with a few lines, I generally
+ignored it in favour of translating from the original
+language myself. The main reasons were that I couldn't find
+all of the text equivalents in the disk file that I used,
+and I couldn't seem to get the game working in emulation:
+the scrolling didn't work properly, and I couldn't figure
+out how to solve the problem.
+
+GAMEPLAY
+For first time players the game seems confusing, but play is
+relatively simple. The player hits platforms from beneath,
+revealing a two-way gun weapon. The player can then jump
+when standing on the weapon, causing it to fire and kill any
+enemies nearby. You can jump higher by holding up then
+jumping with A (this is essential at points in the game).
+You can find items which you pick up using down+A. Items
+include a weapon that shoots everything in sight, a ball
+that defends you from enemies, and temporary
+invulnerability. You can activate these weapons by pressing
+A+B. You can also collect keys to open chests, and money to
+pay merchants and translators. The latter will read ancient
+documents and stone tablets found in the chests. These can
+provide very useful information, but often tell you nothing
+special - and occasionally are complete nonsense.
+
+Each room is passed by killing 10 enemies and walking
+through the exit: the exit will then stay open forever (this
+is useful because you may need to return to different
+places). The ultimate goal is to find the five pieces of the
+Aura star, which are all hidden in secret rooms. How to find
+those rooms is the real challenge of the game, but the
+documents and tablets you find may help you locate them.
+
+FINAL THOUGHTS
+This was by far the most hack-heavy game I've worked on thus
+far. Not only did I use Dual Tile Encoding to get around the
+problem of a lack of ROM space - often an issue on early
+NES/Famicom titles like this - but I also helped the screen
+space issue by forcing the game to use 20 characters per
+line in the NPC dialogues, instead of 16. It's a natural
+number for a computer, but this game used two lines in
+memory for each line: the top line is used for furigana (the
+marks above kana that say if the character is voiced, so
+'ka' becomes 'ga' etc). I just took four of those bytes and
+reshuffled everything so I could fit four more bytes of text
+per line. Of course I had to stretch the text window, and do
+some hacking for displaying new lines, but that's just how
+it goes.
+
+The intro was interesting because it was quite easy to get
+it to display 8x8 instead of 8x16 (though I racked my brain
+to figure it out). Once I had that I just slowed it down 50%
+so you can read the text, because at the original speed it
+flies by - hardly surprising since the original was 8x16,
+therefore had half as much text per line (sort of).
+
+The ending was easy to fix because it was already in English
+and didn't require any special attention, but there were
+plenty of errors for me to fix - and even some bad alignment
+issues. Now it looks more or less correct.
+
+The more I hack, the more I realise that almost anything is
+possible, and you shouldn't give up just because it looks
+difficult. There were times when I almost gave up with
+certain aspects of this, but perseverance got me through in
+the end. As for the game itself, it's quite fun when you get
+into it, and if you can collect enough keys then be sure to
+check out all the manuscripts you can. Some are a bit weird.
+(I now know who Yoko Minamino is...)
+
+Enjoy the translation, and hopefully this will lead to even
+better ones in future!
+
+Tools I used for this translation:
+HxD (general hex editing)
+WindHex32 EX (checking/touching up text)
+Tile Molester (graphics)
+Pointer Tables (dumping/inserting text)
+DTE-Opt (making DTE table)
+GIMP (making the title screen)
+
+Other games I used for this translation:
+Final Fantasy (font)
+Conflict (Vic Tokai's logo)
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

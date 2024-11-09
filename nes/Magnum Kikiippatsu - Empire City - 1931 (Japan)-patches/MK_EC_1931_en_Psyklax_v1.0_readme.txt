@@ -1,0 +1,44 @@
+MAGNUM KIKI IPPATSU - EMPIRE CITY - 1931
+Translation by Psyklax
+v1.0 (20170813)
+
+CONTENTS
+1. Intro
+2. ROM Information
+3. Final Thoughts
+
+INTRO
+This patch replaces the title screen of Magnum Kiki Ippatsu
+- Empire City - 1931 with the original arcade title, which
+is simply Empire City - 1931. All other in-game text is
+believed to be in English, so no other changes were
+necessary.
+
+ROM INFORMATION
+GoodNES name: Magnum Kiki Ippatsu - Empire City - 1931 (J).nes
+CRC32: BD736EC8
+
+FINAL THOUGHTS
+Another easy one for me. I could see that the only actual
+Japanese in this game was on the title screen (a common
+thing among Famicom games), so I copied the title from the
+original arcade version of the game, pasted it into the ROM,
+then tweaked the code to fit it there. There was plenty of
+room in the graphics bank for it, although due to the border
+that they chose to use on this port, I had to split the
+title over two lines - not that it matters, of course.
+
+I know the font looks quite simple, but I kind of like it.
+It's so bold and in-your-face, and I'm pleased that it is a
+1:1 copy of the arcade original. I'm actually surprised that
+they didn't release it in the US, given the setting, and
+that it's already in English anyway. Oh well, have fun!
+
+Tools I used for this translation:
+FCEUX (best NES emulator for debugging and hacking)
+HxD (general hex editing)
+Tile Molester (graphics)
+GIMP (for cutting out the arcade game title)
+
+Psyklax
+http://s346165667.websitehome.co.uk/psyktrans/

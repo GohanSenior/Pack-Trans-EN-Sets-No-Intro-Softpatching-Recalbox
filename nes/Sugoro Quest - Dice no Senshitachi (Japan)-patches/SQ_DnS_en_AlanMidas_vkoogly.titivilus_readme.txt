@@ -1,0 +1,17 @@
+Sugoro Quest Translation Patch
+Version koogly.titivilus (February 25, 2007)
+AlanMidas(king_midas_@hotmail.com or alan@eskimobob.com or ICQ#9821147)
+
+Stuff done:
+me(AlanMidas)
+
+Latest Version:
+I don't know how I could let so many typos end up in what was supposed to be the final release.
+I've gone through the file a few times now and fixed a lot of typos/text overruns, hopefully they're all gone now.
+The messed up status screen is still unfortunatelt there, but it should be good other than that now.
+
+
+Previous Version koogly.moogly/older(2001-2003):
+I know there's a problem with the status screen suring parts of the game, but not other parts. I haven't figured out why it's like that, and that's why it's not fixed. If there's any other problems, just email me.
+
+Patch this to an untranslated version of the game and voila! Instant spagetti!

@@ -1,0 +1,72 @@
+Little Ghosts
+v1.0
+April 14, 2005
+KingMike Translations (http://www.emuxhaven.net/~kingmike/index.html)
+
+***********
+INTROUCTION
+***********
+Atchi, Kotchi and Sotchi must run around eating all the apples. When all the boxes are empty, you win the level.
+Collect the power-ups before they disappear.
+
+****
+TEAM
+****
+KingMike (http://kingmike.emuxhaven.net)
+ - everything
+
+***********
+WHAT'S DONE
+***********
+The title screen was the only thing to translate. Only two words to translate, two words to de-Engrishize.
+See, it was like a quiet afternoon, November 21, 2002. I drew the title and inserted it, but the tilemap
+was slightly compressed. Uncertain about compression at the time, I left it, until I forgot it.
+Suddenly, March 17, 2005. I just finished off the bulk of work on Kalin no Tsurugi, randomly
+searching my compuer, and I finally noticed this translation lying around. 
+So, I decided to ASM trace the game, and I figured out the compression, and got the tilemap fixed.
+And I save it for a birthday release.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+All you need to do is download any patch application program.
+Use something like Lunar IPS. Open it, then choose the patch, and the unhacked Japanese ROM. Then apply.
+If you've already run Lunar IPS once, all you need to do is double-click the patch, then choose the ROM
+from the prompt.
+
+****************
+EMULATION ISSUES
+****************
+The game is mapper 1 (Nintendo MMC1). So almost any emulator on the planet will support it.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+Control Pad - move characters
+Select - unused
+Start - start the game
+B Button - select powerup
+A Button - use powerup
+
+To start off with, push the control pad to start (I suppose it's worth nothing this is the only break you get
+in the game. Pause buttons are for wimps!)
+
+Run around the maze using the pad. You must completely rope off a power-up to obtain it. When all boxes are empty,
+you win the level. Collect a password after every 4th sub-level. There are 8 stages total.
+
+Power-ups:
+Apple - 100 points.
+Launcher - throw 2 at an enemy to temporarily stop it. Each powerup gives 20.
+L - Line? - Another ghost appears, extending your rope length.
+Speeder - each powerup increases the meter by 4.
+Stopper - ????
+House - Enter it to go to a bonus level.
+
+Passwords will save your powerups, thankfully.
+
+*********
+COPYRIGHT
+*********
+Chiisana Obake: Atchi, Kotchi, Sotchi is (c)1992 VAP.
+Translation (c)2002, 2005 KingMike.
+NO PRE-PATCHED ROM DISTRIBUTION. If you do, you're a real moron, y'know that?

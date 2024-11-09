@@ -1,0 +1,69 @@
+  ============================================
+  |                RAIJIN-OH                 |
+  |      English Translation Patch V1.0      |     
+  |            ©2003 PentarouZero            |
+  |         pentarouzero@hotmail.com         |
+  |       http://www.pentarouzero.com/       |
+  ============================================
+
+
+  ============
+  | The Game |
+  =============================================================================
+   Absolute Invincible Raijin-Oh (aka Zettai Muteki Raijinou) is a mech
+   fighting game for the Gameboy, and it's, well, bloody hard. I can't even
+   beat the first guy. Is it _really_ insanely difficult, or do I just suck at
+   it? Maybe it's an emulation problem - I'm definitely hitting that Kabirian
+   motherfucker, but it only occasionally takes a point off his life bar.
+   Anyway... the game appears to be based on an anime of some sort, and has an
+   incredibly generic story. Said anime is coming out on DVD in Japan next
+   year, so I suppose it (that is, the anime, not the game) might get an
+   english release at some point. That's all I have to say on the matter. Now
+   go and get your arse handed to you.
+  ============================================================================= 
+   
+
+  ==================
+  | Status/History |
+  =============================================================================
+   Version 1.0
+   Everything I could find in the rom is translated, although the intro could
+   use a rewrite. There may be some undone text or formatting problems - I was
+   unable to test it beyond the first battle, for the aforementioned reasons
+   of crazy-hardness.
+  ============================================================================= 
+
+
+  =========================
+  | Patching Instructions |
+  =============================================================================
+   Download an IPS patcher from somewhere like
+   http://www.zophar.net/utilities/genutil.html , and apply RAIJIN10.IPS to 
+   a clean Raijinou ROM image. Do not apply it to any other translation or
+   hack of this game.
+  ============================================================================= 
+
+  ================
+  | Known Issues |
+  =============================================================================
+   Nothing yet.
+  ============================================================================= 
+
+  =================
+  | Patch Credits |
+  =============================================================================
+   ROM Hacking: PentarouZero
+   Translation: PentarouZero 
+  ============================================================================= 
+
+  =========================
+  | Original Game Credits |
+  =============================================================================
+   © Sunrise/TV Tokyo
+   Game developed by Tomy.
+   Adviser: Y. Tomozawa
+   Designer: M. Tezuka
+   Sound: A. Mori
+   Programmer: A. Saiki
+   Thanks: K. Iijima, T. Nagaya
+  ============================================================================= 

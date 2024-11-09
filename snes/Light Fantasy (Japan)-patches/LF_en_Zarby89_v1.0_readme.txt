@@ -1,0 +1,31 @@
+Light Fantasy 
+English Translation Patch version 1.0
+
+Japanese Game Release Date: July 03, 1992
+Patch Release Date: July 07, 2023
+
+Author of the patch: Zarby89
+
+This patch translate all the texts in english.
+
+NOTE: 
+This is not a 100% accurate translation, Deepl, Google, ChatGPT have been used to translate the texts
+and manually edited to make them look better and match the contexts
+
+CRC32 ROM Needed for the patch: 17BBF914
+
+Information useful to know about the game :
+1) Save very often!
+2) There is an intro playing if you let the game sit on the title screen for a while
+3) You should follow the guide on gamefaqs https://gamefaqs.gamespot.com/snes/581812-light-fantasy/faqs
+4) You should use cheats and not feel guilty about it (at least the infinite RIL) like suggested in the guide above
+5) Save often!
+6) When choosing a name for a character you can use L and R to change page for english characters
+
+Tool used to make the patch
+Asar - to build the .asm files (can be used to patch the ROM select "LFENG.asm" when prompted to enter a file name https://github.com/RPGHacker/asar/releases/tag/v1.81
+beat - to create the .bps patch (can be used to patch the ROM with .bps file) https://www.romhacking.net/utilities/893/
+
+This translation patch also contains the ASM used to patch the english texts and also contains the JPMessages.txt file which contains all messages in JP
+feel free to reuse the ASM to re translate the game if that one is not good enough and also credit me on RHDN "Zarby89" ;)
+

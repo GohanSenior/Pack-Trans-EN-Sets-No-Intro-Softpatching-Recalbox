@@ -1,0 +1,79 @@
+======================================================
+==================Warwolf Chronicles==================
+=====================V1.00============================
+Genre: Action
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Pennywise/Eien Ni Hen
+
+E-mail: yojimbogarrett@gmail.com
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+Warwolf Chronicles aka Choujin Ookami Senki - Warwolf
+======================================================
+Background: 
+
+I guess if I could ever call a game complete crap, this
+would be the game. I find this game to be a derivitive
+of many different derivitives and what you end up having
+is this watered down piece of crap that has absolutely no
+originality. What I mean by derivitive is that the game
+seems to be a complete rip-off of several NES-era action
+games like Altered Beast, Mad City and Bad Dudes.
+
+I suppose the game has one interesting thing going for it
+that it was released in the US before it was released in
+Japan despite being developed by the Japanese. One of the
+differences you will find between this patch and the US
+version is no Americanized ending and much more text.
+It always seems like they have cut a lot of text to
+fit it into the game. Yeah, anyway this game sucks and
+I have to wonder whether anyone would truly enjoy it or
+not, but don't let me stop you from trying.
+
+======================================================
+Version History
+======================================================
+V 1.0 - Initial release
+
+======================================================
+Patching Instructions
+======================================================
+The patch must be applied to the Japanese version of
+the game, not the English one. Its:
+
+Choujin Ookami Senki - Warwolf
+
+Btw, if you find any bugs/mistakes, let me know!
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - main hacking, testing
+
+Eien Ni Hen - translation
+
+Paul Jensen - misc translation
+
+Sin Batsu - title screen graphic
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. October 2011.

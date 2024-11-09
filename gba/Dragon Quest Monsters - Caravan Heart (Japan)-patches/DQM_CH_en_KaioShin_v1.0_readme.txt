@@ -1,0 +1,264 @@
+-------------------------------------------------------------------------------
+ Dragon Quest Monsters: Caravan Heart                                  
+ English translation                                             Copyright 2008
+ Released on March 16, 2008        
+ The Translation Team 
+ http://kaioshin.romhacking.net   
+-------------------------------------------------------------------------------
+
+ 1. Project Overview
+ 2. Instructions
+ 3. Project History
+ 4. Instructions
+ 5. About the Game
+ 6. Translation Reflections
+ 7. F.A.Q.
+  
+-------------------------------------------------------------------------------
+
+ 1. Project Overview
+ 
+ Project Lead:
+ KaioShin
+ 
+ Hacking:
+ KaioShin
+ Kingcom
+ 
+ Translation:
+ Tom
+ 
+ Special Thanks to:
+ Djinn
+ Martin Korth
+ 
+ Beta Testing staff:
+ Neil, Crysta, Pennywise, Aerdan, Simpleton, I.S.T., Djinn
+ 
+ Thanks to:
+ D, FlashPV, Gemini, labmaster, Nightcrawler,
+ psxAuthor , Ryusui, ReBirFh, sunwukong 
+ The #ROMHacking.net channel
+ 
+-------------------------------------------------------------------------------
+
+ 2. Introduction
+
+ After almost 2 years of labor, many ups and downs, and more than a
+ good dose of stress and frustration, I'm proud to finally present a complete,
+ English translation for Dragon Quest Monsters: Caravan Heart.
+ 
+ It has been hard work, but it was also a work of dedication and love.
+ The whole staff that worked on this project invested hundreds of hours upon
+ hours into this game. We are proud of our work and believe that we delivered
+ a quality translation that doesn't need to hide behind commercial translations.
+
+ We hope you'll enjoy this excellent game as much as we did. Have fun!
+  
+-------------------------------------------------------------------------------
+
+ 3. Project History (Timeline)
+ 
+ March    2006    - Project started
+ May      2006    - Script dumped
+ June     2006    - Tom joins the project
+                  - Translation starts
+ July     2006    - Script translation completed
+ October  2006    - New website
+ January  2007    - VWF code working
+ December 2007    - Kingcom joins the project
+                  - Formatting completed
+                  - Script inserted
+ January  2008    - Menu hacking completed
+                  - Beta testing started
+ March    2008    - Project completion
+ 
+-------------------------------------------------------------------------------
+
+ 4. Instructions
+ 
+ The translation is being distributed as an IPS patch. You can apply it to a
+ clean ROM image of the game with an IPS patcher like Lunar IPS.
+ 
+ If you're going to play this translation on an emulator, we recommend no$GBA.
+ It's the most accurate GBA emulator and tested to work with the translation
+ perfectly. You will need a working GBA BIOS image for no$GBA.
+ VBA version 1.8.0beta or newer should run the game as well, but it's not
+ tested. Earlier versions will have timing problems that might result in
+ glitches during the game (for example a flickering world map).
+ 
+ The game has been tested on real GBA hardware too and runs fine. Depending
+ on your flashcart you might run into flickering on the world map though. At
+ the time of release we haven't investigated the issue too closely yet, but it
+ appears to be related to the flash card's speed. The translation has been
+ tested and confirmed to work flawlessly with an EZ-Flash V 3in1 Expansion Pack.
+ 
+ DO NOT ask us where to get the ROM or a BIOS image. You will be ignored and/or
+ banned from our sites. Obtaining a ROM image without owning the original
+ Japanese cartridge is illegal. If you pirate the game to use with our
+ translation, the translation team can't be hold responsible for your actions.
+ 
+ DO NOT distribute a pre-patched ROM image. DO NOT distribute our patch without
+ this release note file. We worked 2 years on this project, and demand at least
+ this much respect for our work. 
+ 
+ DO NOT use our work as a base for any other works (especially new translations)
+ without the translation team's consent. You can contact us through the 
+ project website and request permission and we'll gladly give it.
+ 
+-------------------------------------------------------------------------------
+
+ 5. About the Game
+ 
+ Dragon Quest Monsters: Caravan Heart is the third installment in the well
+ known Dragon Quest Monsters series. At the time of this translation's release,
+ it's the only game in the Monsters series that didn't  get an official English
+ localization.
+
+ Caravan Heart was the very last game published by Enix themselves, right before
+ they merged with Squaresoft. It's assumed that the game never saw an English
+ release due to the company's restructuring at that time.
+ 
+ Announced in 2002 simultaneously with Dragon Quest VIII, it acts as a sort of
+ prequel to Dragon Quest VII. The game follows Prince Kiefer on a grand
+ adventure in which he becomes the leader of a caravan. 
+  
+ Unlike the previous Dragon Quest Monsters games, the game isn't entirely
+ focused on monsters alone. The caravan is also filled with several human party
+ members, which will aid you in your quest. There are 22 different character
+ classes, with completely different abilities. Together with your guard
+ monsters, the game offers for a practically endless variety of possible 
+ strategies and formations.
+ 
+ The monster breeding of the previous game was reworked into monster
+ reformations this time. Instead of breeding new monsters you collect hearts
+ of defeated monsters and combine them to reform your monsters into new forms.
+ The system offers a great deal of freedom for experimentation and collecting.
+  
+ With nice graphics and a classical Dragon Quest soundtrack the game offers
+ everything a Dragon Quest fan could wish for. Caravan Heart has a lengthy main
+ quest that will keep you busy for at least 30-40 hours. After that you'll be
+ treated to a whole new quest in which you can easily spend over 200
+ hours and more.
+ 
+-------------------------------------------------------------------------------
+
+ 6. Translation Reflections
+
+ I had played and beaten Dragon Quest Monsters: Caravan Heart long before I
+ encountered Kaioshin's website. When I did, I knew that I had to lend a hand.
+ Translating an RPG is a huge task, especially one as big as Dragon Quest.
+ There seemed to be a lot of misunderstandings about this game. Most gamers
+ didn't even seem to know that the title of the game was Caravan -Heart-, not
+ "Caravan Hearts!" (It's a personal pet-peeve of mine!)
+
+ When I offered my help to Kaioshin, I did it under the condition of anonymity.
+ Still, I'm just an ordinary fan; I'm not involved with the industry or anything.
+ (Sorry, conspiracy theorists!) My name's Tom. I've done other translation work
+ under pseudonyms before, but there's no use in hiding under nicknames, really.
+
+ To be perfectly honest, I didn't want to get involved with the "community"
+ side of translating. I didn't want to have to answer to anybody, because
+ any translation is bound to rub people the wrong way. I really don't like
+ the bickering and nitpicking that goes on in the messageboards. I just wanted
+ to get this game running in English.
+
+ Doing this proved to be quite a difficult task. You may not realize how
+ much text is in this game while you play it, but there are variations on
+ practically every line spoken by the members of your caravan (depending
+ on their age, gender, and job).  This means translating the same line again
+ in 50 different ways... And that's only for one line! Sometimes, this felt
+ like a real test of will-power. It's not all fun storyline stuff!
+
+ A lot of sleepless nights went into this one, but fortunately I managed to
+ finish it rather quickly. The side effect of translating from midnight to
+ 3 AM was that there were some pretty embarrassing slip-ups now and then. I have
+ to thank the amazing debug team for doing such a great job not letting those
+ errors slip through the cracks.
+
+ I also want to address the issue of standardization, though. There have been so
+ many changes to the Dragon Quest series throughout the years that everybody has
+ a different opinion about what is the "right" way to go about translating it.
+ When Dragon Quest was first introduced in America as "Dragon Warrior," it was
+ full of medieval "thou hast's" and "would'st thou's"... Then it changed to
+ standard American English... And lately it has changed to British English...
+
+ We all saw monster names changed as Drakees became Drackys; Red Slimes became
+ She Slimes. (Not in this version, though!) So the question arose - what standard
+ should I use for this translation? The answer came from the story of the game itself.
+ It blends the old with the new... The translation does the same. Many of the names
+ will be familiar to fans of previous English releases from the Dragon Quest Monsters
+ games. Certain other elements of the new style can be seen as well... There are also
+ some unique terms and  names that haven't been seen before. The dialog is written
+ in standard American English.
+
+ I know that some people might be frustrated that they would have translated
+ a certain element of the game differently, but this would be the case for
+ any translation style. There will always be disagreements, but the bottom line
+ is that what seemed to be a lost cause is now finally in English for you to enjoy.
+
+ I hope that you enjoy it.
+
+ 7. Frequently Asked Questions
+ 
+ - How did you choose the monster names?
+ 
+ As with every Dragon Quest translation, many people will surely make a great
+ fit over monster naming. Since the game was the last by Enix, we wanted it to
+ have the feel of a classic Dragon Quest game. The monster names are
+ therefore based on the ones used in the first 2 Dragon Quest Monsters games.
+ Where names had been very obviously shortened due to space constraints we 
+ retranslated them as we saw fit (You will see Bubble Slimes and not a Babbles).
+ The names are not open for debate. If they are a big issue for you, end your
+ pain by jumping off the next tall bridge.
+ 
+ - The Text Speed Option is broken!
+ 
+ No, it isn't. It doesn't affect the normal dialogs, what it adjusts is the
+ speed with which the battle messages scroll automatically. If you set it to
+ 8, the game will wait for a button press before it shows the next message
+ every time
+ 
+ - I found a typo/grammar error.
+ 
+ It happens. The game is huge and full of randomness. We'll never be able to
+ test it 100%. We did test it to 99,99%, but we're sorry for the remaining
+ 0,01% regardless. Send me (KaioShin) a personal message on the
+ romhacking.net message board and I'll have it fixed in case there will ever
+ be a update to the patch. Make sure you know what you are talking about though.
+ 
+ - Will there be an update patch?
+ 
+ That depends. If a substantial number of problems are found we'll probably
+ release an updated patch later on. If there are only 2 or 3 bugs found, we
+ won't bother. Given the size of the game and the amount of randomness, I'd
+ say it's likely there will be an update some day.
+ 
+ - I found a place were the dialog window wouldn't disappear after the 
+   dialog was finished.
+ 
+ Yeah, we know of two places in the game with this error. It's from the original
+ game. We didn't fix it, because we didn't want to decipher the whole event code
+ just for these two boxes.
+ 
+ - There was some text flickering on the skill selection screen
+ 
+ This can happen, we are unsure about how rare/common this issue really is. Our
+ VWF code is too slow in these situations, since the game redraws the whole
+ text in VRAM on every single frame. The flickering occurs when the game can't
+ finish drawing one frame when the next comes up. We already optimised our VWF
+ code extremely well, due to the way the game works we just can't improve it
+ anymore. We currently assume this issue is pretty rare.
+ When we get a new idea on how to resolve this issue it might be fixed in a
+ later revision of the patch.
+ 
+ - Luin's hair changes to black when I enter certain areas
+
+ This glitch is present in the original game.
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,56 @@
+Wizardry Empire
+Version 1.03
+10/20/2019
+
+Credits
+MrRichard999 - Hacking & Project Lead
+Rainponcho - Hacking/ASM Work/Re-Working & polishing of project (Fixed a lot of stuff and made it all 100%)
+PaintMyProblems - ASM Fixes for recruitment characters in the dungeons
+Helly - Lead on Translations
+AgentOrange - Translations
+Mark Patraw - Spell/Item/Enemy Translations
+GamerHenky - Script Revision/Extensive Testing and Bug Finding
+Demilich - Script Revisions & Testing
+Pacnsacdave - Title Screen Graphics
+
+Update notes foir Version 1.03
+- Fixed critical issue with recruitment of dungeon characters locking up.
+
+This bps patch includes:
+- Full English translation
+- Re-naming of magic to traditional Wizardry naming
+- ASM fixes to windows and dialogues
+- Japan bug fixes
+
+1. First download a beat (bps) patcher tool.
+
+http://www.romhacking.net/utilities/893/
+https://byuu.org/tool/beat/
+
+This tool prevents gamers from making patching mistakes.
+
+And it ensures the creation process worked correctly.
+
+2. Run the beat program and apply the included bps file.
+
+  Japan game: "Wizardry Empire (Japan) (Rev A).gbc"
+
+  !! It should be an original, unpatched rom !!
+
+  If you get an error message, then your Japan rom is incorrect.
+  Or you should re-run the beat patcher again.
+
+  Original Japan MD5: FCF910E4D2F27BAB40244EB7BF4AA2D3
+
+3. If all goes well, you will get a successful patching message.
+
+   Enjoy the game in an emulator or real handheld device.  
+
+4. Caution: applying other people's hacks and addendums may
+   create errors in your game. Doing so will void your complaints
+   and bug reports.
+
+5. To Wizardry fans, enthusiasts - please enjoy this group effort
+   by the romhacking community.
+
+   Be sure to check out our other Wizardry projects.

@@ -1,0 +1,142 @@
+                              The Black Bass (J)
+                          English Translation Patch
+                 by GAFF Translations (pluvius3 @ gmail.com)
+                       v1.00 (Created August 16, 2017)
+--------------------------------------------------------------------------------
+
+
+*TABLE OF CONTENTS*
+ -----------------
+
+I.    VERSION HISTORY
+II.   INTRODUCTION
+III.  INSTRUCTIONS FOR USE
+IV.   KNOWN BUGS
+V.    CREDITS
+VI.   TECHNICAL NOTES
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+
+
+********************
+I.  VERSION HISTORY
+********************
+
+v1.00 (08-16-17):  First release.
+
+
+******************
+II.  INTRODUCTION
+******************
+
+This is an English translation patch for The Black Bass, published for the
+Famicom in 1987 (as a port of an MSX version) by HOT-B.  This should not be
+confused with the game of the same name that Westerners got (also known as The
+Black Bass USA), which was actually a localization of the sequel, The Black Bass
+II.  As you might expect, this is a fishing game where the object is to catch as
+many bass as possible within a day on each of the five maps which are based on
+real Japanese locations.  There are other fish that can be caught as well,
+including a mermaid, though this only counts for bragging rights.  This first
+game is inferior to its sequel in most respects, but it is also quite a bit
+easier as you are only judged on total weight caught rather than the average
+weight, and big fish don't seem much harder to catch than small fish.  Despite
+the niche value of this game, its sequel was something of a cult classic in
+certain circles, so there might be some interest in this one out there.
+
+As with the previous patch for Mississippi Satsujin Jiken, this patch was made
+as part of Psyklax's project to translate early Famicom games.  While The Black
+Bass has much less text than the previous game, the hacking was somewhat more
+complicated for various reasons mentioned below and even gave me the opportunity
+to do some novice C coding.  Therefore, I spent about the same amount of time
+making this patch as I did the previous one.
+
+
+***************************
+III.  INSTRUCTIONS FOR USE
+***************************
+
+1.  Download and install Lunar IPS or a similar IPS patcher if you haven't
+    already.
+	
+2.  Get a copy of the Black Bass (J) ROM.  No, I don't know where.
+    The correct ROM is identified by GoodNES 3.23b as the verified good dump.
+	
+3.  Apply the desired patch to the ROM using the aforementioned IPS patcher.
+
+
+****************
+IV.  KNOWN BUGS
+****************
+
+None at this time.  The numerous bizarre graphical glitches during the fishing
+segments are all original to the game AFAIK.
+
+
+***********
+V.  CREDITS
+***********
+
+Rob "Pluvius" Browning: Hacker, translator, editor/tester
+Special thanks to filler for help with a place name.
+
+
+********************
+VI.  TECHNICAL NOTES
+********************
+
+There isn't a whole lot to say about this one, even though it was more time-
+consuming than you'd expect from the amount of text.  The most notable oddity
+is that the pointers are six bytes long: the first byte gives the length of a
+line, the second gives the number of lines, the next two give the PPU address
+where the text is printed to the screen, and the last two are the actual pointer
+to the text.  Some pointers also had padding bytes between them, making the
+spacing unpredictable.  This required me to write a custom dumper in C to get
+the main script.  I had already written a dumper for another Famicom game a long
+time ago, so doing this was relatively quick but still educational.  I also used
+Cartographer for the fish names and weather types since they were listed in
+their own simple tables.  I did not write an inserter since that seemed to be a
+more difficult endeavor and Atlas was robust enough to handle the game's
+eccentricities without too much trouble.
+
+The main hack as usual was a DTE routine, which in some ways was overkill but
+was absolutely necessary at least for the fish names.  The most troublesome part
+of the hack was tying it into the text routines, since there were mutliple ones
+that sometimes behaved differently from each other.  The way that the main
+routine counted characters in a line and handled multiple lines also had to be
+taken into account.  On the bright side, translation and playtesting were pretty
+quick due to the game's simplicity.
+
+
+****************************************
+VII.  ACKNOWLEDGEMENTS AND CLOSING WORDS
+****************************************
+
+Thanks to:
+
+HOT-B, for developing and publishing this game.
+
+Nintendo, for making the system this game runs on.
+
+Psyklax, for working on translation hacks of early Famicom games and inspiring
+me to do this one.
+
+Klarth and RedComet, for creating Atlas, Cartographer, and ScriptCrunch, three
+script utilities that made editing the main block of text very much less
+tedious.
+
+The developers of FCEUX, the very useful debugging emulator which I used for
+this entire project.
+
+Romhacking.net, for hosting this hack and many others like it, as well as
+providing useful hacking information.
+
+The NESDev Wiki, the premier resource for NES hacking information.
+
+And, of course, you for reading and playing.
+
+Questions, comments, criticisms, and bug reports can be sent to
+pluvius3 @ gmail.com (without the spaces obviously).  Please put "The Black Bass
+(J)" or something similar in the subject line so I will know what the email is
+about.  If you alert me to a bug, I will fix it in a future update and give you
+credit.
+
+Copyright 2017 GAFF Translations, all rights reserved.

@@ -1,0 +1,41 @@
+Shin Megami Tensei: Devil Children
+Black Book Fan Translation
+
+Instructions: Use Lunar IPS or similar to apply the patch.
+Status effect text and title screen logo are not translated.
+
+Postgame Passwords:
+You can unlock special demons (251-255) using passwords. To do so, go to Central Land
+and enter the apartment complex in the northeast of Central Town. Each password must
+be entered at a special location. Make sure you have space in the VineCenter in order
+to access them; use the storage disk to make room for them.
+
+Password List:
+BEHEMOTH
+-Unlocks Behemoth (#251)
+-Examine the bottom right wall below the cushion in the room on the left, facing right and press A
+LEVIATHAN
+-Unlocks Leviathan (#252)
+-Stand below the bed in the room on the left, facing left toward the wall and press A
+IKKAKUDRAGON
+-Unlocks Ikkaku Dragon (#253)
+-Stand in front of the window in the room on the right and press A
+GABRIEL 
+-Unlocks Gabriel(#254)
+-Stand below the glass table on the right side in the room on the right, face the wall, and press A.
+METATRON
+-Unlocks Metatron (#255)
+-Stand below the bed in the room on the left, facing up toward the bed and press A
+
+Version History:
+v1.2
+Fixes the Marble Land bug after the ball
+v1.1
+Minor script fixes; fixes the text box error in the third ending and the text for Odd Box in the pyramid.
+v1.0
+Initial release
+
+Credits:
+-Higsby: Translation
+-SpecialAgentApe: Hacking/script editing
+-kkzero: Misc hacking

@@ -1,0 +1,76 @@
+RPG Jinsei Game Translation
+
+Contents:
+
+1. Foreword
+
+2. Game description
+
+3. Translation notes
+
+4. Hacking notes
+
+5. Disclaimer
+
+6. Staff and special thanks
+
+7. Contact
+----------------------------------------------------------------
+
+1. Foreword
+
+Hello!
+
+This is one of the spontaneous projects we did on the spur of the moment, as the saying goes. RPG Jinsei Game is a Japan-only role playing game for the Family Computer that is similar to Jinsei Game, which is the Japanese version of The Game of Life. We decided to check it out due to its odd premise and uniqueness. It's a charming little RPG/gambling game/board game hybrid, where you need to find your way around various cities (mostly located in Japan, with a few exceptions) and find your true calling. It has some fun moments and overall it's something we've never seen on the system, so we hope you end up enjoying it too!
+
+2. Game description 
+
+(some part of the description taken from Wikipedia)
+The object is to explore a city full of stores, places of employment, and learning places. Starting from the hotel (where one can also save), the player must earn money and statistics in order to unlock the better features of the game, and move the plot forward.
+Unlike most games based on the Jinsei Game series, RPG Jinsei Game doesn't use a spinner system. Instead, the controller pad is used for movement and random encounters are featured like in Dragon Quest. The player can also talk to strangers who might either give him/her advice or do something malevolent to him/her. As in the actual Game of Life board game, the player has to choose from a series of careers ranging from a musician to a photographer and even a professional wrestler. Most of these tasks are mundane while some of the quests directly involves chasing down unidentified flying objects, fighting a bear or having a dance-off. Buildings that are crucial to the quest (other than shops and learning places) can be fully explored; otherwise the player simply talks to the resident.
+To gain statistics, one has to pay in the learning places (there are 4 of them, each raising one stat), or engage in the random encounters and spin the roulette to gain some stats, in order to win the "battles" before him.
+Overall, this is a rather unique blend of an RPG game with certain features from a board game. 
+
+3. Translation notes
+
+It's worth noting that some bits had be slightly trimmed - mostly in the menus - to fit the available space. The game itself has some vocabulary from various walks of life (business, dancing/entertainment, photography, police work etc.), which makes us think that it was intended as an educational title for Japanese kids to some extent. It also has quite a few nods to Japanese culture, since about 90% of the game takes place in Japan.
+(from TheMajinZenki): Translating this game was a different type of challenge. Translating it wasn't difficult per se; the difficulty came from having a very limited amount of space on screen, and having to fit what was being said in the same number of dialogue boxes (which were in most cases only one). Different than usual, but now I understand the difficulty the translators of the NES era had when porting games for the West. Other than that, it's a cute little game. Not a major adventure to save the world, this is just normal people doing (somewhat) normal things, but the plot remains funny (if you can get over the constant interruptions). I hope you can enjoy this RPG take on the Game of Life. ;)
+
+4.Hacking notes 
+
+This game is notable for me due to a shift towards more automation and more ASM hacks, but also for the first time adding a compression routine for inserted text that wasn't in the game originally.
+
+ OK, "compression" would be a HUGE exaggeration here, considering that I just added a simple dictionary algorithm that saved us enough space with ease. Why did I do this in the first place? I initially had problems when trying to expand the ROM - it was glitching badly afterwards. I didn't know it's because of some other reason and not because of the extension itself. But by the time I learned about the reason for glitches, I had already explored possibilities to squeeze the text and decided not to extend the ROM size. The reason for glitches was pretty simple and kinda dumb - the most widespread version of the game ROM has incorrect mapper information in its header. Or, rather, an outdated bit of information. ROM header utilizes mapper 4 (MMC3), while the actual game was made for mapper 118 (a variation of MMC3) and emulators decide a correct mapper based on game's checksum, which, of course, changes on any ROM modification. So I just changed the mapper number in the header and the problem was quickly solved.
+
+ Other interesting thing is that the game has its text stored in one big block with a relative pointers table that uses pretty straightforward and simple bank switching based on calculated offset. And also, its PRG ROM has many "holes" that allowed me to store pointers and dictionary with relative ease. Such a good and easy way to work! I wish more games would be like that. :-)
+
+ Overall, it feels like the game was made by the amateurs or just inexperienced programmers; a few places allowed me to save space just by rewriting the original code in a more compact way without any consequences.
+
+5. Disclaimer
+
+This translation is a non-commercial and unofficial project which is in no way affiliated with the game creators or distributors. We don't own anything here and have no copyrights.
+
+We release this translation in the form of an IPS patch, not the actual ROM. Please, don't ask us to send you the ROM, or where you can find it - we can't help you with that.
+
+You can redistribute this translation freely as long as you don't ask money for it and include this readme.txt file with it. We don't condone any form of commercial redistribution. Please, keep that in mind.
+
+6. Staff:
+
+Celcion       - hacking
+
+TheMajinZenki - lead translator 
+
+cccmar        - initial testing/spot translation/script editing
+
+Miralita      - a few finishing touches
+
+Special thanks go to:
+
+- guys from the ROMhacking.net forum 
+
+
+7. Contact:
+
+celcion - celcion@gmail.com
+
+cccmar  - cccmar111@gmail.com

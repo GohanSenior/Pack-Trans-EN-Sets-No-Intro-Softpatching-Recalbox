@@ -1,0 +1,129 @@
+==================Sunshine Angel Marlowe==============
+==================~Panic in Bloomland!~===============
+=========================V1.01========================
+Genre: Puzzle/Misc
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+Angel Marlowe
+======================================================
+Background: 
+
+First and foremost there is already a translation for
+this game that was released about a year ago from the
+release of my patch. That said, I had been planning on
+using the game to familiarize myself with the GB hardware
+and the various debugging tools available for it.
+Because my patch has a few things the other patch doesn't,
+an english title screen and 4 lines of text per screen,
+I feel it adds enough to warrant a release even if it
+is slightly redundant. I must also point out that I
+used Evolutions and Silenthal's translations as a
+base/reference for my translation.
+
+Anyway, this game is perhaps one of the oddest games
+I've come across featuring a reference to Raymond
+Chandler's famous PI character Philip Marlowe.
+The game of course has nothing to do with the character
+and universe or noir in general making it quite bizarre
+to see.
+
+======================================================
+Version History
+======================================================
+V 1.0 -  Initial release
+V 1.01 - Translated cast credits
+
+======================================================
+Game Tips
+======================================================
+*If you beat the game on Hard difficulty, you get an
+alternate credits sequence featuring the cast names
+of all the games characters.
+
+*The game also has a handful of passwords that do
+various things. They are:
+
+AUDREY - Unused
+ASTAIRE - ?
+BERGMAN - ?
+SOUND - Enables sound test mode
+MCQUEEN - ?
+BOGART - ?
+DEAN - Bring you to normal ending
+MONROE - Bring you to hard ending
+======================================================
+Patching Instructions
+======================================================
+I've included two patches, IPS and BPS. For BPS,
+you need to download byuu's patcher.
+
+These are some of the links where you can download it.
+The patching process is the same as IPS.
+
+http://byuu.org/programming/
+http://www.romhacking.net/utilities/893/
+http://www.smwcentral.net/?p=section&a=details&id=5917
+
+Apparently beat has issues working on XP, but I've been
+told the third link works on XP.
+
+Apply the patch to the original Japanese version of the
+ROM:
+
+Taiyou no Tenshi Marlowe - Ohanabatake ha Dai-Panic (J)
+
+Btw, if you find any bugs/mistakes, let me know!
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+Gameplay Instructions
+======================================================
+Since pretty much everyone will be playing the game
+in an emulator, you will notice a constant flashing
+during gameplay that is really annoying. I do not
+know how it works on other emulators, but on BGB
+go to Options -> Graphics and check "Mix Current
+and last frame" and the flashing will stop.
+So unless you want to have a seizure or something,
+do as I have said.
+=======================================================
+
+Credits go to:
+
+Pennywise - main hacking, testing
+
+Evolutions/Silenthal - translation
+
+BRPXQME - misc translation
+
+Cargodin - credits translation
+
+Zynk Onyxhyde - credits translation
+
+Sin Batsu - title screen graphic
+
+ReyVGM - misc graphic
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. March 2014.

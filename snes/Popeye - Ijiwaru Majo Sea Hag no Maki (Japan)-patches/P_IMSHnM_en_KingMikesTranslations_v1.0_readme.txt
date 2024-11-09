@@ -1,0 +1,134 @@
+KingMike's Translation
+http://kingmike.emuxhaven.net
+
+kingmike2001 AT hotmail DOT com
+
+Popeye - Tale of Teasing Witch Sea Hag
+Patch v1.0
+Release date: 12/25/2008
+*********************************************
+Original Language: Japanese
+Original Title: Popeye - Ijiwaru Majo Sea Hag no Maki
+*********************************************
+
+This is a platformer/board game based on Popeye, of course!
+
+The witch Sea Hag has plotted to stop Popeye once again,
+this time by turning Popeye's friends to stone.
+His friends hearts' have floated away, attracting
+General Blozo. Blozo plots to have everybody steal
+the hearts for the military, paying them to do so.
+
+Can Popeye save his friends?
+
+This game was developed by Technos in Japan and America,
+but for some reason was never released outside Japan.
+That's too bad, as it is one of the better cartoon-based
+games.
+
+*********************************************
+Thanks to
+
+ SamIAm - translation
+*********************************************
+Contents of package.
+ Pop-eng.ups	:UPS format Japanese-to-English translation patch.
+ Pop-eng.ips	:IPS format Japanese-to-English translation patch.
+ Popeye10.txt	:this document.
+*********************************************
+Emulation Status:
+ Any good SNES emulator should support this.
+ I haven't tested this on a console, but I don't see any reason
+ it wouldn't work.
+
+*********************************************
+What's done:
+ - Almost everything.
+
+What's left:
+ - Character names for the passwords. Might be a bit of work,
+   as it seems tiles are reused, contrary to previous thought.
+ - As you may notice, there were timing issues with the ending.
+   I've made the delay between strings VERY short, so as to fit
+   all the text in before it cuts to the credits.
+   While it seems to work out, as most events are timed to the
+   text, a couple events aren't, and I don't think I can
+   easily fix them.
+
+*********************************************
+How to patch:
+
+It'd be better to use the UPS format patch.
+ - Download tsukiyomi from byuu.cinnamonpirate.com
+ - Click Apply Patch to an Existing File
+ - Choose the UPS file and the ROM as requested, click Apply Patch.
+
+But if you have to use IPS, I'd suggest LunarIPS.
+
+PROPER ROM:
+ - 1.5MB, CRC: F9171003, NO HEADER.
+
+*********************************************
+How to play:
+ Initially, the opening story will appear. You can watch, or press Start to
+   go to the title screen.
+ At the title screen, press Start, then choose Start to begin a new game,
+   Pass Word to continue an earlier game. (Passwords are given after finishing a stage.)
+ Then choose a 1 or 2 Player game.
+ Choose Options to go to the Options menu. You can change the button settings, listen
+  to a sound test, or choose stereo/mono sound.
+ Default controls:
+  D-Pad - Move
+  Select Button - Press on the map screen and you can scroll with the D-Pad. Press again to return.
+  Start Button - Pause in a level.
+  A Button - Unused
+  B Button - Jump during a stage or cancel on the map screen.
+  X Button - Use a special anchor.
+  Y Button - Attack with the anchor, or confirm choices on the map screen. Hold in a stage to run.
+  L/R Button - Choose a special anchor.
+
+ As a stage begins, you will be shown where all the hearts are on the map. Count them. That is
+  how many you must collect before Bluto will appear on the map. Fight Bluto to finish the stage.
+ On the map, you can press Select if you would like to scroll the map. When you're ready to move,
+  press the Y Button to roll the spinner. Press Y again to stop, or it will eventually stop itself.
+ Then use the D-Pad to move. You can retrace steps to undo moves.
+ If you bump into an enemy, you will fight them. They are also after hearts, so you will have to
+  fight them to retrieve the hearts they've collected.
+ (PROTIP: While scrolling the map or spinning, you are immune to encounters. Spam this if an enemy
+  you don't want to fight approaches! After you've finished rolling, you can't spam-scroll,
+  though.)
+
+ Some of the special anchors:
+  Fly - Popeye grows a propeller. You can fly around the stage.
+  Frog - Popeye can walk through narrow passages safely (Popeye can try to slide, by pressing
+   Down while running. But if he doesn't make it through, he'll hit his head on the ceiling and
+   lose a life.)
+   Like Mario 3, you can also swim better as a frog.
+   You can press Y to lick the enemies.
+   However, frogs also have one-hit deaths.
+  Wheel - Popeye can roll through the stages, attacking enemies who cross his path.
+
+ Items:
+  Coins - Trade 100 for an extra life, or spend them on the map.
+  Popeye Doll - An extra life.
+  Hearts - Gotta catch 'em all! :P
+  Turkey - Recover all health.
+
+ Spaces on the board:
+ White tile - usually nothing, maybe a Bluto encounter (you must avoid him on three passes).
+ Blue tile - usually positive effects (free moves, health recovery).
+ Red tile - usually negative effects (damage, forced movement across the board).
+ Turkey - visit the Rough House. For 5 coins, you can have a free turkey
+ Anchor - You can buy random special anchors.
+ Casino - Play the slots!
+ Stages - If there's a heart on the map, be sure to find it in the stage!
+
+*******************************************
+Popeye - Ijiwaru Majo Sea Hag no Maki
+	(c) 1994 Technos Japan/America
+
+English Translation:
+	(c) 2008 KingMike
+
+No distributing the patch with ROM, either pre-patched, or in one zip.
+That's wrong.

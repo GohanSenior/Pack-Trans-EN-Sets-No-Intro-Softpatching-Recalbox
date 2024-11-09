@@ -1,0 +1,41 @@
+Adventure of Valecule
+Version 1.00
+Some Good Shit Translations
+
+,,,,,,,
+|STAFF|
+'''''''
+Hackers: Darian Kondura & Patrick Higgins
+Translator: DDS
+
+,,,,,,,
+|ABOUT|
+'''''''
+
+Darian Kondura originally started to work on this rom to improve his
+new found ROM hacking skills. After 3 days of work he gave me the ROM
+to help him hack one part of the game he was having some trouble with.
+I ended up hacking a bit more than that too teach Darian some
+techniques. He had to pick a Namcot game programmed by a bunch of
+monkeys :P This ROM used Ballzy tables which are sorta new to me too so
+we both learned something out of this project. Script dumps were not
+required as there is very little text in this game. So DDS just
+translated some screenshots and that was that. This project took only a couple weeks to complete so don't expect some epic RPG here, just some weird action/RPG type game with barely any text. This project was just for educational purposes but we're distributing it anyway :) Enjoy!
+
+,,,,,,,,,,,,,,,,,,,,
+|APPLYING THE PATCH|
+''''''''''''''''''''
+
+Use either IPS.EXE or SNESTOOL both available for download at
+http://rpgd.emulationworld.com to apply the patch to the ROM. Make sure
+the patch and the ROM are in the same directory along with your 
+patching utility and follow the steps to apply the patch. If you are
+having any difficulties consult the readme for the patching utility.
+
+,,,,,,,,,,,,
+|DISCLAIMER|
+''''''''''''
+
+This patch is not be traded or sold for any goods or serviced. It is 
+strictly freeware! Namcot does not endorse or support this patch in any 
+way. This patch was created by Some Good Shit Translations. ph34r.

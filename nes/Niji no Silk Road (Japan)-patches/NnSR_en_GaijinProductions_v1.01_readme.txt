@@ -1,0 +1,104 @@
+Rainbow Silkroad  3-2-99 (public release 2-7-99)
+------------------------------------------------
+English Translation version 1.01
+--------------------------------
+from Gaijin Productions (of CTC)
+by Translator/Romhacker Musashi
+   Special Romhacking Assistance from MadHacker
+
+Version 1.01
+------------
+-Warning.txt added to zip, a crash prevention measure
+
+Version 1.00
+------------
+-100% of the Game text is translated
+-All commands, items, weapons, armors, goods, and enemies translated
+-Title Screen translated
+-Window borders graphically retouched
+
+
+
+About the Game
+--------------
+You have just learned that you are a prince from a small kingdom off of the 
+Silkroad called Littleland.  When you were young evil forces conspired against
+your family resulting in your parents' demise.  Fortunately, a loyal family 
+retainer, Radley, was able to whisk you away to safety and left you in the care 
+of the old family wet nurse.  Now you must find the pieces of the Rainbow Mirror
+scattered across the Silkroad in order to return home.  Armed with this item you
+will be able to reveal the truth and reclaim your kingdom.
+
+The game has a strong commerce element.  You must trade goods in the cities along 
+the Silkroad.  You have access to several basic goods/commodities in the beginning, 
+but as you fight you earn License Points (LP) which allow you to earn a new License 
+for the area you are in.  A License permits you to trade a good you previously 
+never had access to before.  You do not gain levels either.  Instead as you make 
+money you buy new arms which increases your strength and total HP.
+
+
+About the Project
+-----------------
+This was the first romhacking project I ever attempted.  At the beginning of summer of 
+1998 I left for home and decided to learn try my hand at NES romhacking. All I had were
+tools and utilities gathered from various sites and all the romhacking docs I could find.
+I tried for a few days then gave up finding it tedious and having to start my summer job.  
+I had made very, very little progress.  Two weeks before having to return to college my 
+summer job ended.  I decided to try my hand at Silkroad again.  A little into it I decided 
+to start over and in those two weeks I had successfully translated 15% of the game.  
+However I had done this without a script dump and a disgustingly huge amount of "two 
+letters in one tile" combinations.  Well after that I had a few people playtest this alpha 
+and MadHacker did some great enhancements but after all this I left the project on the shelf.
+
+Then winter break hit (December 19th I think).  The week before it began I decided to learn 
+ver basic script dumping and using Jair's utility Script Extractor (yeah, I'm one of 
+the few who doesn't use Thingy) I had dumped the entire script as well as several lists.  
+I went home and booted up the old 486 and started all over again.  A couple of days 
+before winter break ended (January 19th) I had completed all the translating and romhacking.
+
+I returned and look for playtesters.  I found a few willing to do so and sent them the beta. 
+As time passed they sent me bugs and fixed those up.  I also had some fantastic assistance from Madhacker.  He did wonders with expanding certain areas I couldn't.  Now, into the 
+beginning of February, Wampus reported in being the first and so far only (besides myself) 
+person to finish the game.  Well this project has waited long enough so here it is, Rainbow Silkroad released...
+
+I've worked long enough on this one and there are only a few buggy things left.  The enemies 
+Cpede and Mpede have yet to be changed.  It's easy enough to do it but I'm lazy.  Also the
+store sign bother me but that's how they were don in the Japanese version.  If I had 50 or so 
+extra tiles free i could replace the letters with graphic signs but i don't.  Finally the
+buy/sell options are condensed.  I've done everything I can but can't expand it unless I
+sacrafice something else so that stays.  Well that's it.  If there's text error tell me, if 
+you want to complain I don't want to here it.
+
+Thanks
+------
+-Everyone at CTC for their support
+-MadHacker for his invaluable help
+-My Alpha Playtesters:
+	Wampus
+	Cybergen
+	Jandar
+	Gravedancer
+_My Beta Playtesters:
+	Wampus
+	Wildbill
+	Jair
+	~* aStROcReEp 2000 *~
+	Efaria
+	Toma/Hello Keroppi
+	(Hope I got everyone)
+-Taichou, for providing webspace for the Gaijin Production site
+-My tools: Script Extractor (by Jair), Hex Workshop, Nesticle 0.42, and SNEStool
+
+Contact
+-------
+To contact me, Musashi of Gaijin Productions, e-mail me at:
+musashi007@hotmail.com
+
+Visit Gaijin Productions at:
+http://taichou.dynip.com/Gaijin/Gaijin.htm
+
+Or if that site goes down for good (which I very seriously doubt) try:
+http://members.tripod.com/~Musashi007/Gaijin.htm
+
+Also visit the Confederated Translation Company, of which Gaijin Productions is a member:
+http://members.xoom.com/ctctrans/

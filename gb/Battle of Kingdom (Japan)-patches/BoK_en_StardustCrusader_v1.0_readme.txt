@@ -1,0 +1,72 @@
+=======================================================
+=====================Battle of Kingdom=================
+==========================V1.00========================
+Genre: Action
+
+Source language: Japanese
+
+Platform: Gameboy
+
+Patch language: English
+
+Author: Pennywise
+
+E-mail: yojimbogarrett@gmail.com
+http://yojimbo.eludevisibility.org/
+ 
+======================================================
+About Battle of Kingdom
+======================================================
+Background: 
+
+I really can't say much about the game other than it's
+by an obscure trio of Japanese devs. It only took maybe
+an hour or so of work to get the little bit of Japanese
+text into English. In the past I have said that translation
+requests by non-hackers etc was pretty stupid etc and
+that I chose my own projects based on my own trials.
+Well, this project came about from a harmless translation
+suggestion from the forums that I followed up on, so I'm
+a big hypocrite.
+
+======================================================
+Patching Instructions
+======================================================
+The patch is IPS, BPS or xdelta format.
+You can find a program to apply any patch from here:
+
+http://www.romhacking.net/utilities/1040/
+http://www.romhacking.net/utilities/598/
+
+Apply the patch to this ROM:
+
+Battle of Kingdom (Japan).gb
+
+We would be highly grateful, if you find some time to 
+contact us with proposals or corrections. Information
+on found bugs or corrections would be highly 
+appreciated.
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+Pennywise - hacking, text editing
+
+aishsha - misc translation
+
+Ryusui - misc translation
+
+rainponcho - special thanks
+
+======================================================
+Compiled by Pennywise. May 2017.

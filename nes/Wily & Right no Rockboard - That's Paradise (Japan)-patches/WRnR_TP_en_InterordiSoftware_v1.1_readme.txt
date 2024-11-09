@@ -1,0 +1,128 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  R O C K B O A R D   T R A N S L A T I O N
+    P A T C H   V E R S I O N   v 1 . 1 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ I N T R O D U C T I O N
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Greetings, fans of foreign games! This project, now completed, allows you to 
+play the Japanese-only game Rockboard, originally released for the Famicom 
+(known as the NES overseas). You need two files in order to translate the game: 
+the game ROM itself, in .NES format, and the translation patch, in .IPS format. 
+You'll have to find the ROM by yourself: we'll NOT send it to you. If you need 
+an IPS patcher or some basic instructions, please visit the project page on the 
+Mega Man PC Website: Dr. Cossack's Lab at http://www.interordi.com/mega_man_pc/.
+
+Inside the file archive, in ZIP format, you'll notice that there are two 
+patches available. The first, rockboard_e.ips will turn Rockboard into a full 
+Mega Man experience by using the names used in Mega Man 1 to 6. The second, 
+rockboard_j.ips, sticks closer to the original Rockman names. This allows you 
+to go with the universe you're the most familiar with.
+
+The translation is not perfect, but then, that's the case with any project. 
+Being a NES game, Rockboard has little room available to fit the text. As such, 
+several sentences had to be adapted to fit within the allowed space. A few 
+abbreviations had to be used, but not as much as seen in the Battle Network 
+games. Also, the goal of this project is to make the game playable and
+enjoyable, and not to provide a 100% faithful translation. As a result, some
+sentences were modified to be easier to understand within the context of the
+game.
+
+IMPORTANT NOTE: You must apply this patch over a non-translated version of the 
+ROM, and not over a previous installation. Otherwise, your file might get 
+corrupted.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ H I S T O R Y
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+v1.1
+- Some misleading descriptions were changed
+- A few missing lines of text were translated
+- A sentence that wouldn't display properly now shows up as expected
+
+v1.0
+- Everything should now be 100% translated!
+
+v0.16
+- The results screens are translated.
+- The character endings for the first level are done.
+- More in-game text has been changed.
+
+v0.10
+- The title screen is now completely in English.
+- Some of the in-game menues have been translated.
+- The Met Race game has been given a custom font and is now fully translated.
+- Some of the setup menues text as been improved.
+- A small part of the in-game text has been changed.
+
+v0.06
+- First release.
+- Most of the setup text is done.
+- The character names have been translated.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ P R O J E C T   T E A M
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Dr. Cossack: ROM hacking, project leader
+Servbot #20: General help, tips, etc.
+Guillermo: Early text translation
+Elaine: Main translator
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ C O N T A C T
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+To learn more about this translation, or if you only want to visit a nice, 
+friendly Mega Man website, visit the Mega Man PC Website: Dr. Cossack's Lab: 
+http://www.interordi.com/mega_man_pc/
+You can also check on Dr. Cossack's other projects on Interordi.com: 
+http://www.interordi.com/
+Elaine's other translation projects are available on Rockman Tanjou: 
+http://tanjou.northmark.net/
+Finally, you can reach the project leader at the following address: 
+dr_cossack@interordi.com
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ T H A N K S
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+- Everyone who took the time to try this out!
+- Everyone who pushed us to go on with this project!
+- Everyone who reported issues with the first complete release!
+- Dr. Cossack's cat? Not anymore...
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ D I S C L A I M E R 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+This file is distributed "as is". We can't be held responsible if... 
+blablabla... blablabla... or anything else that happens while using this patch. 
+Just use common sense.
+
+You are free to distribute this patch, but you obviously aren't allowed to sell 
+it under any conditions. It cannot be distributed in the same archive as a ROM 
+file either. You are free to post the ZIP file on your website if you want. 
+However, you must keep this unedited readme file along with the translation 
+patch. It would be nice if you could contact Dr. Cossack to let him know that 
+you're making this file available to the visitors of your website. Thank you!
+
+
+
+	E N J O Y !
+
+	January 1, 2009
+	January 1, 2008
+	May 11, 2005
+	June 19, 2001
+	December 29, 2000

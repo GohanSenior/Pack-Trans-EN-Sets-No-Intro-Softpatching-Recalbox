@@ -1,0 +1,196 @@
+           $$$$$                                          $                $   
+         $$$$   $           $$               $$          $$               $$   
+       $$$$$                 $                $          $$               $$   
+      $$$$$                                              $$               $$   
+       $$$$$     $        $ $     $$$$$$$    $     $$$$$$$$    $$$$$$$$   $$   
+         $$$$$   $$      $$ $$   $$      $$  $$   $$    $$$   $$     $$   $$   
+           $$$$  $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+         $$$$$   $$      $$ $$ $$$           $$ $$        $ $$$      $$   $$   
+   $   $$$$$     $$      $$ $$  $$           $$  $$      $$  $$      $$   $$   
+    $$$$$         $$    $$  $$   $$      $$  $$   $$    $$$   $$     $$$  $$   
+                   $$$$$$   $$    $$$$$$$    $$    $$$$$$$$    $$$$$$  $  $$   
+  $$$$$$                                                                       
+$$$$$$$$$$                            $            $   $$                      
+$   $$   $                            $$          $$    $                      
+    $$    $$$$$   $$$    $$$$   $$$$$ $$  $$$   $$$$$$      $$$   $$$$   $$$$$ 
+    $$   $$    $ $   $  $    $ $      $$ $   $    $$   $   $   $ $    $ $      
+    $$   $$    $ $   $  $    $  $$$$  $$ $   $    $$   $$  $   $ $    $  $$$$  
+    $$   $$      $   $  $    $      $ $$ $   $    $$   $$  $   $ $    $      $ 
+   $$$$  $$       $$$ $ $    $ $$$$$  $$  $$$ $   $$   $$   $$$  $    $ $$$$$  
+
+                             Motocross  Champion
+                             English to Japanese 
+                                 Translation
+                                   v. 1.00
+
+-------------------------- DEDICATION & INSPIRATION ---------------------------
+
+This translation is dedicated to Gaijin Productions (gajin.parodius.com) due to
+all of the help they've provided me with throughout my ROM hacking 'career' and
+all the fun games they've translated as well. Musashi, the now retired founder
+of the group, has been helping me out from day one, starting with translating
+the Hello Kitty World script (my first completed project) and offering
+translation assistance on a large portion of the games I've translated 
+(including this game). Dave, the new lead hacker for Gaijin, has also offered
+a lot of assistance and inspiration in recent months as well, including several
+project suggestions that I hope to see come to light in the near future. I'm
+honored to have played a small part in Gaijin Productions' translation of Sweet
+Home which I consider to be one of the greatest games of all time.
+
+I worked on this project over the course of a few years, so it's impossible to
+list all of the music I listened to while doing the hacking but Fiona Apple's
+sophmore release When The Pawn Hits The Conflict.... was instrumental in 
+allowing me to keep my focus and finally beat track 8, thus allowing me to
+translate the ending of the game.
+
+       I said, "Honey, I don't feel so good, don't feel justified.
+       Come on put a little love here in my void," - he said
+       "It's all in your head," and I said, "So's everything" -
+       But he didn't get it - I thought he was a man
+       But he was just a little boy.
+       
+               - Fiona Apple "Paper Bag"
+
+------------------------------ TABLE OF CONTENTS ------------------------------
+
+    I. Dedication & Inspiration
+   II. Table of Contents
+  III. Introduction
+   IV. Version History
+    V. Distribution Notes
+   VI. Technical Notes
+  VII. Staff
+ VIII. Tools
+   IX. Patching Instructions (** READ THIS BEFORE ASKING QUESTIONS!! **)
+    X. Contact Information
+   XI. Closing
+
+--------------------------------- INTRODUCTION --------------------------------
+
+Motocross Champion could almost be viewed as a sequel to Excitebike if the two
+games weren't developed by separate companies. It has everything that made
+Excitebike such an addictive classic with the obvious improvement of tracks
+that actually resemble motocross race tracks instead of drag strips with ramps.
+	I believe this was the 2nd game I ever started translating, which means
+that it's been around 3 years since this project began. It's not that the game
+was exceptionally difficult. In fact, with the exception of a few quirks in 
+certain areas, it was a dream to hack. It's just that I couldn't keep interest
+going on it long enough to finish it. So there would be long gaps where I 
+wouldn't touch it and then I'd notice it in my projects directory and make a
+little progress on it before quitting again. Well, I'm happy to say that it's
+finally done and, to the best of my knowledge, it's 100% complete.
+
+-------------------------------- VERSION HISTORY -------------------------------
+
+v. 1.00 - September 03, 2001
+
+What's Complete
+ - all text translated
+ - minor graphics hacks (Title Screen & On Track Signs)
+
+What's Incomplete
+ - Nothing that I'm aware of...
+
+----------------------------- DISTRIBUTION NOTES ------------------------------
+
+This Motocross Champion translation should be distributed in a file named
+mxcv100.zip and should contain the following files:
+
+	  mxcv100.ips - the translation patch
+	motocross.txt - this readme file
+	   mc-man.txt - a manual for the game
+
+All three files are (C)opyright 2001 by Suicidal Translations. All rights
+reserved. You may distribute this translation in any manner you desire as long
+as the original archive remains intact with no modifications and the archive is
+distributed free of charge.
+
+Motocross Champion is (C)opyright 1989 by Konami.
+	
+
+------------------------------- TECHNICAL NOTES -------------------------------
+
+Most of the translation of this game is 100% accurate to the original meaning.
+Of the 12 different billboards you'll see along the back of the tracks, 8 of
+them were originally in English, leaving 4 in Japanese. Two of these, Koshikawa
+Motors & Masuda Life were translated literally. Chachamaru Daikon was shortened
+to Chachama Daikon due to space constraints. Minayoshi's Oolong was changed to
+SuiTrans because I felt like showing off the group name a little bit.
+	I also took the liberty of changing the racers' names to the names of
+authors who's work I've enjoyed. I don't have literal translations for the 
+names and aren't particular interested in them. If you have a problem with my
+choice of names then you're entirely too anal. It's a video game, afterall.
+
+On an unrelated note, the term HEAT RESULTS is off-center by about 2 spaces.
+This is due to an oddity in the text display routine and I'm not really 
+interested in doing assembly hacking simply to move one phrase 2 characters to
+the right. Everything else should be near-perfect but if you do find any bugs,
+please let me know.
+
+The lowercase font came from one of toma's (www.spoony-bard.com) many fonts
+though I forgot which one I used. The uppercase font was already in the game.
+Also, I purposely left the katakana in the naming screen because I thought it
+looked better than having a bunch of blank spaces.
+
+Recommended Emulator: Motocross Champion works just fine in Nesticle which is
+my emulator of choice due to the fact that I'm on an extremely slow computer.
+It will presumably work fine in just about any emulator.
+
+------------------------------------ STAFF ------------------------------------
+
+    Hacking - InVerse - http://www.pigtails.net/ST
+
+Translating - Musashi - http://codex.virtue.nu
+               Chojin - http://chojin.lfx.org
+	          Tomato - http://www.starmen.net/tomato
+              
+------------------------------------ TOOLS ------------------------------------
+
+The following tools were used during this translation:
+
+     Hexposure: hex editing for translation and graphic maneuvering
+Tile Layer Pro: graphics hacking & font insertion
+      Nesticle: some graphic hacking & beta testing
+   Patch Maker: IPS patch creation
+          GiMP: title screen design
+
+Most of these tools, as well as ROM hacking tutorials can be downloaded from
+RHDO (http://www.romhacking.org) or Zophar's Domain (http://www.zophar.net).
+
+----------------------------- PATCHING INSTRUCTIONS ---------------------------
+
+Patching a ROM is extremely simple. You need three things. A ROM, the patch and
+a patching program. To patch with ips.exe, you simply type:
+
+	ips <ROM name> <patch name>
+
+So if your ROM was named motoc.nes and the patch was named mxv100.ips you would
+type:
+
+	ips motoc.nes mxv100.ips
+
+Make sure you have the ROM, the patch and IPS in the same directory.	
+	
+To patch with SNES Tool, simply select USE IPS, choose the patch and then 
+select the ROM to which you wish to apply the patch. It's self explanatory. If 
+you can't figure it out, the game is probably too hard for you anywayz.
+
+To patch with IPSWin, you simply select the ROM you want to patch, the patch
+you wish to apply and then click Patch. Once again, if you can't figure it out,
+the game is probably too hard for you.
+
+------------------------------ CONTACT INFORMATION ----------------------------
+
+ The official Motocross Champion home page is currently located at 
+ http://www.pigtails.net/ST
+
+ E-Mail addresses concerning the project can be located on the official page.
+
+ Do NOT, under ANY circumstances, ask for ROMs. You will not only be denied,
+ you will have your request for illegal files forwarded to your ISP.
+ 
+------------------------------------ CLOSING ----------------------------------
+
+ So there you have it. Have fun and remember, it's just a game.
+
+ -InVerse

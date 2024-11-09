@@ -1,0 +1,86 @@
+Kantaro the Pyro's Journey Across the Toukaido
+v1.0
+July 3, 2005
+KingMike Translations (http://www.emuxhaven.net/~kingmike/index.html)
+
+***********
+INTROUCTION
+***********
+Kantaro is trying to complete a journey across the Toukaido, the ancient
+road between Kyoto and Edo. He wants to get to the Sumida River.
+Will his love Momoko be waiting him?
+'kay, so Kantaro's got an endless bag of bombs, and he's ready to blow up
+anyone who stands in his way. He'll also blow up that doesn't stand in his
+way, 'cause there might be treasure behind it.
+A basic platformer with loads of hidden items to find to make it strangely
+addictive.
+Originally released on July 3, 1986 by Sunsoft, this game resurfaced in
+Sunsoft's "Sunsoft Memorial" rerelease series for the PS1.
+Play alone, or challenge a friend for the high score in the 2 Player
+Mode (alternating play)!
+
+****
+TEAM
+****
+KingMike
+ - hacking
+oacat
+ - translation
+The MO's board clan
+ - lots of suggestions about the script
+
+***********
+WHAT'S DONE
+***********
+Everything should work. I haven't really tested it out to the end, 'cause I kinda suck at
+hardcore platform games, like many early NES games were.
+
+*********************
+PATCHING INSTRUCTIONS
+*********************
+All you need to do is download any patch application program.
+Use something like Lunar IPS. Open it, then choose the patch, and the unhacked Japanese ROM. Then apply.
+If you've already run Lunar IPS once, all you need to do is double-click the patch, then choose the ROM
+from the prompt.
+
+APPLY ONLY ONE OF THE TWO PATCHES!
+kanta1cz.ips applies a hacked up Cezanne font to the game, which I think looks pretty nice.
+kanta1.ips   applies a normal old school NES font to the game, which is more readable.
+
+****************
+EMULATION ISSUES
+****************
+This game uses Mapper 184, not the most common one.
+So, get an NES emulator with high compatibility, like FCEUltra.
+
+*****************
+PLAY INSTRUCTIONS
+*****************
+Control Pad - move Kantaro
+Select - Choose 1P GAME or 2P GAME on the title.
+Start - Pause game (only Player 1 can pause. The FC didn't have 2P Start, remember?)
+B Button - Throw bomb. You throw father when you're running faster.
+ Stop moving, and press Down + B to drop a bomb on the ground.
+A Button - Jump.
+
+I'm not really sure what the powerups do. I think you can pay off some of the
+characters in the levels with them.
+Like I know this one guy in like the fourth level slows you down. But if you give him
+a bag thingey, he'll go away.
+If you can find an onigiri (rice ball), you'll start rolling invincibly along the ground.
+The object of the game is to make it to the right side of the stage.
+And, um, don't get hit. Getting hit is bad, because you instantly die.
+If you lose all your lives, get to go back to the title screen.
+
+At the top of the screen is which player is playing (first or second), number of lives, and
+a map of how far along in the Toukaido you are.
+Then you have your score, and the distance you must travel (in Li, a measurement system used in olden days
+of Japan) to complete the stage, and how many of the treasures you have.
+
+*********
+COPYRIGHT
+*********
+Kanshakudama Nage Kantarou no Toukaido Gojusan Tsugi is (c)1986 by Sunsoft.
+This patch is (c)2005 KingMike.
+
+NO ROM DISTRIBUTION.

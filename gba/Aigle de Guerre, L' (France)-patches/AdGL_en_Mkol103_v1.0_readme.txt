@@ -1,0 +1,13 @@
+Hi! Thank you for dowloading this translation patch. 
+Although it is not entirely complete, it is the most complete and accurate english translation out there.
+This patch should currently has all non-graphic text translated. If you see any non-menu text untranslated, please let me know.
+Read the changelog for more specific info.
+
+How to use:
+1. Find a French ROM of "L'Aigle de Guerre".
+2. Find a .ups patcher (Preferably NUPS) 
+3. Patch the .ups file onto the original ROM.
+4. Play the game.
+
+Credits -
+Thank you to Nebelwurfe. Without his text-editing tool, my translation wouldn't have been possible.

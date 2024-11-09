@@ -1,0 +1,49 @@
+Fist of the North Star
+English Translation V 1.01
+Copyright 2009 by The Stardust Crusaders
+yojimbo.eludevisibility.org
+
+Table of Contents
+
+1.About Fist of the North Star
+2.Patch History
+3.Patch Credits
+4.Known Issues
+
+------------------------------
+1.About Fist of the North Star
+------------------------------
+Words cannot describe how bad this game is, but I translated it anyway. It appears to have been ported from the Sega Master System and poorly ported at that. The Sega Master System is actually not that bad.
+---------------
+2.Patch History
+---------------
+What's done:
+
+-Everything!
+
+What's New:
+
+-Fixed dumb error
+---------------
+3.Patch Credits
+---------------
+
+Me- Hacking
+FlashPV- Title screen and ending graphic
+Stevemartin, aishsha- Translation
+Jonny2x4- Pointing out error
+--------------
+4.Known Issues
+--------------
+None.
+
+--------------
+5.Contact
+--------------
+Comments and questions can be sent to
+
+yojimbogarrett at gmail dot com 
+
+or check out my site at
+
+yojimbo.eludevisibility.org

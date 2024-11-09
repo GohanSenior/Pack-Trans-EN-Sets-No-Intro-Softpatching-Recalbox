@@ -1,0 +1,127 @@
+======================================================
+===================Ninja Rahoi========================
+======================V1.00===========================
+Genre: RPG
+
+Source language: Japanese
+
+Patch language: English
+
+Author: Pennywise/aishsha
+
+E-mail: antoniusblocko@protonmail.com
+        aishsha@gmail.com
+     
+http://yojimbo.eludevisibility.org/
+http://aishsha.blogspot.com/
+ 
+======================================================
+Ninja Rahoi
+======================================================
+Background: This project was started by aishsha a long
+time ago in circa 2009 and was slowly worked on over the
+years. aishsha did all the initial translating and hacking,
+which he might've gotten some help with from others currently
+unknown. I did some bugfixing in 2011/12 and it wasn't until
+2013 that the project began nearing completion.
+
+Ninja Rahoi is a DQ clone that's a parody like Tengai
+Makyou and it also happens to be made by the same
+people who made Momotarou Densetsu. It seems this
+time they set their sights on making fun of Japanese
+pop culture of the time.
+
+Naturally, this made translating the game much harder
+than usual as the game featured a plethora a puns and
+references based on historical figures and stuff from
+pop culture. The decision was made to localize all this
+while still trying to maintain a balance in keeping
+the game Japanese. So, all pop culture references were
+replaced with a Western equivalent and any jokes were
+redone in English while trying to preserve the spirit/idea
+as close as possible. There's really not a perfect way
+to translate this type of game, but I really wanted the
+uninformed player to see how funny this game is and I do
+believe I accomplished that. But I didn't do it alone,
+I had lots of help from a few translators. Ryusui helped
+me a ton with this game, Eien ni Hen did the occasional
+proofing and ideas for localization, and harmony7 helped
+me with some of the more difficult/obscure stuff. 
+
+So a bit about the game. It's a weird, wacky game
+only the Japanese could've made. Aside from basic
+DQ clone gameplay, the game features a Jutsu system
+that levels up based on how many times you use a
+Jutsu in battle. There also several special/joke
+enemies in the game mixing up battle greatly.
+The rest of the game is a blast.
+
+======================================================
+Game Tips
+=====================================================
+*If you complete Stinkosai's initial quest and return
+to him in exactly 1 hour, he will say something special.
+
+*If you use your Ninjutsu in battles x number of times,
+it will "level up." It goes from Hyper to Super to
+Ultra to Miracle.
+======================================================
+Known Issues
+======================================================
+
+*If you decide to name the main character or dog less than
+6 characters, it will still treat the names as if they
+were 6 characters long. This is a flaw in the original
+game and something I didn't feel like fixing.
+
+*The Trippy Balls item can sometimes change the palette
+so that the text isn't visible. Again, flaw in the original.
+======================================================
+Patching Instructions
+======================================================
+The patch is in three formats, IPS, BPS and xdelta.
+You can apply it with one of the following programs:
+
+http://www.romhacking.net/utilities/598/
+http://www.romhacking.net/utilities/893/
+
+Apply the patch to the original Japanese version of the
+ROM:
+
+Ninjara Hoi(J).nes
+
+P.S.
+
+Support the game industry by buying used games!
+
+Even if the money doesn't go to the developers
+directly, as the games become rare and harder
+to find, the price goes up, and people become
+more inclined to buy new releases "while they can!"
+
+======================================================
+
+Credits go to:
+
+aishsha - Main Hacking, Main Translation
+
+Pennywise - Additional Hacking, Script Editing
+
+Ryusui - Spot Translations, Pun Translations/Localizations
+
+Eien ni Hen - Spot Translations, Pun Translations/Localizations, Manual Translation
+
+harmony7 - Spot Translations
+
+FlashPV - Title Screen Design
+
+Apocalypse612 - English Manual Design and Photoshop
+
+ermac- Discovering wrong header value
+
+All those who contributed into this process.
+
+======================================================
+
+
+Compiled by Pennywise. September 2019.

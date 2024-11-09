@@ -1,0 +1,17 @@
+WonderSwan Color - Makai Toushi SaGa - English Translation by Tower Reversed
+v1.2
+
+http://towerreversed.org/fflsaga/traduct.html
+
+this is version 1.2:
+* "original" mode now translated
+* config screen "on/off" corrected
+* maybe one or two other changes, i forget
+
+still-true disclaimer:
+* i know little of japanese. translations may suck.
+
+
+thanks to: zande
+
+--

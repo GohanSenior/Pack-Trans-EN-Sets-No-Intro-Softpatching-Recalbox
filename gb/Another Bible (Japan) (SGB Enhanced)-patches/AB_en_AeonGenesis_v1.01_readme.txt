@@ -1,0 +1,56 @@
+ANOTHER BIBLE
+ENGLISH TRANSLATION V1.01
+Copyright 2001 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+1.About Another Bible
+2.Patch History
+3.Patch Credits
+4.Known issues
+5.Application Instructions
+
+---------------------
+1.About Another Bible
+---------------------
+Another Bible's a strategy-RPG game based loosely on the
+Megami Tensei series. It's based roughly in the Megami Tensei
+Gaiden: Last Bible universe (see Revelations: The Demon Slayer
+for an official United States localization of Last Bible.)
+
+---------------
+2.Patch History
+---------------
+Script got dumped back in July. Got a bunch of it done back
+then thanks to AndrewT, then it just sorta up and died. After
+Live A Live's release, I gave the scripts over to Nora who'd
+worked on the Medieval chapter, and it got done. Yay.
+
+April 19, 2002 - Initial version 1.00 Release
+April 20, 2002 - Version 1.01 Release
+                 Fixed a bug which caused Map 1's text to not
+                 display.
+
+---------------
+3.Patch Credits
+---------------
+THE ANOTHER BIBLE TEAN
+Gideon Zhi - Project leader, romhacker
+AndrewT - Translator
+Nora - Translator
+Tsama - Translator
+Tomato - Translator
+
+--------------
+4.Known Issues
+--------------
+There are no known issues.
+Please report any bugs, spelling errors, and such
+on The Pantheon (http://donut.parodius.com/agtp)
+
+--------------------------
+5.Application Instructions
+--------------------------
+Grab SNESTool from ZD or romhacking.org or something, pick "Apply
+Patch" from the gui, and follow the instructions. Yay.
