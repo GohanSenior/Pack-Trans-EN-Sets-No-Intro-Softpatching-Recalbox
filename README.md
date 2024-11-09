@@ -32,7 +32,7 @@
 
 | Nb Games | Systems | tested Cores |
 |:--------:|:--------:|:-----------:|
-| Famicom Disk System | 45 | Libretro FCEUmm |
+| Famicom Disk System (coming soon) | 45 | Libretro FCEUmm |
 | Gameboy | 51 | Libretro Gambatte |
 | Gameboy Color | 33 | Libretro Gambatte |
 | Gameboy Advance | 23 | Libretro mGBA |
