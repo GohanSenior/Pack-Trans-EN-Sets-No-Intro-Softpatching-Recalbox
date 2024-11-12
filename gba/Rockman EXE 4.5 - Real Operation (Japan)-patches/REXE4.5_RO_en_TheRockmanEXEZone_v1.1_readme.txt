@@ -1,0 +1,50 @@
+MEGA MAN BATTLE NETWORK 4.5
+REAL OPERATION
+English Translation Project
+
+English Translation: Version 1.1
+Japanese Upgrade Patch: Version 1.1a
+29 November 2020
+
+This is a translation patch for Rockman EXE4.5: Real Operation, which fully
+localizes the game into English. The translation is a joint effort by members
+from Mega Man Battle Network fan community, The Rockman EXE Zone.
+
+This download includes just the translation patch itself. A number of extra
+materials such as the box art, instruction booklet and developer interview have
+also been localized into English. These can be downloaded from The Rockman EXE
+Zone website:
+
+https://www.therockmanexezone.com/general/2019/10/26/mega-man-battle-network-4-5-real-operation-english-translation/
+
+
+/!\ IMPORTANT /!\
+
+Please see the README.html file included in the ZIP for patching instructions
+and more information on the translation.
+
+/!\ IMPORTANT /!\
+
+
+Credits:
+ *  Darknet - Translation
+ *  Jumi - Lead Translation
+ *  Lex - Editing
+ *  MegaRockEXE - Graphic Design, Instruction Booklet
+ *  MidniteW - Editing
+ *  Prof. 9 - Project Manager, Programming, Lead Editing
+ *  Tim MacKenzie - Translation
+
+Special Thanks:
+    boco, cornshot, elixirdream, Esoteric, Eurasia_M, Greiga Master, Kerreb17,
+    killer336, luckytyphlosion, Nigoli, NMarkro, Ragathy, Spikeman, Symes,
+    tanukisuitup, teiohx, TwilightEXE, ubergeek77, Void, WetSalad
+
+
+Visit us at The Rockman EXE Zone!
+https://www.therockmanexezone.com/
+
+
+This translation project is not endorsed by or affiliated with Capcom in any
+way. Mega Man and Mega Man Battle Network are registered trademarks of Capcom.
+All rights belong to their respective owners.

@@ -1,0 +1,94 @@
+Adventurous Translations presents...
+
+English Translation v0.99c
+
+
+
+
+This project is dedicated to the fans that still love Goemon and believe that this great series has the potential to make a comeback (whether Konami has anything to do with it or not), and also to the people who insisted that this game would impossible to translate.
+
+
+Version 0.99c: Fixed untranslated dialogue used for the secret "Goddess of the Lake". (reported by Desver20 & Griever_GF)
+
+Version 0.99b: Fixed untranslated text when Koban's "1 Up" Jutsu is used in the overworld. (reported by Lilith)
+
+Version 0.99: Everything translated apart from the credits (which are messed up by default).
+
+
+
+Welcome to the release notes for Adventurous Translations' third translation patch - a game that's infamous for being a pain to work on, with tilesets that switch around each second (probably due to the water animation in towns), bits of code that force dialogue to end abruptly if altered, one single word being stored backwards in the ROM for no apparent reason, menu text that stores each character 11 bytes apart just because it can, half-words that rely on a set of bytes elsewhere in the ROM being right to display correctly, and a slightly bugged compression routine that can sometimes decide to use the byte value of the last letter of a word to jump to some other code. The game's assembly has also been described as "evil", making many unnecessary jumps. Did I mention that some dialogue is stored in strange positions in the ROM, far away from any of the other dialogue that you'd expect it to be with? You probably could have guessed that would be the case, anyway.
+
+I technically started this project (or at least, laid the groundwork for it) in 2012, when rveach looked at the game's assembly and explained the form of compression that it used to me (it uses a list of long or common words, known as a "dictionary", so that the words only have to be stored once in the ROM, and can then be called to display using only 2 bytes), as well as how the pointers worked, so that I could adjust the amount of space used by each word in the dictionary. (Even with this compression trick, which I personally find pretty cool and smart, Konami still had to use cartridges that were physically larger than normal to release this game for the Famicom!)
+
+However, due to a lack of time, persuing other interests, etc, it wasn't until April 2017 that I started working seriously on hacking/translating this title. There are around 430 "usable" dictionary entries in the game, and every single one of them had to be overwritten to get to the final product you see here. This also explains the decision to produce the entire translation in capital letters; not only are there not enough spare graphics tiles that could be used to store lower-case letters (although a better programmer could perhaps force the game to use a different tileset to get around this), there simply isn't enough dictionary space to account for words being available to display in both all lower case AND with the first letter being capitalised for the start of a sentence. If another translation group thinks that they can find a way around this, more power to them! I wish them nothing but success. But for now, I'm happy with the way I've chosen to present the game. It's been Japanese-only for long enough.
+
+Have at it, Goemon fans! Adventurous Translations will be back with another release just as soon as I get my own giant robot with which to fend off Japan's assailants.
+
+- Mr Fwibbles
+
+
+
+
+DISTRIBUTION
+
+You're free to distribute this patch however you see fit, providing that you do not charge for it, and do not provide it alongside any ROMs or other illegal materials.
+
+
+
+   
+
+HOW TO APPLY THE PATCH
+
+I recommend Lunar IPS as your program for patching. If you open Lunar IPS and check "Register File Type", from there all you have to do is double click on the file name, select the untouched ROM dump from your original cartridge, and click "Open". The ROM will then be patched. If it doesn't seem to be working, your emulator may require that you shorten the ROM's file name. I've noticed that some emulators are unable to run even the untouched Japanese version of this game. I recommend the latest versions of Nintendulator or FCEUX.
+
+
+
+FACTOIDS
+
+There's quite a bit of text in this game that appears to be unused. There's talk of a girl ovulating in the bath house, Ebisumaru saying that he can't wear a dress because it's a size 'S' and he needs an 'L', a bike shop called "Kawasaki Auto" with plenty of text and options for buying 3 different motorcycles (which is actually mentioned by an NPC, but doesn't seem to exist within the game), text for key items being held up in the air (which never happens), a shopkeeper that says "Hey! No girls allowed!" and the names of 2 unused items which, when put together, translate to "I want to discuss health insurance". There might also be more unused text, for those that want to dig deeper. With the exception of the "size 'S'" thing, I've left any text that seems to be unused untranslated.
+
+The names of three mythological dragons are also stored in the ROM, between the playable characters' names and the first random encounter enemy names. I presume that these enemies were unused, because I wasn't able to find any mention of them (within the context of this game) anywhere online. If someone could make a Game Genie code that controls which enemies appear in a battle, they could very whether or not these enemies still exist in the code.
+
+There are about 4 puns throughout the game which wouldn't make sense when translated to English (can you make a pun about a ghost that meows like a cat?). For these, I tried to at least keep some aspect of the original joke and try to make an English pun out of it. For example, one of them was a play on words using "buta" (the Japanese word for "pig") insead of "butter". So I kept the word "butter" and made a different joke with it. Just be thankful I scrapped the idea for a pun about corneal disease when it came to making a cat sound one...
+
+
+
+   
+
+CREDITS
+
+Project leader, hacking, translation, script editing, graphics editing, testing:     Mr Fwibbles
+"The Missing Golden Pipe" title screen font    FlashPV
+Initial starting advice, assembly checks    rveach
+Discussion of puns, enemy renaming help    TheRedPriest Q
+Main tester, script editing:    cccmar
+Testing, script editing:    Lilith
+
+
+
+TOOLS USED
+
+Graphics editor:    Kent Hanson's "Tile Layer Pro"
+Hex editor:    Genecyst East Software's "WindHex"
+Table file setup:    NJStar Software Corp's "NJStar Japanese Word Processor"
+Japanese dictionaries:    Google Translate, Weblio, Romajidesu, Bing
+
+
+
+   
+
+SPECIAL THANKS
+
+Advertising space:    romhacking.net
+
+If you need help playing the game, there's a good walkthrough by Devin Morgan on GameFAQs at https://www.gamefaqs.com/nes/579545-ganbare-goemon-gaiden-kieta-ougon-kiseru/faqs/60668.
+
+
+
+CONTACT
+
+Please send comments/questions (especially if you find any untranslated text while playing) to: davies59@tesco.net.
+
+
+
+   

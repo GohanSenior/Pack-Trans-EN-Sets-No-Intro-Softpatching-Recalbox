@@ -1,0 +1,80 @@
+Adventurous Translations presents...
+
+English Translation v1.00
+
+
+
+
+Version 1.00: The company names and title screen have now been translated thanks to compression tools provided by rainponcho. This means that the game is now 100% translated!
+
+Version 0.98: Initial release. The only things that haven't been translated are the splash intro screen with the company names, and the title screen. This is because all of the large images in the game are compressed, and I don't have the necessary skills to edit them. If anyone reading this is able to do crack the compression, or find a workaround for it, please let me know.
+
+
+
+Nobody asked for a translation patch for this game. I'm well aware of that. However, it's actually quite an enjoyable game that I think more people should give a chance. Since it's based on a 90s comedy manga/anime that was fairly popular in Japan, but pretty much unknown to the rest of the world, chances are you didn't download this because you're a fan of the series. If you're familiar with Nangoku Shounen Papuwa-Kun, it's probably because you've seen (or maybe even played!) the fan translation of the Super Famicom game. Personally, I think that this Game Boy game - which is completely different - is much better than that one.
+
+I don't really have any stories about the hurdles this game presented during the translation process. There's a bit of weirdness with it ignoring a specified string length for "Password" on the main menu, and the "The End" graphic caused some headaches (try checking that out in Tile Layer Pro and making sense of it), but that's about it, really.
+
+When will Adventurous release another translation? Maybe when the blue sea calls, the white waves sing, and Arashiyama makes a friend under the bright red sun. Until then, enjoy this one!
+
+- Mr Fwibbles
+
+
+
+
+DISTRIBUTION
+
+You're free to distribute this patch however you see fit, providing that you do not charge for it, and do not provide it alongside any ROMs or other illegal materials.
+
+
+
+   
+
+HOW TO APPLY THE PATCH
+
+We recommend Lunar IPS as your program for patching. If you open Lunar IPS and check "Register File Type", from there all you have to do is double click on the file name, select the untouched ROM dump from your original cartridge, and click "Open". The ROM will then be patched. If it doesn't seem to be working, your emulator may require that you shorten the ROM's file name. Visual Boy Advance users don't even need to apply the patch - just give it the same name as the ROM and the patching will be done automatically by the emulator.
+
+
+
+FACTOIDS
+
+Sorry, no unused text or weird real-life events relating to the game to speak of this time. Although you should probably stay away from the "Nbaba Love Song" opening for the original Papuwa anime, it's highly addictive.
+
+
+
+   
+
+CREDITS
+
+Project leader/Main translator:     Mr Fwibbles
+Translation/Phrasing advice:    DJFiregirl, TLOYou
+Testing:    Lilith, Mr Fwibbles, Samurai Sam, TLOYou
+Discussion of fish puns:    TheRedPriest Q
+
+
+
+TOOLS USED
+
+Graphics editor:    Kent Hanson's "Tile Layer Pro"
+Table file setup:    NJStar Software Corp's "NJStar Japanese Word Processor"
+Hex editor:    Genecyst East Software's "WindHex"
+Japanese dictionaries:    Google Translate, KanjiTomo, Weblio
+
+
+
+   
+
+SPECIAL THANKS
+
+Advertising space:    romhacking.net
+Typesetting advice:    Gideon Zhi
+Offering to help with ROM expansion:    Pennywise
+Providing compression tools to edit the title screen and company names:    rainponcho
+
+If you need help playing the game, check out the walkthrough on Nico Nico Douga starting here: http://en.niconico.sarashi.com/?sm6378025
+
+Please send comments/questions to: davies59@tesco.net
+
+
+
+   

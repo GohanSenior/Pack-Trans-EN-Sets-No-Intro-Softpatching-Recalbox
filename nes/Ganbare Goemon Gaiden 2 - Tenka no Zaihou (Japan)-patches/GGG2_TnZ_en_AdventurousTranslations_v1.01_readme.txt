@@ -1,0 +1,120 @@
+Adventurous Translations presents...
+
+English Translation v1.01
+
+
+This project is dedicated to my baby niece, who was born on the day that this patch was released to the public.
+
+
+Version 1.01: Fixed the crash that occurs when Koryuuta's "Safe" spell wears off in a boss battle. (Reported by Desver20 and Griever_GF)
+
+
+Version 1.00: Everything translated, with no known issues.
+
+
+
+Welcome to the release notes for Adventurous Translations' fourth translation patch! Having previously worked on translating the first Ganbare Goemon Gaiden was a huge advantage for this game, since it gave me a better idea of where to begin and what the hurdles would be in advance (pieces of the same dialogue being stored a long way apart from each other, etc). Without planning ahead, the project would have taken a huge amount of extra time and might even have ended up being scrapped altogether! It wasn't quite as tricky to work with as GGG1, but squeezing the required amount of graphical changes into the tileset was challenging, and I ended up fighting for pretty much every last byte of space to get all of the text to fit.
+
+As with the first Goemon Gaiden, this game came on a cartridge that was physically larger than the standard size for Famicom games, but GGG2 contains even more text than the first game. For comparison, Ganbare Goemon Gaiden had 430 dictionary entries stored in the ROM, but the sequel has over twice as many, clocking in at 873! This is just an opinion, but I think this game might have more text in it than any other Famicom game!
+
+Again, the entire translation is presented in upper case, because it just isn't feasible (to me) to find enough free space in the ROM to duplicate the dictionary in lower case letters (not to mention find space in the tilemap to draw them in), or rewrite the entire text compression routine. So I'll say this again - if another translation group thinks that they can find a way around this and make the game look better, more power to them! I wish them nothing but success. Feel free to use my translation, if you like.
+
+Have at it, Goemon fans! The next patch from Adventurous Translations will release when Konami remembers my wish.
+
+- Mr Fwibbles
+
+
+
+
+DISTRIBUTION
+
+You're free to distribute this patch however you see fit, providing that you do not charge for it, and do not provide it alongside any ROMs or other illegal materials. I've seen the people selling modified cartridges with my translations on them on eBay and etsy, and it makes me very, very sad.
+
+
+
+
+HOW TO APPLY THE PATCH
+
+I recommend Lunar IPS as your program for patching. If you open Lunar IPS and check "Register File Type", from there all you have to do is double click on the file name, select the untouched ROM dump from your original cartridge, and click "Open". The ROM will then be patched. If it doesn't seem to be working, your emulator may require that you shorten the ROM's file name.
+
+Important!
+
+The latest versions of several popular NES emulators do not support edited versions of certain Konami games, including Ganbare Goemon Gaiden 2. The title screen will display incorrectly, and the game will most likely crash shortly thereafter, rendering it unplayable.
+
+I can't fix that by editing the ROM, as the cause of the issue is within the source code for those emulators. However, there are still many available methods of playing the patched game with no issues, including:
+
+
+Windows
+
+FCEUX (2.1.4a and below)
+Nestopia (1.37 and below)
+FCEU-mm ("final" v0.98.13mm) (This is a fork of FCEU from before FCEUX incorporated the change)
+
+Mednafen with MedGui v1.99999 (This is based on an older version of FCEUX, so future updates might break compatibility)
+
+Mesen (v0.9.5)
+
+Nintendulator ("unstable" v0.9.7.5)
+
+VirtuaNES (v0.97)
+
+Android
+
+"Free NES Emulator" by Deimos Applications (v2.15)
+
+RetroPie
+
+lr-fceumm
+
+NES Mini
+
+Hakchi2 CE v1.2.4 with RetroArch Neo 1.7.0
+
+Thanks to Lilith for initially reporting this, and every single person in the credits below for investigating the issue.
+
+
+
+FACTOIDS
+
+There isn't much in the way of unused content this time around. It seems that there was a cut town, called "Sonfan", that would have been in the Pyrrolone World. It's listed in the Warp menu, but I couldn't find any mention of it in any guides, and I'm certain that there isn't an entire town's worth of text that I haven't noticed. Perhaps it's a single screen "catch room" for when the game doesn't know which map to load, or something like that.
+
+Simon Belmont is in the game, but his Japanese name is spelled "Berumonto" instead of the usual "Berumondo", suggesting that he's a cheap Chinese knockoff version or something. This was done with some other characters, too, such as "Draculan" instead of Dracula, and "Lupon" instead of Lupin. The latter was referenced in the original Japanese for one joke that didn't look good to me in English ("Lupon from Fronce"), and so I ultimately decided to keep "major" characters' names intact while using the "knockoff" names for minor characters. This became debatable with the appearance of Twinbee later in the game. It's clearly a reference to Twinbee (the machine was invented by "Dr. Cinnamon" and they live on Donburi Island), but Dr. Cinnamon's daughter is named Konami (not Pastel) in this game and Twinbee is called "Tobunbi-" (which I translated as "Soarbee"). I checked around the Internet, and it doesn't seem like Twinbee was ever officially referred to as Tobunbi- during development of those games, so this was probably intended to be an awkward joke and not a true cameo (and perhaps the same could be said of Simon).
+
+Any puns (I only remember the guy at one of the harbours) have been handled in the same way as in the first game - by trying to keep some aspect of the original joke, and making a different one with it. I'm actually not that keen on how there are 2 gay jokes (in the same area, too), but one of them (the sailor going "Ahh, male romance!") was there in the original Japanese, and nobody managed to come up with anything better for the "Be careful how you pronounce Lord/Load/Road/Lode/Rode" pun.
+
+
+
+
+CREDITS
+
+Project leader, hacking, translation, script editing, graphics editing, testing:     Mr Fwibbles
+Enemy/Skill renaming help:    TheRedPriest Q
+Main tester, script editing:    cccmar
+Testing:    Lilith
+
+
+
+TOOLS USED
+
+Graphics editors:    Kent Hanson's "Tile Layer Pro", Yy's "YY-CHR"
+Hex editor:    Genecyst East Software's "WindHex"
+Table file setup:    NJStar Software Corp's "NJStar Japanese Word Processor"
+Japanese dictionaries:    NJStar, Google Translate, Weblio
+
+
+
+
+SPECIAL THANKS
+
+Advertising space:    romhacking.net
+
+If you need help playing the game, there's a good walkthrough by Devin Morgan on GameFAQs at https://gamefaqs.gamespot.com/nes/570631-ganbare-goemon-gaiden-2-tenka-no-zaihou/faqs/60718.
+
+
+
+CONTACT
+
+Please send comments/questions (especially if you find any untranslated text while playing) to: richardjdavies59@gmail.com.
+
+
+
