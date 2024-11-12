@@ -1,0 +1,199 @@
+Burning Heroes (English Version 1.00)
+
+Introduction:
+Japanese Developer – J-Force
+Japanese Publisher – Enix
+Japanese Release – March 17, 1995
+English Patch Production – Dynamic Designs
+Initial English Patch Release – February 29, 2012 (a special "leap year" production)
+
+Dedication:
+
+Due to their keen interest in a game that motivated the following contributors between them to pen a FAQ/Walkthrough, translate the story into English, and enjoy this saga in Japanese, D-D’s Burning Heroes (English V1.00) is dedicated to Ritchie, Deltaflame, and Recca.
+
+
+Read me first: (Non-spoilers)
+
+By nearly every criterion, this game is absolutely sumptuous!  Playing it will make any person with a good heart want to cheer, especially for those triumphal spirits who steadfastly remain grounded in senses of duty, honor, and decency.  People who treasure virtue above all other human traits will find their values reaffirmed while playing this saga - despite the convoluted roads that many of our burning heroes must navigate.
+
+Regardless, each scene of every journey shares valuable, timeless lessons, but the story is what makes this vintage RPG even more special.  Beware anyone who wallows in misery or predators who revel in lurking down crooked corridors.  Lost souls may vicariously discover alternative paths that point toward a direction of their possible absolution.  Is this just a video game, or is it a solid depiction of art imitating life?
+
+If we could change just one design feature in Burning Heroes, we would eliminate the modest amount of repetition in the eight scenarios.  Other than that, this game is just about perfect.
+
+To help players get started - in the absence of an English manual - D-D offers the following:
+  1.  Red-hot continent (Nekketsu Tairiku) is a metaphor for our heroes' passionate obsessions.  These dispositions manifest themselves in unique ways.  Each hero is imbued with a special power that builds strength every time an enemy strikes him or her directly.  This progression of power-building may be monitored two ways: by the “Passion Meter” (PM XX%) in the battle menu or by observing changes in dialogue screen colors.  When the backgrounds turn bright red, our heroes' potent "Hot Blood" attacks are ready to be unleashed!
+2.  Assemble your recruited teammates carefully.  A well balanced fighting force will take full advantage of the random but sometimes fantastic weapons, armor, and items dropped by the routine foes in this game.  Some of the best equipment available throughout the saga is dropped by enemies or secured in treasure chests, not sold in shops.
+3.  Intense grinding is not necessary unless you enjoy that methodology (nothing wrong with the grueling approach).  Once you arrive in a new town, you may find amazing upgrades just a short distance from where you already blew most of your bankroll.  Since gold is tight throughout the game, consider bypassing some of the potential upgrades. Buff up certain characters selectively, then, continue probing new territories.
+4.  A workable strategy is to proceed cautiously and backtrack instinctively.  In time, you'll not only satisfy intermediate goals, you may acquire even better equipment than the closest shop sells and stumble upon treasure chests filled with thousands of gold coins!  Thus, you'll eliminate some of the problems associated with being hopelessly short of funds when you first hit those well-stocked shops in town.
+
+The Game:
+Burning Heroes is an Enix turn-based role playing game with a fighting system and style very much like any other RPG of its generation.  It features a complex plot that chronicles the struggles of eight passionate fighters.  However, this is where the similarity ends.
+Instead of the usual fare in which gamers build combat teams by combining key warriors as the story progresses, each of the eight protagonists in Burning Heroes pursues an independent scenario and never fights alongside the other seven.
+Upon loading Burning Heroes for the first time and hitting "Start", only four of the eight heroes - those in the left-side column - will be available for "New" games.  Once a scenario on the left-hand side is completed, its "opposite" hero will be unlocked on the adjacent right-hand side.
+Available scenarios may be played in any order, even partially, and saved in order to load another scenario.  To unlock a right-side scenario after beating a left-side game, hit "Reset" as soon as the ending credits roll.  Then, "Start" the game again and choose "New".  The shadowy "mystery" hero to the right of the previously beaten game will be available.
+Even though the heroes experience frequent conflicts with each other and never join sides, all eight learn eventually that the root cause of their difficulties is the same evil entity.  Despite the fact that Burning Heroes consists of eight fully self-contained mini-RPGs, the stories weave together well and will offer a familiar look and feel for Enix fans.
+As referenced above, the full Japanese name - Nekketsu Tairiku: Burning Heroes - may be interpreted several ways, including Burning Heroes of the Red-hot Continent.  Nevertheless, for the English version, we chose the shorter name.
+
+History:
+Unlike several others, our Burning Heroes project does not enjoy a long history of direct involvement by D-D, Stealth, or Magic Destiny.  Two of our core D-D members did, however, contribute to a partial effort more than a dozen years ago.
+At that time, Deltaflame joined the Confederated Translation Center and announced on the CTC board one day that he wished to translate Burning Heroes.  As was the custom in those days, various people offered to help.
+Wildbill contributed table files perhaps fourteen years ago, including a mostly finished Kanji list, but we never obtained a full script dump.  Meanwhile, with Bongo`'s help, Deltaflame began hacking the first Burning Hero scenario by hand (Ryuu) and eventually released the only known partial English patch.
+In 2009, following the union between Magic-Destiny and Stealth, Bongo` and Wildbill began comparing notes one day and soon discovered that both had not only assisted Deltaflame, their files were still intact from those early times and sufficiently organized to quickly produce a complete dump of the Japanese.
+Thus, Dynamic Designs took up Burning Heroes as a project. Bongo` solved the compression issues in short order.  Ritchie began translating the 86 script blocks, and Recca and LostTemplar did initial work on the miscellaneous and menu files.  In due course, Ritchie tied everyone’s translations together.
+As Ritchie's file work flowed in, Bongo` refined the insertion system, Wildbill began writing the tale, and Recca and Red Soul tested the insertions and helped polish the terminology and emerging story.  Soon, most of us were feeling the passions of the three burning continents!
+As work progressed steadily over a two-year period, Deltaflame checked in occasionally on our Burning Heroes message board.  He did not have time to help with tasks, but he shared his old files.  Thus, Deltaflame is an honorary member of our BH team and a member of the trio to whom we dedicated our patch.
+
+Game Play and Theme:
+As mentioned at the outset, the scenarios may be played as standalone RPGs, but the eight featured heroes and their parties interact frequently and even battle each other across scenario lines. As a player works his way through the saga, scenario stories reveal new secrets.
+As stated, characters need not be played in menu order (Ryuu - Rouga - Laila - Shen - Gaou - Chocolate - Naga - Mevius), but if Mevius is played last, his ending sequence appears to offer a logical finale.
+The plot is both dark and humorous.  This writer has penned anecdotes that define good and evil to be quite fuzzy at times.  As the exploits of the heroes unwind, heroines, monsters, scoundrels, and people operating in gray areas clash over and over again.  However, at the end of each scenario, only one clear villain emerges - and that situation may turn out to be more of a phenomenon surrounded by sets of circumstances than the consequences of the behavior of any specific entity.
+Despite the heavy use of symbolism, Burning Heroes does not does not dish up a vague psychological thriller or an allegorical theme along the lines of Mystic Ark.  Landscapes in the red-hot continent are clearly defined as tangible Earth features.
+Most notably, Burning Heroes illustrates how greed, selfishness, stubbornness, confusion, and uncontrolled emotions and ambitions may cause human beings to run amok at times and stupidly wreak unjustified havoc on their fellow man.
+Therefore, I see Burning Heroes as a story that defines the best and the worst in people, closely paralleled in today’s real world.  These eight tales illustrate how painful a journey may become for a hero who triumphs in the end, despite his or her many blunders along the way.
+Burning Heroes is filled with love stories, war stories, civil disorders, revolutions, domestic abuse, and almost every kind of victory and disaster that make the human experience exciting, dangerous, exhilarating, rewarding, and devastating – all in the same day frequently!
+Just load and play Ryuu’s introduction, and you’ll see what we mean!
+
+Production and Support Team:
+Deltaflame:  Original hacker as a CTC member (honorary – D-D team) 
+Bongo`:  Dumps, compression, coding, tools, insertion, menus, splash, credits
+Wildbill:  Kanji table, translations, story writing, testing, coordination
+Ritchie:  Translator
+Recca:  Production, miscellaneous translations, story advisor, testing
+Red Soul: Production, story advisor, testing.
+Taskforce:  Splash page and Web site support
+Draken and Yuka:  Testing
+Filler:  Spot translations
+Lost Templar:  Miscellaneous translations
+FlashPV: English title page graphic
+
+Technical:
+As he has done faithfully since 2008, Bongo` designed our insertion system, basing it upon modified tools that he coded for previous projects such as Mystic Ark and Lennus-II (also Enix games).  Many routines in Burning Heroes were compressed, but Bongo` reverse-engineered these and expanded the ROM to contain our hugely expanded English dialogue.
+Menus were severely limited in some cases.  Not all could be expanded due to screen composition.  In these cases, some solutions required more restricted abbreviations than we would have preferred.  In extreme instances, we introduced icons.  Regardless, the menus present a nice clean appearance.  Players should find menu navigation is a breeze.
+
+Patching:
+This archive includes our Burning Heroes (English) game patch that we are sharing with the world.  The patch contains our own original English dialogue, created by a hobby group called Dynamic Designs.
+
+Nothing inside our patch includes any of the material that developers of an Enix Super Famicom game called Burning Heroes (released in Japan in 1995) produced, nor is our patch for sale at any price.  We are providing it free of charge, but alone, our file cannot be played as a game.
+
+To use our patch, gamers must locate the necessary instruments to create a digital file that substitutes our English dialogue for the Japanese original.  To do this, players will need to obtain a ROM image of the Burning Heroes game, ideally as a backup file to an imported game cartridge they legally possess.
+
+By using a number of tools that are freely available on the internet, specifically, a patching utility and a Super Famicom (SNES) emulator, gamers will be able to convert their Burning Heroes backup images and play the game in English.
+
+Before applying the patch released in this archive, ensure that ROM image [DOES NOT contain a HEADER].  If you are not sure if a header is present in the ROM, download a program called SNEStool from www.romhacking.net/ and attempt to remove it.  A [non-header] Burning Heroes ROM should consist of 2.00 MB (2,097,152 bytes in Size under Properties).
+
+Below is a NSRT spec sheet detailing what the parameters of the necessary ROM are;
+note that the filename is irrelevant and can be freely modified by the player if s/he so wishes.
+
+
+File	Bh.smc
+Name	ﾈｯｹﾂﾀｲﾘｸﾊﾞｰﾆﾝｸﾞﾋｰﾛｰｽﾞ	Company	Enix
+Header	None	Bank	HiROM
+Interleaved	None	SRAM	64 Kb
+Type	Normal + Batt	ROM	16 Mb
+Country	Japan	Video	NTSC
+ROM Speed	120ns (FastROM)	Revision	1.0
+Checksum	Good 0xAD52	Game Code	AEBJ
+Hashes
+CRC32	DA105A27
+MD5	900ECFB892E63D89E3A46EB2C4A8DC8E
+
+
+After downloading and/or preparing a Burning Heroes ROM with [no header], players will require an IPS patching program to apply our English patch.  You may choose one of any number of IPS programs, all available for downloading at www.romhacking.net/.
+
+The patched ROM should play in any functioning SNES emulator, such as SNES9x, as well as SNES copiers.  Alternately, if you prefer using ZSNES to play the game, you may enable its auto-patching function.
+
+After doing so, simply place the patch file and ROM in the same folder, and ensure that both share the same name (i.e. BH.smc and BH.ips).  Our Burning Heroes patch appears to be one of the most stable we have produced.
+ 
+
+Story and Characters:
+
+As already depicted, Burning Heroes is a story of love and hate.
+
+Characters  who love others will follow a person to the ends of the earth and beyond!  Those irrationally dedicated to protecting a loved one will kill anything that threatens the object of their affections.
+
+Characters who hate kill for the usual reasons - to remove any obstacles that stand in the way of their selfish designs.  Or, their behavior may be as mindless as hating someone who is different.  On the other hand, the haters in Burning Heroes are frequently just plain cruel, right down to the bone!
+
+But what if a greater power lurked in the shadows, an ancient entity that coveted the world so much, to ensure mankind's extinction, it would mindlessly destroy Planet Earth and every life form that existed there?
+
+Thus, each hero character is drawn into the final battle through diverse motivations.  What's behind everyone's problems remains a mystery for the eight heroes, deeply into their individual scenarios.
+
+Final thoughts:
+
+Translating Japanese RPGs can be satisfying - even a labor of love.  If someone tries to do it and it's not fun, that person should probably look for a different hobby.  The work is very time-consuming.  Collectively, our team expended several thousand hours over a couple of years producing this English patch for Burning Heroes.
+
+As always, our approach was geared toward professional results.  Although we invite people to send screenshots and save-states of errors and glitches, anyone who feels our localization style is different than what he or she would have preferred is free to take up the hobby and build a Burning Heroes patch of his or her own.  D-D doesn't have a monopoly on hard work.
+
+One more tidbit in the fun factor department…  Assembling an amiable team is a major key to a successful translating endeavor.  In the final analysis, people will always prefer one game over another, but it helps immensely if members involved in story development are enthralled with that particular project from the outset.
+
+Therefore, if you are an RPG-lover who is a good team player - and you possesses the skills, work ethic, patience, and desire to contribute quality work in a timely and sustained manner - the translation hobby might be right for you.
+
+Breaking in can be difficult for people who aren’t translators or assembly hackers, but D-D’s members and friends are always willing to offer advice and encouragement.  Moreover, we'll always have room for kindred spirits who offer a perfect fit for our needs.
+
+(Wildbill – February 29, 2012)
+
+** MAJOR spoilers follow - stop reading here if you dislike spoilers. **
+(rest of page intentionally left blank)
+
+
+
+
+
+
+
+
+
+
+*SPOILERS**  Burning Heroes Background information.  **SPOILERS**
+
+
+Additional Character Information (*Major spoilers in bold type*)
+
+1.  Ryuu is a lad obsessed with his father who abandoned him.  He exists in perpetual anger, yearning to become the world's strongest fighter and pursue his elusive father who seven years earlier saved the world from Demon Jacko.  Ryuu just can't decide what he will do when he finally catches his father - kill him, fight him, or merely give the fickle fellow a good tongue-lashing!
+
+2.  Rouga is obsessed with saving Sister Lithia from a terminal disease.  Paired with Ryuu as an opposite, they encounter and clash frequently.  Lithia is kidnapped and goes through some strange manifestations in the game that appear to be divine intervention.  Rouga has nothing to live for if he loses Lithia, and he vows to kill anything standing in his way while trying to save her.
+
+3.  Laila is a free-spirited treasure hunter.  After settling down in a town eventually, she gets the hots for Mr. Fuga, the castellan's son.  Mr. Fuga acts as an agent for selling Laila's treasures, and the latest craze is finding the hidden Jaballs.  Problem is, the mysterious Jaballs are silently speaking to Mr. Fuga who is duped into reconstituting the three Jabals into a Demon Jacko reincarnation.  Jacko, confused about his purpose on Earth, immediately flees to the next continent.  The Castellan, who had plans of harnessing Jacko's power for his own manipulations, is furious over his son's stupidity, so Laila sets off to deal with Demon Jacko and get her beloved Mr. Fuga off the hook.
+
+4.  Mr. Shen, the "opposite" of Laila, may be the most interesting character in the game.  He's the castle guardian for Fuga's father, and he also claims to be human.  Problem is, Shen looks like a lizard and he says, Aiiieeee...!" a lot whenever someone busts his chops.  The castellan sends Shen after the Jaballs for his own selfish ambitions, but Jacko is born again (It's like Groundhog Day), and the castellan sends Shen in hot pursuit to correct his blunders.  Along the way, Shen learns he is not who he thought he was.  Ultimately, Shen must make a choice about his loyalties.  He's big and strong, and he feels like he's been a castle guardian for decades, but in fact, Shen is only seven-years-old!
+
+5.  Gaou is a back street thug who everyone despises.  His opposite is Chocolate, beautiful, spirited lass who regards Gaou as a piece of trash.  Gaou sets out with a woman named Froz to avenge his friend, Asuka, and turns into one of the most unlikely heroes of all.  But like the other seven, Gaou somehow possesses the mysterious "Passion" trait.
+
+6.  Meanwhile, Chocolate’s older sister, Éclair, is stood up at the wedding alter by a man called Taiga.  Big Sister Éclair decides to pursue her fleeing lover to the ends of the earth, even beyond if necessary.  Chocolate tags along to protect Big Sister, but could it be that Chocolate, herself, is infatuated with Big Sister's fiancé?
+
+7.  Naga is a tiny girl who inhabits a huge set of "living" armor.  Somehow, she has plunged deep into debt with the Merchants Guild.  For payback, Naga is dispatched by the guild to use force wherever is necessary in the guild's best interest.  As she tries to crawl out of debt, Naga realizes she's being used, but she forges ahead anyway because the armor mysteriously "tells her" what she must do.  Along the way, Naga's background story is revealed.  Near the end, she confronts the entity that inflicted fatal injuries upon her father.  At this point, realizing the consequences of walking away, she races onward toward the final battle.
+
+8.  Naga's opposite is Mevius, a dandy who protects the sadistic Miss Iris and is "owned" by her.  Mevius's protection of Iris includes trying to help her become a heroine.  Instead, the two blunder around like meddlers.  Eventually, they sail away from exile, as Iris is bent on recovering Trade City, a town her mother once ruled before it was stolen by the Merchant of Death.  Repelled from Trade City a second time, Mevius pursues the Merchant of Death - mainly for personal reasons - hoping to stop him from unleashing a horrible power.  To protect her when the going gets rough, Mevi tries to send Iris back to Trade City, but Iris is headstrong - on the verge of flying into a rage - all the way to the end of the world, maybe.  Will Iris ever return to being the sweet normal lass she once was?
+
+
+Burning Heroes Glossary: (Very Major Spoilers)
+
+
+Earthlings - Original inhabitants of the planet who appear to be extinct.  Either the Earthlings or the original humans built the Star Relic, Sand Tower, and other ancient features.  However, the seeds of the Earthlings are mysteriously stored inside the gene pool of the Generations of Emperors.  Each time Astralia's orbit approaches earth every seven years, that seed is stirred somehow and may trigger a metamorphosis and eventual transformation of the reigning Emperor who eventually mutates into Deathwise.
+
+The Death - The intermediate form between the (late) Emperor and Deathwise.  In BH, The Death is the father of the current Emperor who is said to have died under mysterious circumstances.  Currently, the former Emperor is trying to resist his transformation as he roams the land incognito and preaches gloom and doom.
+
+Original humans - migrated to Earth aboard a spacecraft that is actually the Floating Continent of Astralia.  According to an almost forgotten legend, the humans invaded Planet Earth, committed genocide against the native Earthlings, banished their survivors to Astralia, and sent the craft back into space in a seven-year orbit pattern.
+
+Demons - Shen, Jacko, and a few additional demons in the game that were manufactured in a machine at the center of the Cosmion Core.  Appearing in monster forms most of the time but said to be transformable into human shapes, their purpose is to protect The Death until he reaches Astralia, turns into Deathwise, and carries out the Earthling's revenge against the humans.  Of course, a funny thing happened to Shi-Ende (Shen) on the way to the forum!
+
+Phantoms - humanoids manufactured on Earth by exploiting Astralia's Cosmion Core technology.
+
+Esaliarans - a subjugated race of humans that the Empire has marginalized through genocide and banishment.  I think of them as the Hebrews.
+
+The Empire - ruled by the Generations of Emperors who are descended from the original invading humans but harbor their dark secret.  I think of them as the Romans.
+
+Merchant of Death - Dr. Drole, an Esaliaran, who exploited Astralia's technology and is building an army of phantoms to further his trade goals.  His ultimate objective, however, is to topple the entire world order and elevate the remaining Esaliarans to supreme power.  I see him as a cross between Dr. Frankenstein, Adolph Hitler, and the monarchs of European colonialism.
+
+Dr. Emes - Dr. Drole's only natural offspring.  She builds phantoms that are less sophisticated than her father's and is also the leader of the Rouge Party.  Along with her lover who is involved in intrigue between the Empire and Rouge Party, the pair is trying to stop Taiga and other Rouge Party turncoats who are standing in the way of the Rouge's ambitions and Deathwise's goal.
+
+Palette Girls - Phantoms created by Dr. Drole that are exactly duplicates of Emes during her younger years.  Their job is to spread the territorial influence of the Merchant of Death and later help their father/creator try to make a pact with the Devil (Deathwise).
+
+Rouge Party - Separate from the Merchant of Death, run by Emes and her colleagues who seized control of the organization from its original founders.  Their initial aim is to overthrow the Empire.  Later, they aid and abet Drole's efforts on behalf of the Esaliarans.  The Rouge organization is complex and Machiavellian.  One of their missions is to seek universal support from all cultures as a means of ending racial discrimination.  Another aspect is nationalistic in nature on behalf of the Esaliarans.  In reality, the Rouges are ruthless and will take any path to absolute power, liquidating their useful idiots at the proper juncture, same as Lenin did with Trotsky and Hitler did with the Brown Shirts. Therefore, I think of the Rouges as a cross between the CPSU (Communist Party of the Soviet Union) and the Axis Powers of World War-II (Nazis and Fascists).
+
+Mare Land (World-I) - An agrarian/guild society with a budding democracy, populated by a culture that strives to remain isolated and expel all corrosive foreign influences - similar to the Monroe Doctrine's tenets.  However, people who have failed in the Empire, retreated from danger, or fallen on hard times elsewhere are welcomed if they assimilate.  I see Mare Land as America in the 1800s.
+
+Kaisanave Land (World-II) - the "old" world that is controlled mainly by the Empire but filled with rebels, schemers, and the dispossessed.  I see World-II as Eurasia since Alexander The Great.
+
+Astralia (World-III) - the space vehicle that brought the original humans to Planet Earth, also know as the Floating Continent and Stardust.
+
+(End of bonus information)

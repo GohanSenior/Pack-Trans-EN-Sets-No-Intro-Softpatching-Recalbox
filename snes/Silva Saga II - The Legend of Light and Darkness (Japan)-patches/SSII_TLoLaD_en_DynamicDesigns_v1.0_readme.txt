@@ -1,0 +1,107 @@
+Silva Saga-II(English Version 1.0)
+
+Introduction:
+Japanese Developer – Seta
+Japanese Publisher –  Seta
+Japanese Release –  June 25, 1993 
+English Patch Production – Dynamic Designs
+Initial English Patch Release – January 24, 2011
+
+Dedication:
+To Bongo’, for his many years of contributions to the translation hobby.
+
+Version 1.00 Information:
+To the best of our knowledge, this patch is 100% finished.  The possibility always exists that a player may trigger a broken menu or some other glitch we never witnessed.  Therefore, gamers are invited to file errata and other reports at our Silva Saga-II forum.  Inviting our attention to any needed corrections that will help us produce a better and more complete English game is always welcomed.
+
+Game Description:  (by Red Soul)
+Silva Saga-II, a turn-based role-playing game, was released in Japan near the beginning of what many consider the Super Famicom's golden era of RPGs.  At the time, it pushed the platform's capability, establishing new standards and enhanced features, a quantum leap from the industry's strong run of highly popular RPGs for 8-bit systems.  In fact, Silva Saga-II is the final chapter in a three-part series.  The first two - Minelvaton Saga and Silva Saga (I) - were released for the Famicom platform.
+Set in a lively medieval world, replete with hazardous caves, dungeons, forests, and castles, Silva Saga-II provides many hours of the style of gameplay that most RPG players crave - especially in retro offerings.  Although this game may appear somewhat pedestrian at first blush - just another clone of the more familiar titles -  by the time players reach the second town, they will have been introduced to Silva Saga-II 's unique combat system, a potent blend of offensive capabilities that pit hero parties, mercenary teams, and magical Idol powers against the dark god's evil hordes - fiends collectively known as the Zuhl!
+While borrowing traditional elements that trace to the first Dragon Quest (with even a DQ reference in the game),  Silva Saga-II's authors managed to add several twists to the standard formula.  In addition to the wrinkles in the battle system,  Seta created some rather quirky and zany characters, lending themselves to offbeat humor on occasion.  As we "localized" the story - benefiting from a highly refined input from our excellent translator, Shiva indis - faithfully, we strived to transpose this somewhat eccentric tone into English.
+The plot is sraightforward.  From the very first scene, the hero and his helpers declare an obvious mission statement.  Nonetheless, at times, convoluted trails diverge from immediate goals, and character roles become murky.  As the captivating tale unfolds, occasional sidequests lend additional flavor to a gamer's immersion in Minelvaton's history and culture.  Frequently in transition, new blood happens along and infuses the various battle parties with enhanced strength and capabilities.  With solid visuals and haunting music tracks playing in the background, the game should grow on most players and become a cherished episode among their RPG experiences.  At least, that's how it worked for me.
+
+Technical Information:
+Bongo` designed the tools that made this English patch possible.  He dumped the Japanese scripts, imported the English font, converted the menus, solved all of the decompression/recompression schemes, and coded the insertion system.  Anyone who desires to know more specifics about the technical side may contact Bongo` directly.
+
+Project History:  (by Wildbill)
+Bongo` began working on this project perhaps a decade ago.  Akujin translated approximately 50% of the script and many of the menus, but due to technical issues, Bongo` shelved the work.  For a number of years, many of the translated script blocks were lost, only to be rediscovered inside the achives of another member of the translation community, in 2011.  Theorizing that the coding procedures he learned building tools for Slayers, Mystic Ark, Lennus-II, and other successful patches may have solved the original issues in Silva Saga-II, Bongo` "dusted off" his Silva Saga-II folder and went back to work.  
+Bongo` was hesitatant at first, but due to the progress already achieved, Wildbill convinced him to renew efforts.  Diving into the massive quantity of script blocks (200+),  Wildbill managed to translate about 25% more of the script - with maybe 90% accuracy.  Although the game story became clear, Wildbill got bogged down trying to capture nuances in key scenes and interpret the full flavor of the game.  After he reported these struggles on our news page, Shiva Indis e-mailed Wildbill and offered to translate the remaining quarter of the script blocks.
+Shiva finished the work in short order.  Then, he volunteered to double check all of the scripts previously translated by Akujin and Wildbill.  Due to space limitations, he also refined some of the names and terminology provided by Aishsha, the translator who built the released English patch for FC (NES) Silva Saga (I).  Examining all of the 200+ script blocks for accuracy, consistency, and standardization took time.  Thus, Shiva's quality control work required that we pospone a scheduled 2011 release, but the result was a better developed story.
+Since October 2011, Red Soul managed Silva Saga-II as co-project cordinator.
+
+Team:
+Coordinators:  Bongo`, Wildbill, and Red Soul
+Translation:  Akujin, Wildbill, and Shiva Indis
+Translation Support:  Filler
+Assembly/Tools/Script Dumping:  Bongo`
+English Story:  Wildbill, Shiva Indis, and Red Soul
+Bard Muses:  Garrett and Wildbill
+Webmaster and Special Support:  Taskforce
+Testing:  Red Soul, Draken, Recca, and Garrett 
+
+Production and Beta Testing:  (by Red Soul)
+Silva Saga-II was a new experience to me on many levels.  Following Mystic Ark, I've been more involved in this project than any other, both as a late alpha tester and completely through the beta test process as both a coordinator and tester.  Trying to maintain the high quality standards already achieved by D-D in previous releases, I took it upon myself to juggle these roles.
+
+Draken, Garrett, and Recca were pivotal in giving this game the polish it deserves.  Aishsha was the key factor in standardizing the game as much as possible with his English version of FC Silva Saga (I).  Only where we had space limitations did we knowingly stray from his naming conventions.
+
+Shiva Indis' sustained dedication to synchronizing and refining the work of three translators into a seamless story that captures the culture, tone, and spirit of the original Japanese author promises to render a finished product that will elevate this D-D  effort to an even higher level of professionalism.  We hope Shiva will join some of our teams in our future work!
+
+Patching: (by Red Soul)
+This archive includes our Silva Saga-II (English) game patch that we are sharing with the world.  The patch contains our own original English dialogue, created by Dynamic Designs.  Nothing inside our patch includes any of the material that developers of a Seta Super Famicom game called Silva Saga-II (released in Japan in 1993) produced, nor is our patch for sale at any price.  We are providing it free of charge, but alone, our file cannot be played as a game.
+
+To use our patch, gamers must locate the necessary instruments to create a digital file that substitutes our English dialogue for the Japanese original.  To do this, players will need to obtain a ROM image of the game, ideally as a backup file to an imported game cartridge they legally possess.  By using a number of tools that are freely available on the internet, specifically, a patching utility and a Super Famicom (SNES) emulator, gamers will be able to convert their Silva Saga-II backup images and play the game in English.
+
+Before applying the patch released in this archive, ensure that your ROM image 
+HAS NO HEADER . If you are not sure if a header is present in the ROM, download a program called SNEStool or NSRT from www.romhacking.net/ and check if its present.  An unheadered Silva Saga-II ROM should consist of 2,00 MB (2.097.152 bytes in Size under Properties).
+
+After preparing a Silva Saga-II ROM without header, players will require an IPS patching program to apply our English patch.  You may choose one of any number of IPS programs, all available for downloading at www.romhacking.net/.
+
+The patched ROM should play in any functioning SNES emulator, such as SNES9x, as well as SNES copiers.  Alternately, if you prefer using ZSNES to play the game, you may enable its auto-patching function.   After doing so, simply place the patch file and ROM in the same folder, and ensure that both share the same name (i.e. ss.smc and ss.ips).
+
+Here is a condensed NSRT table with the ROM our patch requires:
+
+ 
+File	Silva2(J).smc	   
+Name	SILVASAGA2 	Company	Seta Co.,Ltd.	   
+Header	None	Bank	LoROM	   
+Interleaved	None	SRAM	64 Kb	   
+Type	Normal + Batt	ROM	16 Mb	   
+Country	Japan	Video	NTSC	   
+ROM Speed	120ns (FastROM)	Revision	1.0	   
+Checksum	Good 0x390A	Game Code		   
+Hashes	   
+CRC32	DAC1C838	   
+MD5	7609277776AA9F2BE0DE614E7199348B	 
+
+NOTE: NSRT might report this dump as a possible bad one – this is a false positive as the ROM has no problems, it is only reported as such due to not  being present in NSRTs database as of yet.
+
+Emulation Notes:
+
+Silva Saga-II utilizes two of the Snes's resolutions to display the game's graphics: 
+standard low resolution for indoors environments (houses, caves) and its high 
+resolution  mode for outoor areas (cities and the world map).
+While hi-res support itself is not a problem for most current emulators, one has to note that some of them as well as some graphic filters do not support this feature correctly.
+
+We tested the following emulators: BSNES, Snes9x, SnesGT and Zsnes, all tests pertaining their respective latest versions unless otherwise noted.
+
+Of these, only Zsnes deviated from the expected emulation behavior, causing the graphics to garble on certain situations (notably when moving near bridges) and switching the graphics engine with the "8" key, or activating any combination of engine options only solves the problem partially, limiting the corruption to vertical axis instead of both ways.
+
+The glitch is visual only and does not impede normal gameplay, nor the graphics corruption is permanent or obtrusive to the player.  Note that this pertains all versions of Zsnes, as it is an inaccuracy of its graphics rendering engine.
+
+The other cited emulators have issues that are inherent to their graphic filters only - there is no corruption of any kind, but not all filters will work correctly under high resolutions; that is not related to the patch in any way and is, rather, a limitation of the filters themselves and the way they reorganize the pixel matrix when filtering; snes hi-res is twice its normal resolution, most filtering algorithms weren't made to work with these values (nor do most SNES games utilize hi-res to begin with).
+
+The filters that seem to function under hi-res mode are:
+
+HQ filters, 4x sai, Eagle and Super Eagle are able to filter the pixels themselves correctly in these circumstances, but the quality of the result is debatable, and up to the player's criterion as the performance impact will tend to be noticeable with them on.
+
+
+Final Thoughts:
+
+We wanted very much to release a completed patch in 2011.  Considering that we didn't, ironically, we probably accomplished more in 2011 than during any previous year in our history, dating back more than 12 years to our root organizations.  The first result of our group's hard work in 2011 is embodied in this English patch for Silva Saga-II.  Also, let me share this: quietly, in the background, a collaborator and friend in France is producing a French patch for Silva Saga-II.  At the appropriate time, we'll announce more about his work.
+
+In addition, Red Soul is flirting with the idea of translating a Portuguese Silva Saga-II.  If people want this, contact Red Soul personally and let him know!
+
+D-D has been blessed this past year with an influx of new talent.  We are in the process of ground-breaking efforts to convert some of our patches into other Western languages.  Recca has joined our core team and is planning to finish and release a Romanian patch for a very popular SNES RPG.  Later, he contemplates building more patches in that language, based on some of D-D's previously released English translations.  Shiva Indis, who rescued this Silva Saga-II project, is now helping us finish additional translation work for Chaos Seed.
+
+This January release of Silva Saga-II is only the beginning of anticipated huge progress we expect to achieve in 2012, including at least one more big release. Stay tuned, gamers!
+
+-Wildbill (January 24, 2012)
