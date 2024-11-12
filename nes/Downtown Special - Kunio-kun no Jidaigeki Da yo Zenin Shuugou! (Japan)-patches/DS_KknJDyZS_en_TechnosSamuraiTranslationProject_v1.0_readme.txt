@@ -1,29 +1,29 @@
-           Technos Samurai: Downtown Special! v1.0     9/03/98
+           Technos Samurai Downtown Special! v1.0     90398
           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
          
-     ROM Hacker:  Jim Price             Translator:  Faraday
+     ROM Hacker  Jim Price             Translator  Faraday
 
-         Editor:  Wildbill              Additional   Wildbill
-                                      Translations:  Nick
+         Editor  Wildbill              Additional   Wildbill
+                                      Translations  Nick
 
 
-What's been done:  Text replaced 
+What's been done  Text replaced 
                    Pointers recalculated
                    Item icons created	
                    A couple of color palettes changed            						 
 
-What's not done:   Nothing, as far as I know. Of course, there may be 
+What's not done   Nothing, as far as I know. Of course, there may be 
                    some bugs that we didn't catch. If you find any, 
-                   please let me know. <Tsamurai@hotmail.com>
+                   please let me know. Tsamurai@hotmail.com
                    
 _______________________
 
 Applying the patch-
-     I recommend using Snestool. Just select "Use IPS" and follow the 
+     I recommend using Snestool. Just select Use IPS and follow the 
      instructions.
 _______________________
 
-Hey! Someone want to make a faq for this game? Even I didn't manage to find 
+Hey! Someone want to make a faq for this game Even I didn't manage to find 
 all of the hidden shops...
 
 
@@ -32,7 +32,7 @@ for the excellent job editing the script and beta testing.
 
 -----------------------------------------------------------------------------------------
 
-From the editor:
+From the editor
 
 Greetings Players!
 
@@ -45,18 +45,18 @@ are pedantic in outlook, I would say that someone so enamored with
 Japanese culture should also know the language quite fluently, and thus,
 not need an English patch.  Otherwise, anyone dissatisfied with
 this outstanding addition to the English repertoire of classic games,
-should procure the ROM and create a "proper" translation (whatever that
+should procure the ROM and create a proper translation (whatever that
 is) with our blessing!
 
 That said, I will explain our rationale for interpreting the funky
 spirit and humor in this game.  But before I do, I wish to say that
 nothing would have been remotely possible without Faraday's excellent
 work, as always, not only in performing the raw translation, but
-enlightening us about the "Old Tokyo" back-street ambiance" that
+enlightening us about the Old Tokyo back-street ambiance that
 characterizes the theme of this game.  In Faraday's own words, Downtown
-Special is rather "cheesy":
+Special is rather cheesy
 
-     "This game is supposed to be a comedy. As you know, a lot of (corny
+     This game is supposed to be a comedy. As you know, a lot of (corny
      lines) appear while you're actually in action, while beating the
      hell out of your enemy. And they are rather hard to read to begin
      with, but once you get use to it, you will begin to read all the
@@ -65,30 +65,30 @@ Special is rather "cheesy":
      a laugh, rather than a serious 'complete levels', 'complete the
      game'.
 
-     "I hope to recreate that, and I've done my best to adopt the "mood"
+     I hope to recreate that, and I've done my best to adopt the mood
      rather than literal translation of the words.... And we've got to
      sort out the names.... They must be read quickly. (J)apa names
      aren't good for that, if we're going to deal with (E)nglish
      speakers.
 
-     [Note: We shortened most of the names...ed.]
+     [Note We shortened most of the names...ed.]
 
-     "And an extra note: I found it VERY difficult to translate the dump
+     And an extra note I found it VERY difficult to translate the dump
      towards the end. This is because they are mixture of modern (J)apa,
      old (J)apa gag (like Shakespearian wit) and finally a typical
      poetic-style (p)eriod play style text. It all sounds silly and odd in
      (J)apa, but that's the object of the game.  So I've translated the
      'cheesiness', but changed the actual text i.e. literally very little
-     is translated in the last few lines of end sequence."
+     is translated in the last few lines of end sequence.
 
 Thus, Jim and I took the spirit of Faraday's words, and after further
 consultations with him (and with his blessing), we decided to take one
 more step in the transcription and adapt a Western street-gang lingo,
 while still trying to preserve the uniquely Japanese flavor and
 backdrops.  I know this sounds paradoxical (even to us), but we wanted to
-end up with a game that would "play well in Peoria".  Working Designs
+end up with a game that would play well in Peoria.  Working Designs
 takes this approach all the time, so, who are we to question its
-legitimacy?  Therefore, we took a little license with the plot, changing
+legitimacy  Therefore, we took a little license with the plot, changing
 it from the roundabout, poetic, Japanese method, to the harder-hitting,
 in-your-face, tell-it-like-it-is, right-up-front western style of action
 storytelling.
@@ -96,24 +96,24 @@ storytelling.
 Our resulting prologue now offers a direct introduction of the characters'
 missions, conflicts, and romantic woes, delivering a clear message that
 the hero's girl has apparently been stolen by some asshole who's seems
-to be also working for the "Beeg" boss-man.  But first, our intrepid hero
+to be also working for the Beeg boss-man.  But first, our intrepid hero
 must find an ellusive remedy for his stricken boss, and while searching
 around almost aimlessly in this very non-linear game, he and his
 companion(s) enounter all sorts of zany characters who either give them
 vague information, or engage them in goofy battles reminiscent of The
 Three Stooges.
 
-There is a "Map Cursor" item at a secret shop in Hizen.  I would suggest
+There is a Map Cursor item at a secret shop in Hizen.  I would suggest
 that you find it, then warp around the map and fight those people
 wearing the more brightly-colored clothing.  Characters will join you,
 abandon you, give you items, and fight you; and soon, you'll have no
 idea who's supposed to be doing what to whom!  That's the way the game
 seems to be intended to be.  Indeed, it has more twists and turns than
 the Snake River, but its sidesplitting humor overrides all of the
-head-scratching Machiavellian plotting.  Just remember that "the butler
-didn't do it", and that the game is intended to be an absolute frolic
-for the Japanese player, sort of like, "Laurel-and-Hardy-meets-the-
-Jesse-James-gang".
+head-scratching Machiavellian plotting.  Just remember that the butler
+didn't do it, and that the game is intended to be an absolute frolic
+for the Japanese player, sort of like, Laurel-and-Hardy-meets-the-
+Jesse-James-gang.
 
 I hope you, the public, will enjoy this little creation.  I would place
 it right up there with Mario-I, for its period.  Remember, Jim was not
@@ -124,6 +124,6 @@ Jim has worried on it.  It shows...so, enjoy!
               -Wildbill
 
 --------------------------------------------------------------------------------------
-<http://www.psnw.com/~stumpy/main.html>
+httpwww.psnw.com~stumpymain.html
 Please direct all bug reports, questions, comments, suggestions etc. to
                          Tsamurai@hotmail.com

@@ -1,0 +1,302 @@
+The Lennus-II Translation Project
+Released: 10-15-2008
+Read.me Author:  Wildbill
+
+Warning:
+Lennus-II is written for a mature, educated audience.  If this were a motion picture, I would rate it no lower than PG-13, for Sexual Situations, Mild Language, and Violence.
+Background:
+First, I wish to express that a fair number of passing years has not bestowed upon me the wisdom to understand why average RPG gamers during the 1990s were not as fascinated as I with the charm of Paladin’s Quest, a 16-bit console game that Nintendo ported to the English-speaking world (Enix of America - October 1993).
+Originally known in Japan as Lennus and released on November 13, 1992 by Asmik, when I learned that the sequel to Paladin’s Quest’s, Lennus-II (also released by Asmik - July 26, 1996), would not be translated and imported to America, I recall communicating my disdain on an amateur translation message board.  There, along with a handful of like-minded people, we quickly coalesced into a general consensus that we should take matters into our own hands.  The upshot is that mainly Draken, Stovetop, and I confessed to being avid fans of PQ, and thus, the idea of creating an English patch for Lennus-II was born.
+The year was 1998.  That’s right.  Do the math.  This Lennus-II translation project was born almost ten years ago!  Our V1.0 English patch has been in work, off and on, all this time.  Those early days were quite heady, but let me report that our excitement level is equally high in 2008, if not even stronger! 
+One of our initial goals was to recruit additional talent to help us tackle the monumental tasks and solve many tough challenges.  Mainly, we needed an assembly hacker and a whole squadron of bilingual Japanese translators.  Draken, Taskforce, and even I performed early hacking and organizational chores in regard to fonts, Kanji tables, opening credits, and dialogue boxes.  With occasional assistance from the translation community at large, everyone pitched in with spot translations of command windows, menus, and such, and before long, we achieved adequate English mechanics to proceed deeply into game play.
+Randy, another staunch fan of Paladin’s Quest, assumed the role of our first web host, for our Magic and Destiny Translation sites (which we later combined into the Magic-Destiny domain), as well as the Confederated Translation Company (a separate domain), a vehicle we designed to bring a host of small (and in many cases, one-man) operations under one roof to support dynamic project teams and share resources.  Randy, along with his friend Rune, also researched some of the similarities between Paladin’s Quest and Lennus-II, assisting us greatly in our early menu work. 
+By and by, The Gun joined our early Lennus-II team, and accomplished our first comprehensive dialogue dump.  Later, Bongo` brought his considerable skills in assembly hacking to the table, and in short order, he resolved a number of glitches in The Gun’s original dumper.  Over time, Bongo` extracted all of the menu features that required translation.  He also constructed an 8X16 font for the main dialogue boxes, and coded first generation recompression and insertion tools, enabling our earliest and most dramatic successes toward a full scale English conversion.
+Meanwhile, as the raw translations of six huge dialogue blocks started flowing in from Daimajin, Xeur, PhatOo7, and Akujin, Wildbill began organizing hundreds (if not thousands) of strings into story line formats for insertion into our first English alpha version.  The project proceeded steadily for a while, to approximately the halfway point, until personal priorities forced Bongo` to depart on an extended leave of absence.
+Draken , Wildbill, Taskforce, and others continued working on various menus, displays, and story line segments, until we produced a playable game that could be successfully negotiated to its conclusion.  Unfortunately, our interim efforts forced us to work around or bypass a number of features that still needed assembly hacking, such as the railway system menu.  Otherwise, we would crash the game.  Ultimately, without Bongo`s sequential ASM refinements, we knew our efforts by themselves would result in a buggy product at best, so reluctantly, we shelved the Lennus-II project for a number of years.   
+ Prior to jumping forward in time, I want to mention one of the most noteworthy footnotes I can share with those who aspire to translate RPG videogames, and that is the congeniality that has always defined the core members of our Lennus-II team.  Never once have we experienced arguments, disputes, or jealousies, and what few times we expressed differences of opinion we resolved amicably.
+So, hold this thought forever, people.  Games are designed to be fun, and Lennus-II, specifically, resides near the top of my fun list.  Moreover, during my experience of working with this team over the years, the camaraderie has provided about as much enjoyment as playing Lennus-II in English!
+To tell our story another way, I have excerpted correspondence over the years. 
+Direct Quotes from Lennus-II team members - 1998-2008:
+Draken (11-14-1998 - in an e-mail to Wildbill):  just saw a post you had made to your rom hack board about Lennus2.  I am also wanting very much to translate this game.  I can't find one of the font tables however. I found the dialogue, no problem, but haven’t figured out its hex values yet.  If your friend wants any help, I'm very willing.
+
+Wildbill (11-19-1998 - in an e-mail to The Gun): Dark Force once said that Lennus-II might be "too hard" to do.  I guess we'll find out.
+
+Draken (11-19-1998): It was … the new rom [recently dumped], I didn't have any problem before, applying the patch.  Btw- should I start changing the fonts to English? I've already done a minor dump, and some translations.
+
+Robyn: (12-16-1998):   Hi [Draken],
+ 
+Please find enclosed the trans of the items/weapons etc. I'm afraid some of them I left blank either because I have never heard of them, or that they could be names of characters/enemies.
+ 
+I don't know, but will you do the editing? If not, I have Cc’ed the script to Bill, because a lot of names appear too big to fit in the menu.  Anyway, let me know if you want me start on the enemy list.  Remember.... My Katakana to English is rusty but I'll do my best.
+ 
+Regards,
+Robyn
+
+Wildbill: (1-19-1999) Phew!!
+
+No fanfare...
+
+Thanks to all who helped.  Everyone can check it over if you wish.  I have a good thick Kanji book.  Once I identified the radicals, I found the final two, and Robyn typed them on the board so I could paste them in.  I found the same symbols at Jim Breen's, and tried to paste them from there, but they were in shift-JIS, or something different.  Didn't work.
+
+If there are any more that I can look for/check in my Kanji book, please refer to them by table, row, and number.  For example, the last one, KEN (kanji) key, was D-8-7, or table D, row 8, number 7.
+
+-Wildbill
+Lennus-II
+Kanji tables
+(complete)
+
+Randy: (3-1-1999) Well, it was more of the thrill, "whoa, someone is _actually_ doing this!"  ;)  And because of that, I'd like to see this particular project get completed from start to finish, which is why I'm willing to give so much towards the cause. Furthermore, I really enjoy the Lennus series; it's a series which has received too much abuse -- people refuse to see the true beauty of these games.
+
+The Gun: (3-6-1999) The attachment contains the Lennus-II dumping utility, which I figured I'd send since it's so much smaller than the actual dump.  I eventually got fed up with my original dumper and rewrote it from the ground up - completing this version in 2 days.  Amazing that after all that time, a rewrite was all it needed.  Ah well, this version exposed about 5 bugs in Visual C++ that were really getting under my skin, but it should still work on everyone's machine.
+
+Draken:  (12-10-1999) It's me, Drake! Just wondering if you wanted me to do any of that script writing during the holidays! I know how much of a hassle those two chunks will be, so just offering. [Wildbill responded in the affirmative…]  Alright.... Since I just failed the hell out of my Calculus final, I now have lot of time.  I'll try to get L2-1 done over the holidays. Have a good flight [from Hawaii back to the mainland].
+
+The Gun: (5-29-2000) Still having trouble figuring out why some people's speech freezes the game - looks like a bug with the way I'm inserting <NewScrn> tags.  If it stays a problem, I might get rid of them altogether - the difference between <NewLine> is pretty negligible.  Now, after a bit of testing, that appeared to be the problem.
+
+Akujin: (8-12-2000) Hello again! I finished up L2-2, L2-7, and L2-8. I added a bit to the items and monsters list, but they still aren't complete. The monsters list has many made-up names, as you mentioned. I think that a lot of them are also descriptive names that would actually be more easily translate-able if they were in kanji rather than kana.  Good luck with the project! I can still do L2-a whenever it is re-dumped, if you need a translator.
+
+Akujin: (7-26-2001) Here's the [Lennus-II] manual. The only part of the basic game play info that I translated was the info about the "Spirit Gauge" on the battle screen. I remember wondering what that thing was when I played a bit of the game so I figured it could use a bit of explanation.
+
+Draken: (3-16-2002) Wildbill!  Well, it sure has been a long time since we have heard from you  :) I hope everything is going alright….  I caught your last [post] at the CTC...
+
+But anyways, enough with the formalities :P
+Bongo's just started doing some more work on Lennus2, and he has already fixed one of the text bugs!(Something in regards to a 4 letter box)  I remember that you had encountered a few bugs while playing through the game, and we need to know if you noted what they were?  I plan on playing through this weekend, but it would go faster if you could remember (or if you wrote them down) what/where the errors occurred.
+
+Don't feel the need to come back yet.  Keep vacationing!
+
+Talk to you later,
+
+Draken
+
+Taskforce was engaged in various aspects of this project from 1998 until 2002, but we always communicated on ICQ.  Unfortunately, my ICQ logs from those days are lost forever.
+
+- Then, almost six years later, after what seemed like an eternity -
+
+Bongo`:  (1-21-2008) I have been working on Lennus 2 for some time now and feel it's time to try and locate the original members to finish or help finish the project.  If any of you guys are still around then please give me a holla!
+
+Draken: (1-23-2008) Hey Wildbill, This is Draken from the old Lennus2 project.  I just wanted to let you know that Bongo has (after many, many years) been making progress on the romhack.  He's trying to contact all people who were involved to see if they are willing to lend a hand.  You may be way too busy these days to participate further, but send him a line anyways to give your support.
+
+Randy:  (5-19-2008 - in an e-mail to Wildbill) That's great news about Lennus II.  I'm still intensely interested in that project.  If you need any donations, web hosting, or anything else, please let me know.
+
+Draken: (5-19-2008) Yes Bill! [Welcome] back!
+
+* * *
+Regretfully, due to personal circumstances, I (Wildbill) could not re-join the project in January 2008.  I wish I could have, because maybe then we would have finished it several months earlier.  Nevertheless, we are still releasing our Lennus-II English patch prior to the exact 10-year anniversary date!
+Okay, with Lennus-II(e) released, here are Wildbill’s final secrets to translation success. To be sure, I have already mentioned aligning with decent, talented, hardworking people.  At the same time, teammates should always remain patient and understanding toward other member’s unique personal situations.
+In the final analysis, the real magic and destiny of being part of a overall translation community appears to be manifested in the hundreds of hours of unheralded labor that takes place diligently and quietly behind the scenes at various work stations throughout the world, sometimes with stealth!
+Conversely, I have accepted that the raucous chatter on most BBS boards tends to detract from productivity, rather than enhance a creative person’s juices with much of anything positive.
+So, like Farus, the default name of our intrepid Lennus-II hero, in the early 2000s our project entered a lengthy slumber… endless dreams… almost forgotten… until one day… suddenly…!
+
+The English Lennus-II Project’s Team Effort Reborn (2008):
+	2008 Project Manager ( Hacking, and Translations 1998-2008):  Draken
+Primary Hacker, ASM, and Dumping/Insertion tools (2003-2008):  Bongo`
+English Story Writer, Font Tables, Translations (1998-2008):  Wildbill
+Webmaster (1998-2008):  Taskforce
+Beta Testers:  Clarphimous and Yuka
+Major Original Translators (1998-2002):  Akujin, Daimajin, Xeur, and PhatOo7
+Translation Support (1998-2002):  Lee Chaolang, Robyn, Faraday, Demi, and Musashi
+2008 “Spot” Translations:  HYPERLINK "http://www.romhacking.net/forum/index.php?action=profile;u=1584" \o "View the profile of DarthNemesis" DarthNemesis,  HYPERLINK "http://www.romhacking.net/forum/index.php?action=profile;u=807" \o "View the profile of BRPXQZME" BRPXQZME,  HYPERLINK "http://www.romhacking.net/forum/index.php?action=profile;u=5" \o "View the profile of KingMike" KingMike,  HYPERLINK "http://www.romhacking.net/forum/index.php?action=profile;u=3162" \o "View the profile of honookatana" honookatana,  HYPERLINK "http://www.romhacking.net/forum/index.php?action=profile;u=3164" \o "View the profile of Clarphimous" Clarphimous,  HYPERLINK "http://www.romhacking.net/forum/index.php?action=profile;u=1369" \o "View the profile of Mew seeker" Mew seeker, and  HYPERLINK "http://www.romhacking.net/forum/index.php?action=profile;u=1834" \o "View the profile of waru" waru
+Early Team Hackers (1998-2002): The Gun, Taskforce, Stovetop, and Bongo`
+Paladin’s Quest Research:  Randy, Rune, Draken, and Wildbill
+
+* * *
+The Resumption -2008
+Bongo` breathed new life into our Lennus-II translation project, as soon as his circumstances allowed him to resume work.  Bongo`, in fact, was the person who transmitted a public invitation to the rest of us, to reemerge as active participants.  Via a notice posted on a BBS, Bongo` solicited original team members, and Draken answered that call in January 2008.  I (Wildbill), rejoined the project the following May.
+Working behind the scenes for quite some time, in late 2007 or early 2008 Bongo` redesigned the tool structure for insertion and compression of the English script, and solved all the hangs and glitches that were related to assembly and coding that he designed to support the project. Meanwhile, Draken performed the painstaking task of exploring every nook and cranny in the game, to ensure that everything worked, was fully translated, and made sense.  Beta testers Clarphimous and Yuka fed Draken constant reports, strongly assisting this effort.
+After I rejoined the team in May 2008, I spent several months polishing the storyline I began crafting during the late 1900s.  Part of my effort entailed additional research and major revisions of game segments that were still loaded with first draft strings, barely distinguishable from the literal translations.  I reformatted countless dialogue boxes, to improve cosmetics and ensure that the story dialogue flowed more elegantly for the English-speaking world.
+This experience brought me full circle from the early winter of late 1998, re-raising some of my original questions.  One, why did Nintendo fail to port this game, and two, why didn’t English-speaking gamers who claimed they loved RPGs embrace the charm of Paladin’s Quest’s basic design and plot?  The first question might be dismissed by the disclosure that Lennus was planned as a trilogy, originally, but the third installment was cancelled in Japan.
+Answers to the second question are much more subjective.  Some insight may be gained from a comment by fellow PQ/Lennus-lover, Randy, who once said, “Personally speaking, I found the spell names in PQ to be rather flat and confusing ("Dft P", "AT S"). Final Fantasy VIII was a good example of a game which just used the literal spell names, and for the most part, that wasn't so bad. I think this is one area we should probably definitely deviate from the PQ 'standard'.”
+
+Randy may have hit upon a dynamic frequently overlooked, and that is how time lines and bottom lines affect the technical design and decision making processes involved in porting games to English.  In other words, the final quality of a company’s product, for better or worse, may be driven by what their budgets can afford.
+
+People who do this work as a hobby, on the other hand, do not suffer monetary constraints.  Already sold on PQ, despite its alleged shortcomings, we who undertook this project quickly recognized that some of that game’s bad press may have been due to a bargain basement localization effort.  Therefore, we fully scrutinized the Lennus-II dialogue that our translators provided, and wondered, How in the heck could Lennus-II’s game design and storyline not enthrall any hardcore RPG lover?
+
+Ergo, while I can definitely confirm that Lennus-II is a bona fide sequel to PQ, the game and the storyline not only stand alone quite well, its top notch graphics design and sound track exceed those features in Paladin’s Quest, even in the eyes of those who regard themselves as experts.  As a matter of fact, two Lennus-II pieces have been recorded by the Tokyo Philharmonic Orchestra, for release on Orchestral Game Concert media.
+
+Thus, if my above theory is correct, that Paladin’s Quest suffered in part because of a substandard localization effort, I figured all we needed to do, to help Lennus-II gain the respect it deserved, was write a high quality English storyline.  If we succeeded, input from mature RPG gamers will provide sufficient validation.
+
+As for my credentials, professional writing is one of my tradecrafts, and our Lennus-II English storyline is the culmination of years of experience, steeped with a deep ardor for the RPG genre.  For ten years, off and on, I have been personally driven to ensure that we release Lennus-II(e) with nothing less than my best output.
+
+In sum, my goal has been to create a special new experience that remains faithful to the charms of Paladin’s Quest.  In a strong effort to improve upon Enix’s PQ localization, I employed our translators’ literal submissions as guidelines, not religiously, but to capture the overall spirit of the saga.  Adding aural and visual accouterments to the mix, I converted a multitude of emotions and moods into words for the purpose of sharing this enthralling epic journey with the English-speaking world.
+
+Bongo` and Draken mustered their energies fully, to perform those tasks at which they excel without equal in the translation scene. Without their considerable hard work during the technical refinement stages, most of which occurred prior to my return in May 2008, my writing would sit useless, buried in obscure files that might never see the light of day.
+
+So, consider this, that we three Lennus-II team members may be likened to the components of fire.  If Bongo`’s precise, peerless coding skills are the fuel, and Draken’s sustained organizational acumen and passion for detail provide the heat, I hope my unbridled fervor for writing will contribute the oxygen that brings Lennus-II(e) roaring to life – a free patch for everyone to enjoy, ten years in the making – now released for the very first time!
+
+Overall, our complete Lennus-II team - including Taskforce who contributed early hacking of credits, and constructed and maintained our web sites and forums – along with a few more special people such as Faraday and Akujin (who have become separated); these are but a few companions who have sustained my spirit in this hobby realm for many years.  I hope to hear from all of you again someday!
+
+To enhance our Lennus-II release, instead of providing a game synopsis, I have appended an edited version of Akujin’s translation of the Lennus-II game manual (partial) that I received in the Super Famicom cartridge that I ordered directly from Japan many years ago.  If I can muster the time, I may draft an original mercenary guide.  Hopefully, the attached manual will assist neophyte RPG players in getting started.  I am also anticipating that some special soul may draft a high quality Lennus-II FAQ/Walkthrough in the near future.
+
+So now, my fine-feathered RPG players from around the world, you may immerse yourself in Lennus-II(e), courtesy of Draken, Bongo` and Wildbill, and our entire extended family of Lennus-II translation team members, past and present.
+
+My final words:  Once again, don’t judge Lennus-II by the standards of any other gaming experience until you have played the game from splash page to finish!
+
+-Wildbill (October 13, 2008)
+
+Disclaimer - Playing Lennus-II in English:
+
+Version 1.04 “Monster Fix” – October 29, 2008
+
+This archive contains our Lennus-II game patch that we are sharing with the world.  The patch consists of our own original English dialogue, created by a hobby group called the Lennus-II translation team.  Nothing inside our patch contains any of the material that developers of an Asmik Super Famicom game called Lennus-II (released in Japan in 1996) produced, nor is our patch for sale at any price.  We are providing it free of charge, but alone, our patch cannot be played as a game.
+
+In order to use our patch, gamers must locate the necessary instruments to create a digital file that substitutes our English dialogue for the Japanese original.  To do this, players will need to obtain a ROM image of the Lennus-II game, ideally as a backup file to an imported game cartridge they legally possess.  By using a number of tools that are freely available on the internet, specifically, a patching utility and a Super Famicom (SNES) emulator, gamers will be able to play their Lennus-II backup images in English.
+
+Before applying the patch released in this archive, ensure that ROM image DOES NOT contain a HEADER.  If you are not sure if a header is present in the ROM, download a program called SNEStool from  HYPERLINK "http://www.romhacking.net/" www.romhacking.net/ and attempt to remove it.  A non-header Lennus-II ROM should consist of 4,194,304 bytes.
+
+After you have downloaded or prepared a Lennus-II ROM with no header, you will require an IPS patching program to apply our English patch.  You may choose from a vast quantity of IPS programs, all available for downloading at  HYPERLINK "http://www.romhacking.net/" www.romhacking.net/ .
+
+The patched ROM should play in any functioning SNES emulator, such as SNES9x, as well as SNES copiers.  Alternately, if you prefer using ZSNES to play the game, you may enable its auto-patching function.   After doing so, simply place the patch file and the ROM in the same folder, and ensure that both share the same name (i.e. lennus2.smc and lennus2.ips).
+
+* * *
+The Lennus-II Game Manual (partial), translated by Akujin, edited by Wildbill
+
+For what seemed like the passage of an eternity, the world was wrapped in mystery and 
+darkness, a limbo between slumber and awakening... endless dreams... the only respite
+from nothingness... Until suddenly...! One day, a brilliant bolt of light blasted down from the heavens above, heralding the arrival of a new dawn......!!
+
+Right now, throughout the underground world of Andel, surrounded by never-ending gloom, the Terran race is clinging for dear life to their four floating continents, alongside a vast bestiary of fearsome creatures, many of which are becoming increasingly hostile!  Yes, at this very moment, within this Terran realm called Andel, ruled by what seems eternal night, the languishing inhabitants who cherish their tenuous lives are surviving only by a universal abiding faith in a single prophecy, one that has been passed down from parent to child through the countless ages:
+
+"When the light shines down from the heavens above, the slumbering supernatural being, Farus, who was transported here ten-thousand years ago from a distant planet called Raiga and ensconced in his shrine as a statue, will suddenly spring to life!  Farus will immediately embark upon a journey to retrieve the four hidden treasures that are hidden somewhere inside the four continents of Andel, and this will usher in the much anticipated Great Union, an event that will bring dawn to our dark world!"
+
+But wait!  Ten millennia have passed.  Now, a growing number of skeptics are scoffing at the Young Raigan legend, dismissing the prophecy as nothing more than an empty promise.
+
+ Meanwhile, Terran populations on the four Andel continents appear destined for an inexorable slide into the deepest pits of despair, while rampaging monsters grow stronger and more plentiful as the years slip by.  Without pause, these constantly worsening conditions are devouring the people's hopes for salvation, propelling citizens of all ages into early graves, stalked by evil harbingers of death, some, even as they lay slumbering in warm, cozy beds!
+
+Finally, one unexpected day, a brilliant burst of white light did streak across the sky, colliding with a huge monolithic sculpture sitting atop the edifice where the statue of Farus lay in repose, confirming that the legend was indeed true!  Yes, Farus has now been awakened, stirred from his long slumber for the purpose of precipitating the Great Union... aroused by some mystery person from afar, so that he may fulfill his destiny and deliver Andel’s long-awaited dawn!
+
+---------
+[ Farus ]
+---------
+
+Some Terrans consider Farus "a sealed god" from Raiga and actually worship him in the religious sense.  His statue has been residing in what many believers call the Temple of Farus, an ancient structure that an advanced Raigan civilization erected near the center of one of the four floating continents, called Al Terran.
+
+Also, according to the legend, when the highly advanced Raigans created the subterranean world of Andel, Farus already existed, just not as a living entity. His flesh is said to be fabricated from amethyst, while his shimmering hair flows with precious silver and gold.  But Farus’s progenitors froze his entire body, locking him into a near-eternal sleep, that is, until the light beam from the Aurora Sea awakened him from his 10,000 year slumber!
+
+Now, those strange robed caretakers who inhabit Farus’s facility are urging him to embark on his journey and gather the four mysterious hidden treasures, wherever they may reside within Andel.  Yes, Terrans everywhere are quite anxious for the much desired Great Union to go forward, so their civilization might be spared from further disaster.
+
+1st continent: Al Terran
+2nd continent: Du Terran
+3rd continent: Tol Terran
+4th continent: Kua Terran
+
+-----------------------------------
+[ The Subterranean World of Andel ]
+-----------------------------------
+
+The world of Andel is enclosed inside a huge sphere. Within this realm, the Aurora Sea ripples and shines brightly.  Terrans speak of the four "fours" within Andel, the four floating continents, the four towns, the four caves, and the four hidden treasures.
+
+-----------------------
+[ The main characters ]
+-----------------------
+
+Farus, or whatever a player chooses to name the hero, will encounter a number of people who will drive the Lennus-II storyline. Some will work hard to assist Farus as he strives to achieve the Great Union, but others are willing to give their all to stop him.  Farus’s encounters with people and legendary creatures will guide his successes or failures.
+
+Chief Caretaker Gran Doron
+-----------------------
+The ornately dressed Chief Caretaker of the so-called Farus’s Temple has faithfully discharged his duties, holding a title that has been handed down from generation to generation.
+
+Kai Gyunter
+-----------
+This cheerful, vigorous, but mischievous youth is the ringleader of the "Sir Farus Squires", a group of children that adores and will go to great lengths to serve Farus, whether he wants their help or not!
+
+
+The Five Acolytes of the Great Union
+-------------------------------------
+Melina, Yuma, Zock, Chest, and Joad:  These are the five peerless Spirit users who have been recruited from all over Andel to help Farus search for the four hidden treasures.
+
+Petro
+-----
+Potentate Petro, who resides inside his castle at the extreme western end of the sprawling capital complex of Nigel, fastidiously monitors Farus’s movements and activities from afar.
+
+Jubal
+------
+A knowledgeable old man from the Elnote tribe, Jubal appears to be of noble birth, but for some unknown reason he chooses to reside in Nigel’s slums.
+
+-----
+(pp 26-27)
+
+---------------------------------------
+[ The Spirit Gauge and Display Window ]
+---------------------------------------
+
+*Don't take your eyes off of the battle screen*
+
+When confronted by an enemy, after you enter your characters’ commands and the action begins, pay close attention to the screen because important statistical information will be displayed during battle. Understanding this data will help you to fight more efficiently.
+
+1) The Spirit Gauge and Elements
+
+During battle, the offensive and defensive powers of both the enemy monsters and your party are displayed as vertical bar graphs on the lower left hand corner of your screen.  The bar to the left represents the party, and the right side depicts the enemy. The red bar is offensive power and the green bar represents defensive strength.  Your offensive and defensive power will be displayed whenever you attack using a handheld weapon.
+
+ Pay special attention when you attack with magic, though.  Attack spells draw on the Spirit powers of three elements: fire, light, and wind.  To determine which element will be effective against a particular monster, monitor the spirit gauge in real-time.  Also, your own party members have differing resistances to elemental attacks. Try to construct your battle strategy with these facts in mind.  Learning to use the spirit gauge is essential for victory!
+
+The bars of the spirit gauge will lengthen as the hero's level increases.  At level 30 the bar will return to the same length as level 1, but become thicker and start increasing in length again as your character gains levels above 30.
+
+2) Spirit Display Window
+
+When a spell is cast, four boxes will be displayed on the bottom right hand side of the screen.  Some of the boxes may contain letter symbols that depict up to four of the most powerful Spirits, comprising those spells that are being cast by party members.  A red dot will appear to the right of some of the letter symbols, when those elements are being employed in a spell attack that is currently underway against multiple enemies.*
+
+Two red dots will appear next to element symbols when a spell attack is being directed against a single enemy.*
+
+Remember, you may determine which spirit(s) comprise(s) a spell by carefully monitoring the Spirit display window.
+
+-----
+(pp 42-45)
+
+Adventuring tips
+
+Question 1:  Which continent should I visit first, Tol Terran or Kua Terran?
+
+Once you clear Du Terran, you may warp to either of these two continents. The monsters in Tol Terran are somewhat weaker, so you may prefer to start there. However, the experience points and items you will find in Kua Terran are superior.  If you are ready for some nail-biting battles, by all means, head to Kua Terran first!
+
+Don’t forget your "Great Eagle's Flute".  Just toot that flute, and Ben will return you to Du Terran so you can choose the remaining continent.  Once you have visited all of the continents, Ben the Great Eagle will transport you to any of the four.
+
+Question 2: I am stuck in Nigel and don't know what to do next.
+
+Nigel is huge.  It is easy to get lost and confused while wandering through its many districts. If you feel stymied, pay Jubal a visit in the slums. Chances are that Jubal will know exactly what you should do next.
+
+Question 3:  I can't win the Geran race!
+
+Controlling a Geran requires practice.  In order to jump, take a running start by simply pressing your control pad twice in the direction you wish to run.  If you run for too long a distance, however, your Geran will become fatigued and come to a complete halt, so slow down after a short run by changing directions or allowing your mount to walk for a moment.
+
+The timing of your jump is important, too. Hold your jump until the last possible moment.*
+
+*A note to emulator players:  Try using a USB Logitech Precision gamepad (about $10 at Amazon, plus shipping) or any other handheld control device that replicates the SNES gamepad.  This works better than a more expensive joystick, or a keyboard.
+
+Question 4:  I'm hopelessly lost in a dungeon!
+
+The Huge Tree in the middle of the game and the Bejould Castle in the latter segment are quite convoluted. You may need to construct maps as you play.  Also, Kua Gelgar is a switch dungeon. Pay close attention to the switch positions and the swamp colors that disappear and reappear.
+
+Question 5:  I feel terrible whenever I must dismiss a mercenary, but it’s not working out!
+
+Mercenaries develop differently, depending on race, sex, and potential for growth in regard to Spirit Powers. Sure, you may become quite fond of several fighters, or feel guilty whenever you must discharge someone, but you must force yourself to consider future battles and appraise who is best suited to help you keep winning those critical encounters.
+
+On the other hand, if one of the mercenaries you hired is really letting you down, you can use the “Summon Tavern” item or the “Hire” spell to recall a former comrade-in-arms.
+
+Question 6:  The values of Farus’s abilities appear to vary whenever I level up.
+
+Increases in Farus’s HP, strength, and other attributes may be different, depending on which Spirits he has equipped.  For example, a Spirit useful for attack magic will produce higher statistics related to strength, while Spirits associated with support magic such as healing will raise other types of abilities. To increase your abilities uniformly, you should vary your Spirits.
+
+Question 7: This mercenary won't leave when I use the "Dismiss" command!
+
+Mercenaries have feelings, too, and may refuse to accept your command!  If you absolutely must get rid of someone, allow him to suffer.  If he comes close to getting killed, maybe he will change his mind and be happy to leave!
+
+Question 8:  I can't determine which monsters are "mammals", "reptiles", or whatever...
+
+Before you input the battle commands, press the R button to see your enemy classification.  Press any button to return to the battle menu.
+
+-end of manual translation-
+
+* * *
+
+Final adventuring tips from Wildbill:
+
+ This is Basic RPG advice to you veterans, but speak to everyone you encounter.
+If you still can’t find answers in some locations, try speaking to “townies” twice.
+Search every nook, cranny, cabinet, and container for useful items.  Some may be hidden or partially obscured by objects!
+Be careful about auto-equipping with the “Optimal” command if you desire the special properties of a particular piece of equipment.
+Since we lack a complete game manual translation, save your game frequently and experiment with the buttons until you feel comfortable with the control system.
+Use a game log to record critical information that you cannot commit to memory.
+If you have the funds, hire every mercenary who may be useful to you at some point, so you may recall them later if you are unable to return to their home base.
+Search everywhere for a woman called Sela who is seeking her lost golden gubo named Gubokichi.  If you find her and receive Sela's Whistle, contact us!
+Search everywhere for a mercenary called Polock.  If you find him, contact us!
+10. Try to complete the game without cheats.  It’s much more challenging that way.
