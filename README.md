@@ -14,6 +14,10 @@
 
 >:heart: Huge thanks to the Recalbox Team, Romhacking.net and all the Authors :heart:
 
+## Download
+
+![dl](https://github.com/user-attachments/assets/51520aa2-0778-451d-af68-9f5fc90674d2)
+
 ## How to use
 
 1. **COPY/PAST** each system folder into your **SHARE/ROMS** Recalbox folder.
