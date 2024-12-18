@@ -34,7 +34,7 @@
 
 ## Patches for
 
-| Nb Games | Systems | tested Cores |
+| Systems | Nb Games | tested Cores |
 |:--------:|:--------:|:-----------:|
 | Famicom Disk System (coming soon) | 45 | Libretro FCEUmm |
 | Gameboy | 51 | Libretro Gambatte |
