@@ -44,7 +44,7 @@
 | Mega Drive | 37 | Libretro Picodrive :heavy_exclamation_mark: |
 | NEO·GEO Pocket Color | 2 | Libretro Mednafen_WSWAN |
 | Nintendo 64 | 7 | Libretro Mupen64Plus NX |
-| Nintendo Entertainment System | 307 | Libretro Nestopia :heavy_exclamation_mark: |
+| Nintendo Entertainment System | 308 | Libretro Nestopia :heavy_exclamation_mark: |
 | Super Nintendo Entertainment System | 175 | Libretro Snes9x :heavy_exclamation_mark: |
 | Satellaview | 11 | Libretro Snes9x |
 | WonderSwan | 6 | Libretro Mednafen_WSWAN |
