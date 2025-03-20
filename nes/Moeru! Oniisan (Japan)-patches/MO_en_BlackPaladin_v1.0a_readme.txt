@@ -14,28 +14,28 @@ Patching Instructions:
 
 This translation patch comes in two flavors...
 
-The Burning Wild Man (English).ips
+The Burning Wild Man (English 1.0a).ips
 --This patch is for the Japanese "Moeru! Oniisan" NES ROM (IPS format)
-The Burning Wild Man (English).bps
+The Burning Wild Man (English 1.0a).bps
 --This patch is for the Japanese "Moeru! Oniisan" NES ROM (BPS format)
 
 For the patches...
-The Burning Wild Man (English).ips
-The Burning Wild Man (English).bps
+The Burning Wild Man (English 1.0a).ips
+The Burning Wild Man (English 1.0a).bps
 
 Use the ROM with the following hashes. (Don't use both.)
 
-File SHA-1: ECBBB6695ED883E4FB08A9942ED6E0129D6F9B0B
-File CRC32: 94DE26E6
+File SHA-1: 5F0F21920C9C23C188E5840BC2F6669DB640864D
+File CRC32: 5F4CC4E
 ROM SHA-1: 85FC84B1E9031631A437A0BA47A0B1FA1256A808
 ROM CRC32: F96D07C8
 
 THe end results is a patched ROM with the following hashes...
 
-File SHA-1: 5DA32A090F278F6E01E72C5FBB6311B19D4A6F93
-File CRC32: A2CE88C5
-ROM SHA-1: 14CFDDC330AEC82DF75E43AD61877AAAC0316604
-ROM CRC32: 38E66A36
+File SHA-1: 3EE72AA944021DE6DB20A8457A90B0019BE4FDD2
+File CRC32: 56D68658
+ROM SHA-1: AFD0FED4DF3D95FFF2F84FEFD7B12C7AF01449A6
+ROM CRC32: 5DD48E03
 
 What changes have been done:
 
@@ -45,6 +45,9 @@ The game's script has been translated to English
 Power-up icons that depicted Japanese text were changed to icons
 Word bubbles that appear briefly when a stage begins were translated to English
 Ending credits translated
+
+v1.0a
+Fixed typo in the ending
 
 Special Thanks:
 Ratty (She translated the game's script files)

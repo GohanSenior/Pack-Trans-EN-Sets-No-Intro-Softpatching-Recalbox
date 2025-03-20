@@ -1,0 +1,15 @@
+Notes:
+1) Patch was built for the original release, not the rev1 rom.
+2) The translation is genuine, no MTL involved.
+3) The patch is JUST the story mode, the other modes were removed and we don't have any plans to work on them. There are other translated SNES games in this series if you're interested in the other modes. Sorry!
+4) If you find any issues at all (errors, copyediting notes, glitches), please send me an e-mail at bigpectorals@gmail.com.
+5) This patch was released for free. If you want to give money to anyone, please go buy Fire Pro Wrestling World on steam, which has part two of this game's story.
+
+If the game's too hard but you still want the story, here are some cheats:
+Instant Win for Wrestling Matches - 7E0CBB40
+Instant Submission (for Gruesome Fights) - DDDA-FE86, DDDA-F386
+
+translation: boogal, iccanobif
+hacking: iccanobif, BobSchneeder
+playtesting: MaximumOverkilt, Shadow_Master, Left Giko
+british accent consultant: Jawsh
