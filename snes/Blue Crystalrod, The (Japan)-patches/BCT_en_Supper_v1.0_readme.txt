@@ -1,0 +1,478 @@
+********************************************************************************
+*                             The Blue Crystal Rod                             *
+*                          English Translation Patch                           *
+*                           by Stargood Translations                           *
+*                              v1.0 (04 Apr 2025)                              *
+*                                                                              *
+*                               Supper -- Hacking & Translation                *
+*                               cccmar -- Editing & Testing                    *
+*                          Oddoai-sama -- Testing                              *
+********************************************************************************
+
+After many harsh (some might even say "unfair") ordeals, the Golden Knight
+Gilgamesh and the Oracle of Ishtar Ki have at last defeated the demon Druaga
+and escaped from his accursed Tower! Unfortunately, their problems are far from
+over. Though they've recovered the stolen Blue Crystal Rod, not only must they
+now must find a way to return it to heaven so it can bring peace to the world
+again, their long journey will have been for naught if they don't convince the
+gods of humanity's worth through their actions along the way. But this tale is
+one with many endings. How – and whether – Gil and Ki complete their quest
+is in your hands!
+
+Developed by Game Studio and published by Namco for the Super Famicom in 1994,
+The Blue Crystal Rod is the fourth and (canonically) final game in the Tower
+of Druaga series, the "Babylonian Castle Saga". A drastic departure from
+the notoriously cryptic action games that preceded it, The Blue Crystal Rod
+is instead a story-driven adventure game whose biggest selling point is its
+broadly-branching storyline, with 48 different endings. Officially, none of
+these is considered the "true ending"; players were invited to treat their
+personal favorite as the conclusion to the story.
+
+This patch fully translates the game into English.
+
+                    ****************************************
+                    *          Table of Contents           *
+                    ****************************************
+
+     I. Patching Instructions
+    II. Known Issues
+   III. Additional Features
+    IV. Translation Notes
+     V. Authors' Comments
+    VI. Special Thanks
+   VII. Version History
+
+                    ****************************************
+                    *       I. Patching Instructions       *
+                    ****************************************
+
+To use this translation, you'll need to apply a patch to an unheadered ROM image
+of The Blue Crystal Rod for the Super Famicom. The original, unmodified ROM
+should match the following specifications:
+
+  No-Intro name: Blue Crystal Rod, The (Japan).sfc
+  CRC32:         efc21f71
+  MD5:           a8fe07895a4d7651e99a39b9eb5a3539
+  SHA-1:         5771b2366802f7ff2f5a2402d11beb1da5627dd5
+
+For maximum compatibility, this patch is provided in both IPS and BPS
+formats. The .ips and .bps files in this package contain the exact same content
+and will produce the same output ROM; the only difference is the patch format.
+
+Choose either the .ips or .bps file, then use an IPS or BPS patching
+program to apply it to your ROM file (do not apply both). Floating IPS
+(https://github.com/Alcaro/Flips/releases) is an excellent choice for this
+purpose and can handle both patch formats, but any other patcher should work
+just as well.
+
+For specific details on how to apply the patch, see your patching program's
+instructions.
+
+                    ****************************************
+                    *           II. Known Issues           *
+                    ****************************************
+
+There are no known issues with the translation itself.
+
+However, the original game appears to have a bug in its sound driver that causes
+it to use values from uninitialized memory under certain circumstances, such as
+when playing the "stat lost" sound effect for the first time after the game is
+booted. When the game is run on real hardware, uninitialized memory will contain
+"random" values, and certain rare combinations of values will cause the audio
+CPU to go into an infinite loop. This freezes all sound, and will result in a
+crash the next time the game tries to switch music tracks.
+
+This bug has not been fixed, mostly because it's not actually an issue with
+the translation and it was more trouble than anyone felt like going to. On
+emulators, this will only be a problem if your emulator randomizes the contents
+of uninitialized memory (BSNES can do this, for instance). If this is the case,
+you should check to see if there's an option to disable the randomization,
+because otherwise, you run the risk of occasional crashes.
+
+                    ****************************************
+                    *       III. Additional Features       *
+                    ****************************************
+
+  ---------------
+  - Ending List -
+  ---------------
+
+  One of the big selling points of this game is its broad scenario, with many
+  storylines and a total of 48 endings. However, the original game didn't
+  actually keep track of which endings you'd seen in any way, making it hard to
+  know what you still had left to do.
+
+  This seemed like a bit of a missed opportunity, so in this translation, after
+  beating the game once with any ending, a new option, "Ending List", will be
+  added to the main menu. This is an extra feature that keeps track of which
+  endings you've completed, and allows you to replay those that you've already
+  seen. Perhaps more importantly, it provides information on how to reach all
+  the endings, including ones you haven't seen yet.
+
+  -------------
+  - Help Menu -
+  -------------
+
+  Though nowhere near the degree of its predecessors, The Blue Crystal Rod
+  suffers from an unfortunate level of mechanical obscurity. Those familiar with
+  the Japanese game market circa 1994 will not be surprised to learn that this
+  game's release was accompanied by an official strategy guide, and anyone who
+  wanted to experience the game fully was very much expected to buy it.
+
+  A prime example: Gil has eight stats whose values are completely hidden, and
+  there are various instances where progress along a particular story route
+  will be silently blocked if one of these stats is too high or low. You're
+  never told when a stat is being checked, much less what its value needs to
+  be (not that it really matters, since you can't see its value in the first
+  place). Want to play that route? Go buy the guide!
+
+  Since there are no existing English guides for this game, this translation
+  tries to make things easier by adding a simple help menu, which is accessible
+  from the Ending List. This menu explains the game's core mechanics to reduce
+  the amount of fumbling around that's required to play. If you're having
+  trouble, please try completing the game once – getting to _an_ ending isn't
+  very hard – and reading the information contained there.
+
+  ----------
+  - Cheats -
+  ----------
+
+  Several parts of this game were widely panned by players as busywork to pad
+  out the playing time. To make life easier for those who just want to see the
+  story with minimal hassle, this translation adds cheats to skip the worst
+  offenders:
+
+  - Wandering Woods: Hold Start while approaching any exit signpost, and you'll
+  never get looped back to the entrance.
+
+  - Labyrinth: After entering the Labyrinth's entrance room, hold Start while
+  moving north, and you'll immediately skip to the end.
+
+  - Cavern of Elburz: Hold Start while moving between rooms, and you'll never
+  encounter monsters.
+
+                    ****************************************
+                    *        IV. Translation Notes         *
+                    ****************************************
+
+Since this game is part of a series with some history (albeit very little of
+it ever published in English), here are a few notes about certain localization
+decisions. Anything not covered here seemed minor or uncontroversial enough not
+to warrant an explanation; many names (Horus, Set, Plutarch, etc.) are taken
+from mythology or history verbatim, so consult your own sources if you want to
+know about those.
+
+  ---------------------------
+  - The Nightmare of Druaga -
+  ---------------------------
+
+  The Nightmare of Druaga, the only game in the series to be officially released
+  in English (that wasn't already in English to begin with), was entirely
+  ignored when making this translation, and translated terms will not match it
+  except by coincidence. That game makes many questionable translation choices
+  and seemed a poor basis for further work.
+
+  For example, the main city (バビリム) is referred to as "Babilim",
+  which is a strange choice when it's clearly derived from "Babylon" and
+  Japanese sources write it out in English as "Babylim". Similarly, the country
+  this translation calls the "Sumarian Empire" is there known as the "Sumer
+  Empire". "Sumer" isn't wrong in the sense of the name being derived from
+  the real-life Sumerian civilization, but the spelling (スーマール) is
+  quite distinct from the actual Sumer (シュメール), and if you're going
+  to translate バビリム as "Babylim" and not "Babylon", there's really no
+  reason not to use a fictionalized variation of "Sumer" as well. And "Sumer
+  Empire" instead of "Sumerian Empire" is just silly – we don't talk about
+  "the Rome Empire" or "the Britain Empire", do we?
+
+  Due to this and various other factors, this translation makes no effort at
+  consistency with existing translated media and does its own thing. Overall
+  interest in the series seems scant enough that perhaps no one will complain
+  too much.
+
+  ------
+  - Ki -
+  ------
+
+  First, the obligatory mention for those not in the know: This name is
+  pronounced "kai" (カイ). It's derived from a Sumerian goddess whose name is
+  spelled the same way in English but pronounced as you'd expect ("key"). It's
+  completely unintuitive, but this name is very consistently spelled in English
+  this way across all the games, so we'll all just have to live with it.
+
+  Ki holds the title of 巫女 (miko) of the goddess Ishtar. Many will be
+  familiar with this as the term for a Shinto shrine maiden, but in this
+  case, it's invoking the less-well-known alternate meaning of "shamaness"
+  or "medium". This translation renders it as "oracle", which isn't anything
+  you'll find suggested in a dictionary, but probably lines up best with what
+  she actually is – as the game makes clear, her primary duty is to hear the
+  words of the goddess Ishtar and convey them to the people, which is textbook
+  "oracle".
+
+  It's worth noting that a character who holds the same title in the spinoff
+  game Seme COM Dungeon: Drururuaga is explicitly referred to as a "shaman"
+  (シャーマン), and the ever-dubious Nightmare of Druaga actually calls
+  her a "shrine maiden". "Oracle" is just an arbitrary translation choice on
+  the very deep basis of "but wouldn't this sound nicer?". Once again, with the
+  overall low level of interest in this series, perhaps no one will get too hung
+  up about it.
+
+  -------
+  - Anu -
+  -------
+
+  Japanese: アヌ. The real-life Mesopotamian king of the gods; his name is
+  straight from mythology ("Anu" or "An").
+
+  ---------
+  - Garru -
+  ---------
+
+  Japanese: ガールー. This is probably derived from Girra (ギル), an
+  alternate name for the Mesopotamian fire god Gibil.
+
+  ---------
+  - Raman -
+  ---------
+
+  Japanese: ラマン. Probably derived from Rimon/Rimmon (リモン), an
+  alternate name for the storm god Hadad.
+
+  ----------
+  - Nergal -
+  ----------
+
+  Japanese: ナーガル. Derived from Nergal (ネルガル), ruler of
+  the Mesopotamian underworld. Strictly speaking, the Japanese name is not
+  actually the same as its real-life counterpart and should be rendered in
+  English as something like "Nargle". However, that sounds extremely stupid,
+  so this translation takes the slight liberty of just using the original
+  name from mythology instead. This seems fair enough, considering this is a
+  series that writes the hero's name in Japanese as what should be "Gilgames"
+  (ギルガメス) but spells it in English as simply "Gilgamesh".
+
+  ---------
+  - Mahal -
+  ---------
+
+  Japanese: マハール. Derived from the Taj Mahal, but more specifically,
+  this character is based on a Game Studio programmer (矢島 晴久) who worked
+  on games such as the Famicom port of Wizardry under the nickname "Yaj Mahal".
+
+  ---------
+  - Endea -
+  ---------
+
+  Japanese: インディア. This is literally just "India", but it's not the
+  actual _Japanese_ name for India, which is インド ("Indo"). Thus, the
+  translation uses a variation on the real name.
+
+  -------------------
+  - Koichi Nakamura -
+  -------------------
+
+  While not a translation choice per se, this one probably warrants an
+  explanation anyway.
+
+  At the end of the tutorial, there's a barbed comment about shoving new
+  features into the game that refers to Koichi Nakamura by name. Koichi Nakamura
+  is the founder of Chunsoft and director, producer, or programmer of many
+  famous games, such as the Dragon Quest and Mystery Dungeon series, the hit
+  "sound novels" Otogirisou and Kamaitachi no Yoru, etc. He had no direct
+  involvement with this game's production, but Druaga series creator Masanobu
+  Endo later explained the circumstances that led to this remark as follows
+  (from http://druaga.to/qanda_dog.html):
+
+    その頃、RPGの次に来る、新しいアドベンチャーを皆が模索していたのですが、ある対談で、宮路洋一君と中村光一君も同じ課題に挑戦しているとわかりました。相互に刺激しあいながら、ゲームアーツが作ったのが、アニメーションに本腰を入れた「ゆみみミックス」、チュンソフトが作ったのが、文字とサウンドに重きを置いた「弟切草」、そしてボクが作ったのが、マルチシナリオを追求したDOGだったのです。
+
+    "At that time, everyone was trying to put together new adventure [games] to
+    follow up their RPGs, and in one conversation, I learned that Yoichi Miyagi
+    [of Game Arts] and Koichi Nakamura were tackling the same problem. While
+    mutually stimulating each other, Game Arts made 'Yumimi Mix,' with
+    much-labored-over animation; Chunsoft made 'Otogirisou,' which emphasized
+    writing and sound; and I made DOG ['Destiny of Gilgamesh', this game's
+    alternate title], seeking to have a multi-scenario."
+
+  Apparently, adding a compass to this game at the last minute was the
+  not-entirely-appreciated result of that "mutual stimulation". How this
+  escalated to being made fun of by name in the tutorial isn't entirely clear.
+
+                    ****************************************
+                    *         V. Authors' Comments         *
+                    ****************************************
+
+  ----------
+  - Supper -
+  ----------
+
+  Man, it's been too long. It seems like I used to be cranking these things
+  out on a monthly basis, but last year, for the first time since I started
+  doing fan translations, I shamefully didn't release a single new one all
+  year! ...Though I did get to contribute to some actual commercial releases,
+  which is a pretty big consolation prize. Still, I'm really glad to finally
+  have something to put out again.
+
+  During the long quasi-hiatus last year, I spent a lot of time playing through
+  untranslated games, trying to turn up something I wanted to work on. Though I
+  found lots of interesting games for every console under the sun, all of them
+  ended up in the "maybe some other time" bin. Nothing seemed to be clicking at
+  all, and I just couldn't find a single game I felt enthusiastic enough about
+  to start a project for.
+
+  So in desperation, I finally turned to the Super Famicom library, which I've
+  so often pooh-poohed in the past for being overdone and having no interesting
+  games left to translate. Apparently, I've either been too narrow-minded or
+  got very lucky, because this was the second game I tried, and within minutes
+  of playing it for the first time, I immediately knew YES YES YES I WANT TO
+  TRANSLATE THIS LET'S GOOOOOOOO!!!
+
+  What about this game lit such a fire under me? I have no idea. I'd never heard
+  of it in my life, and after playing through it I quickly perceived that it was
+  fairly mediocre overall, but I immediately got to work on this project with
+  vigor I hadn't been able to muster up for anything else, and basically didn't
+  stop until it was done. The circumstances baffle me even now, but since it
+  finally propelled me to a release after so long, I'm not complaining.
+
+  I had some vague familiarity with the Druaga games before doing this, mostly
+  in the context of how absurdly difficult the original was, but had never
+  played any of them before. It's a very strange series; even its fans generally
+  seem to concede that the games aren't very "fun" in any conventional way,
+  but nonetheless there's something "interesting" about them. I spent a lot
+  of time researching the storyline and gameplay elements, but even now, I've
+  barely touched any of the other games. Frankly, I'm much happier letting other
+  people handle the dirty work of actually traversing these bizarre and obscure
+  labyrinths.
+
+  On the hacking side, this was incredibly simple. Owing to years of turning up
+  my nose at the console, I'd actually never done an SFC fan translation before,
+  but that proved little problem because the game handed me everything on a
+  silver platter. The entire script is found in two tables of 24-bit pointers,
+  indexed by some 16-bit offset tables that allow for neatly splitting up the
+  contents by area. The text is completely uncompressed, and there are only two
+  ways of printing it (to the main box or the area name label). String data is
+  entirely divorced from game logic, meaning no cumbersome scripting system to
+  disassemble. It even does full variable-width printing right out of the box,
+  which is practically unheard of for a Japanese game of this era! Frankly,
+  this thing would have been translated 20 years ago if anybody had given the
+  slightest damn about it.
+
+  Thanks to this extreme simplicity, most of the hacking that needed to happen
+  was done in a week. Of course, that was followed by a lot more hacking that
+  _didn't_ need to happen but I took upon myself to do anyway. Variable-width
+  printing is great, but properly kerned text is even better, so in went the
+  kerning routine (thus condemning me to endless hours of font tweaks over the
+  following months). The lack of any kind of progress tracker in a game whose
+  whole selling point is its dozens of endings was a glaring omission, so I
+  spent some days adding in an ending checklist and viewer in an attempt to give
+  the experience more of a sense of direction. The testers seemed to like it,
+  at least, so I hope it'll encourage people to see more of the game.
+
+  And since many of the routes are essentially inaccessible without a guide,
+  and no English-language walkthrough was available, I was basically obliged to
+  provide one – and if I was going to do that, why not go all the way and put
+  it in the game instead of packing in a separate text file most people would
+  just ignore anyway? So, I spent a lot of time disassembling all the stat
+  checks and figuring out optimal routes, a process which probably took longer
+  than actually programming the in-game help menu to explain them.
+
+  Even with all the self-imposed burdens, the hacking was pretty tame in the
+  end. The actual translation, on the other hand...
+
+  Unless you obsessively talk to Sargon every single time you do anything,
+  you're probably not going to appreciate this fact, but this game actually has
+  a _lot_ of text. It takes less than 15 minutes to beat if you know what you're
+  doing, but every route has a unique storyline, and with 48 endings, that adds
+  up pretty quickly. After removing duplicated text and character nametags,
+  the original script is 173k Japanese characters long, putting it on par
+  with early-ish 16-bit RPGs for size. For reference, the biggest translation
+  project I'd worked on in any capacity up to now was Tengai Makyou at around
+  160k characters – and I wasn't even the translator on that one! So, this
+  was a significant step up for me in terms of volume of text, and it's very
+  fortunate that I had it so easy with the hacking or this would have been far
+  more painful.
+
+  The game leans very heavily on formulaic plot constructions to keep its
+  branching storyline manageable, which simplifies the translation process,
+  but also makes it tend to grow rote. Every time you go to Sumar, no matter
+  what the overarching plot may be, there will always be three people in the
+  central plaza gossiping about the latest sinister happenings, and three
+  people in the tavern to chat with about similar topics, and then three other
+  people in the market, and your goal will always be to go do something in the
+  castle, and when you're done there all those people will have some new line
+  of dialogue. Exceptions to the patterns are few and far between, and it all
+  gets stale and predictable after a while. I'll be very happy not to have to
+  write variations on "and then Anu bade them place the Rod in the pedestal"
+  ever again.
+
+  On the other hand, repetitive though the experience might have been,
+  I actually did enjoy doing this. Honestly, the game may be more fun to
+  translate than it is to play. I got to do some interesting research into
+  Mesopotamian gods and their Japanese transliterations, trying to puzzle out
+  what names the developers were corrupting to create their invented pantheon. I
+  learned the story behind that whole bizarre bit with Koichi Nakamura in
+  the tutorial. (Who'd have thought that this game had anything to do with my
+  beloved Yumimi Mix?) I even had an excuse to go back and watch the Quest of Ki
+  Game Center CX episodes after a decade-plus. What a ridiculous saga.
+
+  Deciding to translate this game was a very strange whim, but one I'm glad
+  I had. My expectations for this release are very low; I suffer no delusions
+  that it will be popular or rehabilitate the game's reputation – ha, _what_
+  reputation? No one's ever heard of it! – in any way, because it's nothing
+  spectacular to begin with. But for reasons that elude even me, it was what I
+  wanted to do, I did it, and that's enough. I hope a few of you will at least
+  enjoy the results as a curiosity.
+
+  Huge thanks to cccmar and Oddoai-sama for spending far more time playing
+  this game than I'd have ever been able to tolerate if I'd been in their
+  position. They gave it a great deal more scrutiny than I ever did, as the
+  number of typos they turned up attests. I'm really glad I've got people around
+  to keep me in line.
+
+  ----------
+  - cccmar -
+  ----------
+
+  The Blue Crystal Rod is a game I didn't have on my radar, but after playing
+  it I can say I'm glad I did. It's an interesting, rather experimental
+  choose-your-own-adventure style book with nearly 50 endings, a part of the
+  Tower of Druaga series. Each playthrough is short, but they all add up. The
+  endings vary significantly in terms of tone/content. Overall, I quite enjoyed
+  it, but if you play it - know that one playthrough is far from enough. The
+  variation makes it worth revisiting multiple times, though perhaps it's best
+  to play it in increments. There weren't many games of the kind back in the
+  day; I certainly cannot think of any with this many potential routes. So, I
+  hope those of you playing will have a good time discovering the mysteries of
+  the game!
+
+  ---------------
+  - Oddoai-sama -
+  ---------------
+
+  This was my first exposure to the Tower of Druaga series which I knew nothing
+  about prior to this project.
+
+  The CYOA style caught my interest and the setting quickly grew on me, so I
+  ended up being very thorough with my playthrough just to see what each journey
+  had to offer across endings.
+
+  I'm still surprised this entry even exists considering its predecessors but
+  the genre difference makes it no less entertaining, despite the repetitiveness
+  of each playthrough.
+
+  Between the in-game guide and a smart use of saves, dealing with so many
+  endings wasn't so bad and I had plenty of fun clearing the whole game!
+
+                    ****************************************
+                    *          VI. Special Thanks          *
+                    ****************************************
+
+Special thanks to バキューブＪｒ． for creating a very helpful Japanese fanpage for
+this game (https://ocn1.net/bacube/oldgame_p2/oldgame44/blue_crystal_rod_01.html),
+which was used as a reference during the creation of this translation.
+Information in the in-game help menu about the generic route to cross the Desert
+of Death when the real route isn't available was taken from this site.
+
+                    ****************************************
+                    *         VII. Version History         *
+                    ****************************************
+
+v1.0 (04 Apr 2025): Initial release.

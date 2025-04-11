@@ -6,7 +6,7 @@
 *Famicom Jump: Heroes History*
 ******************************
 
-For those who don't know, Famicom Jump: Heroes History is the first of a long line of game series that combines characters from multiple anime/manga series into one single world.  This game was released in time to celebrate Weekly Shonen Jump's 20th anniversary, so characters from various manga series at the time were included here in one virtual world.  (That means no One Piece, Yu-Gi-Oh! or Naruto.)
+For those who don't know, "Famicom Jump: Heroes History" is the first of a long line of game series that combines characters from multiple anime/manga series into one single world.  This game was released in time to celebrate Weekly Shonen Jump's 20th anniversary, so characters from various manga series at the time were included here in one virtual world.  (That means no One Piece, Yu-Gi-Oh! or Naruto.)
 
 You play the role of a boy who was sucked into a Jump Magazine and is immersed in "Jump World".  You must save "Jump World" from Piccolo Daimaou and gather sixteen heroes from within "Jump World".  (If you don't give your character a name, he will be automatically named "Hash".  That's because in the original ROM, the default character name was "Hashimoto".  It was shortened to "Hash" due to ROM limitations.)
 
@@ -14,26 +14,17 @@ Patching Instructions:
 
 The patch comes in two flavors...
 
-Famicom Jump - Heroes History (English).ips
+Famicom Jump - Heroes History (English v1.03).ips
 --This patch requires a clean an unaltered "Famicom Jump: Eiyuu Restuden" ROM (IPS Format)
-Famicom Jump - Heroes History (English).bps
+Famicom Jump - Heroes History (English v1.03).bps
 --This patch requires a clean an unaltered "Famicom Jump: Eiyuu Restuden" ROM (BPS Format)
 
-Be sure to use either patch on an NES ROM (393,232 bytes) with a header.  Where to find said ROM is up to you.  I cannot tell you where to look for it.
+Be sure to use either IPS or BPS patch on a ROM with the following hashes.  (Don't use both patches.)
 
-The ROM has to have the following hashes:
-
-File SHA-1: F73E9D46D01B32E6B85BD2A468356B0F55BDA8EA
-File CRC32: B91AFCAF
+File SHA-1: FC99B28E592ABD17AF7D9F4CC0A5F0F12442888B
+File CRC32: 80B4C1DE
 ROM SHA-1: 31F5C7E3E4219134CD67E15E7C7B1B2CE4A4A2EC
 ROM CRC32: D343C66A
-
-After applying either patch, it should have the following hashes:
-
-File SHA-1: 3D7717E729D44CC9970FE6BB66DD435C694F9EF9
-File CRC32: FEC788C
-ROM SHA-1: D2C4A7FCAA7D7394A699A11F56A56046E28F7E11
-ROM CRC32: 65B54249
 
 What has been translated?
 
@@ -53,7 +44,7 @@ Initial release
 
 v1.01
 
-The following edits were made into the game's script
+The following edits were made into the game's text
 
 1.  All references to "hono machine" has been changed to "reality machine"
 2.  Fixed Saeko's line to read, "But he's a bit of a pervert."
@@ -77,6 +68,19 @@ The following edits were made into the game's script
 20.  Added credit to Carvey210 for "Bug Reporting"
 21.  Fixed text in both "Saki Station" and "Muda Station"
 
+v1.02
+
+The following edits were made into the game's text
+
+1.  Fixed line spoken by Kenichi (Moeru! Oniisan)
+2.  Fixed line spoken by Cancer Deathmask (Saint Seiya)
+3.  Changed "evading" to "dodging" in text leading to Saga fight
+4.  Fixed text leading to Kiku Fight mini-game
+5.  Fixed Cavery210's name in end credits
+
+v1.03
+
+The translation patch will now work on the Mesen/Mesen2 emulator
 
 Special Thanks:
 
@@ -87,6 +91,7 @@ phonymike (ASM Hacking needed in some parts of the game)
 Gideon Zhi (ASM Hacking needed in some parts of the game)
 cccmar (Beta Testing)
 Cavery210 (Bug reporting)
+scum (Bug fix to ROM's header)
 Baka-Updates (used this site to research manga titles)
 Dragon Ball Wiki (used this to research Dragon Ball characters)
 Doctor Slump Wiki (used this to research Doctor Slump characters)
